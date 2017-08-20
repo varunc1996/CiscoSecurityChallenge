@@ -1,0 +1,559 @@
+UPPERSAFE - The comfort of being safe
+
+
+
+
+
+
+
+
+			{
+				"@context": "http://schema.org",
+				"@type": "Organization",
+				"name": "UPPERSAFE",
+				"url": "http://uppersafe.com",
+				"sameAs": [
+					"https://www.twitter.com/uppersafe",
+					"https://www.facebook.com/uppersafe",
+					"https://www.google.com/+uppersafe",
+					"https://www.youtube.com/c/uppersafe",
+					"https://www.linkedin.com/company/uppersafe",
+					"https://www.yelp.com/biz/uppersafe-la-tour-de-salvagny"
+				]
+			}
+		
+
+
+
+
+
+
+
+
+
+
+
+UPPERSAFE
+
+
+
+Access my account
+
+
+
+
+		$(function () {
+			$(window).on("load resize", function (event) {
+				$("#header").find(".responsive.hidden").each(function (index) {
+					var that = this;
+					
+					$(that).css({"display": $(".logo").parent().parent().height() == 60 && $(".logo").parent().parent().width() == 60 ? "block" : "none"});
+				});
+			});
+			$("#header").find(".nolimitvpn").each(function (index) {
+				var that = this;
+				var family = $(that).attr("data-font-family");
+				var size = $(that).attr("data-font-size");
+					
+				$(that).css({"font": "400" + " " + size + "px" + "/" + size + "px" + " " + "'" + family + "'"});
+			});
+		});
+	
+
+
+
+
+
+
+
+
+
+
+
+You are not anonymous and secure
+
+
+
+
+HOME
+
+
+UPPERBOX
+
+
+PLANS
+
+
+FEATURES
+
+
+GUIDES
+
+
+HELP
+
+
+CONTACT
+
+
+BUSINESS
+
+
+
+
+
+		$(function () {
+			$(window).on("load resize", function (event) {
+				if ($("#navbar").find(".dot").width() == 40) {
+					$("#navbar").unstick().sticky().sticky("update");
+				}
+				if ($("#navbar").find(".dot").width() != 40) {
+					$("#navbar").unstick();
+				}
+			});
+		});
+	
+
+
+
+
+Discover the comfort of being safe
+Do not worry anymore about your security, let our service take care of your protection
+
+
+
+Free trial
+
+
+
+
+
+
+
+
+Compatible with all your devices
+A universal protection for your computers, tablets, smartphones, cameras, etc.
+
+
+
+		$(function () {
+			$(window).on("load", function (event) {
+				$("#topic").find("[data-src]").each(function (index) {
+					var that = this;
+					
+					$(that).attr("src", $(that).attr("data-src"));
+					$(that).width(Math.round($(that).parent().width() - 40));
+					$(that).height(Math.round($(that).width() / 16 * 9));
+				});
+				$("#topic").find("[data-dyn-text]").each(function (index) {
+					var that = this;
+					
+					$(that).typed({
+						"strings": [$(that).attr("data-dyn-text")],
+						"showCursor": false,
+						"startDelay": 5000
+					});
+				});
+			});
+		});
+	
+
+
+
+
+ 166 000 new phishing victims every month, protect yourself now with UPPERSAFE.
+
+
+
+		$(function () {
+			$("#alert").find(".content").each(function (index) {
+				var that = this;
+				var visibility = true;
+				var fps = 60;
+				var margin = $(that).width() - $(that).width() / 2 + $(that).children().width() / 2;
+				var offset = $(that).width() - $(that).width() / 2 + $(that).children().width() / 2;
+				var fn = function () {
+					offset = Math.abs(offset) >= margin ? margin - 100 / fps : offset - 100 / fps;
+					$(that).css({"display": visibility ? "block" : "none", "width": "100%", "margin": "0", "margin-left": offset + "px"});
+				};
+				
+				fn();
+				setInterval(fn, 1000 / fps);
+				$(window).on("load resize", function (event) {
+					visibility = visibility && $("#alert").find(".msg").parent().height() == 20 ? true : false;
+				});
+			});
+		});
+	
+
+
+
+
+
+
+
+
+
+Preserve your privacy
+Become anonymous on the Internet and prevent hackers from spying on you through your cameras.
+
+
+
+
+
+
+
+
+
+Keep control of your devices
+Block cyber attacks and close the door to intruders on all your devices.
+
+
+
+
+
+
+
+
+
+Ensure your peace of mind
+Protect yourself from cyber threats and avoid the theft of your credit card or the theft of your identity.
+
+
+
+
+
+
+
+
+
+Prevent the hack of your files
+Secure your data and do not risk anymore to lose your memories or your documents.
+
+
+
+
+
+Free trial
+
+
+Learn more
+
+
+
+
+
+
+
+
+The best protection against hackers and new cyber threats
+We block several thousands attacks every day.
+
+
+
+
+
+
+
+
+
+
+Free trial
+
+
+Learn more
+
+
+
+
+		$(function () {
+			$("#insight").find(".chart.graph").each(function (index) {
+				var that = this;
+				var sort = function (a, b) {
+					return (b.yLabel - a.yLabel);
+				};
+				
+				Chart.Line(that.getContext("2d"), {
+					"data": {
+						"labels": ['01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31'],
+						"datasets": [
+							{
+								"label": "nbr_mg",
+								"lineTension": 0,
+								"borderWidth": 2,
+								"pointBorderWidth": 2,
+								"pointRadius": 4,
+								"pointHitRadius": 4,
+								"pointBorderWidth": 2,
+								"backgroundColor": "rgba(32, 128, 192, 0.25)",
+								"pointBackgroundColor": "rgba(32, 128, 192, 1.00)",
+								"pointHoverBackgroundColor": "rgba(255, 255, 255, 1.00)",
+								"borderColor": "rgba(32, 128, 192, 1.00)",
+								"pointBorderColor": "rgba(255, 255, 255, 1.00)",
+								"pointHoverBorderColor": "rgba(32, 128, 192, 1.00)",
+								"data": ['83640','56678','28119','26899','30377','24516','29571','31197','22786','24707','29323','41184','39755','25939','31886','34428','27114','28408','15189','21318','18945','19816','22005','18377','22804','23578','22981','26907','19807','38288','41541']
+							}
+						]
+					},
+					"options": {
+						"legend": {
+							"display": false
+						},
+						"layout": {
+							"padding": {
+								"top": 40,
+								"right": 40,
+								"bottom": 0,
+								"left": 0
+							}
+						},
+						"hover": {
+							"mode": "index",
+							"intersect": false,
+							"animationDuration": 0
+						},
+						"tooltips": {
+							"mode": "index",
+							"intersect": false,
+							"caretSize": 8,
+							"xPadding": 8,
+							"yPadding": 8,
+							"bodySpacing": 8,
+							"position": "nearest",
+							"backgroundColor": "#000000",
+							"itemSort": sort,
+							"callbacks": {
+								"title": function () {},
+								"label": function (element) {return (" " + element.yLabel);}
+							}
+						},
+						"scales": {
+							"xAxes": [
+								{
+									"ticks": {
+										"display": true,
+										"fontColor": "#FFFFFF",
+										"beginAtZero": true
+									},
+									"gridLines": {
+										"display": true,
+										"color": "#222222",
+										"zeroLineColor": "#222222"
+									},
+									"scaleLabel": {
+										"display": true,
+										"fontColor": "#AAAAAA",
+										"labelString": "Day of the last month"
+									}
+								}
+							],
+							"yAxes": [
+								{
+									"ticks": {
+										"display": true,
+										"fontColor": "#FFFFFF",
+										"beginAtZero": true
+									},
+									"gridLines": {
+										"display": true,
+										"color": "#222222",
+										"zeroLineColor": "#222222"
+									},
+									"scaleLabel": {
+										"display": true,
+										"fontColor": "#AAAAAA",
+										"labelString": "Number of attacks blocked"
+									}
+								}
+							]
+						}
+					}
+				});
+			});
+		});
+	
+
+
+
+
+How does it work?
+Our firewall ensures you an efficient protection against cyber threats.
+It blocks everything that could be dangerous for your devices and prevents the hack of your data.
+Our VPN creates a secure tunnel between your devices and our service.
+It encrypts your web browsing and all your communications.
+It also makes you anonymous on the Internet to protect your privacy.
+
+
+
+
+
+
+
+
+
+
+
+Free trial
+
+
+
+
+		$(function () {
+			var count = 0;
+			var fn = function () {
+				$("#schema").find(".animation").each(function (index) {
+					var that = this;
+					
+					$(that).css({"display": index == count % 4 ? "block" : "none"});
+				});
+				count = count + 1;
+			};
+			
+			fn();
+			setInterval(fn, 1000);
+		});
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some reviews about UPPERSAFE
+Contact us to submit a new review.
+
+
+
+
+
+Peace of mind when I'm in airports or hotels! It's easy to configure and the service offers a really good protection.
+
+
+
+Steve HALFMANN
+
+
+
+
+Innovative and efficient protection service. The support team is professional and very helpful, thank you!
+
+
+
+Peter CLARK
+
+
+
+
+Great protection solution, very fast and reliable. I definitely recommend this service!
+
+
+
+Jonathan SMITH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Streaming on demand
+
+
+
+
+Referral program
+
+
+
+
+Firewall reports
+
+
+
+
+Resellers
+
+
+
+
+Terms of use
+
+
+
+
+Privacy policy
+
+
+
+
+Press release
+
+
+
+
+Blog
+
+
+
+
+
+
+
+
+
+
+2017 © UPPERSAFE - All rights reserved

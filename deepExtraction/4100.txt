@@ -1,0 +1,680 @@
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	 ga('create', 'UA-104194-3', 'auto');
+	 ga('send', 'pageview');
+	
+	
+	WebMoney — Universal Payment System
+	
+	
+	
+	
+	
+	
+ 		window.WM = window.WM || {};
+ 		window.WM.lang = 'en';
+ 	
+ 
+   body{visibility:hidden;}
+   article,aside,details,figcaption,figure,footer,header,hgroup,hr,menu,nav,section{display:block}a,hr{padding:0}abbr,address,article,aside,audio,b,blockquote,body,canvas,caption,cite,code,dd,del,details,dfn,div,dl,dt,em,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,p,pre,q,samp,section,small,span,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,ul,var,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}ins,mark{background-color:#ff9;color:#000}body{line-height:1}nav ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}a{margin:0;font-size:100%;vertical-align:baseline;background:0 0}ins{text-decoration:none}mark{font-style:italic;font-weight:700}del{text-decoration:line-through}abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}table{border-collapse:collapse;border-spacing:0}hr{height:1px;border:0;border-top:1px solid #ccc;margin:1em 0}input,select{vertical-align:middle} 
+ 	
+ 	
+
+
+
+
+
+
+
+
+
+
+	
+		Sign Up
+		Log In
+	
+	Description
+	
+	
+				In Brief
+					
+	
+	
+				Purse Types
+					
+	
+	
+				Purse management
+				
+		
+						Keeper Standard
+									
+		
+		
+						Keeper WinPro
+									
+		
+		
+						Keeper WebPro
+									
+		
+		
+						Keeper Mobile
+									
+		
+		
+						Keeper for social networks
+									
+		
+		
+						E-NUM
+									
+			
+	
+	
+				System Fees
+					
+	
+	
+				Statistics
+				
+		
+						Statistics by year
+									
+			
+	
+	
+				Security and Privacy
+					
+		Legal Information
+	
+	
+				WebMoney Transfer Code
+					
+	
+	
+				Transfer
+					
+	
+	
+				AML Agreement
+					
+	
+	
+				Guarantors
+				
+		
+						Agreement on WMZ
+									
+		
+		
+						Agreement on WMR
+									
+		
+		
+						Agreement on WME
+									
+		
+		
+						Agreement on WMG
+									
+		
+		
+						Agreement on WMX
+									
+		
+		
+						Agreement on WMB
+									
+		
+		
+						Agreement on WMU
+									
+		
+		
+						Agreement on WMK
+									
+			
+	
+	
+				Credit Service Agreement
+					
+	
+	
+				Warning
+					
+	
+	
+				For exchange offices
+					
+		System Subjects
+	
+	
+				Owner and Administrator
+					
+	
+	
+				Guarantors
+					
+	
+	
+				Verification Centre
+					
+	
+	
+				Registrars
+					
+	
+	
+				Developer
+					
+		Personal
+	
+	
+				Get a loan
+				
+		
+						Debt service 
+									
+		
+		
+						Loan service
+									
+		
+		
+						Credit exchange
+									
+			
+		Business
+	
+	
+				Accept payments
+				
+		
+						Collection of donations 
+									
+		
+		
+						For freelancers 
+									
+		
+		
+						For online stores
+									
+		
+		
+						For Online Services and Projects
+									
+		
+		
+						For games and apps developers
+									
+			
+		Top-up\Withdraw
+	
+	
+				Top-up
+					
+	
+	
+				Withdraw
+					
+		Support
+	
+	
+				Financial Support
+					
+	
+	
+				Technical support
+					
+	
+	
+				Official requests
+					
+	
+	
+				Social networks
+					
+	
+	
+				Press Centre
+					
+		Help
+	
+	
+				For beginners
+				
+		
+						Registration
+									
+		
+		
+						Filing complaints
+									
+		
+		
+						Passport
+									
+		
+		
+						Limits
+									
+		
+		
+						Fundraising
+									
+		
+		
+						Deposit/Withdrawal Method
+									
+			
+	
+	
+				Technical
+				
+		
+						Control
+									
+		
+		
+						Bank cards
+									
+		
+		
+						Payment systems
+									
+		
+		
+						Receiving payments
+									
+		
+		
+						Automats
+									
+		
+		
+						Secure Limits
+									
+			
+	
+	
+				Financial
+				
+		
+						Search of Payments
+									
+		
+		
+						Transaction history
+									
+		
+		
+						Loan defaults in the Debt service
+									
+		
+		
+						System use for the legal persons
+									
+		
+		
+						Exchange Operations
+									
+			
+	
+	
+				General
+				
+		
+						Recovering control
+									
+		
+		
+						Verification of Contacts
+									
+		
+		
+						Changing BL
+									
+		
+		
+						Termination of Service
+									
+		
+		
+						Prohibited Activities
+									
+		
+		
+						Delete WMID
+									
+		
+		
+						Change of registration data
+									
+		
+		
+						When purse is blocked
+									
+			
+		For Developers
+	
+	
+				API: Program interfaces
+					
+	
+	
+				Logos and corporate style
+					
+		Cooperation
+	
+	
+				Partnership program of the Verification Center
+					
+	
+	
+				Future system Guarantor
+					
+	
+	
+				Credit Organizations 
+					
+	
+	
+				For exchange offices
+					
+	
+	
+				Selling of WM-cards
+					
+	
+	
+				For Sellers, Merchants
+					
+	
+	Usage of trademarks WEBMONEY and WEBMONEY TRANSFER by site owners is authorized by the trademark owners.
+	Copyright WebMoney © 1998.
+
+
+	Русский
+	Español
+	Português
+	Türk
+
+
+
+
+
+	
+
+	
+	
+	  
+	    
+	  
+	
+	
+	
+		
+			
+				
+					
+						
+						
+						
+						
+							Find information
+							Find goods
+							Find how to top-up/withdraw
+							Find in Wiki
+							Ask virtual agent
+						
+					
+				
+				
+					Sign Up
+					Log In
+				
+				
+					
+						
+							
+							WMID: {wmid}
+        				
+        				
+    				
+				
+			
+		
+		
+		
+		
+		
+	
+
+10.4.148.135
+
+
+
+
+   
+     
+       
+        
+     
+     
+         
+        
+            
+          
+            
+          
+            	
+          
+            		
+          
+             Sign Up
+          
+          
+          
+          Log In
+          
+          
+            	
+          
+            
+          
+         
+          
+         
+          
+					
+          Universal
+				  
+          payment system
+				 
+          
+          
+					  
+          
+						
+          
+				 
+          
+          
+          
+          
+						
+          
+              
+          
+								
+          OS X
+							
+          
+							
+          
+								
+          Windows
+							
+          
+							
+          
+								
+          BlackBerry
+							
+          
+						
+          
+				  
+          
+          
+          
+   
+          
+	 
+          
+         
+          
+
+
+
+
+	
+
+
+
+		
+
+
+
+
+	
+Universal payment system
+	
+
+	
+
+
+
+
+
+Our services
+
+
+
+	
+		Personal
+		
+			Top-up
+			Pay
+			Withdraw
+			Get a loan
+			Raise funds
+		 
+	
+
+
+
+	
+		Business
+		
+			Accept payments
+			Make payments
+			Budget management
+			Work management
+			Secure transaction
+		
+	
+
+
+
+	
+		
+			
+				Business network
+				    
+	                  Business partnership 
+	                  and project management
+	                  events.wmtransfer.com
+	                
+				
+				News
+				Developers
+			
+		
+	
+	
+		
+			
+				cooperation
+				press centre
+				contacts
+			
+			For all questions contact us via support.wmtransfer.com
+		
+		
+			Usage of trademarks WEBMONEY and WEBMONEY TRANSFER by site owners is authorized by the trademark owners.
+			Copyright WebMoney © 1998-2017.
+			
+				
+					English
+					
+						
+							Русский
+							Español
+							Português
+							Türk					
+						
+					
+				
+			
+		
+	
+ 
+      
+     
+    
+ 
+    
+      
+          
+       
+      
+          
+      
+      
+          
+         
+    
+  
+ 
+  
+    
+      
+        cooperation		 
+      
+      
+        press centre  
+      
+      
+        contacts   
+          
+    
+      
+      
+    
+      
+        Русский
+		Español
+		Português
+		Türk	
+      
+      
+      
+    
+  
+    
+      © 1998–2017, WebMoney

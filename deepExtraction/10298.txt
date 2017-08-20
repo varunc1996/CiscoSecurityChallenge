@@ -1,0 +1,362 @@
+HYIPs Search - HYIPs Ratings
+
+
+
+
+
+
+
+
+
+  
+    
+      
+    
+    
+      Advertise your banner here | Expires: 2017-08-28
+
+    
+  
+  
+    
+      
+      
+      
+      
+    
+    
+      Home Page
+      New Listing
+      All RCB Program
+      All RCB Request
+      Add Program
+      Add Banner
+      Member Area
+      Registration
+      Contact us
+    
+    
+      
+      
+      
+      
+    
+  
+  
+
+
+
+Payinvest0.9% - 1% hourly for 120 hours, 3%－4% hourly for 72 hours$5/Week | Expires: 2017-08-28
+
+
+Your Ad Here
+Your Program Description$5/Week | Available Now!
+
+
+Your Ad Here
+Your Program Description$5/Week | Available Now!
+
+
+Your Ad Here
+Your Program Description$5/Week | Available Now!
+
+
+Hour888 Ltd1.49%-1.60% Hourly for 70 hours, 2.18%-2.80% Hourly for 50 hours, 11%-15% Hourly for 20 hours$5/Week | Expires: 2017-08-28
+
+
+  
+       
+      
+        
+        
+        
+        
+      
+      MONITOR STATISTICS
+      Top 10 Profitable
+
+Top 10 Monitored
+
+Last Payout
+
+Latest Votes
+
+Lastest Scam
+      
+      
+        
+        
+        
+        
+      
+    
+      
+      
+        
+        
+        
+        
+      
+      Advertise
+          Cost of Ad - $2    Expires: 2017-08-28
+
+Cost of Ad - $2    Expires: 2017-08-28
+
+Place AD Here - $2
+
+Place AD Here - $2
+
+Place AD Here - $2
+
+Place AD Here - $2
+
+Place AD Here - $2
+
+Place AD Here - $2
+
+Place AD Here - $2
+
+
+      
+        
+        
+        
+        
+      
+    
+    
+      
+        
+        
+        
+        
+      
+      New Listing
+      
+        Aug 17th, 2017
+HourBalance Limited     WAITING        1.49%-1.60% Hourly for 70 hours, 2.18%-2.80% Hourly for 50 hours, 11%-15% Hourly for 20 hours
+Aug 16th, 2017
+Still Forex LTD     WAITING        103% - 130% after 1 day, 117% - 275% after 5 days,125% - 370% after 7 days, 155% - 700% after 15 days
+Aug 12th, 2017
+Voguecraze     WAITING        2.85% hourly for 36 hours, 4.30% hourly for 24 hours, 8.84 % hourly for 12 hours
+Hour Profit Ltd     WAITING        1.11%-1.22% Hourly for 4 days, principal included 2.78%-4.06% Hourly for 2 days, principal included 9%-13% Hourly for 1 day, principal included
+Vortex10     WAITING        1.09%- 1.11% Hourly for 96 hours, 11.3% Daily for 10 days
+Aug 10th, 2017
+Famous Btc     WAITING        1.08%-1.45% hourly for 96 hours,108%-120% after 1 day,180%-300% after 3 days,5%-8% hourly for 24 hours
+      
+      
+        
+        
+        
+        
+      
+    
+    
+      
+        
+        
+        
+        
+      
+      Payment System
+      
+
+PerfectMoney
+Payeer
+AdvCash
+Bitcoin
+OK Pay
+BankWire
+STP
+Payza
+PayPal
+Webmoney
+Neteller
+EgoPay
+GoCoin
+LiteCoin
+QiWi
+YandexMoney
+      
+        
+        
+        
+        
+      
+    
+  
+
+
+function checkform() {
+  if (document.mainform.username.value=='') {
+    alert("Please type your username!");
+    document.mainform.username.focus();
+    return false;
+  }
+  if (document.mainform.password.value=='') {
+    alert("Please type your password!");
+    document.mainform.password.focus();
+    return false;
+  }
+  return true;
+}
+
+
+
+
+User Login
+
+
+
+
+
+
+
+
+ Username:
+ 
+
+
+ Password:
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+Remind your login information
+
+    
+    
+    
+
+      
+        
+        
+        
+        
+      
+      Side Menu
+     
+          Home Page
+          New Listing
+          Top Listing
+          Gold Listing
+          Standard Listing
+          Trial Listing
+          Add Program
+          Add Banner
+          HYIPs News
+          Contact us
+    
+      
+        
+        
+        
+        
+    
+
+
+
+
+      
+        
+        
+        
+        
+      
+      Advertise
+      Place AD Here - $2
+
+
+      
+        
+        
+        
+        
+    
+
+     
+    
+      
+        
+        
+        
+        
+      
+      Our Logo
+      
+        Put this logo on your site!
+      
+      
+        
+        
+        
+        
+      
+    
+    
+      
+        
+        
+        
+        
+      
+      Partners
+      
+
+
+
+
+
+
+
+
+
+
+All Partners
+
+    
+
+      
+        
+        
+        
+        
+      
+    
+   
+      
+        
+        
+        
+        
+      
+      Visitor STATISTICS
+      
+
+      
+        
+        
+        
+        
+      
+    
+
+  
+   Copyright © 2016 by HYIPs Search -  All rights reserved
+DISCLAIMER: We do not own or promote any programs listed here. The information provided here is for your own use. 
+Some programs, investments or any listings here may be illegal depending on your country's laws. We do not recommend you to spend what you cannot afford to lose
+Home Page | SCAM Program | Add Program | Add Banner | Contact Us
+
+
+
+
+left_ads("http://hyips-search.com/advertise/ad/9/","http://hyips-search.com/images/125.png","Advertise your banner here","p")
+
+right_ads("http://hyips-search.com/goads/aid/10/id/3/","http://www.hour888.com/gctype/banner/125X125.gif","","p")

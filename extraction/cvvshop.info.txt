@@ -1,0 +1,199 @@
+MetaTrader 4/5 datacenters - Largest network of datacenters for your broker!
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/mt4proxy.com\/","name":"mt4proxy.com","potentialAction":{"@type":"SearchAction","target":"https:\/\/mt4proxy.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 960px) { .limit-width { max-width: 1200px; margin: auto;}}
+.menu-primary ul.menu-smart > li > a, .menu-primary ul.menu-smart li.dropdown > a, .menu-primary ul.menu-smart li.mega-menu > a, .vmenu-container ul.menu-smart > li > a, .vmenu-container ul.menu-smart li.dropdown > a { text-transform: uppercase; }
+.menu-primary ul.menu-smart ul a, .vmenu-container ul.menu-smart ul a { text-transform: uppercase; }
+
+
+
+
+
+
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	var disableStr = 'ga-disable-UA-68818703-1';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-68818703-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('require', 'linkid', 'linkid.js');
+	__gaTracker('send','pageview');
+
+
+
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/mt4proxy.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/mt4proxy.com\/basket\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var subscriptio_vars = {"confirm_pause":"Are you sure you want to pause this subscription?","confirm_resume":"Are you sure you want to resume this subscription?","confirm_cancel":"Are you sure you want to cancel this subscription?"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var SiteParameters = {"site_url":"https:\/\/mt4proxy.com\/","theme_directory":"https:\/\/mt4proxy.com\/wp-content\/themes\/uncode","days":"days","hours":"hours","minutes":"minutes","seconds":"seconds","constant_scroll":"on","scroll_speed":"2","parallax_factor":"0.25","loading":"Loading\u2026"};
+/* ]]> */
+
+
+
+
+ 
+
+
+
+
+
+	.woocommerce-product-gallery{ opacity: 1 !important; }
+	 .wpb_animate_when_almost_visible { opacity: 1; }
+
+			
+		
+		UNCODE.initBox();
+		
+													
+													
+														
+															
+																
+																	
+																		
+																			
+																		
+																		
+																	
+																	
+																		
+																			
+																				How it works
+Services
+Contact Us
+My account
+
+												
+													Cart
+								
+							
+							Your cart is currently empty
+														 							
+																		
+																	
+																
+															
+														
+													
+															UNCODE.fixMenuHeight();
+			
+				
+					
+						UNCODE.initHeader();
+						
+							
+											
+												
+												
+											
+										UNCODE.initRow(document.getElementById("script-137452"));We are a global network that handles your MetaTrader Data Center needs.
+Financial Brokers who deal in Stocks, Forex, or Binary Options often require renting or purchasing servers worldwide to provide their clients with better access to their trading services. This process can be a very costly one, and requires constant surveillance from your IT-savvy employees, in order to keep everything working up to date. At mt4proxy.com we will manage your Metatrader Data Center needs on your behalf, at an affordable price, hassle-free.
+Why spend your time checking for the best providers, researching servers with the lowest latency, or worrying about server disk space and other unforeseen technical problems, when we can do all of that for you instead?
+Simply sign up with us, receive a list of hostnames/IPs that we provide, add them to your MT4 Administrator application and get your MetaTrader 4 or MetaTrader 5 Data Centers closer to your clients.
+Faster, easier, better.
+MT4Proxy is a service that provides your clients with the best trading experience possible worldwide.
+UNCODE.initRow(document.getElementById("script-146123"));
+						
+					
+							
+						
+										
+						
+	  					
+								© 2017 mt4proxy.com All rights reserved
+							
+											
+									
+			
+		
+	
+		
+		
+		
+	
+		
+	  
+	
+
+
+	
+
+	
+
+
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-GB","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */

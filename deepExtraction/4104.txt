@@ -1,0 +1,1 @@
+NeoBuxif(top.location!=location){top.location.replace('about:blank');}Page not foundIf you believe that this is an errorjust refresh the page otherwiseclick the NeoBux Logo.

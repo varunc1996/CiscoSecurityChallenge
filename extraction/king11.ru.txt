@@ -1,0 +1,12 @@
+bestvalid.net - This website is for sale! - bestvalid Resources and Information.
+(function(){function a(a,b,d){a&&!c&&(c=!0,b===window.location.href&&(b="[rendered html]"),$.get("/log/jserr.php",{msg:a,file:b,line:d}),c=!1)}var c=!1;window.onerror=a;$(function(){window.onerror=a})})();
+
+		
+		var doLocRed = false;
+		var jsLocRed = function() {window.location = "http://ww1.bestvalid.net/search/redirect.php?f=http%3A%2F%2Finclk.com%2FadServe%2Ffeedclick%3Fs%3Dcks7EGDS8uGYeZa9bSBhnECBqlE6id-c0_OhHU8pfNfyYWAdJYTdNvCcyQThhbpWkpIKz3Mx58PUbP5lBvPXedPYJRP5l0KsCndjyJwuZZbbiHPPHol3G12f3NspFVp95e6A6czmb7zL5mFTZgYDXsZ_tLz8jWXLli-VOOk3ZIT05o9SHWq_W6i2vkV9fl-l4v8xxRLmm3XuLe3Z_2-rxRl8J6bq_ImJB6iPFENiQxA06emBCcXXOOw1I3LUx1EmNTsnUvGucoP4rAEJYOUXMNCzkZp-oI90ZZJCxAdeOqU&amp;v=YWQyYTk1YjU4Y2NkZWNhMWY0OGJiYThmZmYzMGU4YzQJMQl3dzEuYmVzdHZhbGlkLm5ldDU5OTkwYmJiZTRkYjQ1LjM2MjQwMjg2CXd3MS5iZXN0dmFsaWQubmV0NTk5OTBiYmJlNGUwZjkuMjU0MTYyMDMJMTUwMzIwMjIzNglhZF81Ml8w&amp;l=NglBRFMJYmZmMzVkYTU0Zjk0ZGNjYTJlNDU4ODY1YThhZDY0ZTUJMAkxMwkJMzEJMQkxCTAJNmJhMjA1YjQ1ZDlmNTA0NDQ3MWNmMzYyMTMxZjdmOTMJCTI1ODE1ODM0NgljCTAJCWJlc3R2YWxpZAkxMTAxCTUyCTUJNTkJMTUwMzIwMjIzNgk3LjBFLTUJTgkwCTAJMAkJCQkJCXd3MS5iZXN0dmFsaWQubmV0NTk5OTBiYmJlNGRiNDUuMzYyNDAyODYJMAkJMQk4MzAJMTI1OQkyNDQ4NzQwODEJCTc2LjEwMi4xNzEuMTg2"
+		}
+		if(doLocRed){jsLocRed();}
+		
+		
+
+$.ajax({ url: 'http://ww1.bestvalid.net/' + 's' + 'earch/tsc.php?200=MjU4MTU4MzQ2&21=NzYuMTAyLjE3MS4xODY=&681=MTUwMzIwMjIzNmNiNWE5Mzc0OWUxNjZkNTA0ZjI2NzMxZjAxZmUzMTA2&crc=ee153a2cc7cf2ae972c37ff609b74a9753ce8318&cv=1',success:jsLocRed});

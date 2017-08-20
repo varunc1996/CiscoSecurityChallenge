@@ -1,0 +1,108 @@
+LUCKYTRACK - Dumps, D+PIN, CVV, Usa Dumps, Credit Cards seller 
+
+
+   
+                Enable JavaScript in your browser
+              
+
+            
+
+     Toggle navigation          Home                                   
+                                    DUMPS                                   
+                                    CVV                                   
+                                    Billing                                   
+                                    Orders                                    Support                                   
+                                    Tutorial                                       
+                                 Profile   Rules   Logout           
+                                   
+ 
+
+    $(document).ready(function () {
+        if(!LocalStorageAdapter.getItem('referrer')) LocalStorageAdapter.setItem('referrer', document.referrer);
+        var target = $('body');
+        var promoCodeInput = target.find('#promo-code-value');
+        target.on("click", '#activate-promo-code-btn', function () {
+            var promoCodeInput = target.find('#promo-code-value');
+            var code = promoCodeInput.val().trim();
+            if(code===''){
+                App.instance.toast('Fail', 'Please, input promo-code', 'warning');
+                promoCodeInput.focus();
+                return;
+            }
+            Api.activatePromoCode(code)
+                .onDone(function () {
+                    App.instance.toast('Success', 'Promo-code successfully activated', 'success');
+                    $('#promo').modal('hide');
+                }).onFail(function () { promoCodeInput.focus(); })
+        });
+        var app = new App({"id":71,"title":"LUCKYTRACK","url":"luckytrack.shop","template":22,"logo":"","favicon":"","linkCode":"9AS"});
+        app.addEventListener('onContent',function (app, node) {  });
+        Auth.instance().addEventListener('onInfoReceived', function(auth){
+            App.instance.startChecking();
+            $('#user-name').text(auth.info.login);
+            $('#user-balance').text('$' + auth.info.balance);
+            if(!auth.info.discount) $("#discount-block").addClass("hidden");
+            $('.discount').text(auth.info.discount>0? 'Discount: -' + auth.info.discount+'%': '');
+            $('.user-balance-info').toggleClass('has-discount', auth.info.discount>0);
+            var totalCart = Cart.instance().getTotal();
+            $("#cart-balance").text(totalCart ? ' $' + totalCart: "Cart is empty");
+            Cart.instance().load();
+            NewsController.instance().startUpdating();
+        }).addEventListener('onLogout', function() {
+            App.instance.stopChecking();
+            NewsController.instance().stopUpdating();
+        }).authorized = false;
+
+        $('#logout').click(function () { Auth.instance().logout(); });
+        new MenuAdapter({menu: '.left-menu-inner', itemSelector: 'li', itemActiveClass: 'left-menu-list-active'}).run();
+        Navigation.instance()
+    .addState('/login/?', {state: {page: "login"}, template: '/22/login-l.php', controller: LoginPageController                })
+    .addState('/registration/?', {state: {page: "registration"}, template: '/22/registration-l.php', controller: RegistrationPageController                })
+    .addState('/news/?', {state: {page: "news"}, template: '/22/news.php', controller: NewsPageController                })
+    .addState('/shop/?', {state: {page: "shop"}, template: '/22/shop.html', controller: ShopPageController                })
+    .addState('/cc/?', {state: {page: "cc"}, template: '/22/cc-shop.html', controller: CCShopPageController                })
+    .addState('/billing(?:/(\\d+)/?)?/?', {state: {page: "billing"}, template: '/22/billing.html', controller: BillingPageController                })
+    .addState('/orders(?:/(\\d+)/?)?/?', {state: {page: "orders"}, template: '/22/orders.html', controller: OrdersPageController                })
+    .addState('/chat/?', {state: {page: "chat"}, template: '/22/chat.html', controller: ChatPageController                })
+    .addState('/basket/?', {state: {page: "basket"}, template: '/22/basket.html', controller: BasketPageController                })
+    .addState('/addbillingviabitcoin/?', {state: {page: "addbillingviabitcoin"}, template: '/22/billing12.php', controller: BillingBitcoinPageController                })
+    .addState('/addbillingviawestern/?', {state: {page: "addbillingviawestern"}, template: '/22/billing_western.html', controller: BillingWesternPageController                })
+    .addState('/rules/?', {state: {page: "rules"}, template: '/22/rules.php', controller: RulesPageController                })
+    .addState('/profile/?', {state: {page: "profile"}, template: '/22/profile.html', controller: ProfilePageController                })
+    .addState('/tutorial/?', {state: {page: "tutorial"}, template: '/22/tutorial.php', controller: TutorialPageController                })
+        .setNotAuthorizedDefaultPage('/login/')
+            .setDefaultPage('/news/')
+    ;
+        var newsCount = $('.news-count').addClass("label label-info pull-right hidden");
+        var cartCount = $('.cart-count').addClass("badge hidden js-cart-qty");
+        var ticketsCount = $('.tickets-count').addClass("badge hidden");
+        var cartBalance = $("#cart-balance");
+        var newsTarget = $(document).find('.news-container');
+        new ObservableCollectionBinding(NewsController.instance(). hots , newsTarget, function (news) { return NewsInstance.getSmallInstance(news); });
+        NewsController.instance().hots.addEventListener('onChangeVisual', function () {
+            newsTarget.removeClass(newsTarget.attr('class')).addClass('news-container news-'+NewsController.instance().hots.length);
+            newsCount.toggleClass('hidden', NewsController.instance().hots.length===0).removeClass('news-count');
+            setTimeout(function(){newsCount.addClass('news-count')}, 50);
+        });
+        Cart.instance().addEventListener('onChanged', function (cart, count) {
+            cartCount.toggleClass('hidden', count===0).text(count);
+            var totalCart = Cart.instance().getTotal();
+            cartBalance.text(totalCart ? '$'+  totalCart : "Cart is empty");
+        });
+        App.instance.addEventListener('onTicketsCountChanged', function (app, count) {
+            ticketsCount.toggleClass('hidden', count===0).text(count).removeClass('tickets-count');
+            setTimeout(function(){ticketsCount.addClass('tickets-count')}, 60);
+        }).addEventListener('onToast', function (app, toast) {
+            if(toast.type==='error') toast.type = 'danger';
+            $.notify({ title: '<strong>'+toast.title+'</strong>', message: toast.text },{ type: toast.type||'info' }).$ele.css('z-index', '1200').click(function () { if(toast.clickCallback instanceof  Function) toast.clickCallback(); });
+        }).addEventListener('onTransitionFinish', function(){ $('#page-loader').hide(); }).addEventListener('onTransitionStart', function(){ $('#page-loader').show(); });
+        app.start();
+    })
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-98014335-1', 'auto');
+  ga('send', 'pageview');

@@ -1,0 +1,150 @@
+Proxifier - Bypass firewall and proxy, tunnel connections through an HTTPS and SOCKS proxy
+
+
+
+
+
+
+
+
+
+  
+   
+     
+     
+    
+     
+     
+  
+   
+      
+         
+        
+           
+            Screenshots
+          
+           
+             
+              
+          
+           
+              
+           
+           
+            Latest 
+              News
+          
+          
+            
+			
+			April 11, 2017
+			  Proxifier for Mac v2.19
+			  
+			Update improves local system security.
+			
+			
+			January 12, 2017
+			  Proxifier for Mac v2.18
+			 Optional update to address a rare performance problem.
+			
+			
+			December 5, 2016
+			  Proxifier v3.31
+			  
+			Minor improvements for Standard Edition and compatibility fix for Portable.
+			
+			
+			October 26, 2016
+			  Proxifier for Mac v2.17
+			Stable support for macOS Sierra (10.12)
+			
+								  
+            
+            ...
+            
+          
+        
+        Welcome to the homepage of
+        The most advanced proxy client
+        
+          
+            Proxifier allows network applications that do not 
+          support working through proxy servers to operate through a SOCKS 
+          or HTTPS proxy  and chains.
+          
+        
+        
+          Work with any Internet client through a proxy.
+          Improve network performance or  ensure privacy. 
+          Flexible rule system.
+           Easy yet powerful  UI with live data.
+          
+            Up to date  with new technologies.
+          All  features and specifications.
+        
+        
+          
+             Downloads
+             Quick Start
+             Buy Now
+          
+        
+        
+          
+             
+          
+          
+            Proxifier v3 for Windows
+              One of the  most advanced proxy client for Windows.
+              
+                
+                  More than 10 years of experience.
+                  Always up  to date with the latest technologies including x64, IPv6 and Windows 10.
+                
+              
+              What's new in version 3.31
+              ProxifierSetup.exe (3.90 MB)
+ 
+          
+          
+            Proxifier  for Mac  v2
+              The new  generation of Proxifier is released for Mac OS X!
+              
+                
+                  Improved rule system, now including DNS wildcards.
+                  New network engine.
+                  Updated UI.
+                
+              
+              What's new in version 2.19
+              ProxifierMac.zip (2.30 MB)
+ 
+          
+          
+             Portable Edition
+              Portable 
+                Edition has most of Proxifier features while providing you with 
+                unique opportunities:
+              
+                Portable Edition requires no 
+                  installation and can be run from a removable media such 
+                  as USB stick.
+                No  admin rights are needed. Run from any user account.
+              
+               
+ProxifierPE.zip (2.87 MB)
+               
+          
+        
+         
+    
+  
+   
+     
+	
+	       Home | Documentation 
+          | Screenshots | Download 
+          | Order | Support | About
+        Copyright © 2002-2017 Initex Software. All rights 
+          reserved. 
+        Initex is in no way affiliated with UpsideOut; "Proxify" and "Proxifier"  are trademarks of UpsideOut, Inc.

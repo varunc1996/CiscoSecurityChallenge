@@ -1,0 +1,3307 @@
+MeHYIPS.Com - The Great Programs HYIP Monitor
+ 
+
+
+
+
+
+
+
+
+checkEmail = function(email) {
+  if (!email)
+  {
+    return 1;
+  }
+  else
+  {
+    a = email.indexOf('@');
+    b = email.indexOf('@', a+1);
+    c = email.lastIndexOf('.');
+    if (a == -1 || b != -1 || c <= a + 2 || a < 1 || c + 2 >= email.length || c + 5 < email.length)
+    {
+      return 2;
+    }
+  }
+  return 0;
+}
+
+startList = function() {
+      if (document.all&&document.getElementById) {
+            navRoot = document.getElementById("nav");
+            for (i=0; i<navRoot.childNodes.length; i++) {
+                  node = navRoot.childNodes[i];
+                  if (node.nodeName=="LI") {
+                        node.onmouseover=function() {this.className+=" over";}
+                        node.onmouseout=function() {this.className=this.className.replace(" over", "");}
+                  }
+            }
+      }
+}
+window.onload=startList;
+
+
+
+
+    function tick1(){
+        $('#breaking li:first').effect("slide", { direction: "left" }, 1100, 
+        function(){
+            setTimeout(function(){
+                $('#breaking li:first').hide("slide", { direction: "right" }, 1100, 		
+                function(){ 
+                    //$(this).hide();														
+                    $(this).appendTo($('#breaking')).hide(); 
+                    setTimeout(function(){tick1();},1);//next item
+                });
+            },3999);//delay				 
+        }
+    );		
+    }    
+    $(function() {
+        tick1 ();	 	
+    });
+ 
+    
+    
+    
+    
+  
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: "72967dcb-35a2-42c9-8744-9e47601e2da6",
+      autoRegister: true, /* Set to true to automatically prompt visitors */
+      subdomainName: 'https://mehyips.onesignal.com',
+      /*
+      subdomainName: Use the value you entered in step 1.4: http://imgur.com/a/f6hqN
+      */
+      httpPermissionRequest: {
+        enable: true
+      },
+      notifyButton: {
+          enable: true /* Set to false to hide */
+      }
+        
+    }]);
+     // Do NOT call init twice, use existing init
+OneSignal.push(["init", {
+  /* Your other settings, for example:
+       (e.g.) appId: '...' 
+     Place the following call on the outermost brace
+  */
+  safari_web_id: 'web.onesignal.auto.5d6ab6d2-4d0b-4ad8-b336-7f8ff3aff850'
+}]);
+      
+  
+    
+
+
+    
+
+    
+
+
+
+
+
+    
+    
+        
+  									  			  
+			    
+			       			        
+			       
+			      
+			       
+			       
+			    
+			  			  			  			    
+			    
+			       
+			       
+			    
+			  			  			  			    
+			    
+			       
+			       
+			    
+			  			  			  			    
+			    
+			       
+			       
+			    
+			  			  			    
+					
+       
+           
+              
+                 
+                    
+                        
+                        
+                        
+                            
+         
+                            
+                            
+                    
+                    
+                    
+                    
+                    
+    
+    
+    
+  
+    
+
+    
+ 
+    
+
+    
+        				
+    
+        Home      
+              ✚ Add Listing
+          Advertising  
+               
+           RCB Requests  
+        RCB System  
+                ✚ Get BONUS ✚
+        
+              LOGIN
+          Signup  
+                
+        ✉ Contact Us  
+        
+         
+         
+        
+        
+    
+        				
+    
+
+ 
+    
+
+        
+            TRENDING NOW
+        
+ 
+ 
+Welcome 
+to our Great Programs HYIP Monitor 
+...
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+      
+
+
+   
+      
+           
+         
+             
+                 
+          
+
+Last Payout
+
+
+  
+          
+   $7.40
+   Aurum Bank
+  
+          
+   $4.00
+   Royal-Mining
+  
+          
+   $6.80
+   Investellect
+  
+          
+   $5.00
+   Energy Cars Revolution
+  
+          
+   $3.67
+   ISEMISS
+  
+          
+   $3.00
+   XARRA
+  
+          
+   $2.00
+   TP FXP PRO
+  
+          
+   $1.00
+   Fat Funds
+  
+          
+   $3.90
+   Crypto Solutions
+  
+          
+   $4.07
+   Solid Trade Bank
+  
+          
+   $2.80
+   AVLLA LTD
+  
+          
+   $1.80
+   BTC Task LTD
+  
+          
+   $2.00
+   Crypto Unity Global
+  
+          
+   $1.00
+   New Tech Road
+  
+          
+   $1.00
+   Respectativa
+  
+  
+ 
+              
+          
+                   
+                 
+         
+                     
+        
+              WE PAY 0.10% DAILY FOR ALL YOUR RECEIVED RCB FROM OUR MONITOR FOREVER     
+                    
+                     
+        
+                     
+                     
+                     
+
+ 
+
+          
+         
+     
+     
+     
+   
+
+
+          
+         
+     
+     
+     
+   
+
+
+          
+         
+     
+     
+     
+   
+
+
+
+
+
+
+      
+        
+     
+
+
+       
+    
+         
+             
+        Top RCB
+
+
+  
+   Royal-Mining
+      3000%
+  
+  
+   CRYP TRADE CAPITAL
+      2100%
+  
+  
+   Aurum Bank
+      1500%
+  
+  
+   ISEMISS
+      1500%
+  
+  
+   XARRA
+      1500%
+  
+  
+   New Tech Road
+      1200%
+  
+  
+   Respectativa
+      1200%
+  
+  
+   Fat Funds
+      1000%
+  
+  
+   Crypto Unity Global
+      1000%
+  
+  
+   Bitbots Ltd
+      1000%
+  
+  
+   TP FXP PRO
+      900%
+  
+  
+   Investellect
+      600%
+  
+  
+   Energy Cars Revolution
+      500%
+  
+  
+   AVLLA LTD
+      500%
+  
+  
+   Bit Lake
+      500%
+  
+
+             
+         
+    
+    
+                 
+
+
+          
+          
+  
+    
+
+
+ 
+
+    NEW
+    PROJECT
+
+
+    
+     
+    LISTING
+      Premiere On TOP
+      Excellent
+      Business
+        Standart
+      On Hold
+      Scam List
+               
+        
+            
+            
+            
+        
+     
+    
+    
+ 
+
+
+
+
+
+
+ 
+ 
+
+ 
+  PREMIERE ON TOP - STICKY
+    
+ 
+ 
+
+
+
+    
+
+Aurum Bank
+    
+    
+        Monitored: 118 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $100.00
+    Min Invest: 10
+    Max Invest: No Limit
+    Referral: from 0.5%
+  
+       
+ 
+
+
+    Lifetime: 118 days
+    Added: Apr 24th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM  RMMG               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   18
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 1,500%
+
+ 
+ 
+Plans: 0.8%-17% daily, for 260-15 trading days;  6500%-400% after 110-20 trading days
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+
+
+
+ 
+  EXCELLENT
+    
+ 
+ 
+
+
+
+    
+
+Royal-Mining
+    
+    
+        Monitored: 97 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $200.00
+    Min Invest: 10
+    Max Invest: No Limit
+    Referral: 5%
+  
+      
+ 
+
+
+    Lifetime: 97 days
+    Added: May 15th, 2017
+    Withdrawal: 
+                                       Instant                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   12
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 3,000%
+
+ 
+ 
+Plans: 1-1.3% DAILY FOR LIFETIME
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+CRYP TRADE CAPITAL
+    
+    
+        Monitored: 58 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $200.00
+    Min Invest: 50
+    Max Invest: 20000
+    Referral: 7 to 0,5%
+  
+      
+ 
+
+
+    Lifetime: 310 days
+    Added: Jun 23rd, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   4
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 2,100%
+
+ 
+ 
+Plans: 0.59-0.99% daily
+    
+       
+    
+
+    
+    LAST PAID:  Jul 31st, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+
+
+
+ 
+  BUSINESS
+    
+ 
+ 
+
+
+
+    
+
+Investellect
+    
+    
+        Monitored: 92 days
+         
+    
+ 
+   4%
+   
+         
+      
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 10
+    Max Invest: 50000
+    Referral: 2
+  
+      
+ 
+
+
+    Lifetime: 886 days
+    Added: May 20th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   11
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 600%
+
+ 
+ 
+Plans: 1.0% Daily for 30 Days, 1.2% Daily for 60 Days, 1.4% Daily for 120 Days, 600% After 60 Days, 1700% After 120 Days, 320% After 18 Days, 960% After 38 Days.
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+Energy Cars Revolution
+    
+    
+        Monitored: 73 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $100.00
+    Min Invest: 10
+    Max Invest: 50000
+    Referral: 1
+  
+       
+ 
+
+
+    Lifetime: 74 days
+    Added: Jun 8th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   9
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 500%
+
+ 
+ 
+Plans: 1% DAILY FOR 100 DAYS (Principal Back)
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+ISEMISS
+    
+    
+        Monitored: 71 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $100.00
+    Min Invest: 10
+    Max Invest: 1000
+    Referral: 1
+  
+    
+ 
+
+
+    Lifetime: 71 days
+    Added: Jun 10th, 2017
+    Withdrawal: 
+                                       Instant                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   12
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 1,500%
+
+ 
+ 
+Plans: 1% daily for 10 days (Principal Back)
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+XARRA
+    
+    
+        Monitored: 68 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $100.00
+    Min Invest: 10
+    Max Invest: 35000
+    Referral: 1
+  
+       
+ 
+
+
+    Lifetime: 68 days
+    Added: Jun 13th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   8
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 1,500%
+
+ 
+ 
+Plans: 1% daily for 100 days (principal back)
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+
+
+
+ 
+  STANDART
+    
+ 
+ 
+
+
+
+    
+
+TP FXP PRO
+    
+    
+        Monitored: 164 days
+         
+    
+ 
+   45%
+   
+         
+      
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 10
+    Max Invest: 50000
+    Referral: 1%
+  
+      
+ 
+
+
+    Lifetime: 293 days
+    Added: Mar 9th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   38
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 0%
+
+ 
+ 
+Plans: 101% - 108% after 1 day, 106% - 141% after 5 days, 119%－224% after 15 days
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+Crypto Solutions
+    
+    
+        Monitored: 125 days
+         
+    
+ 
+   %
+   
+         
+      
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 20
+    Max Invest: 200
+    Referral: 6%
+  
+      
+ 
+
+
+    Lifetime: 499 days
+    Added: Apr 17th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   18
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 200%
+
+ 
+ 
+Plans: 1.5% Daily For 30 Days
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+Solid Trade Bank
+    
+    
+        Monitored: 124 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 25
+    Max Invest: 100000
+    Referral: 1%
+  
+       
+ 
+
+
+    Lifetime: 1414 days
+    Added: Apr 18th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM  RMMG               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   17
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 100%
+
+ 
+ 
+Plans: 0.5% for 20 business days
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+AVLLA LTD
+    
+    
+        Monitored: 66 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 1
+    Max Invest: 50
+    Referral: 1-2%
+  
+      
+ 
+
+
+    Lifetime: 66 days
+    Added: Jun 15th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM                 
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   7
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 500%
+
+ 
+ 
+Plans: 110% after 5 Days. Profit: 10%
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+Fat Funds
+    
+    
+        Monitored: 145 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 5
+    Max Invest: 25000
+    Referral: 10%
+  
+       
+ 
+
+
+    Lifetime: 146 days
+    Added: Mar 28th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     MMG               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   117
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 1,000%
+
+ 
+ 
+Plans: 2.10% daily for 100 days
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+Bitbots Ltd
+    
+    
+        Monitored: 12 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 10
+    Max Invest: 500,000
+    Referral: 6%
+  
+      
+ 
+
+
+    Lifetime: 12 days
+    Added: Aug 8th, 2017
+    Withdrawal: 
+                                       Instant                                                                                       
+        Forum:
+        
+        
+     TG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   35
+  
+  
+   1
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 1,000%
+
+ 
+ 
+Plans: 1.55% hourly for 68 hours, 2.84% hourly for 44 hours , 11.36% Hourly for 22 hours
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+New Tech Road
+    
+    
+        Monitored: 19 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 20
+    Max Invest: 50000
+    Referral: 7
+  
+       
+ 
+
+
+    Lifetime: 19 days
+    Added: Aug 1st, 2017
+    Withdrawal: 
+                                       Instant                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   3
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 1,200%
+
+ 
+ 
+Plans: 1-5 days: 2.1%; 6-10 days: 2.3%; 11-15 days: 2.5%; 16-20 days: 2.7%; 21-30 days
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+Crypto Unity Global
+    
+    
+        Monitored: 19 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 10
+    Max Invest: 50000
+    Referral: 5
+  
+       
+ 
+
+
+    Lifetime: 19 days
+    Added: Aug 1st, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   2
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 1,000%
+
+ 
+ 
+Plans: 7% Daily for 30 Days, 150% AFTER 1 DAY, 340% AFTER 4 DAYS
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+Bit Lake
+    
+    
+        Monitored: 12 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 0.001 BTC
+    Max Invest: 50 BTC
+    Referral: 5-1%
+  
+    
+ 
+
+
+    Lifetime: 13 days
+    Added: Aug 8th, 2017
+    Withdrawal: 
+                                       Instant                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   3
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 500%
+
+ 
+ 
+Plans: 10% - 15% Daily for life
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+Respectativa
+    
+    
+        Monitored: 19 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Paying
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 10
+    Max Invest: 50000
+    Referral: 7% - 2% -1%
+  
+        
+ 
+
+
+    Lifetime: 23 days
+    Added: Aug 1st, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   1
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 0%
+
+ 
+ 
+Plans: 0% - 11% daily for 12 days; 112% -115% after 7 days
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+
+
+
+ 
+  ON HOLD
+    
+ 
+ 
+
+
+
+    
+
+JadeValley
+    
+    
+        Monitored: 45 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Problem
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 10
+    Max Invest: 250
+    Referral: 1%
+  
+     
+ 
+
+
+    Lifetime: 184 days
+    Added: Jul 6th, 2017
+    Withdrawal: 
+                                       Manual                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM  RMMG               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   3
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 500%
+
+ 
+ 
+Plans: 1% daily for unlimited - Principal Withdrawal Fee 30%
+    
+       
+    
+
+    
+    LAST PAID:  Jul 20th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+    
+
+BTC Task LTD
+    
+    
+        Monitored: 20 days
+         
+    
+ 
+   %
+   
+       
+            
+            
+            
+  
+
+ 
+
+
+
+ 
+  
+  Problem
+        
+ 
+    
+  
+
+
+
+    Invested: $50.00
+    Min Invest: 10
+    Max Invest: 100000
+    Referral: 1-2-3
+  
+       
+ 
+
+
+    Lifetime: 20 days
+    Added: Jul 31st, 2017
+    Withdrawal: 
+                                       Instant                                                                                       
+        Forum:
+        
+        
+     TG  MMG  DTM               MMGP    
+    
+    
+
+
+  
+
+ 
+  
+    
+  
+   2
+  
+  
+   0
+  
+  
+   0
+  
+  
+   0
+    
+
+
+
+  
+    
+        
+    
+    
+        HM
+        AM
+        RU
+        M    
+    
+        $
+        
+        
+        Z
+        
+      
+    Request RCB 250%
+
+ 
+ 
+Plans: 7% - 16% Hourly For 15 Hours / 103% - 218% After 1 Day / 110% - 285% After 3 Days
+    
+       
+    
+
+    
+    LAST PAID:  Aug 11th, 2017
+        
+    
+    More Info
+    Vote Now
+    Payouts
+    Report Scam
+    Button
+    
+    Add
+        Remove
+    
+                
+        
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     
+
+
+     
+     
+
+
+Support us on 
+
+      
+
+   
+        
+    
+        
+          
+        
+          
+         
+           
+         
+           
+         
+          
+         
+          
+         
+         
+         
+    
+          
+    
+        
+            
+         
+                
+             TELEGRAM CHAT
+        
+        
+     
+        
+
+
+
+
+
+Online Support 
+
+
+    
+        
+        E-mail: admin@mehyips.com
+        Skype: live:admin_102514
+        Telegram: @MeHyipsCom
+
+ 
+ 
+Our Visitors 
+
+
+    
+    
+    
+    
+Live Traffic Stats
+    
+        
+
+ 
+	
+	 
+Top Investors
+
+
+  
+  
+      1. Allcool
+      
+          $501.00
+  
+  
+      2. allexandr
+      
+          $450.00
+  
+  
+      3. komissar
+      
+          $315.00
+  
+  
+      4. pilot2014
+      
+          $213.00
+  
+  
+      5. Yura
+      
+          $202.00
+  
+  
+      6. spv7707
+      
+          $179.00
+  
+  
+      7. valeo
+      
+          $176.00
+  
+  
+      8. Luci
+      
+          $160.00
+  
+  
+      9. Mari_gmy
+      
+          $149.00
+  
+  
+      10. nicks
+      
+          $137.00
+  
+  
+      11. Metamorfozzz
+      
+          $121.00
+  
+  
+      12. a3at
+      
+          $121.00
+  
+  
+      13. Atka
+      
+          $118.00
+  
+  
+      14. magicshlong
+      
+          $117.00
+  
+  
+      15. AnnP68
+      
+          $105.00
+  
+  
+      16. sergius
+      
+          $104.00
+  
+  
+      17. Matrix4ever
+      
+          $100.00
+  
+  
+      18. valikboss
+      
+          $97.00
+  
+  
+      19. radinmial
+      
+          $91.00
+  
+  
+      20. ilnurok
+      
+          $88.00
+  
+
+
+
+
+
+
+Top Monitored
+
+
+  
+  
+   TP FXP PRO
+   164 days
+  
+  
+   Fat Funds
+   145 days
+  
+  
+   Crypto Solutions
+   125 days
+  
+  
+   Solid Trade Bank
+   124 days
+  
+  
+   Aurum Bank
+   118 days
+  
+  
+   Royal-Mining
+   97 days
+  
+  
+   Investellect
+   92 days
+  
+  
+   Energy Cars Revolution
+   73 days
+  
+  
+   ISEMISS
+   71 days
+  
+  
+   XARRA
+   68 days
+  
+
+
+Last Votes
+
+
+    
+   Aug 19th, 2017
+  
+      
+   
+   Bitbots Ltd
+  
+      
+   
+   Bitbots Ltd
+  
+      
+   Aug 18th, 2017
+  
+      
+   
+   Fat Funds
+  
+      
+   
+   Fat Funds
+  
+      
+   
+   Bitbots Ltd
+  
+      
+   
+   Bitbots Ltd
+  
+      
+   
+   Bitbots Ltd
+  
+      
+   
+   Bitbots Ltd
+  
+      
+   
+   Bitbots Ltd
+  
+      
+   Aug 17th, 2017
+  
+      
+   
+   Fat Funds
+  
+  
+  
+
+ Payment System
+
+
+  
+  
+  PerfectMoney
+ 
+  
+  
+  PAYEER
+ 
+  
+  
+  OkPay
+ 
+  
+  
+  BitCoin
+ 
+  
+  
+  AdvCash
+ 
+  
+  
+  QIWI
+ 
+  
+  
+  Yandex
+ 
+  
+  
+  NixMoney
+ 
+  
+  
+  AlertPay
+ 
+  
+  
+  SolidTrustPay
+ 
+  
+  
+  BankWire
+ 
+  
+  
+  PayPal
+ 
+  
+  
+  Payza
+ 
+  
+  
+  PexPay
+ 
+  
+  
+  SWIFT
+ 
+
+Last Scams
+
+
+  
+      
+   BTC Invest Pro  
+  
+   
+  
+      
+   Bitxin LTD  
+  
+   
+  
+      
+   Rapida Company  
+  
+   
+  
+      
+   BTC Axis LTD  
+  
+   
+  
+      
+   BITCOIN-PURPLE LTD  
+  
+   
+  
+      
+   Ganpart  
+  
+   
+  
+      
+   Brason Investment Ltd.  
+  
+   
+  
+      
+   Crypto Balance  
+  
+   
+  
+      
+   OC247 World Corp  
+  
+   
+  
+      
+   CMETrades Limited  
+  
+   
+
+    
+
+
+
+
+
+ 
+    
+Sticky Banner
+
+
+
+
+       
+
+
+
+
+
+       
+
+
+
+				      				   
+High Tower Ads
+
+
+
+     
+          
+     
+
+
+
+		
+    
+Our Logo
+
+
+
+
+    
+
+ Partners
+
+
+
+    
+    
+    
+    
+     
+    <!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t26.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+//-->
+    
+			   
+
+		   
+ 	 	 	
+	
+	   
+ 
+
+
+    
+
+
+
+    Navigate 
+        
+            Home
+                      News
+            Add program
+            Banners & Ads
+            Articles
+            Directory
+            Partners
+            Support
+            LOGIN
+            FREE Signup
+
+
+
+
+
+We're Social 
+        
+            
+            
+            
+            
+            
+            
+        
+
+
+Terms & Conditions 
+         Please read the following Terms and Conditions carefully  before using MeHyips.com website. This is an agreement between you and us, which governs your use of our site. By using this site, you signify your agreement to these Terms and Conditions. If you do not agree to these Terms and Conditions, do not use this site. MeHyips.com may modify these Terms and Conditions at anytime.
+      
+
+
+    Link & Forum  
+        
+            
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+            
+        
+
+
+
+    Disclimer:  
+         We are not admin of projects which presented here. We do not own or promote any programs listed here, The information provided here is for your own use. Some programs, investments or any listings here may be illegal depending on your country's laws. Please keep in mind that all HYIPs investments are highly risky. We do not recommend you to spend what you cannot afford to lose.
+        
+
+
+
+
+
+
+    
+
+    
+        
+   
+ 
+Copyright © 2016 − 2017 MeHYIPS.com  
+by: MeHYIPS.com | All rights reserved.
+ 
+    
+
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/580f0fa42d3b34065180bc2b/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();

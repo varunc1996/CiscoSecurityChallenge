@@ -1,0 +1,446 @@
+coxonoil.com - All HYIP Monitors - allmon.biz
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	//<![CDATA[
+	  (function() {
+		var shr = document.createElement('script');
+		shr.setAttribute('data-cfasync', 'false');
+		shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+		shr.type = 'text/javascript'; shr.async = 'true';
+		shr.onload = shr.onreadystatechange = function() {
+		  var rs = this.readyState;
+		  if (rs && rs != 'complete' && rs != 'loaded') return;
+		  var site_id = 'a560503dd1cd7278d7dd9ded8637618a';
+		  try { Shareaholic.init(site_id); } catch (e) {}
+		};
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(shr, s);
+	  })();
+	//]]>
+	
+
+
+
+	
+	
+		
+				
+				
+		
+	
+	
+
+
+	
+	
+	
+	
+
+
+
+
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+
+
+
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+
+
+	Latest Added :: 
+	Most Popular :: 
+	Fast Growing :: 
+	Marked ( 0 ) :: 
+	Add Banner :: 
+
+	Add Monitor :: 
+	Login :: 
+	
+All Monitors :: 
+Contact Us
+
+
+
+			45 DAYS Mark
+			coxonoil.com
+			ADDED: Thursday, July 06, 2017
+			Additional Information:
+				Search In Google, 
+				Alexa Traffic Rank,
+				Domain Information	
+			
+		
+		
+		
+			
+				Vote: 
+				 
+				 
+				 
+					
+				
+			
+		
+		
+		
+		
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+				
+				
+					
+					
+					
+					
+					
+					
+				
+				[ + ] zoom
+				
+			
+			
+			
+			<a href="http://allmon.biz/index.php?key=https://coxonoil.com/ref/hyiptank" target="_blank"><img src="http://allmon.biz/img/allmon_main.png" border="0" width="120" height="70" /></a>
+			
+			
+			
+
+
+
+
+
+
+
+
+Add Your Banner
+
+
+DISCLAIMER: We do not own or promote any programs listed here.The information provided here is for your own use.Some programs, investments or any listings here may be illegal depending on your country's laws.We do not recommend you spend what you cannot afford to lose.
+
+
+
+
+document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));
+
+try {Histats.start(1,2240450,4,0,0,0,"");
+Histats.track_hits();} catch(err){};
+
+
+
+
+
+
+var needpop = 1;
+
+var vc_cn = "jot9843504";
+var vc_url = "http://trusthyip.com";
+if (readCookie(vc_cn)) {
+needpop = 0;
+}else{
+needpop = 1;
+}
+var PopWidth = 200;
+var PopHeight = 200;
+var PopTargetingMethod = 100;
+var PopUseDivLayer = 1;
+var RTSDomain = vc_url;
+var debugDomain = vc_url;
+var Page_Popped = false;
+var Page2_Popped = false;
+var Page_Loaded = false;
+var Page_Enter;
+var MySiteDomain = window.location.href.split('/');
+if (needpop == 1) {
+InitPop()
+}
+function InitPop() {
+Page_Enter = new Date();
+if (window.captureEvents) {
+window.captureEvents(Event.CLICK);
+window.onclick = LoadStandardPop
+} else document.onclick = LoadStandardPop
+}
+function SiteEnter() {
+Page_Loaded = true
+}
+function createCookie(name, value, days) {
+if (days) {
+var date = new Date();
+date.setTime(date.getTime()+(2*90*90*1000));
+var expires = "; expires=" + date.toGMTString()
+} else var expires = "";
+document.cookie = name + "=" + value + expires + "; path=/";
+}
+function readCookie(name) {
+var ca = document.cookie.split(';');
+var nameEQ = name + "=";
+for (var i = 0; i < ca.length; i++) {
+var c = ca[i];
+while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length)
+}
+return null
+}
+function RetrieveCount() {
+var cookieName = vc_cn;
+var popSuccesses = readCookie(cookieName);
+if (popSuccesses != null) popSuccesses = parseInt(popSuccesses);
+else popSuccesses = 0;
+return popSuccesses
+}
+function IncrementCount() {
+var cookieName = vc_cn;
+var popSuccesses = readCookie(cookieName);
+if (popSuccesses != null) createCookie(cookieName, parseInt(popSuccesses) + 1, 1);
+else createCookie(cookieName, 1, 1)
+}
+function LoadStandardPop() {
+if (Page_Popped == true) return;
+var pLoaded = false;
+if (window.SymRealWinOpen) {
+open = SymRealWinOpen
+}
+if (window.NS_ActualOpen) {
+open = NS_ActualOpen
+}
+var pxLeft = 0;
+var pxTop = 0;
+if (screen.width > 0 && screen.height > 0) {
+pxLeft = (screen.width / 2) - (PopWidth / 2);
+pxTop = (screen.height / 2) - (PopHeight / 2) - 50;
+if (pxLeft < 0) pxLeft = 0;
+if (pxTop < 0) pxTop = 0
+}
+pLoaded = open(vc_url, '', 'toolbar=1,scrollbars=1,location=1,statusbar=1,men ubar=1,resizable=1,top=' + pxTop + ',left=' + pxLeft + ',width=' + PopWidth + ',height=' + PopHeight);
+if (pLoaded) {
+Page_Popped = true;
+IncrementCount()
+} else {
+Page_Popped = true;
+if (Page_Loaded) initAdLayer();
+else XBrowserAddHandlerPops(window, "load", "initAdLayer")
+}
+window.focus()
+}
+
+ 
+Code Center

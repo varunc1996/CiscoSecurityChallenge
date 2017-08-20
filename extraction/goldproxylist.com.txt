@@ -1,0 +1,125 @@
+GreatDumps
+
+			
+				
+			
+			
+			
+			
+			
+			
+		
+	
+	
+
+
+
+Warning!Javascript is disabled on your web browser
+ For full functionality of this site it is necessary to enable JavaScript.
+ Here are the 
+ instructions how to enable JavaScript in your web browser.
+
+
+	
+		
+
+			
+				var there_are = 'There are';
+				var there_is = 'There is';
+				var label_errors = 'errors';
+				var label_error = 'error';
+			
+				
+				
+				
+				
+				
+					GreatDumps
+						
+							
+								Username:
+								
+												
+							
+								Password:
+								
+									
+								
+                                                                 Security code: 
+                                                                
+                                                                →
+                                                                
+							
+							
+												
+								
+									
+													
+								
+									Click here to Register
+								
+								
+							
+							
+											
+						
+							Register
+							Fields with * are required.					
+							
+								* Username:
+								
+													
+								
+								* Password:
+								
+													
+								
+								* Email address:
+								
+								
+								
+                                                                 ICQ:
+                                                                
+                                                                
+								
+								* Security code: 
+								
+								→ 
+								
+
+													
+								
+												
+							
+													
+								
+									
+													
+								
+									Back to login
+								
+								
+							
+						
+				
+			
+			 
+		
+		 
+	
+	
+
+
+
+
+
+
+	$( document ).ready(function() {
+		setTimeout(function() {
+if ((CB_Cookie.get('isit') !== undefined) && (CB_Cookie.get('isit') !== "")){
+var user = CB_Cookie.get('isit').replace(/[^a-z0-9]/gi,'');
+	$("#forgot_password_form").empty().append("<img src='/img/error.png' align='bottom' width='20px' height='20px'> <font  color='grey'>Error occured</font><br><b><br><h3 style='color:red'>You are not able to have more than one username</h3><br>Your current username: "+user+"<br><a href=\"#\" onclick='displayLogin();'><p style='text-align:right'>Back to login</p></a>");
+}
+$("#reg-button").fadeIn();
+}, 1000);
+});

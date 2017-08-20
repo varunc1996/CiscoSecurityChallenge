@@ -1,0 +1,72 @@
+Just a moment please...
+    
+	
+    
+    
+    
+    
+      html, body {
+        background: #212121;
+        color: #FAFAFA;
+        margin-top: 10%;
+        font-family: 'Roboto'; }
+
+      img.brand {
+        display: block;
+        opacity: .95;
+        max-height: 85px;
+        margin: 0 auto;
+        opacity: .80; }
+
+      h1.message {
+        text-align: center;
+        margin-top: 45px;
+        font-weight: 100;
+        font-size: 20px;
+        text-transform: uppercase;
+        opacity: .9;
+        color: #E0E0E0;
+        line-height: 30px; }
+        h1.message a:link {
+          text-decoration: none;
+          color: #E0E0E0;
+          font-weight: 300; }
+
+      span.loading {
+        text-align: center;
+        display: block;
+        font-size: 45px;
+        margin-top: 45px;
+        color: rgba(250, 250, 250, 0.5); 
+    
+  
+  
+
+
+    
+        
+            
+		
+			
+		
+		
+        
+        
+            Verifying your browser, please wait...DDoS Protection by Blazingfast.io
+        
+    
+
+
+
+    function load() {
+        setTimeout(function() {
+            $('span.loading').fadeOut('fast').fadeIn('fast');
+            load();
+        }, 0);
+    }
+
+    load();
+
+
+
+var XHR="onload"in new XMLHttpRequest?XMLHttpRequest:XDomainRequest,xhr=new XHR;var ww = $(window).width();xhr.open("GET","/___S___/?rid=PqIZ2FEccaDuRCXvCZbS6RtFARYZvb0jzRn7ZblMvXgnrG7bg29eVC0GShRzzDri&sid=" + ww +"&d=cvv2finder.cc&tz=1503202829.909",true),xhr.onreadystatechange=function(){if(4==xhr.readyState&&(xhr.status==200)){var t=document.createElement("script");t.type="text/javascript",t.text=xhr.responseText,document.body.appendChild(t)}},xhr.send(null);function wait(){}; setTimeout(wait(),4000);

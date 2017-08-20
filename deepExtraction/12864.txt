@@ -1,0 +1,130 @@
+AddThis Social Bookmarking Sharing Button Widget
+
+
+
+
+
+
+
+
+
+at_noxld=1;addthis_pub="";addthis_onload = [ function() { document.getElementById("service-filter").focus(); } ];addthis_url="";addthis_title="";
+var services = {  'aim':"AOL Lifestream", 'amazonwishlist':"Amazon", 'bitly':"Bit.ly", 'blogmarks':"Blogmarks", 'digg':"Digg", 'diigo':"Diigo", 'facebook':"Facebook", 'faves':"Fave", 'google':"Google Bookmark", 'hatena':"Hatena", 'linkedin':"LinkedIn", 'meneame':"Meneame", 'netvibes':"Netvibes", 'netvouz':"Netvouz", 'newsvine':"Newsvine", 'nujij':"Nujij", 'reddit':"Reddit", 'stumbleupon':"StumbleUpon", 'thisnext':"ThisNext", 'tumblr':"Tumblr", 'twitter':"Twitter", 'myspace':"Myspace", 'livejournal':"LiveJournal", 'gmail':"Gmail", 'hotmail':"Outlook", 'yahoomail':"Yahoo Mail", 'aolmail':"AOL Mail", 'googletranslate':"Google Translate", 'blogger':"Blogger", 'wordpress':"WordPress", 'typepad':"Typepad", 'yammer':"Yammer", 'oknotizie':"OKNOtizie", 'oyyla':"Oyyla", 'favoritus':"Favoritus", 'startaid':"Startaid", 'svejo':"Svejo", 'symbaloo':"Symbaloo", 'yoolink':"Yoolink", 'youmob':"YouMob", 'n4g':"N4G", 'folkd':"Folkd", 'evernote':"Evernote", 'stumpedia':"Stumpedia", 'studivz':"studiVZ", 'email':"Email", 'pusha':"Pusha", 'wykop':"Wykop", 'kledy':"Kledy", 'plurk':"Plurk", 'citeulike':"CiteULike", 'care2':"Care2", 'baidu':"Baidu", 'printfriendly':"PrintFriendly", 'sodahead':"SodaHead", 'viadeo':"Viadeo", 'amenme':"Amen Me!", 'virb':"Virb", 'bizsugar':"BizSugar", 'bobrdobr':"Bobrdobr", 'smiru':"SMI", 'stuffpit':"Stuffpit", 'fabulously40':"Fabulously40", 'yorumcuyum':"Yorumcuyum", 'hackernews':"Hacker News", 'bonzobox':"BonzoBox", 'meinvz':"meinVZ", 'visitezmonsite':"Visitez Mon Site", 'memori':"Memori.ru", 'diggita':"Diggita", 'linkuj':"Linkuj.cz", 'tuenti':"Tuenti", 'informazione':"Fai Informazione", 'startlap':"Startlap", 'moemesto':"Moemesto.ru", '100zakladok':"100zakladok", 'domaintoolswhois':"Whois Lookup", 'quantcast':"Quantcast", 'w3validator':"HTML Validator", 'hedgehogs':"Hedgehogs", 'cosmiq':"COSMiQ", 'instapaper':"Instapaper", 'ziczac':"ZicZac", 'adifni':"Adifni", 'favable':"FAVable", 'camyoo':"Camyoo", 'mailto':"Email App", 'box':"Box", 'bookmarkycz':"Bookmarky.cz", 'bookmerkende':"Bookmerken", 'posteezy':"Posteezy", 'zakladoknet':"Zakladok.net", 'douban':"Douban", 'pdfmyurl':"PDFmyURL", 'sinaweibo':"Sina Weibo", 'rediff':"Rediff MyPage", 'markme':"Markme", 'naszaklasa':"Nasza-klasa", 'vybralisme':"vybrali SME", 'mymailru':"Mail.ru", 'qzone':"Qzone", 'vk':"Vkontakte", 'xing':"XING", 'fashiolista':"Fashiolista", 'newsmeback':"NewsMeBack", 'iorbix':"iOrbix", 'urlaubswerkde':"Urlaubswerk", 'mrcnetworkit':"mRcNEtwORK", 'pafnetde':"pafnet.de", 'spinsnap':"SpinSnap", 'technerd':"Communicate", 'thefreedictionary':"FreeDictionary", 'yuuby':"Yuuby", 'adfty':"Adfty", 'draugiem':"Draugiem.lv", 'historious':"historious", 'indexor':"Indexor", 'voxopolis':"VOXopolis", 'memonic':"Memonic", 'kaixin':"Kaixin Repaste", 'odnoklassniki_ru':"Odnoklassniki", 'zingme':"ZingMe", 'jappy':"Jappy Ticker", 'vkrugudruzei':"vKruguDruzei", 'stylishhome':"FabDesign", 'kindleit':"Kindle It", 'scoopit':"Scoop.it", 'govn':"Go.vn", 'skyrock':"Skyrock Blog", 'ketnooi':"Ketnooi", 'taringa':"Taringa!", 'researchgate':"ResearchGate", 'blogkeen':"Blogkeen", 'mendeley':"Mendeley", 'qrsrc':"QRSrc.com", 'bland':"Bland takkinn", 'sharer':"WebMoney", 'safelinking':"Safelinking", 'cleanprint':"CleanPrint", 'surfingbird':"Surfingbird", 'lidar':"LiDAR Online", 'buffer':"Buffer", 'beat100':"Beat100", 'cssbased':"CSS Based", 'yookos':"Yookos", 'supbro':"SUP BRO", 'google_plusone_share':"Google+", 'apsense':"APSense", 'cleansave':"CleanSave", 'openthedoor':"OpenTheDoor", 'advqr':"ADV QR", 'pocket':"Pocket", 'margarin':"mar.gar.in", 'gg':"GG", 'thefancy':"Fancy", 'mixi':"Mixi", 'wishmindr':"WishMindr", 'financialjuice':"Financial Juice", 'myvidster':"myVidster", 'exchangle':"Exchangle", 'wanelo':"Wanelo", 'hootsuite':"Hootsuite", 'whatsapp':"WhatsApp", 'internetarchive':"Wayback Machine", 'foursquare':"Foursquare", 'flipboard':"Flipboard", 'retellity':"Retellity", 'nurses_lounge':"Nurses Lounge", 'yummly':"Yummly", 'viber':"Viber", 'edcast':"EdCast", 'slack':"Slack", 'skype':"Skype", 'houzz':"Houzz", 'weheartit':"We Heart It", 'google_classroom':"Google Classroom", 'renren':"Renren", 'tencentweibo':"Tencent Weibo", 'lineme':"LINE", 'kakao':"Kakao", 'telegram':"Telegram", 'balatarin':"Balatarin", 'pinboard':"Pinboard", 'diary_ru':"Diary.ru", 'trello':"Trello", 'wechat':"WeChat", 'tencentqq':"Tencent QQ", 'messenger':"Facebook Messenger", 'cloob':"Cloob", 'facenama':"Facenama", 'sms':"SMS", 'atavi':"Atavi", 'onenote':"OneNote" };
+var addthis_config = { ui_use_same_window: true, ui_window_panes: true, product: 'max-300'};
+
+var addthis_share = { url: '', title: ''
+};
+addthis_product="max-300";
+
+
+
+
+
+
+
+
+if (typeof(_ate)!=='undefined') { addthis_ab="-"; if ("-" !== '-') _ate.uid="-"; _ate.sid="-"; }
+function omc(svc){if (window._ate && window._ate.track) _ate.track.cev('sto',escape(svc));return true;}
+function rhv (o) { o.className = o.className.replace('athov', ''); }
+function shv (o) { if (o.className.indexOf("athov") == -1) o.className += ' athov'; };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            >Share
+            
+        
+    
+    
+        Sharing Service Filter
+		
+    
+
+
+    
+        100zakladokAdftyAdifniADV QRAmazonAmen Me!AOL LifestreamAOL MailAPSenseAtaviBaiduBalatarinBeat100Bit.lyBizSugarBland takkinnBloggerBlogkeenBlogmarksBobrdobrBonzoBoxBookmarky.czBookmerkenBoxBufferCamyooCare2CiteULikeCleanPrintCleanSaveCloobCommunicateCOSMiQCSS BasedDiggDiggitaDiigoDoubanDraugiem.lvEdCastEmailEmail AppEvernoteExchangleFabDesignFabulously40FacebookFacebook MessengerFacenamaFai InformazioneFancyFashiolistaFAVableFaveFavoritusFinancial JuiceFlipboardFolkdFoursquareFreeDictionaryGGGmailGo.vnGoogle BookmarkGoogle TranslateHacker NewsHatenaHedgehogshistoriousHootsuiteHouzzHTML ValidatorIndexorInstapaperiOrbixJappy TickerKaixin RepasteKakaoKetnooiKindle ItKledyLiDAR OnlineLINELinkedInLinkuj.czLiveJournalMail.rumar.gar.inMarkmemeinVZMemonicMemori.ruMendeleyMeneameMixiMoemesto.rumRcNEtwORKMyspacemyVidsterN4GNasza-klasaNetvibesNetvouzNewsMeBackNewsvineNujijOdnoklassnikiOKNOtizieOneNoteOpenTheDoorOutlookOyylapafnet.dePDFmyURLPinboardPlurkPocketPosteezyPrintFriendlyPushaQRSrc.comQuantcastQzoneRedditRediff MyPageRenrenResearchGateRetellitySafelinkingScoop.itSina WeiboSkypeSkyrock BlogSlackSMISMSSodaHeadSpinSnapStartaidStartlapstudiVZStuffpitStumbleUponStumpediaSUP BROSurfingbirdSvejoSymbalooTaringa!TelegramTencent QQTencent WeiboThisNextTrelloTuentiTumblrTwitterTypepadUrlaubswerkViadeoViberVirbVisitez Mon SiteVkontaktevKruguDruzeiVOXopolisvybrali SMEWaneloWayback MachineWe Heart ItWebMoneyWeChatWhatsAppWhois LookupWishMindrWordPressWykopXINGYahoo MailYammerYookosYoolinkYorumcuyumYouMobYummlyYuubyZakladok.netZicZacZingMe    
+    
+        No matching services.
+    
+
+    
+
+
+
+
+    
+        
+            Website Tools
+            Sharing Buttons
+            Follow Buttons
+            Recommended Content
+            Targeting Tools
+            Plans & Pricing
+        
+        
+            Plugins
+            Social Buttons
+            WordPress Social Plugins
+            Browser Extensions
+        
+        
+            Learn
+            Blog
+            Academy
+            Support
+        
+        
+            Opt Out of Targeted Advertising
+            
+                About
+                Careers
+                Contact
+                Privacy
+                Terms of Service
+            
+            Copyright © 2017, Oracle and/or its affiliates. All rights reserved.Oracle and Java are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners.
+        
+    
+
+
+
+
+
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-1170033-1', 'auto');
+ga('send', {
+  hitType: 'pageview',
+  page: location.pathname
+});
+
+
+
+
+// fix for fixed positioned elements for iphone/ipad
+if(navigator.platform && (navigator.platform == 'iPad' || navigator.platform == 'iPhone' || navigator.platform == 'iPod')) {
+    document.getElementById("header").style.position = "static";
+    document.getElementById("footer").style.position = "static";
+    document.getElementById("content").style.paddingTop = "0px";
+};

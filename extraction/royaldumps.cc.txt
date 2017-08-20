@@ -1,0 +1,377 @@
+(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+Free VPN
+
+
+
+		
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/freevpn.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.9"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+		
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33436724-16', 'auto');
+  ga('send', 'pageview');
+
+
+
+  
+    
+      
+      
+        
+          
+	    Menu
+Home1
+Why Free VPN™?2
+What is a Free VPN™?3
+About Free VPN .org4
+Do not connect without Protection5
+FAQ6
+Download7
+            
+          
+        
+      
+    
+  
+
+  
+    
+              
+          
+
+            
+	      	      
+              
+                
+                  
+                    Defend your right to privacy online
+                    What you do on your phone is your business, and we’re here to keep it
+that way. Free of charge and faster than ever.
+                    
+                  
+                
+              
+            
+
+
+            
+	      	      
+              
+                
+                  
+                    Defend your right to privacy online
+                    What you do on your phone is your business, and we’re here to keep it
+that way. Free of charge and faster than ever.
+                    
+                  
+                
+              
+            
+
+          
+          
+            
+              
+              	
+		  
+		    		    
+		  
+		
+                
+                	
+						  
+			    
+			    			      
+			    
+			  
+						  
+			    
+			    			      
+			    
+			  
+						  
+			    
+			    			      
+			    
+			  
+			                    
+                
+              
+            
+          
+        
+        
+          
+            
+              Why Free VPN™?
+            
+            
+              
+                
+		  		      
+			
+			
+			  Secure Connection
+			  Safely access Wi-Fi, LTE, 3G and personal hotspots.
+
+			
+		      
+		  		      
+			
+			
+			  Public Wi-Fi Protection
+			  Personal information, passwords and embarrassing texts are safe at last.
+
+			
+		      
+		  		      
+			
+			
+			  Complete Anonymity
+			  Your IP address is hidden, protecting your identity and location.
+
+			
+		      
+		  		      
+			
+			
+			  Encrypted Data
+			  Data is fully encrypted before transmission for an added layer of protection.
+
+			
+		      
+		  		
+              
+                
+		  		      
+			
+			
+			  Top Speed
+			  Slow down your internet connection? That’s not our style.
+
+			
+		      
+		  		      
+			
+			
+			  Fully Automated
+			  No manual activation needed. Free VPN™ runs for you.
+
+			
+		      
+		  		      
+			
+			
+			  Totally Agnostic
+			  Works on all Wi-Fi connections and mobile data carriers.
+
+			
+		      
+		                  
+              
+              
+		    		    
+	      
+            
+          
+        
+        
+          
+            
+              
+		    		    
+	      
+              
+                
+                  What is Free VPN™
+                
+		Free VPN™ allows you to safely and anonymously connect to any network and access any app or site anywhere.
+Anytime you use the web on your phone, Free VPN™ first redirects your data to a secure network and then encrypts it before transmission. We also hide your IP address so your location is un detectable. Whether you want to unblock YouTube or use as a shield proxy when surfing, your data, identity, and location are secure.
+                Still have questions? 
+              
+            
+          
+        
+        
+          
+            
+              
+		    		    
+	      
+              
+                
+                  About Free VPN .org
+                
+		Free VPN™ is an amazing service. As our name suggests, we exist to create an amazing VPN that is unrestricted and simple.   All built to make your mobile life affordable, safe and private.
+Free VPN™ users are not tracked in any way, no personal info is logged, no registration is required so users can browse the web completely anonymously with Free VPN™.
+Questions about Free VPN™? Browse our Frequently Asked Questions or drop us a line.  Improve your mobile life with privacy and security.
+              
+            
+          
+        
+        
+          
+            
+              Do not connect without Protection
+            
+            
+	                    
+                
+                Protect your data
+                Guard sensitive information like bank accounts, credit cards, and passwords safe from prying eyes.
+              
+	                    
+                
+                Surf anonymously
+                Freely browse the internet without worrying about who might be watching.
+              
+	                    
+                
+                Unlock blocked sites
+                Unlock Facebook, Hulu, YouTube, Netflix, Skype, Instagram and any other restricted site anywhere in the world.
+              
+	                  
+          
+        
+        
+          
+            
+              Frequently Asked Questions
+              Click any question below to view the answer. If your question isn’t there, contact us directly.
+            
+            
+	                    How can I contact Free VPN™?
+              
+                
+		  If you have further questions, concerns, or feedback, you can contact us by opening the Free VPN™ menu and pressing “contact us”, or by sending an email to contact@freevpn.org. We will get back to you as soon as possible.
+                
+              
+	                    How do I remove my  information?
+              
+                
+		  You can delete personal information from our serves by selecting  “about this app” from our Menu and checking the box “Delete Personal Data” at the bottom of the screen.
+This will delete previously collected personal data. Leaving the check box checked will also prevent the storage of future data. 
+To cease all data collection entirely, you will need to uninstall the VPN profile.
+                
+              
+	                    iOS: How do I uninstall Free VPN™?
+              
+                
+		  Press and hold the app icon, then tap the cross in the upper right hand corner of the screen.
+To remove the app completely, you’ll need to delete your profile as well. Go to “settings”, then select “General”, and then “Profiles.” Under “Profiles”, select “Free VPN Profile” and then “Delete Profile”.
+                
+              
+	                    iOS: Why do I need a VPN profile?
+              
+                
+		  Installing a profile is a quick way to set up a VPN on your iPhone. The profile contains the settings needed to access the Free VPN Service™. 
+Without a profile, you would have to manually enter settings to set up the VPN on your phone.
+                
+              
+	                    Android: Why do I need to “trust” this application?
+              
+                
+		  When you start Free VPN™, you will be asked to “trust” this application. Android is ensuring that intend to send traffic through the more secure Free VPN Service™.
+This is a standard Android notification for any VPN service.
+                
+              
+	                    What is Free VPN™?
+              
+                
+		  Free VPN™ is a Top Ranked VPN Service, also known as a Virtual Private Network, that allows you to safely and securely browse your favorite mobile apps and websites. Free VPN™ offers three layers of protection. Your data is first encrypted and then transmitted through secure proxy servers.
+This service also hides your IP address so that your physical location is not detectable. This allows you to surf the web anywhere.
+Free VPN™ gives you complete Freedom to browse the Internet, uncensored, unrestricted and at high speed.
+                
+              
+	                  
+          
+        
+        
+          
+            
+              Available for iOS & Android
+            
+            
+              
+            
+          
+        
+        
+          
+            
+              
+               
+              
+            
+          
+        
+
+    
+  
+  
+    
+      
+        
+        
+          
+          Privacy Policy | Terms of Service
+        
+	
+	
+				Free VPN .org1070 Gray Fox CirclePleasanton, California 94566
+1-617-299-0274
+1-617-299-0274
+1-800-211-5017
+
+			Get social			            
+              
+                
+                
+                
+                
+                
+              
+            
+            Blog | In the press
+
+		      
+    
+    
+      
+	©2017				Free VPN .org All Rights Reserved

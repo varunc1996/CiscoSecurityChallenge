@@ -1,0 +1,155 @@
+Proxy Sites | Random Proxy
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+$(document).ready(function(){
+
+	// General error
+	function generalError(actionClass,displayElement){ // actionClass is the class of the element you want to call the displayElement. displayElement is your error.
+		var showing = 0;
+	    $(actionClass).click(function() {
+			if(showing == 0){
+				showing = 1;
+	    		$(displayElement).slideDown() // Show message
+				.animate({opacity: 1.0}, 5000) // Hold it there for 5 seconds
+				.animate({opacity: 0.0}, 2000) // Fade it out
+				.slideUp().animate({opacity: 1.0}, 1, function(){showing = 0;}); // Hide it
+			}
+	    });
+	}
+
+	// Defined errors
+	generalError(".nli","#errors"); // proxy-templates.php (Not Logged In)
+		
+
+});
+
+
+
+
+
+
+function textCounter(field,cntfield,maxlimit) {
+	if (field.value.length > maxlimit) // if too long...trim it!
+		field.value = field.value.substring(0, maxlimit);
+	// otherwise, update 'characters left' counter
+	else
+		cntfield.value = maxlimit - field.value.length;
+}
+
+
+
+
+
+
+  
+    
+      
+    
+    
+       
+      
+    
+
+
+Welcome
+ 
+Ever get blocked by annoying firewalls, at school, the office or on a computer anywhere? Most probably! Well, if so you will have probably come across these sites called proxies! These proxy sites allow you to bypass all of these blocks and get onto all the sites you ever wanted! However now you have found these sites there becomes another problem, "which one should I choose?" Click below and you will be taken to a random proxy site. Problem solved!
+
+
+
+
+
+                   
+
+
+
+
+
+
+
+
+
+
+	
+	Subscribe to our FeedBurner Feed. Get Fresh Proxies Daily!
+	Enter your email address: 
+	
+	
+	
+        
+  
+        
+        
+        
+
+
+
+
+
+Site Statistics
+
+
+We have delivered 207614 hits to the 
+
+
+26960 proxies in our database! 
+
+We have delivered an average of 8623 hits to each premium proxy and 
+
+since the 26th July 2008, we have recieved  hits to our website!
+
+
+
+
+
+
+	
+       
+    
+    
+       
+    
+    
+       
+      
+		Homepage | 
+		Add Proxy | 
+		Register | 
+		Member Login |
+		Blog |
+		Directory |
+		Templates |
+		Terms
+        
+       
+    
+    
+      
+    
+  
+  Copyright RandomProxy.co.uk. All Rights Reserved.
+  Design by PrimeXeon.
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+var pageTracker = _gat._getTracker("UA-5158450-1");
+pageTracker._trackPageview();

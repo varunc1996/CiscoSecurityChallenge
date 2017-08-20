@@ -1,0 +1,2521 @@
+var _b = document.getElementsByTagName('base')[0], _bH = "https://cardingh.net/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		
+	
+
+	Carding en Español
+	
+	.JsOnly, .jsOnly { display: none !important; }
+	
+	
+	
+	
+	
+	
+
+	
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-99854507-1', 'auto');
+	ga('send', 'pageview');
+
+
+			
+		
+	
+
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	
+			
+			
+				Entra o regístrate
+			
+			
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+$(document).ready(function(){
+    $(window).scroll(function(){
+	if(($(window).scrollTop() <= 700 )){
+	   var amountScrolled = $(window).scrollTop();
+           var opacityAmount = 1-(amountScrolled/700);
+           $("#clearBackground").css({ opacity: opacityAmount });
+        } else {
+        	$("#clearBackground").css({ opacity: 0 });
+        }
+    });
+});
+
+
+	
+	
+		
+
+
+
+	
+	
+		
+			 
+			
+				
+					Carding HCarding en Español
+				
+			
+			
+		
+	
+
+	
+
+
+	
+		
+
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				Foros
+				
+				
+				
+					
+						Foros
+						Enlaces rápidos
+					
+					
+					
+						
+						Buscar en foros
+						
+						Mensajes recientes
+					
+					
+				
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				Miembros
+				
+				
+				
+					
+						Miembros
+						Enlaces rápidos
+					
+					
+					
+						Miembros notables
+						
+						Visitantes actuales
+						Actividad reciente
+						Nuevos mensajes de perfil
+					
+					
+				
+			
+						
+		
+		
+		
+
+		
+			
+						
+			Menu
+			
+			
+		
+			
+		
+		
+		
+		
+	
+	
+	
+
+
+
+			
+			
+	
+
+	
+
+
+	
+	Buscar
+	
+		
+			
+			
+				
+								
+				
+			
+			
+			
+				
+				
+					
+					
+						
+						
+							 Buscar solo títulos
+						
+					
+				
+					
+						Publicado por el miembro:
+						
+							
+							Separa los nombres con una coma.
+						
+					
+				
+					
+						Más nuevo que:
+						
+					
+					
+					
+				
+				
+				
+				
+					
+					
+						
+						
+							
+							
+								
+									Búsquedas útiles
+								
+								
+									
+									Mensajes recientes
+									
+									
+								
+							
+						
+						Más...
+					
+				
+				
+			
+			
+			
+				
+	
+	
+
+
+
+		
+		
+	
+	
+
+	
+		
+			
+			
+			
+			
+			
+				
+					
+						
+						
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+						
+						
+						
+							
+							
+
+
+	
+
+	
+		
+			
+		Carding en Español
+		
+		
+			
+			
+			
+				
+					Foros
+					>
+				
+			
+			
+			
+		
+	
+
+						
+						
+						
+						
+					
+						
+
+						
+						
+
+
+
+
+
+
+	
+		
+			
+				
+					
+	
+	
+	
+	
+
+				
+					
+	
+	
+	
+	
+
+				
+					
+	
+	
+	
+	
+
+				
+			
+		
+	
+	
+	
+		
+			
+				
+					
+					Venta Amazon
+			
+				
+					
+					Transacciones WU
+			
+				
+					
+					Paypal 25%
+			
+		
+	
+
+
+
+
+						
+						
+						
+						
+												
+							
+							
+								
+								Carding en Español
+								
+								
+							
+						
+						
+						
+						
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+						
+						
+						
+
+
+
+
+
+
+    
+	
+
+	
+
+
+	
+		
+		
+ 			Título
+		
+		
+		
+			Respuestas
+		
+		Último mensaje
+	
+
+	
+	  
+		
+			
+
+
+
+
+
+	
+		
+			
+		
+	
+
+	
+
+		
+			
+				
+				
+					
+					
+					Locked
+					Adherido
+					
+					
+					
+				
+				
+			
+
+			
+				
+				
+					
+						+1 
+					
+				
+				Buscar paginas virgen usando dorks
+				
+				
+
+			
+				
+					Weeknd,
+					19 de Julio de 2015,
+					Tutoriales de carding
+				
+			
+			
+		
+	
+	
+	    
+
+	
+		Respuestas: 0
+		Visitas: 31.222
+	
+	
+	
+		
+			
+				Weeknd
+				19 de Julio de 2015
+			
+		
+	
+
+
+
+
+
+	
+	
+	
+		
+			Cargando...
+		
+	
+
+		
+			
+
+
+
+
+
+	
+		
+			
+		
+	
+
+	
+
+		
+			
+				
+				
+					
+					
+					Locked
+					Adherido
+					
+					
+					
+				
+				
+			
+
+			
+				
+				
+					
+						+1 
+					
+				
+				Carding para principiantes [I]
+				
+				
+
+			
+				
+					Weeknd,
+					19 de Julio de 2015,
+					Tutoriales de carding
+				
+			
+			
+		
+	
+	
+	    
+
+	
+		Respuestas: 0
+		Visitas: 20.015
+	
+	
+	
+		
+			
+				Weeknd
+				19 de Julio de 2015
+			
+		
+	
+
+
+
+
+
+	
+	
+	
+		
+			Cargando...
+		
+	
+
+		
+			
+
+
+
+
+
+	
+		
+			
+		
+	
+
+	
+
+		
+			
+				
+				
+					
+					
+					Locked
+					Adherido
+					
+					
+					
+				
+				
+			
+
+			
+				
+				
+					
+						+1 
+					
+				
+				Uso correcto de una CC
+				
+				
+
+			
+				
+					Weeknd,
+					23 de Julio de 2015,
+					Tutoriales de carding
+				
+			
+			
+		
+	
+	
+	    
+
+	
+		Respuestas: 0
+		Visitas: 16.692
+	
+	
+	
+		
+			
+				Weeknd
+				23 de Julio de 2015
+			
+		
+	
+
+
+
+
+
+	
+	
+	
+		
+			Cargando...
+		
+	
+
+		
+			
+
+
+
+
+
+	
+		
+			
+		
+	
+
+	
+
+		
+			
+				
+				
+					
+					
+					Locked
+					Adherido
+					
+					
+					
+				
+				
+			
+
+			
+				
+				
+					
+						+1 
+					
+				
+				¿Qué son los BINs?
+				
+				
+
+			
+				
+					Weeknd,
+					19 de Julio de 2015,
+					Tutoriales de carding
+				
+			
+			
+		
+	
+	
+	    
+
+	
+		Respuestas: 0
+		Visitas: 34.183
+	
+	
+	
+		
+			
+				Weeknd
+				19 de Julio de 2015
+			
+		
+	
+
+
+
+
+
+	
+	
+	
+		
+			Cargando...
+		
+	
+
+		
+	  
+	
+
+
+
+
+
+	
+
+
+	
+	
+		
+
+
+
+
+	
+	
+		
+			Principal
+			
+		
+		
+	
+	
+			
+		
+			
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				1Temas
+				7Mensajes
+			
+
+			Administración
+
+			
+				Novedades del foro
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Changelog Foro
+				
+					Weeknd,
+					14 de Junio de 2017
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				124Temas
+				546Mensajes
+			
+
+			Comentarios y referencias
+
+			
+				Da comentarios y recomendaciones de diferentes carders
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Robertt vendedor recomendado
+				
+					Plotter,
+					18 de Agosto de 2017 a las 13:40
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				133Temas
+				785Mensajes
+			
+
+			Reportes
+
+			
+				¿Fuiste estafado? ¿Sospechas de alguien? Aquí es el lugar
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Ripper Marco Luvem
+				
+					DanielCG,
+					16 de Agosto de 2017 a las 20:37
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+	
+	
+		
+			Comunidad
+			
+		
+		
+	
+	
+			
+		
+			
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				1.264Temas
+				3.732Mensajes
+			
+
+			General
+
+			
+				Habla sobre lo que quieras aquí
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Saludos colegas, soy nuevo.
+				
+					vivasok,
+					19 de Agosto de 2017 a las 22:49
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				606Temas
+				2.759Mensajes
+			
+
+			Presentate
+
+			
+				Muestrate al mundo
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Compro tus productos en Mercado Libre por 50% del se Precio-Sin Entrega
+				
+					Plotter,
+					18 de Agosto de 2017 a las 13:50
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+	
+	
+		
+			Zona Carding
+			
+		
+		
+	
+	
+			
+		
+			
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				662Temas
+				2.898Mensajes
+			
+
+			Tutoriales de carding
+
+			
+				Comparte tu conocimiento
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: BIN PLAY STORE FUNCIONANDO AGOSTO 2017
+				
+					GucciMane,
+					18 de Agosto de 2017 a las 18:54
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				321Temas
+				1.654Mensajes
+			
+
+			Herramientas de carding
+
+			
+				Software y demás menesteres
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: me urge MSR X6 o x9 ya intente pedirla y me rechaza la compra la compro
+				
+					uuu12,
+					19 de Agosto de 2017 a las 10:56
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				193Temas
+				1.176Mensajes
+			
+
+			Pruebas / Alardea
+
+			
+				Muestra tus logros
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Me tope con un Bug de Amazon y La terjeta Saldazo.... estoy haciendo compras como loco super facil
+				
+					LokoCruzado,
+					19 de Agosto de 2017 a las 19:39
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				260Temas
+				1.594Mensajes
+			
+
+			Paginas cardeables
+
+			
+				Recopilación de paginas donde puedes usar tus CCs
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Ccs a buen precio
+				
+					AxelTheKing07,
+					19 de Agosto de 2017 a las 18:51
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				1.175Temas
+				3.449Mensajes
+			
+
+			Ayuda
+
+			
+				¿Dudas o inconvenientes? Preguntale a un experto
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Como y donde usar CC sin CVV
+				
+					AxelTheKing07,
+					19 de Agosto de 2017 a las 19:11
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				2.598Temas
+				6.087Mensajes
+			
+
+			Paginas bineables
+
+			
+				Paga usando tarjertas generadas usando BINs
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: NUEVO BIN PAYPAL PARA SALDO Y COMPRAS ONLINE
+				
+					juliocfebres,
+					19 de Agosto de 2017 a las 19:18
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				1.544Temas
+				11.766Mensajes
+			
+
+			Comparte CCs
+
+			
+				CC gratis
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: SE COMPARTE BANK LOGINS SUNTRUST FULL INFO
+				
+					vivasok,
+					19 de Agosto de 2017 a las 22:39
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+	
+	
+		
+			Tienda
+			
+		
+		
+	
+	
+			
+		
+			
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				561Temas
+				2.121Mensajes
+			
+
+			Comprar
+
+			
+				¿Buscas algo? Publicado aquí
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Compro ccs argentinas master
+				
+					LokoCruzado,
+					19 de Agosto de 2017 a las 17:39
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				5Temas
+				268Mensajes
+			
+
+			Vendedores Oficiales
+
+			
+				Compra con seguridad a vendedores oficiales
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: Venta de CCs (Colombia, Argentina, Perú...) y DUMPS
+				
+					kygox,
+					19 de Agosto de 2017 a las 12:11
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				1.008Temas
+				3.541Mensajes
+			
+
+			Venta Abierta
+
+			
+				Si tienes algo que ofrecer este es tu lugar
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: CC's VENTA POR WEB - Full Data - 24 hs - BINS - Entrega inmediata - URL: saiwdaqcccgl6ui4.oni on
+				
+					LokoCruzado,
+					19 de Agosto de 2017 a las 18:27
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				483Temas
+				1.729Mensajes
+			
+
+			Intercambio
+
+			
+				Intercambia tu conocimiento y demás
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: verificar paypal con dni y direccion
+				
+					alan501,
+					19 de Agosto de 2017 a las 12:51
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+				680Temas
+				2.394Mensajes
+			
+
+			Servicios
+
+			
+				Hackers, carders, I.S prestan servicios
+			
+
+			
+				
+			
+			
+			
+		
+
+		
+		
+		
+
+		
+			
+				Último: ICQ:685535562 VENTA Dumps 101 201/PIN Valid. Cvv Fresh CC Fullz.WU Transfer. Paypal. Bank Log
+				
+					akanui511,
+					18 de Agosto de 2017 a las 14:48
+				
+			
+		
+
+		
+			RSS
+		
+		
+	
+
+	
+
+
+		
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+						
+						
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+						
+						
+							
+							
+
+
+
+
+
+
+
+
+
+	
+
+	
+		
+			Tu nombre o dirección de email:
+			
+		
+	
+	
+		
+			
+				¿Ya tienes una cuenta?
+			
+			
+				
+					
+						No, crear una cuenta ahora.
+					
+						Si, mi contraseña es:
+					
+						
+						¿Olvidaste tu contraseña?
+					
+				
+			
+		
+	
+		
+		
+			
+			
+				
+				 No cerrar sesión
+			
+		
+	
+
+	
+	
+	
+
+
+						
+						
+					
+				
+				
+				
+				
+					
+						
+						
+						
+
+		
+	
+		¡Regístrate ahora!
+	
+
+
+
+
+		
+						
+	
+	
+	
+		
+			
+
+
+
+
+
+
+		
+	
+		Usuarios en línea
+		
+		
+		
+			
+			
+			
+				
+					
+						
+						
+							Rayitodesol101,
+						
+						
+					
+				
+					
+						
+						
+							TheJoshua,
+						
+						
+					
+				
+					
+						
+						
+							Plotter,
+						
+						
+					
+				
+					
+						
+						
+							discovery68
+						
+						
+					
+				
+				
+			
+		
+		
+		
+			Total: 73 (miembros: 5, invitados: 50, robots: 18)
+		
+	
+
+
+		
+
+
+		
+		
+			
+				
+					Mensajes nuevos
+					
+
+
+
+	
+
+		
+		
+		
+			
+			
+				
+				
+					Saludos colegas, soy nuevo.
+				
+				
+			
+
+			
+				Último: vivasok, 19 de Agosto de 2017 a las 22:49
+			
+			
+			
+				General
+			
+		
+	
+
+	
+
+		
+		
+		
+			
+			
+				
+				
+					Me tope con un Bug de Amazon y La terjeta Saldazo.... estoy haciendo compras como loco super facil
+				
+				
+			
+
+			
+				Último: LokoCruzado, 19 de Agosto de 2017 a las 19:39
+			
+			
+			
+				Pruebas / Alardea
+			
+		
+	
+
+	
+
+		
+		
+		
+			
+			
+				
+				
+					Como y donde usar CC sin CVV
+				
+				
+			
+
+			
+				Último: AxelTheKing07, 19 de Agosto de 2017 a las 19:11
+			
+			
+			
+				Ayuda
+			
+		
+	
+
+	
+
+		
+		
+		
+			
+			
+				
+				
+					Tengo CCs reales busco socio cash out
+				
+				
+			
+
+			
+				Último: AxelTheKing07, 19 de Agosto de 2017 a las 18:52
+			
+			
+			
+				General
+			
+		
+	
+
+	
+
+		
+		
+		
+			
+			
+				
+				
+					Ccs a buen precio
+				
+				
+			
+
+			
+				Último: AxelTheKing07, 19 de Agosto de 2017 a las 18:51
+			
+			
+			
+				Paginas cardeables
+			
+		
+	
+
+
+				
+			
+		
+		
+		
+			
+				
+					Nuevos mensajes de perfil
+					
+
+
+	
+
+
+
+
+	
+	
+	
+		
+		
+			
+				lkjbp
+				
+			
+			CC's VENTA POR WEB - Full Data - 24 hs - BINS - Entrega inmediata - URL: saiwdaqcccgl6ui4.oni on - saiwdaqcccgl6ui4.oni on - NUEVAS CCS.
+		
+
+		
+			
+				19 de Agosto de 2017 a las 18:39
+			
+
+			
+				•••
+			
+		
+
+	
+
+
+	
+
+
+
+
+	
+	
+	
+		
+		
+			
+				Ayrtonhuerta
+				
+					► jerjes
+				
+			
+			Hola quería pedirte un favor, si contestas te lo agradecería
+		
+
+		
+			
+				19 de Agosto de 2017 a las 16:33
+			
+
+			
+				•••
+			
+		
+
+	
+
+
+	
+
+
+
+
+	
+	
+	
+		
+		
+			
+				GucciMane
+				
+			
+			En unos instantes voy a subir video para que aprendais a sacar vuestras propias CCs ¡TOTALMENTE GRATIS! Estad atentos.
+		
+
+		
+			
+				19 de Agosto de 2017 a las 15:28
+			
+
+			
+				•••
+			
+		
+
+	
+
+
+	
+
+
+
+
+	
+	
+	
+		
+		
+			
+				adranvm12
+				
+					► ViejoMarihuano
+				
+			
+			Hey pasa paginas para paypal alemanas 
+Mi numero 529992159024
+		
+
+		
+			
+				19 de Agosto de 2017 a las 15:01
+			
+
+			
+				•••
+			
+		
+
+	
+
+
+	
+
+
+
+
+	
+	
+	
+		
+		
+			
+				chechito
+				
+					► MementoMori
+				
+			
+			amigo necesito una cc contactame
+		
+
+		
+			
+				19 de Agosto de 2017 a las 07:56
+			
+
+			
+				•••
+			
+		
+
+	
+
+
+
+				
+			
+		
+		
+		
+		
+			
+				Estadísticas del foro
+				
+					Temas:
+						11.618
+					Mensajes:
+						46.506
+					Miembros:
+						25.116
+					Miembro más reciente:
+						discovery68
+					
+				
+			
+		
+		
+		
+		
+		
+	
+
+						
+						
+					
+				
+			
+			
+						
+			
+
+
+	
+
+	
+		
+			
+		Carding en Español
+		
+		
+			
+			
+			
+				
+					Foros
+					>
+				
+			
+			
+			
+		
+	
+
+			
+						
+			
+						
+		
+	
+
+
+
+	
+
+
+
+	
+		
+			
+			
+				
+				
+					Idioma
+					Español (ES)
+				
+			
+			
+			Xenforo skin by Xenfocus
+			
+			
+				
+				Ayuda
+				Noticias
+				Arriba
+				RSS
+			
+			
+			
+			
+		
+	
+
+
+
+	
+		
+			
+			
+				
+				
+			
+			
+			
+			Forum software by XenForo™ ©2010-2017 XenForo Ltd. 
+By AlmightySome XenForo functionality crafted by ThemeHouse.
+			
+		
+			
+			
+			
+		
+	Tac Anti Spam from Surrey Forum	
+
+
+
+
+
+
+
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1503201946,
+		today: 1503118800,
+		todayDow: 6
+	},
+	_lightBoxUniversal: "1",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "1",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 200,
+		closeSpeed: 100,
+		mask:
+		{
+			color: "rgb(0, 0, 0)",
+			opacity: "0.6",
+			loadSpeed: 200,
+			closeSpeed: 100
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"nat_public_css":true,"discussion_list":true,"node_list":true,"node_category":true,"node_forum":true,"thread_list_simple":true,"profile_post_list_simple":true,"bb_code":true,"login_bar":true,"notices":true,"panel_scroller":true,"rellect_adblock_detector":true},
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "e62133fd",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Cancelar",
+
+	a_moment_ago:    "Hace un momento",
+	one_minute_ago:  "Hace un minuto",
+	x_minutes_ago:   "Hace %minutes% minutos",
+	today_at_x:      "Hoy a las %time%",
+	yesterday_at_x:  "Ayer a las %time%",
+	day_x_at_time_y: "%day% a las %time%",
+
+	day0: "Domingo",
+	day1: "Lunes",
+	day2: "Martes",
+	day3: "Miércoles",
+	day4: "Jueves",
+	day5: "Viernes",
+	day6: "Sábado",
+
+	_months: "Enero,Febrero,Marzo,Abril,Mayo,Junio,Julio,Agosto,Septiembre,Octubre,Noviembre,Diciembre",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Vie,Sat",
+
+	following_error_occurred: "Ocurrió el siguiente error",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Haz clic en la imagen para mostrarla a tamaño completo.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "";
+XenForo.Facebook.forceInit = false;
+
+
+
+
+XenForo.rellect = XenForo.rellect || {};
+
+XenForo.rellect.AdBlockDetectorParams = {
+	expiry: 0,
+	hours: -1,
+	canDismiss: 0,
+	type: "overlay",
+	phrases: {
+		title: "Your attention is required",
+		message: "Si deshabilitas el \"AdBlock\" desaparece este molesto anuncio. ",
+		close: "Cerrar"
+	},
+	loadScript: function(url, loadFn, errorFn){
+		var script = $('<script />', {
+			async: 'async',
+			src: url
+		})
+		.load(function(){
+			if(loadFn){
+				loadFn();
+				loadFn = null;
+			}
+		})
+		.error(function(jqXHR, textStatus){
+			/* When script is blocked, textStatus is undefined. */
+			if(typeof textStatus !== 'undefined'){
+				return;
+			}
+
+			if(errorFn){
+				errorFn(jqXHR, textStatus);
+				errorFn = null;
+			}
+		});
+
+		document.getElementsByTagName('body')[0].appendChild(script[0]);
+	}
+};
+
+var AdBlockDetectorWorkaround = function(){
+	/* This is just in case the handler script is blocked by the adblocker */
+	if(!XenForo.rellect.AdBlockDetector){
+		console.log('AdBlock detector failed. Trying workaround.');
+		XenForo.ajax('index.php', {dataType: 'html', AdblockDetector: 1}, function(ajaxData){
+			if(XenForo.hasTemplateHtml(ajaxData)){
+				try{
+					jQuery.globalEval(ajaxData.templateHtml);
+				}
+				catch(e){}
+			}
+		}, {
+			error: function(){
+				console.log('AdBlock detector workaround failed.');
+			}
+		});
+	}
+};
+
+XenForo.rellect.AdBlockDetectorParams.loadScript(
+	'js/rellect/AdblockDetector/handler.min.js?rev=27',
+	false,
+	AdBlockDetectorWorkaround
+);
+
+
+
+
+
+
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "https://cardinghispano.net/",
+	"potentialAction": {
+		"@type": "SearchAction",
+		"target": "https://cardinghispano.net/search/search?keywords={search_keywords}",
+		"query-input": "required name=search_keywords"
+	}
+}

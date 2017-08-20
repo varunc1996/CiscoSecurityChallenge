@@ -1,0 +1,48 @@
+Sucuri WebSite Firewall - Not Configured
+
+
+
+
+
+
+
+Website Firewall
+Back to sucuri.net
+
+
+
+
+Some parts of the interface required to process actions using JavaScript. Please add an exception in your browser to allow the execution of JavaScript code in this domain.
+
+
+
+Sucuri Website Firewall - Not Configured
+ The site you are visiting is using Sucuri Website Firewall. And for some reason it is not configured properly.
+If you are the site owner, please open a ticket here asap for us to look at it for you: https://support.sucuri.net.
+If you visiting the site please try again in a few minutes.
+Error Details:
+
+
+Your IP:
+76.102.171.186
+
+URL:
+cvv.cx/
+
+
+Your Browser: 
+python-requests/2.18.4
+
+Time:
+Sun Aug 20 00:08:04 2017
+
+
+Server ID:
+11014
+
+
+
+
+
+© 2017 Sucuri Inc. All rights reserved.
+Privacy

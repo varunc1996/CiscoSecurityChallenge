@@ -1,0 +1,284 @@
+Instant Proxies – Private Proxy Service | A proxy service unlike any other
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+		
+
+
+ var LiveHelpSettings = { server: 'www.instantproxies.com/billing/modules', embedded: true };
+ (function(d, undefined) {
+  // JavaScript
+  var LiveHelp = d.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
+  LiveHelp.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/js.min.js';
+  var s = d.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(LiveHelp, s);
+ })(document);
+
+
+
+
+
+
+
+	
+	 
+	
+			
+				 
+			
+            
+      
+        
+         Client Login     Live Support
+        
+      
+     	  	
+        
+          
+			  				Skip to content
+						   		Home
+Pricing
+FAQ
+Resources
+Affiliates
+Support
+           
+                
+			
+            
+            
+ 
+    
+    
+    
+    	
+
+	
+            	
+		
+          
+
+	
+            
+  
+    
+    
+      
+        
+        
+      
+        Proxies:
+      
+          
+          
+            10 Private Proxies
+            25 Private Proxies
+            50 Private Proxies
+            100 Private Proxies
+            250 Private Proxies
+            500 Private Proxies
+            Custom order...
+          
+          
+       
+       Purpose:
+        
+          
+          
+            General Browsing
+          
+          
+
+        
+    
+        
+                   
+     
+        
+        
+      
+      
+    
+          													
+
+	
+
+		
+        
+        
+        
+		
+			
+				Blazing Fast Proxies			 Does our state-of-the-art network produce consistently fast response time? Test for yourself:
+ 
+     
+
+  
+					
+		
+
+
+
+		
+			
+				99%+ Network Uptime			We monitor our network around-the-clock to ensure you have access
+when you need it. Check our stats:
+ 
+     
+ 
+
+					
+		
+
+
+
+		
+			
+				24/7 Live Support			Have a problem? Get it resolved in minutes-- not days. Feel free
+to just say hello at any time. Start a chat:
+ 
+     
+  
+  
+					
+		
+
+
+        
+        
+        
+        
+                
+			
+
+			
+
+									
+						The web’s most advanced private proxy service.
+
+InstantProxies.com offers private HTTP proxies that support:
+
+ High-anonymity private browsing from major web browsers.
+ High-volume content posting from proxy-supporting automation tools.
+ High-performance web crawling from custom systems.
+
+Tired of sketchy proxy providers? Get more with InstantProxies.com:
+
+ Don’t wait days for delivery – test before you buy (and enjoy instant setup)
+ Don’t accept flaky service – preview our uptime (get 99%+ uptime guaranteed)
+ Don’t put up with slow support – chat with support (go ahead, test our response time)
+
+Questions? Please browse our FAQ or contact support.
+
+
+
+Unlimited Bandwidth
+  Advanced Control Panel
+100% Compatibility
+
+    Elite Anonymity
+Subnet Variety
+Worldwide Locations
+Guaranteed Quality
+
+
+																	
+				
+
+				
+
+			
+            
+		
+
+	
+
+	
+     
+	
+
+
+
+			
+
+				
+					
+						SERVICESPrivate Proxies
+Affiliate Program
+Reseller Program
+					
+				
+
+				
+					
+						INFORMATIONFrequent Questions
+Proxy Resources
+Availability Checker
+					
+				
+
+				
+					
+						CUSTOMERSClient Login
+Terms of Service
+Contact Support
+					
+				
+
+				
+					
+						NETWORK STATUS			
+
+document.write('<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="//instantproxies.com/network-status#current">Current status: ' + STATS_CURRENT + ' online</a>');
+document.write('<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="//instantproxies.com/network-status#pastday">Past 24 hours: ' + STATS_24H + ' uptime</a><br>');
+document.write('<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="//instantproxies.com/network-status#pastmonth">Past 1 month: ' + STATS_1M + ' uptime</a>');
+
+
+							
+				
+
+			
+
+	
+
+
+
+
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/instantproxies.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+
+
+
+  © 2017 InstantProxies.com. All Rights Reserved.
+
+
+
+
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35673112-1']);
+  _gaq.push(['_setDomainName', 'instantproxies.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();

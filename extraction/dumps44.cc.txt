@@ -1,0 +1,686 @@
+window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);
+    
+        
+
+    
+
+            
+            
+    
+    Best VPN Service - Find the Top VPN Service Providers Reviews & Deals
+    
+     
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+        
+        
+            
+                
+                
+                    
+                        Toggle navigation
+                        
+                        
+                        
+                    
+                    
+                
+
+                
+                
+                    
+                        
+                            
+                        
+                        
+                    
+                    
+
+                                                                            
+                                VPN Reviews 
+
+                                
+
+
+
+                                        
+                                                            
+                                                        PureVPN Review 5 / 5.0Read our review of PureVPN which has taken the industry by storm with servers in over 100 countries. Read Review
+                                                            
+                                                        ExpressVPN Review 4.5 / 5.0Everything about the ExpressVPN service you need to knowRead ReviewView all VPN Providers
+
+                                
+
+                            
+                                                                            
+                                VPN Offers 
+
+                                
+
+
+
+                                        
+                                                            
+                                                        Exclusive 79% OFF  5 / 5.0Get PureVPN's amazing service with 5 multi logins and 140+ countries for 79% discount. Get this Offer
+                                                            
+                                                        35% OFF on ExpressVPN 4.5 / 5.0Get 35% off ExpressVPN and get the best deal for a mere $8.32/month. Get this OfferView All VPN Offers
+
+                                
+
+                            
+                                                                            VPNs By Country
+                                                                            Best Streaming VPNs
+                        
+                        Blog
+
+
+
+
+                    
+
+                
+            
+        
+    
+
+
+
+
+
+
+
+
+    
+
+        Best VPN Service covers all the reviews, features, deals & discounts as well as updates on all the top VPN services. We also have comprehensive guides about free VPN services or more specifically, free VPNs for Android, Windows as well as iOS VPN services.
+
+If you want comprehensive VPN reviews for all the best VPN service providers out there just check out our top 5 list below. If you are wondering what a VPN actually is, just read our little introduction to VPNs by scrolling farther down.
+    
+
+
+
+
+
+
+
+
+
+    5 Best VPN Services of 2016
+    
+                
+        
+            
+	            Most Popular
+                
+                    
+                        
+                            
+                        
+                    
+	                
+	                    PureVPN
+	                    1
+		                Rank #1 of 220
+	                
+	                
+                        
+                            							
+							                            $5.98
+	                        per month
+                        
+		                
+                             Visit Website >>
+                             READ REVIEW
+                        
+                    
+	                
+                
+	            
+	                
+	                    75% Exclusive Limited Time Discount!
+
+PureVPN has 500+ servers in over 140+ countries worldwide. The veteran VPN service supports 256-bit encryption, for unblocking streaming websites, dedicated IPs, live chat support and a 7 day moneyback guarantee.
+	                
+                    
+                        	                        7 day Moneyback Guarantee
+                        
+	                
+
+	            
+            
+        
+
+                
+        
+            
+	            Most Popular
+                
+                    
+                        
+                            
+                        
+                    
+	                
+	                    ExpressVPN
+	                    2
+		                Rank #2 of 220
+	                
+	                
+                        
+                                                        $8.32
+	                        per month
+                        
+		                
+                             Visit Website >>
+                             READ REVIEW
+                        
+                    
+	                
+                
+	            
+	                
+	                    A server spread constituting hundreds of servers gives ExpressVPN the power to deliver military-grade encryption and reliable tunneling speeds. ExpressVPN is known as one of most secure VPN services online, with a network that is SSL secured and keeps you covered with 256-bit encryption.
+	                
+                    
+                        
+	                
+
+	            
+            
+        
+
+                
+        
+            
+	            Most Popular
+                
+                    
+                        
+                            
+                        
+                    
+	                
+	                    Ivacy
+	                    3
+		                Rank #3 of 220
+	                
+	                
+                        
+                                                        $2.04
+	                        per month
+                        
+		                
+                             Visit Website >>
+                             READ REVIEW
+                        
+                    
+	                
+                
+	            
+	                
+	                    Buy 1 Year & Get 1 Year Free!
+
+
+Ivacy has recently upgraded with over 200 VPN servers, and is rapidly rising up the ranks with a 7 day money back guarantee that has made it a frequently favored VPN service after the recent relaunch. Ivacy has earned the trust of internet privacy and freedom lovers from around the world. Thanks to the server spread spanning 46 countries, Ivacy delivers a range of features that gives it a firm position amongst VPN giants.                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+	                
+                    
+                        
+	                
+
+	            
+            
+        
+
+                
+        
+            
+	            Most Popular
+                
+                    
+                        
+                            
+                        
+                    
+	                
+	                    HideMyAss!
+	                    4
+		                Rank #4 of 220
+	                
+	                
+                        
+                                                        $4.99
+	                        per month
+                        
+		                
+                             Visit Website >>
+                             READ REVIEW
+                        
+                    
+	                
+                
+	            
+	                
+	                    Everybody's favorite HideMyAss has VPN servers in over 160 countries across the globe, and comes with a heavy duty custom client as well as support for all leading operating systems and devices. The universal HideMyAss package is ideal for all your online privacy, freedom and accessibility needs.
+	                
+                    
+                        
+	                
+
+	            
+            
+        
+
+                
+        
+            
+	            Most Popular
+                
+                    
+                        
+                            
+                        
+                    
+	                
+	                    NordVPN
+	                    5
+		                Rank #5 of 220
+	                
+	                
+                        
+                                                        $5.75
+	                        per month
+                        
+		                
+                             Visit Website >>
+                             READ REVIEW
+                        
+                    
+	                
+                
+	            
+	                
+	                    Use Coupon Code “50Off” for 50% Discount!
+
+  NordVPN has neatly emerged as a competitive offshore VPN company. It is tough contender in European market for VPNs though it can greatly expand its reach by adding servers and locations. Its remarkable innovations in the form of double anonymity and Tor over VPN make it stand out among the best players of the VPN industry.
+	                
+                    
+                        
+	                
+
+	            
+            
+        
+
+                
+
+    
+
+
+
+
+    
+        What Does a VPN Do?
+A VPN stands for Virtual Private Networks. VPN Services  serve the purpose of protecting your browsing information from hackers, ISPs  and espionage measures. It also hides or changes your location and IP address  depending on which VPN server you are connected to. They have many essential  uses such as security, privacy and protecting your personal data. 
+
+  VPN services also come in handy when it comes to bypassing  geo restricted content such as a Youtube video that is not available in your  country. For example, if you want to watch a video that is only available in  the US, UK or China... Then you can connect to a VPN service that has servers  in those countries to access it without any restrictions. It is pretty simple...  Just follow our detailed guides: 
+
+  Unblocking content and bypassing restrictions in US-only websites:
+  VPN for US
+     VPN for UK: Accessing region-locked content by using anonymous UK IP addresses    
+    Bypass the Chinese Firewall and hide your online activity from monitoring using a VPN for China
+
+
+When you subscribe to a VPN service, it usually comes  bundled with VPN software or apps that help you connect to their servers,  change your location and much more. For more information on how they work,  check out our VPN software reviews on VPN for iPad, Mac, Windows Desktops and  phones as well as game consoles such as Xbox 360, Xbox One, PS3, PS4 and more… 
+
+  Just type your device or need in the search and get easy  tips and guides right away. We have also made sure to cover how you can set up a  VPN on your device to stream your favorite movies and TV shows on Netflix,  Hulu, BBC iPlayerand Vudu etc. If you are looking for more channels for online  streaming, just type the channel in the search box and get easy tips to access  it.    
+
+
+
+
+
+
+
+    
+
+    
+    Latest From BestVPNSevice Blog
+    
+
+        
+                    
+                
+                    The Best Android VPN Services Of 2016
+                    by: Ameer Abbas
+                
+                
+                    
+                        
+                    
+                    A detailed view on why android devices need a VPN service and VPN apps in light of the security threats mobile users in this year. Continue reading
+                
+            
+                    
+                
+                    Watch Game of Thrones Online
+                    by: Ameer Abbas
+                
+                
+                    
+                        
+                    
+                    Are you looking for ways to watch Game of Thrones online? Here is everything you need to know. Bypass geo-restrictions & watch all the episo ... Continue reading
+                
+            
+                    
+                
+                    How To Setup VPN On Windows 10
+                    by: Ameer Abbas
+                
+                
+                    
+                        
+                    
+                    Learn how to setup your new Windows 10 VPN. Tweak your connection to be faster and free from snooping, surveillance and annoying marketing a ... Continue reading
+                
+            
+                    
+                
+                    Watch Barclay's Premier League Online
+                    by: Ameer Abbas
+                
+                
+                    
+                        
+                    
+                    Watch all the EPL matches online from any country in our up to date list of all online channels for the Premier League.  Continue reading
+                
+            
+                    
+                
+                    How To Watch Youku Outside China
+                    by: Ameer Abbas
+                
+                
+                    
+                        
+                    
+                    Watch Youku video streaming outside China without any restrictions using this VPN guide. Continue reading
+                
+            
+                    
+                
+                    Best VPN For Torrents
+                    by: Ameer Abbas
+                
+                
+                    
+                        
+                    
+                    Are your ISP & Government tracking your torrent downloads? Get the best torrent VPN and unblock torrents to your heart's extent. Continue reading
+                
+            
+                    
+                
+                    Best Dedicated IP/Static IP VPN Service ...
+                    by: Faisal Arshad
+                
+                
+                    
+                        
+                    
+                    Static IP VPN - Get the best Static IP VPN in the market. We have listed the best VPNs in the market. Get your own IP address now. Continue reading
+                
+            
+                    
+                
+                    Best VPNs For Xbox One And PS4 And How  ...
+                    by: Ameer Abbas
+                
+                
+                    
+                        
+                    
+                    A simple guide to configure Xbox One VPN settings and PS4 VPN. Follow our guide and unblock your console against online region locks and res ... Continue reading
+                
+            
+        
+        
+
+
+    
+    
+
+    
+    
+        
+
+                        
+                
+                
+                    Best iPhone VPN Services
+                
+                We've reviewed and tested the best VPN providers for the iPhone platform and ranked the best VPN apps that iPhone users can find anywhere. 
+                View Providers
+            
+
+                        
+                
+                
+                    Best Windows VPN Services
+                
+                The best VPN services for windows OS have been tested and ranked by us after conducting in depth VPN reviews for speed, reliability and security. 
+                View Providers
+            
+
+                        
+                
+                
+                    Best Android VPN Services
+                
+                Check out the best VPN services for Android devices in our extensive coverage of Android VPN apps & reviews.
+                View Providers
+            
+
+            
+        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+                3,026,991Visitors Helped
+            
+            
+                
+                26,567+User Reviews
+            
+            
+                
+                230+VPN Providers
+            
+            
+                
+                Saved $451 MillionThrough Discount & Offers
+            
+        
+    
+
+
+
+
+
+
+    
+    
+        
+            
+                
+                    
+                        
+                    
+                    
+
+                        
+                          
+                               
+                               
+
+                            
+                            Subscribe
+                           
+                        
+
+                    
+                
+                
+
+                    
+                        Company
+                        
+
+                            Blog
+                            Contact Us
+
+                                                        Privacy Policy
+                             
+                        
+                    
+                    
+                        Useful Links
+                        
+                            Kodi VPN
+                            中国VPN
+                            Top 10 List
+                            Compare VPNs
+                            Coupons
+                            China Firewall Test
+
+                        
+                    
+
+                
+                
+                    
+                        Follow BestVPNService
+                        
+                            
+                                
+                            
+                            
+                                
+                            
+                            
+                                
+                            
+                            
+                                
+                            
+                        
+
+                       
+                
+            
+
+
+        
+    
+    
+
+
+    
+    
+        Copyright Bestvpnservice.com, 2017 - Search, Find & Get The Best VPN Service.
+    
+    
+
+
+    
+    	
+            
+            Clear Log's
+        
+    	
+    
+
+ 
+
+
+
+
+
+    var dataLayer = new Array();
+    var google_conversion_id = 982287782;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+
+    window.uetq = window.uetq || []; window.uetq.push({ 'ec':'Event category', 'ea':'Click', 'el':'Event label', 'ev':'Event value' });
+
+    window.onload = function()
+    {
+        function load_async(path){
+            var script = document.createElement('script');
+
+            script.src = path;
+            script.type = "text/javascript";
+
+            document.head.appendChild(script);
+        }
+
+        load_async("/api_helpers/minify/g=js_homepage_new");
+        load_async("//www.googleadservices.com/pagead/conversion.js");
+
+        
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-WBRFTR');
+
+                setTimeout(function(){
+            //load_async("//assets.pcrl.co/js/jstracker.min.js");
+        },1000);
+    };
+
+
+
+
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"054090c0cf","applicationID":"11319822","transactionName":"blZUZUFZXhFWU0xeWFccY0NaF1kMU1VAGUdRQw==","queueTime":0,"applicationTime":14,"atts":"QhFXEwlDTR8=","errorBeacon":"bam.nr-data.net","agent":""}

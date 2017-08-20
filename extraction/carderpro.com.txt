@@ -1,0 +1,336 @@
+VPNVIP.com
+		
+
+	
+	
+	
+					
+
+	 
+	
+	
+	 
+		
+
+
+ 
+
+
+
+
+
+
+
+.qtrans_flag span { display:none }
+.qtrans_flag { height:12px; width:18px; display:block }
+.qtrans_flag_and_text { padding-left:20px }
+.qtrans_flag_en { background:url(http://www.vpnvip.com/wp-content/plugins/qtranslate/flags/gb.png) no-repeat }
+.qtrans_flag_zh { background:url(http://www.vpnvip.com/wp-content/plugins/qtranslate/flags/cn.png) no-repeat }
+
+
+
+	
+					
+
+/* <![CDATA[ */
+	var $j = jQuery.noConflict();
+	
+	$j(document).ready(function () {
+				
+		$j("#drag_drop_sidebar").sortable();
+		$j("#drag_drop_sidebar").disableSelection();
+		
+	});	
+/* ]]> */
+	
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+	.Description {margin-top:15px;margin-bottom:30px;line-height:25px;border:1px dashed  #A98660;padding-left:5px;padding-right:5px;}
+
+li.colorHeader {
+                color:#369;
+                list-sytle: circle outside;
+	}
+
+h3.colorHeader {		
+		font-size-adjust:none;
+		font-style:normal;
+		font-variant:normal;
+		font-weight:normal;
+                color:#369;
+	}
+
+h4.colorHeader {		
+		font-size-adjust:none;
+		font-style:normal;
+		font-variant:normal;
+		font-weight:normal;
+		color:#ff6600;
+	}
+
+h5.colorHeader {		
+		font-size-adjust:none;
+		font-style:normal;
+		font-variant:normal;
+		font-weight:normal;
+		color:#ff6600;
+	}
+
+h3.colorLine {		
+		font-size-adjust:none;
+		font-style:normal;
+		font-variant:normal;
+		font-weight:normal;
+                color:#369;
+                padding-bottom: 4px;
+                border-bottom: 1px solid #999;
+	}
+
+
+  			
+
+
+
+
+	var $j = jQuery.noConflict();
+
+$j(document).ready(function(){
+		$j( '.accordion' ).accordion( {collapsible:true,active:false} );
+});
+
+$j(document).ready(function(){
+	$j('.accordion .head').click(function() {
+		$j(this).next().toggle();
+		return false;
+	}).next().hide();
+});
+
+
+
+
+  
+    
+					
+			
+			
+				
+	
+
+					
+			
+				中文
+			
+			
+				English
+			
+
+						
+				
+			
+									
+			
+									
+								
+						
+					 
+					
+							
+	
+	
+	
+		
+		
+			
+				Home	
+			
+		
+		OUR STRENGTH
+WHY VPN
+SETUP HOWTO
+FAQ
+Affiliates
+ABOUT
+	
+			
+	
+		
+	
+	
+
+	
+
+	
+		
+
+
+	
+					
+	  	
+			
+
+
+
+
+
+
+Internet Without Restrictions!
+
+
+We are a company that provides extremely fast and secure VPN services. With our services you can:
+Get complete freedom for your connection.
+Encrypts all your network traffic.
+Protect you from spying by assigning your computer a new IP address.
+Learn more…
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why VPN?
+
+
+VPN is a 128-bit encrypted tunnel between your device (computer, iPhone, iTouch, iPad) and one of our servers.
+If you want a total Internet traffic anonymizing experience, a VPN account is the best way to go – there is no IP numbers to configure into the webapps, and no software to install – just set up the VPN and it’s done!
+
+
+
+
+
+
+Why US?
+
+
+Lowest Rates with 24×7 availability! 99% service up time! Beat any other competitors in market!
+Optimized for iPhone/iPad/iTouch communication.
+Quality Network ensures your vpn service will be fast wherever you are in the world.
+You can try our VPN services for FREE! With up to 1000MB FREE quotas!
+
+
+
+
+
+
+Download iOS Client
+
+
+Our iOS app is available in iTunes Store. You can download it without any charge!
+
+
+
+
+
+
+
+
+	
+				
+												
+						
+		
+		
+	
+
+
+
+
+
+
+
+	
+		
+						
+									
+						
+															
+									
+								
+													
+					
+					
+						
+							Pages
+							
+
+Home
+OUR STRENGTH
+WHY VPN
+SETUP HOWTO
+FAQ
+Affiliates
+ABOUT
+						
+					
+					
+						
+							Stay In Touch
+								
+
+									Site RSS Feed
+																											Twitter
+																																											
+
+						
+					
+					
+						
+							More
+							Download iOS client from iTunes Store.						
+					
+					
+						
+							
+								
+Terms & Conditions 
+Privacy Policy
+© 2012 VPNVIP Inc.							
+						
+					
+							
+	
+		
+			
+				
+	
+
+
+
+
+ 	
+
+  
+
+
+
+
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20193239-1']);
+  _gaq.push(['_setDomainName', '.vpnvip.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();

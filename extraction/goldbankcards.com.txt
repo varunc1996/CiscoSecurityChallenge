@@ -1,0 +1,30 @@
+Did you ask the button if you could click it?
+
+
+function Accusation() {
+    var x = document.getElementById("demo");
+    x.style.fontSize = "14px";
+    x.style.color = "black";
+    document.getElementById('demo').textContent = 'No, No you didnt';
+}
+
+
+
+function FuckYourApology() {
+  var x = document.getElementById("demo");
+  x.style.fontSize = "14px";
+  x.style.color = "black";
+  document.getElementById('demo').textContent = 'Nothing will ever be right after what you did';
+
+}
+
+
+
+function Refresh() {
+  location.reload();
+}
+
+
+No, Dont Touch Me There, that is my No No Square
+Click for Fogiveness from the First Button
+Well that didnt work so well. Why dont we try again

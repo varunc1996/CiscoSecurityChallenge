@@ -1,0 +1,8397 @@
+HYIP monitor and HYIP rating system | uHYIPs.com
+
+
+ 
+
+
+
+
+
+
+
+
+<!--
+new Image().src = "http://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//-->
+
+
+
+        
+       Add your banner here ($19.00/week)    
+
+
+    uHYIPs.com - Unique HYIP monitor system, HYIP rating. Personal HYIP monitor pages with your referral links for FREE! 
+
+
+
+  
+   
+     Home
+     Add HYIP
+     Advertise
+     Login
+     Register
+     FAQ
+     RCB Request
+     HYIP for Beginners
+     Partners
+     User pages
+     Support
+     
+  
+  
+   
+     Add your banner here ($121.00/week) | Expires 22 AugAd-price ($110.00/week) | Expires 25 AugAd-price ($100.00/week) | Expires 07 SepAd-price ($88.00/week) | Expires 23 AugAdd your banner here ($39.00/week) | Expires 02 Sep      
+   
+  
+
+
+All HYIPs | 
+New HYIPs |
+ Diamond  |  Platinum  |  On Hold  |  Users HYIP Rating  |  Blacklist 
+
+
+
+  
+    Sign in
+    members area  
+  
+    
+       Username:
+       Password:
+       
+    
+  
+
+
+
+  
+    Search HYIP's type your query
+  
+  
+
+
+
+
+
+  
+    Payment systems  
+  
+
+
+
+Perfect Money
+
+
+
+
+Payeer
+
+
+
+
+Advanced Cash
+
+
+
+
+Bitcoin
+
+
+
+
+Litecoin
+
+
+
+
+Solid Trust Pay
+
+
+
+
+OK Pay
+
+
+
+
+Pex Pay
+
+
+
+
+Bank Wire
+
+
+
+
+Yandex Money
+
+
+
+
+Web Money
+
+
+
+
+Payza
+
+
+
+
+LiqPay
+
+
+
+
+QIWI
+
+
+
+
+Inter Kassa
+
+
+
+
+Pecunix
+
+
+
+
+C-Gold
+
+
+
+
+PayPal
+
+
+
+
+Nix Money
+
+
+
+
+Skrill
+
+
+
+
+Neteller
+
+
+  Counters
+  Independent statistics
+
+  
+
+
+
+
+
+
+
+
+
+
+
+var data, p;
+var agt=navigator.userAgent.toLowerCase();
+p='http';
+if((location.href.substr(0,6)=='https:')||(location.href.substr(0,6)=='HTTPS:')) p='https'; data = '&r=' + escape(document.referrer) + '&n=' + escape(navigator.userAgent) + '&p=' + escape(navigator.userAgent)
+if(navigator.userAgent.substring(0,1)>'3') data = data + '&sd=' + screen.colorDepth + '&sw=' + escape(screen.width+ 'x'+screen.height);
+document.write('<a href="http://hyiprank.com/category/1" target="_blank" rel="nofollow">');
+document.write('<img border=0 hspace=0 '+'vspace=0 alt="HYIP.com - Online Investment Monitoring" src="http://hyiprank.com/counter?i=3621' + data + '"> </a>');
+
+
+
+<!--
+bd = "http://counter.hyipexplorer.com/counter.php?id=283";
+ur = bd+"&w="+screen.width+"&r="+escape(document.referrer)+"&u=";
+ur += escape(document.location)+"&t="+escape(document.title);
+ur += "&java=1"+"&sc_random="+Math.random();
+document.write('<a href="http://www.hyipexplorer.com/" target="_blank" rel="nofollow"><img src="'+ur+'" alt="HYIP - online investment" border="0"></a>');
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    New HYIP's
+
+    
+    Bitin
+    19 Aug,2017
+    waiting
+    
+                            0.17%-0.25% 
+            Hourly for   days
+              
+        
+    Genetix
+    18 Aug,2017
+    paying
+    
+                            106%-130% 
+            After  2  days
+                                  130%-220% 
+            After  5  days
+                                  180%-480% 
+            After  10  days
+              
+        
+    Indelible Gain
+    16 Aug,2017
+    paying
+    
+                            2% 
+            Daily for 25  days
+              
+        
+    Pmgrower
+    16 Aug,2017
+    paying
+    
+                            1%-2.5% 
+            Daily for 7  days
+              
+        
+    Smart Day Invest
+    16 Aug,2017
+    paying
+    
+                            110%-150% 
+            After  1  day
+              
+    
+
+
+
+  Last votes for HYIP's
+
+
+    
+    Earning Hour
+        
+     
+       
+       Hello aiddms Amount $1628 has been successfully sent to your Perfectmoney account. Batch: 185473592 . Earning Hour is really a g...
+     
+    
+    
+    
+    Trusty Hour Ltd
+        
+     
+       
+       It is my Favorite investment company.I like instant payment and I have earned over $150  here, thanks a lot.  TrustyHour.com is ...
+     
+    
+    
+    
+    Trusty Hour Ltd
+        
+     
+       
+       Instant  payment as usual!
+The amount of 1436 USD has been deposited to your account.
+Accounts: U13567865->U2493758
+Memo: ...
+     
+    
+    
+    
+    Trusty Hour Ltd
+        
+     
+       
+       It is really a great website. The amount of 1327 USD has been deposited to your account. 
+Accounts: U13567865->U1649382. Mem...
+     
+    
+    
+    
+    Now Deposit Ltd  
+        
+     
+       
+       Always instant
+Date : 08/19/2017 11:13
+From/To Account : U14062561
+Amount : 67.50
+Currency : USD
+Batch : 185446250
+Memo : ...
+     
+    
+    
+    
+    Now Deposit Ltd  
+        
+     
+       
+       Excellent payments speak for themselves 
+Date : 08/19/2017 18:15
+From/To Account : U14062561
+Amount : 1590.00
+Currency : USD...
+     
+    
+    
+
+
+
+
+
+
+  
+    Top of profitable HYIP's
+  
+
+  
+Hour Power
+
+845% income
+
+  
+Online Investment
+
+740% income
+
+  
+Investellect
+
+541% income
+
+  
+Icon Invest
+
+478% income
+
+  
+Hourly USD
+
+442% income
+
+
+  
+    Top of most voted HYIP's
+  
+
+Hour888 Ltd
+
+User's rating: 10 (1148 votes)
+
+
+Coins Circle Ltd
+
+User's rating: 8 (867 votes)
+
+
+Earning Hour
+
+User's rating: 7 (767 votes)
+
+
+Hour Pay
+
+User's rating: 6 (761 votes)
+
+
+Hourly USD
+
+User's rating: 6 (721 votes)
+
+
+
+
+
+
+  
+      Diamond HYIPs
+  
+  
+Sticky
+
+
+
+
+    
+      Genetix      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 7 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 61%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 2 days 
+                  monitoring: 2 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         106%-130% After  2  days, principal included
+              
+                         130%-220% After  5  days, principal included
+              
+                         180%-480% After  10  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Genetix is a registered trademark of ZS Genetics Inc.
+You probably know that genetics is the science of the future. Its development is widely used in medicine, sports, agriculture and other areas.
+Genetix is a highly profitable investment project, which goal is to use the most advanced genetics achievements to improve the quality of human life....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Hour Power      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 11 hours ago
+
+
+       
+            Investment of uHYIPs: $1400
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 845%
+                                    User's rating: 3 (323 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 292 days 
+                  monitoring: 285 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.48%-1.55% Hourly for 3  days, principal included
+              
+                         2.5%-3.0% Hourly for 2  days, principal included
+              
+                         8%-10% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        HourPower.biz is founded by a team of professional traders who know exactly what it takes to earn the most from capital market. Our company provides a full investment service focused on the Bitcoin market and forex makret. Each trader in our group has more than 5 years of trading experience and successful trading records, as we know that is the exact point that support our company stability and profitability....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Online Investment      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 22 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 740%
+                                    User's rating: 0 (16 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 1279 days 
+                  monitoring: 1279 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1%-3% Daily for 365  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        At Online Investment, each one of us keenly wants to make a superior difference. Since its establishment in 2009, the company has diversified its investments in Gold, Silver, Bond, Hedge Funds, Stock trading, Forex and Mining in both domestic and international markets. Our objective is to maximize shareholder value by identifying superior investment opportunities in markets around the world....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Investellect      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 11 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 541%
+                                    User's rating: 2 (196 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 898 days 
+                  monitoring: 116 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1% Daily for 30  days, principal return
+              
+                         1.2% Daily for 60  days, principal return
+              
+                         1.4% Daily for 120  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        We are a leading company that focus on Forex market and Cryptocurrency sectors. Our goal is to achieve the highest return from the activity on the foreign currency exchange (Forex) and Cryptocurrency exchange markets. If you would like to enter the world of online Forex trading and Cryptocurrency trading with modern Cloud Mining platform then you are on your right way. Investments with Investellect - Force Of Experience are affordable and safe. Our team works tirelessly to ensure that each and every one of ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Icon Invest      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 2 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 478%
+                                    User's rating: 1 (68 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 997 days 
+                  monitoring: 997 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1%-5% Daily for 365  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Welcome to the online home of Icon Invest – One of the world’s leading Investment company that offers wide-ranging investment services that support both individuals as well as corporate financial goals. We are mainly active in Forex, Stocks, Gold, Bond, Private equity funds and etc....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Hourly USD      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $1400
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 442%
+                                    User's rating: 6 (680 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 237 days 
+                  monitoring: 234 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.08%-1.25% Hourly for 4  days, principal included
+              
+                         5%-6% Hourly for 2  days, principal included
+              
+                         16%-21% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        HourlyUsd.com is an investment-scientific group that has been working on capital placement in business processes with high financial yield since March 2016. The priority of the company are business processes that are formed based on innovation. The unique resource of the company is a scientific council that is made up of scientists who are working on expert evaluation of analytical reports prepared by specialists of our company. Evaluating the data from the point of view of the prospects of development and ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      BitDig Business      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 23 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 430%
+                                    User's rating: 0 (34 votes)
+       
+       
+              Min deposit: $20
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 94 days 
+                  monitoring: 94 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         6%-9% On weekdays for 30  days, principal included
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        Bitdig Business Limited is a young and legit bitcoin management company.Our company is registered in Selham Selham, United Kingdom since 2016.
+
+The company is dedicated in cryptocurrencies industry, with outstanding technology of bitcoin trading and bitcoin mining.Since company was born, our role is to offer each person the chance to attend the bitcoin related business and earn profit easily with our powerful sytem. 
+
+The current members of our team come from different scientific disciplines, but our co...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Maxi Pro      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 4 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 327%
+                                    User's rating: 0 (17 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 749 days 
+                  monitoring: 749 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1% Daily for 500  days, principal return
+              
+                         2.5% Daily for 400  days, principal return
+              
+                         5% Daily for 300  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Maxi Pro is an innovative and practical "digital funds" platform online, which welcomes all members worldwide. We act solely as a facilitator between you (our members) and the Enterprise (our investment). This lucrative opportunity to earn money online was born in respond to ever-increasing global demand for Forex auto pilot software. Our key objective is to constantly increase the mutual return on investment through Maxi Pro platform. To achieve that goal, we're prepared to deliver you an extremely high da...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      FX Fortune      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 301%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $20
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 622 days 
+                  monitoring: 622 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.7%-3.5% Daily for 365  days, principal return
+              
+                         7% Daily for 300  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        At Fx Fortune, We provides the top online possessions for online investment, risk management and advisory services to both institutional and individual investor around the globe. We offer a variety of products and functions of asset classes for all type of investors including Forex, Index, Stock and investment in various fund....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Royera Pay      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 13 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 300%
+                                    User's rating: 0 (21 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 281 days 
+                  monitoring: 140 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.65% Daily for 21  days, principal return
+              
+                         2% Daily for 31  days, principal return
+              
+                         3% Daily for 41  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Royera Pay Ltd is an investment company, which invest in Technology to produce products for the betterment and ease of Humanity. Royera Pay is investing in integrating emerging technologies into business. We identify technology advances that could strengthen our core operations and lead us to new opportunities for growth. Through our technology teams, we scan the globe for technologies that can yield strategic and financial value....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Matrix Bit Club      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 276%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 658 days 
+                  monitoring: 110 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1%-3% Daily for 365  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        FOUNDER INVESTMENT
+By investing with MatrixBit.Club you become a founder of MatrixBit.Club and all our 
+
+activities over the years to come. That also means you get a piece of the money 
+
+generated with MatrixBit.Club now and in all future as long you keep investing with us
+
+Club plan 1% daily for 1 year. Start $10
+Founder 1.5% daily for 1 year. Start $1000
+Founder Manager 2% daily for 1 year. Start $10000 (+ yearly bonus of turnover 
+
+generated)
+
+Today Matrixbit.club Association own:
+a)Bitcoin...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Fat Funds      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 263%
+                                    User's rating: 0 (3 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Automatic         
+                     
+       
+               
+                                    lifetime: 146 days 
+                  monitoring: 136 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         2.1% On weekdays for 100  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        For over 22 years, I've helped people with weight problems to lose weight, and to recover from all types of eating disorders, using a highly collaborative and individualized approach. 3 years ago I found out the way to transform overweight into sprouts of wealth....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      USD Profit      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 2 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 255%
+                                    User's rating: 0 (12 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 692 days 
+                  monitoring: 692 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.1%-2.5% Daily for 500  days, principal return
+              
+                         2.5% Daily for 365  days, principal return
+              
+                         7% Daily for 365  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        USD Profit is a global network of professional firms providing comprehensive range of investment services to institutional and corporate clients across the world. We draw on our wide range of services and provide our clients with inventive investment banking advisory solutions. Our investments services include Stock, Gold and Silver , Oil & Gas, Metal & Mining Trading, Currencies, Mutual Funds and Private equities....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Invest 2 Rich      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 19 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 255%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 523 days 
+                  monitoring: 522 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.5%-2.5% Daily for 365  days, principal return
+              
+                         5% Daily for 365  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        nvest 2 Rich is a leading investment and trading company specializing in domestic and international hedge funds, Forex, Stock, Bonds and Gold. Here at Invest 2 Rich we believe that our philosophy, "Strength through Performance", is the right way to meet our customer's expectations by providing our customers with a service that is high "performance?with a team of experienced investment advisors, skilled market analysts, professional traders and legal experts to work together to achieve success....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Mecca Funds      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 20 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 205%
+                                    User's rating: 0 (2 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 437 days 
+                  monitoring: 437 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1% Daily for 1825  days, principal included
+              
+                         2% Daily for 730  days, principal included
+              
+                         5% Daily for 365  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        We are among investors in the hotel sector which is active in Mecca and around the world. We are always searching and identify suitable hotels to invest to ensure high returns for our fund sharing holders....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      TP FX Pro Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $200
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 202%
+                                    User's rating: 0 (5 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 293 days 
+                  monitoring: 291 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         101%-108% After  1  day, principal included
+              
+                         106%-141% After  5  days, principal included
+              
+                         119%-224% After  15  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        We are a company established to help customers create wealth through Bitcoin fund. Those looking for a solid business to park your funds. For the benefit of those uninitiated into the avenue, we present here some information about what Bitcoin is and how it can add to your existing portfolio with the hope that it would get you interested.
+The market economy continuously goes through a change; it is always in a state of flux. However, there are some incidents that cause a crisis. Such incidents affect the g...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Smart Day Invest      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 5 hours ago
+
+
+       
+            Investment of uHYIPs: $101
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 193%
+                                    User's rating: 0 (6 votes)
+       
+       
+              Min deposit: $1
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 4 days 
+                  monitoring: 4 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         110%-150% After  1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Online deposits
+Invest with us
+Income from deposit 110-150% PER DAY...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Over True Investments      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 192%
+                                    User's rating: 0 (12 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 11 days 
+                  monitoring: 9 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         120%-300% After  1  day, principal included
+              
+                         300%-2500% After  7  days, principal included
+              
+                         800%-5000% After  12  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        overtrueinvestments.us is founded by a team of professional traders who know exactly what it takes to earn the most from capital market. Each trader in our group has more than 10 years of trading experience and successful trading records, as we know that is the exact point that support our company stability and profitability.
+
+Our main aim is to achieve the highest returns possible for both sides: for ourselves and our investors. We apply different methods of trading to generate returns. We have spent tho...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Aurum Bank      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 184%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 843 days 
+                  monitoring: 256 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.8% On weekdays for 260  days, principal return
+              
+                         6500% After  120  days, principal included
+              
+                         7% On weekdays for 85  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Aurum Financial Group LTD is a global investment company founded and registered in the UK. We provide our services for use in different parts of the world. Anyone from any part of the world has equal opportunities and conditions to participate in the company’s program. Your needs and requirements determine how you participate. Our services may be of interest to entrepreneurs, corporations and ordinary individuals with no business experience. Our investment offers contribute towards capacity building for imp...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Crypto Solutions      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 11 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 180%
+                                    User's rating: 3 (316 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 499 days 
+                  monitoring: 39 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.5% Daily for 30  days, principal return
+              
+                         111%-200% After  7  days, principal included
+              
+                         125%-500% After  15  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        CryptoSolutions  company carries out the trading of cryptocurrency funds on the specialized cryptocurrency exchanges, minimizing sags and drawdowns by restructuring of investment means. Using exchange spatial arbitration and exchange rate arbitrage, we create the most comfortable conditions to implementation of our investment obligations to our clients in full....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Atomic Horizons      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 171%
+                                    User's rating: 0 (13 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 144 days 
+                  monitoring: 21 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.7% Daily for 20  days, principal return
+              
+                         5.2%-5.9% Daily for 30  days, principal included
+              
+                         104% After  4  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Searching for a reliable sector for successful capital investments, investors try to find an answer to the question: Can the nuclear energy market be that secure segment of economy that
+
+Minimizes risks,
+Achieves the fastest pay-back, and
+Brings income....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Hour Profit Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $200
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 161%
+                                    User's rating: 0 (13 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 8 days 
+                  monitoring: 8 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.11%-1.22% Hourly for 4  days, principal included
+              
+                         2.78%-4.06% Hourly for 2  days, principal included
+              
+                         9%-13% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        HOURPROFIT.BIZ Company is a real estate, oil and gas exploration business. 
+
+We exploit large oilfields in the world and earn the huge profits. On the available capital, our company continues to expand other areas to get success and become a bigger and stronger corporation. We are currently expanding our investment in online banking. Anyone can join and get profits easily. 
+
+We have a team of experienced professionals in the financial and banking field to support and timely assure the customer benefit. ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Coins Circle Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $1800
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 157%
+                                    User's rating: 7 (837 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 76 days 
+                  monitoring: 74 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.11%-1.22% Hourly for 4  days, principal included
+              
+                         2.78%-4.06% Hourly for 2  days, principal included
+              
+                         9%-13% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        CoinsCircle LTD is a professional investment corporation engaged in stock, foreign exchange market, Bitcoin market and gold trading. Complex market world is our daily concern. Our mission is to obtain funds for further management. With successful development of the private sector capital management for ten years, we are ready to make our services open to the whole world. The Internet has become the most convenient and broadest channel of communication, which is the reason why we decide to provide service th...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Bandeira Construction      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 2 days ago
+
+
+       
+            Investment of uHYIPs: $500
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 155%
+                                    User's rating: 0 (7 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 528 days 
+                  monitoring: 527 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1%-1.8% Daily for   days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Our business provides innovative and efficient infrastructure that underpins our daily lives, supports communities and enables economic growth.We finance, develop, build and maintain complex infrastructure such as transportation, power and utility systems, and social and commercial buildings. Our main geographies are the UK, US, Middle East and South East Asia....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Instant Paid Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $500
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 150%
+                                    User's rating: 0 (31 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 18 days 
+                  monitoring: 16 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.49%-1.60% Hourly for 3  days, principal included
+              
+                         2.18%-2.80% Hourly for 2  days, principal included
+              
+                         11%-15% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        INSTANTPAID.BIZ is a company that invests in foreign exchange, gold and securities. With a team of professionals with more than 5 years of experience and a long-term and effective investment strategy. We bring maximum profit to customers who contribute capital on the principle of security, safety and stability. Our company is legally registered and protected under UK law 
+
+From 2017, INSTANTPAID.BIZ has made strong steps to be involved in attracting investment in the international exchange market and seek...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Pay Invest      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 5 hours ago
+
+
+       
+            Investment of uHYIPs: $2200
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 146%
+                                    User's rating: 3 (303 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 115 days 
+                  monitoring: 112 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.9%-1.0% Hourly for 5  days, principal included
+              
+                         3%-4% Hourly for 3  days, principal included
+              
+                         15%-20% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Pay Invest LTD is a financial institution with a long history. Like other banks with traditional principles our company aims to extract maximum from the opportunities we have while operating assets of our customers. The foundation of Pay Invest LTD consists in the aspect that now has become our distinctive feature. It is cross-insurance mechanism that enables all our clients to have protected their funds even if the world falls apart....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Respectativa      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $200
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 145%
+                                    User's rating: 1 (69 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 23 days 
+                  monitoring: 23 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         118%-122% After  7  days, principal included
+              
+                         12%-13% Daily for 12  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Respectativa is a licensed investment company (#8045700) that has been doing business since 25th April 2012. In that time, our company has used its unique business strategy to establish ourselves as a leading global giant in the field of financial investments. Unlike other investment companies, who invest money in crypto-currencies, real estate, or startups, at Respectativa, we combine our investments in four different areas at once, offering both high and low risk investments for higher returns. In the sho...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Hour Mining Business      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 6 hours ago
+
+
+       
+            Investment of uHYIPs: $1300
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 137%
+                                    User's rating: 0 (53 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 75 days 
+                  monitoring: 72 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.9%-1.0% Hourly for 5  days, principal included
+              
+                         6%-8% Hourly for 2  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        HourMining.com is under the company Hour Mining Business Limited based in UK. We offer lucrative cryptocurrency market investments. Profitable operations are achieved through the use of modern systems for the cloud Bitcoin mining and the trading of the bitcoin trading market. ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Hour888 Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $4200
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 136%
+                                    User's rating: 10 (1115 votes)
+       
+       
+              Min deposit: $8
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 136 days 
+                  monitoring: 136 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.49%-1.60% Hourly for 3  days, principal included
+              
+                         2.18%-2.80% Hourly for 2  days, principal included
+              
+                         11%-15% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Hour888 is a new bitcoin-based foreign exchange trading company, legally registered in terms of British law. The company has already gained 12 year forex investing experience. Employing long-term or short-term investment strategy or technical analysis, the foreign exchange trading team of the company can always help customers to trade in a safest way and with maximum return. Whether you want to make stable profits or higher, we can customize a set of safe trading mechanism to meet your demand for profits....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      USD Hour      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $2000
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 132%
+                                    User's rating: 0 (53 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 68 days 
+                  monitoring: 65 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.43%-1.50% Hourly for 3  days, principal included
+              
+                         2.30%-2.50% Hourly for 2  days, principal included
+              
+                         10%-20% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        UsdHour.com specializes in the trading and exchange of cryptocurrencies. With the advent of Bitcoin our traders paid attention to the volatile fluctuations of its exchange rate and realized the prospects of a new type of electronic currency. From this moment we are focused on the study the features of work on crypto exchanges and conduct trading activity....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Bitex Profit LTD      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 19 hours ago
+
+
+       
+            Investment of uHYIPs: $600
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 130%
+                                    User's rating: 0 (16 votes)
+       
+       
+              Min deposit: $30
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 76 days 
+                  monitoring: 76 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         11% Daily for 11  days, principal included
+              
+                         160% After  9  days, principal included
+              
+                         180% After  7  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Bitex Profit LTD is cryptocurrency investment company founded in 2017. We are group of professionals, who know that the bitcoin, and cryptocurrencies at all, are the future of money. Soon everything will change in financial markets. The cryptocurrencies, especially Bitcoin, getting more and more attractive for banks, governments and its getting popular all over the world. We are UK based company you can check, the company number here - 10719104....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Fx Headway      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 2 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 130%
+                                    User's rating: 0 (31 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 185 days 
+                  monitoring: 22 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         20.6%-25% Daily for 5  days, principal included
+              
+                         10.7%-16% Daily for 10  days, principal included
+              
+                         7.5%-13% Daily for 15  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        FX Headway is private alternative investments adviser and diversified portfolio management specialist, offering assets and capital management plans to its clients.
+
+Our investment strategies are built on solid, proven to work commodity trading techniques developed by an elite reputable group of fund management professionals.
+
+FX Headway is looking forward to providing its investors very attractive returns, while covering the risks during down markets and amplifying the earnings during consistently stron...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Secure Capitals      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 8 hours ago
+
+
+       
+            Investment of uHYIPs: $200
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 129%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $20
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 130 days 
+                  monitoring: 130 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         2.5%-6% On weekdays for 90  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Program Discription:
+Through the application of trading methods with financial risks attached to financial or real assets it provides the Secure Capital Funding Limited brokers actually to purchase and sell the assets personally, and the risks that arise from the shock of the prices for these assets. A large part of the market of derivatives is hold by short-term swaps and interest rate swaps, which are based mostly on contracts on exchange of different securities. This position has been used by guidance a...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Traffic Heap      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 124%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $50
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 100 days 
+                  monitoring: 84 days 
+                  
+                  
+       
+
+
+        
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        TrafficHeap is a Revenue Sharing Massive Advertising Program. You can buy adpacks to advertise your websites or referral links, and you will earn a share of our revenue each day, until you earn back your purchase and even more!...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Sonic Finance Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 12 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 120%
+                                    User's rating: 0 (51 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 17 days 
+                  monitoring: 17 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         103%-130% After  1  day, principal included
+              
+                         112%-200% After  3  days, principal included
+              
+                         118%-275% After  5  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Sonic Finance Limited is a fully registered investment company based in the United Kingdom. Our registration number is 10874414 . Sonic-Finance is constantly expanding and growing massively. Thanks to our excellent marketing strategy and break-outs during trading hours. Our Corporate Headquarters is located here: No 52, Pritchard Street, Bristol, BS2 8QE, UNITED KINGDOM 
+
+We mainly specialise on Stock and forex trading which increases the rate of returns to our Investors daily. We have over 12 years of ex...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Still Forex Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 9 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 118%
+                                    User's rating: 0 (10 votes)
+       
+       
+              Min deposit: $25
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 6 days 
+                  monitoring: 5 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         103%-130% After  1  day, principal included
+              
+                         110%-200% After  3  days, principal included
+              
+                         117%-275% After  5  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Still Forex LTD specialize on trading and has been trading on major exchanges (such as CME) and interbank foreign exchange market. 
+We have our own approach to trading, are able to evaluate the risks and know how to diversify them.
+In the company a group of people is working with extensive experience in different areas, where everyone is actively cooperating with 
+each other to achieve the goals....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Laser Online      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $200
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 117%
+                                    User's rating: 0 (2 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 52 days 
+                  monitoring: 30 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         12% On weekdays for 12  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Laser Online is an innovative and practical "digital funds" investment platform, which welcomes all users worldwide. We act solely as a third-party between you (platform users) and the Enterprise (our investment). This lucrative opportunity to earn money online was born in response to the expanding global demand for Laser based products. Our key objective is to constantly increase the mutual return on investment through Laser Online platform. To achieve that goal, we're prepared to deliver you a remarkably ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Hour Pay      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $5200
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 114%
+                                    User's rating: 6 (731 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 237 days 
+                  monitoring: 237 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.1%-2.25% Hourly for 4  days, principal included
+              
+                         7%-10% Hourly for 2  days, principal included
+              
+                         15%-20% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        HOURPAY LIMITED specializes in the trading and exchange of cryptocurrencies. With the advent of Bitcoin our traders paid attention to the volatile fluctuations of its exchange rate and realized the prospects of a new type of electronic currency. From this moment we are focused on the study the features of work on crypto exchanges and conduct trading activity. 
+Since 2016 HOUR PAY LIMITED is involved in attraction of investments to enter the international exchange market and the search for new partners and ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Now Deposit Ltd        
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $1000
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 110%
+                                    User's rating: 3 (356 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 66 days 
+                  monitoring: 65 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.65%-1.2% Hourly for 6  days, principal included
+              
+                         3%-5% Hourly for 3  days, principal included
+              
+                         25%-30% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        NowDeposit LTD present the British company which confidently strives to occupy leading positions in the field of international investment and quality management of financial assets. An experienced team of professional traders on multicurrency, Forex market and the London Stock Exchange is ready to provide high-yield and safe service to all comers. We offer the best conditions for short term investing that brings you hourly profit. Cooperation with top class experts of financial markets is the key to the suc...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Earning Hour      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $4000
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 109%
+                                    User's rating: 6 (748 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 170 days 
+                  monitoring: 169 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.10%-1.45% Hourly for 4  days, principal included
+              
+                         5%-8% Hourly for 2  days, principal included
+              
+                         18%-24% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Efficient operation of EarningHour Company relies on superior network design specialists and advanced robots that support highly efficient and profitable Bitcoin mining systems. Looking for high interests return and stable hourly profit from your investments? You have come to the right place, EarningHour Limited is the simple way to earn money online. We make bitcoin profits in bitcoin market 24 hours daily and all trade is made by our trade software automaticly. No long wait, No complicated rules, all depo...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Hour Paid      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 5 hours ago
+
+
+       
+            Investment of uHYIPs: $2500
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 108%
+                                    User's rating: 5 (630 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 146 days 
+                  monitoring: 120 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.9%-1.0% Hourly for 5  days, principal included
+              
+                         3%-4% Hourly for 3  days, principal included
+              
+                         15%-20% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        If you are looking for a profitable way to make money, there is no better option than cryptocurrency trading in today's world. We invite you to join HourPaid and enjoy the benefits of cryptocurrency trading with us.
+
+Founded in 2016 as a finance company, HourPaid.com is one of the fast growing companies worldwide. We have hundreds of satisfied customers from all over the world. Online investment attraction is the best way to make our business grow faster. We accept our investor around the globe for Compan...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Invest Sar      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $1400
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 106%
+                                    User's rating: 0 (52 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 59 days 
+                  monitoring: 58 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.08%-1.35% Hourly for 4  days, principal included
+              
+                         6%-8% Hourly for 2  days, principal included
+              
+                         17%-24% Hourly for 24  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Investsar.com gives you stability guarantee high returns stability on your investment .We are providing you features such as INSTANT DEPOSITS and INSTANT WITHDRAWALS, you will make biggest profit every day. Imagine a world where life is easy. Where people go out to live their dreams. Travel to their dream destinations, buy a Car, shop and dine, or even buy their very own home. Imagine a future where you are your own boss. Invest Sar is an independent investment platform that was created through combining ex...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Trusty Hour Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $2000
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 105%
+                                    User's rating: 5 (567 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 102 days 
+                  monitoring: 99 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.86%-0.93% Hourly for 5  days, principal included
+              
+                         1.52%-1.86% Hourly for 3  days, principal included
+              
+                         30%-45% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        TrustyHour Ltd Founded in 2015 By a group of likeminded businessmen Specialist Investment cryptocurrencies. Now in 2017 Our Company Open To Public "TrustyHour Ltd" Because We need investor to get best profit together.trustyhour Ltd System in all country. Bitcoin can make change Future and Dream , Trading bitcoin and cryptocurrency make biggest profit every day. Imagine a world where life is easy. Where people go out to live their dreams. Travel to their dream destinations, buy a Car, shop and dine, or even ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Crypto Center      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 103%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 65 days 
+                  monitoring: 29 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         2.1% Daily for 20  days, principal return
+              
+                         2.4% Daily for 45  days, principal return
+              
+                         2.8% Daily for 65  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Crypto Center Limited offers a profitable cooperation, which will allow to receive a steady income, not putting any effort to this. Our company is a unique in its own way trust company, leading its activities between three investment areas simultaneously. We offer high-return investing in the Forex and cryptocurrency markets as well as promising Fintech start-ups. Our employees have many years' experience of working the Forex and cryptocurrency markets, in start-up financing and investment spheres in the UK...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Royal Mining      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 11 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 102%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 137 days 
+                  monitoring: 97 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1%-1.3% Daily for   days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Royal-Mining is professional software developers who were directly involved in the development and testing of the most known classical algorithms for mining SHA-256 and scrypt. Knowledge and practical skills are the key to the success of the company....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Famous BTC      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 10 hours ago
+
+
+       
+            Investment of uHYIPs: $800
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 100%
+                                    User's rating: 1 (112 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 34 days 
+                  monitoring: 30 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.08%-1.45% Hourly for 4  days, principal included
+              
+                         108%-120% After  1  day, principal included
+              
+                         180%-300% After  3  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Famousbtc Ltd is an associated company of Bitcoin Investment Limited specialising in bitcoin trade. Famousbtc Ltd is an expert team of skilled Bitcoin traders and bitcoin market analysts with more than 5 years of experience in the coin trade market....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Ripfire BTC Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 96%
+                                    User's rating: 0 (2 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 59 days 
+                  monitoring: 59 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.5% Daily for 12  days, principal return
+              
+                         1.9% Daily for 25  days, principal return
+              
+                         2.4% Daily for 40  days, principal return
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        If you are in search of reliable investment directions and want to get a steady income for a long time - you've come to the right place! Our company is proud to offer high-quality trust management service and effectively manage your assets for maximum benefit. Ripfire btc Limited is involved in trading on both markets Forex and securities since 2015. During this time we have proved only with the best hand and won the trust of thousands of customers worldwide. Today the company is also opened to you! Use our...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Chain Group Service      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 23 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 94%
+                                    User's rating: 1 (77 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 31 days 
+                  monitoring: 26 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.1%-3% Daily for 250  days, principal return
+              
+                         0.1%-6% Daily for 180  days, principal return
+              
+                         0.1%-1.7% Daily for 300  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        At Chain.Group, those who want to make money on cryptocurrency exchanges meet those who is good at doing it. The site presents a list of Trade Groups and Investors choose a Trade Group to invest in....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      10 Days Profit      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $300
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 93%
+                                    User's rating: 0 (3 votes)
+       
+       
+              Min deposit: $25
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 37 days 
+                  monitoring: 35 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         11%-20% On weekdays for 10  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        10 Days Profit Ltd. Is a private online investment company that has been legally registered in the UK. (Company No.10733106) Our company provides its website as a service to its present and prospective clients to make investments online and gain daily stable profit. Its aim is to provide a secure and stimulating investing environment to all its users. We wish to build a mutually beneficial and long lasting business relationship with all our clients We are working in the field of Bitcoin trading, forex and r...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Vitaminvest      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 92%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 91 days 
+                  monitoring: 84 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.1%-1.3% Daily for 100  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Mary Bets      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 21 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 92%
+                                    User's rating: 0 (31 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 46 days 
+                  monitoring: 43 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         3% Daily for 50  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Reliable online betting that provides stable income from the positive outcomes of sports bets and the effectiveness of investing in each contract....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Control Finance      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 21 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 90%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 86 days 
+                  monitoring: 81 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1%-1.5% Daily for   days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Our mission statement: Control Finance sees its mission as taking high-yield transactions with cryptocurrencies to a fundamentally new, widespread level, and we give anyone the opportunity to make a profit just by becoming an affiliate of our company....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Chest Wallet      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 87%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 54 days 
+                  monitoring: 31 days 
+                  
+                  
+       
+
+
+        
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        0.1% Hourly (2.4% per day), release deposit 5% fee...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Rent Buildings      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 4 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 64%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $30
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 153 days 
+                  monitoring: 153 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         3% Weekly for 1000  days, principal return
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Triumph Trade      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 17 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 63%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 78 days 
+                  monitoring: 78 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.3%-5% Daily for 365  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Triumph trade’s began its story as an online trading specialist that provides online trading platforms and advanced trading tools to private and institutional clients. Over the years, we have evolved to provide a range of financial products and services in order to meet the needs of our growing clientele in Asia and beyond....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Luxearn      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 6 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 60%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $25
+              Withdrawal: Manual         
+                     
+       
+                                added: 03 Mar,2017
+                  monitoring: 170 days      
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.5% On weekdays for 356  days, principal return
+              
+                         500% After  120  days, principal included
+              
+                         7% On weekdays for 120  days, principal included
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        LUXEARN is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+LUXEARN is a long term and profitable investment program, backed up by Forex market trading, Stock market trading, and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term. 
+...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+                              :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Fexbit Business Limited      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 11 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 59%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $30
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 19 days 
+                  monitoring: 19 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         101.5%-110% After  1  day, principal included
+              
+                         106%-150% After  3  days, principal included
+              
+                         116%-300% After  7  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        FEXBIT BUSINESS LIMITED is a professional investment corporation engaged in the trading of cryptocurrency funds.Since our company establishment, FEXBIT BUSINESS LIMITED has shown commendably successful and consistent performance and trading history. Currently, it is regarded as one of the best, most beneficial, brilliantly successful companies in the industry. 
+...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      On Coin      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 55%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $25
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 34 days 
+                  monitoring: 15 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         5%-10% Daily for   days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        We are specializes in "Digital Currency Trading" and "Option Binary Trading", focused mainly on Bitcoin, Foreign Exchange(Forex), where we work with a team of professionals in "Trading", always seeking profit for our investors....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Yesss      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 7 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 54%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $25
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 675 days 
+                  monitoring: 191 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         2% Weekly for 777  days, principal return
+              
+                         12500% After  160  days, principal included
+              
+                         400% After  20  days, principal included
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        YESSS Company is a high profitable, secure and stable investment program. By combining the knowledge, expertise, unique tactics and strategy of our skillful traders, YESSS provides the most successful trading on the Forex market trading, commodity, stock and cryptocurrency exchange. All you need to do is invest in Company on our website yesss.cc, and get a high and stable income!
+Enjoy! ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+                              :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Cryp Trade Capital      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 4 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 50%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $50
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 310 days 
+                  monitoring: 61 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         17.7%-29.7% Monthly for   days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        CRYP TRADE CAPITAL team is a well-organized group of successful top managers, ready to share their experience with you!
+
+Technical engineers and analysts of our company developed a unique and more importantly comfortable platform for cryptocurrency trading and they keep improving it!
+...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Funds Broker      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 48%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $30
+              Withdrawal: Manual         
+                     
+       
+                                added: 08 Mar,2017
+                  monitoring: 165 days      
+                  
+       
+
+
+        
+                         Investment plans:
+                         2.1% Weekly for 800  days, principal return
+              
+                         1600% After  60  days, principal included
+              
+                         11% Daily for 30  days, principal included
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        The Funds Broker Company was founded to perform brokerage services and a number of profitable and promising areas, such as investing in Forex market trading, cryptocurrency and trading on the stock market. Strong, highly efficient, talented and close-knit team, with a wealth of experience in finance and investment, making Funds Broker a perfect and unique money-making machine!
+
+Join us today!
+...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Dollar Bill      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 7 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 48%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $30
+              Withdrawal: Manual         
+                     
+       
+                                added: 10 Mar,2017
+                  monitoring: 163 days      
+                  
+       
+
+
+        
+                         Investment plans:
+                         2.1% Weekly for 700  days, principal included
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        DollarBill is an secure and profitable investment platform, backed up by Forex market trading, Stock Market trading, Cryptocurrency trading, and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+DollarBill is the best choice for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+DollarBill - Your first million is easy!
+...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      LasVegas Income      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 41%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 21 days 
+                  monitoring: 21 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         2.1% Daily for 3  days, principal included
+              
+                         124% After  6  days, principal included
+              
+                         154% After  12  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Our team consists of more than twenty highly qualified specialists in the field of financial risk management as well as professional traders with extensive long-term experience in the foreign exchange markets and also stock market. All of our employees have specialized education and constantly improve their trading skills, they take an active part in the organization of thematic exhibitions and forums dedicated to Forex trading.
+
+...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Sport Trades      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 21 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 39%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 40 days 
+                  monitoring: 17 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         2.0% Daily for 180  days, principal included
+              
+                         2.5% Daily for 270  days, principal included
+              
+                         3.0% Daily for 365  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        SPORT TRADES LIMITED company was registered in Great Britain on January 7, 2014, the registration number is 08834696. For several years, Sport Trades Ltd. specializes in the market of sports betting, by means of arbitrative situations between bookmakers` offices. Long-term work of the companys sports traders showed the success and profitability of this strategy, which allows Sport Trades Ltd. to receive a constant profit on a long-term basis.. In 2017, a decision is made to launch an online platform Sport-t...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Crypto Master      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 8 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 21%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 20 days 
+                  monitoring: 19 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1%-1.5% Daily for 50  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Why Choose US?
+Choosing our company, you first of all choose a reliable and experienced partner that will provide a steady income throughout the term of cooperation and ensures not only profit but also a full return on investment.
+Our Mission
+Our mission is to establish strong partnerships, long-term and mutually beneficial cooperation, the development of international investment direction and popularization of cryptocurrency as a payment instrument.
+What is Crypto
+Crypto uses peer-to-peer technology t...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Crypto Unity      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 2 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 21%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 18 days 
+                  monitoring: 18 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.5%-7% Daily for 30  days, principal return
+              
+                         125%-150% After  1  day, principal included
+              
+                         210%-340% After  4  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        CRYPTOUNITY GLOBAL LTD During of 2 years of CRYPTOUNITY GLOBAL LTD performs tne successful cryptocurrency trading, having filled by the confidence of corporate clients and creating favorable conditions for developing and strengthening of the company’s international influence. Our business has the legal basis confirmed with the British registration and we’re a subject of business activity of Great Britain in accordance with general practice. Cryptocurrency trading is a basis of our success and it’s a reason ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Capital Primex Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 11 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 16%
+                                    User's rating: 0 (11 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 9 days 
+                  monitoring: 9 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.5%-1.9% Daily for 25  days, principal return
+              
+                         1.7%-2.1% Daily for 45  days, principal return
+              
+                         130%-140% After  15  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Welcome to the world of opportunities, with Capital Primex LTD you can generate daily income thanks to our extensive investment portfolio. Capital Primex LTD offers you 3 investment plans with the highest returns on the market. You have the opportunity to invest from $10 to $100,000 with a profit of up to 90% in just 45 days. We know that the secret to generate big profits is diversification, therefore, Capital Primex LTD is dedicated to invest in the following sectors: Trading of Cryptocurrencies, Forex Tr...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      In Vinom Veritas      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 2 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 13%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 20 days 
+                  monitoring: 20 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.8% Daily for 7  days, principal return
+              
+                         14% Daily for 8  days, principal included
+              
+                         15% Daily for 9  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        In vinom veritas – is a global company, whose primary activity is to create and supply of private enoteche.
+
+Buying a vintage wine is a point of prestige and a good investment….
+
+Wine demands a good appellation, and there are not so many clean territories. France can no longer produce much more than it produces now, while world consumption is growing constantly due to the fact that new markets are opening up.
+
+Wine is something that keeps rising in price all the time over the years. Great Britain trad...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Crypto Cural Ltd      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 13%
+                                    User's rating: 0 (2 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 15 days 
+                  monitoring: 16 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.2% On weekdays for 60  days, principal return
+              
+                         1.5% On weekdays for 150  days, principal return
+              
+                         3.0% On weekdays for 100  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        CRYPTO CURAL LTD
+Welcome to the investment program from the British company called Crypto Cural LTD , the recognized leader of the global financial market that is also well known far beyond the UK. After going a long way of business formation and total adjustment of development strategy, we are ready to offer favorable conditions for investors and loyal partners around the world. The company is open to any kind of cooperation and we are pleased to leave on the international level. 
+
+This corporate websit...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Sport Pay      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 13 hours ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 8%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $30
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 6 days 
+                  monitoring: 6 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1% On weekdays for 15  days, principal return
+              
+                         1.2% On weekdays for 25  days, principal return
+              
+                         1.5% On weekdays for 30  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        SportPay International Investment Ltd in Europe is the first Anti Correct Score Fund. 
+Global Sports Market is accurate and purposeful Planning and Promotion Strategy....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Indelible Gain      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 7%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 245 days 
+                  monitoring: 4 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         2% Daily for 25  days, principal return
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Indelible Gain Limited is well known company involved in investments & strategy making in share market trading shares....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Pmgrower      
+    
+    Status uHYIPs: PAYING 
+    Last payout: 1 day ago
+
+
+       
+            Investment of uHYIPs: $101
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 3%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 6 days 
+                  monitoring: 4 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1%-2.5% Daily for 7  days, principal return
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        Do you have money in PerfectMoney account balance?
+You can make the number grows with us!
+Just deposit from at least $10 and watch the number grows daily.
+And yes withdrawals are processed instantly.
+We understand it's hard to trust us at first; therefore, you might test us with $10.
+
+Really? That simple? But what's the catch?
+
+We don't make fake promises and get money to you from nowhere. We use your money to grow more money.
+We invest, we trade, we buy shares. We even invest in other websites. Ye...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Bitin      
+    
+    Status uHYIPs: WAITING 
+    Last payout: No payouts!
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 0%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $001
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 1 day 
+                  monitoring: 1 day 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.17%-0.25% Hourly for   days, principal included
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        ABOUT BIT INTERNATIONAL LIMITED
+
+We welcome you to the digital world of crypto investment. BIT INTERNATIONAL LIMITED - where our clients will receive stable and risk-free long-term returns by placing their Bitcoin asset in our online profound asset management program. BIT INTERNATIONAL LIMITED is an active trading participant, venture crypto-currency fund raiser, which is built on many years of experience and depth market knowledge. After Bitcoin fork, popularity and practical application on blockchain ne...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      We-Bit      
+    
+    Status uHYIPs: PROBLEM 
+    Last payout: 7 days ago
+
+
+       
+            Investment of uHYIPs: $2000
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 119%
+                                    User's rating: 4 (525 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant/Manual         
+                     
+       
+               
+                                    lifetime: 104 days 
+                  monitoring: 104 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.3%-1.35% Hourly for 3  days, principal included
+              
+                         5%-7% Hourly for 2  days, principal included
+              
+                         20%-30% Hourly for 1  day, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        WE BIT LTD is the Ultra-Modern Cloudmining services formed by a group of Cryptomining Technical Experts to serve the Bitcoin Mining individuals. This Company was evolved after in-depth analysis of the Crypto Currency industry for the past several years....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      The Entrepreneurs Headquarters       
+    
+    Status uHYIPs: PROBLEM 
+    Last payout: 9 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 119%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 96 days 
+                  monitoring: 96 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.5%-2.1% Daily for 120  days, principal included
+              
+                         11%-13% Weekly for 112  days, principal included
+              
+                         14.5%-17.5% Weekly for 112  days, principal included
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        Trade with pros or let us trade for you. Marketing headquarters platforms with autoresponder/landing page creator coming soon. ...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Crypto Bond      
+    
+    Status uHYIPs: PROBLEM 
+    Last payout: 4 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 83%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 16 days 
+                  monitoring: 16 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.2% Hourly for   days, principal included
+              
+                                 
+                                            
+                
+                      
+                
+
+
+    
+        
+        Welcome to the modern world of digital investment project, where our investors are able to receive stable long-term returns by placing their Bitcoin digital funds in our online investment fund managed by CRYPTO BOND LIMITED. CRYPTO BOND LIMITED, our modern venture would be a bright symbolic of the advanced cryptocurrency market. Those who follows the cryptocurrency market, today have the opportunity to give a head start to their savings through our professional asset management services in the field of trus...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      New Tech Road      
+    
+    Status uHYIPs: PROBLEM 
+    Last payout: 2 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 68%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $20
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 20 days 
+                  monitoring: 13 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         2.1% Daily for 5  days, principal included
+              
+                         2.3% Daily for 10  days, principal included
+              
+                         3.0% Daily for 30  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Environmental pollution reaches alarming levels. Only over the course of the past 5 years, the level of CO2 released into the atmosphere has grown by almost 30%. 
+
+And today, the problem of preserving the environment suitable for life for the sake of generation to come is especially acute and relevant. 
+
+There are many environment protection programs targeted at reducing hazardous emissions into the atmosphere. But most of them aim at localization and reduction of emissions originating directly from the...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      12 Inv      
+    
+    Status uHYIPs: NOT PAYING 
+    Last payout: 5 days ago
+
+
+       
+            Investment of uHYIPs: $200
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 125%
+                                    User's rating: 0 (10 votes)
+       
+       
+              Min deposit: $10
+              Withdrawal: Manual         
+                     
+       
+               
+                                    lifetime: 27 days 
+                  monitoring: 26 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         11%-12% Daily for 12  days, principal included
+              
+                         160% After  12  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        12 INV LIMITED One of the world’s leading Investment company that offers wide-ranging investment services that support both individuals as well as corporate financial goals. We are mainly active in Forex, Stocks, Gold, Bond, Private equity funds and etc. 
+
+At 12 INV LIMITED, Our Company’s assets are managed by professional team of specialist who match the extensive experience in the field of work. Long term strategies are formulated by skills managers who grew up in the business. We know a reputation with...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Bayment Solution Ltd      
+    
+    Status uHYIPs: NOT PAYING 
+    Last payout: 3 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 116%
+                                    User's rating: 0 (5 votes)
+       
+       
+              Min deposit: $3
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 10 days 
+                  monitoring: 9 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         165%-300% After  3  days, principal included
+              
+                         550%-1200% After  15  days, principal included
+              
+                         4200%-7500% After  60  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Our company uses the most advanced technologies of target trading. What is it? It is not just trading on exchanges, using someone else’s money. That is a much more complex process, including an incessant analysis of the cryptocurrency market, the formation of successful commercial offers for individual customers, monitoring the cost of electricity worldwide to use cloud mining at effective points in time, as well as many other deeper processes that are inextricably connected with the rapidly developing cryp...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Invest Bill      
+    
+    Status uHYIPs: NOT PAYING 
+    Last payout: 8 days ago
+
+
+       
+            Investment of uHYIPs: $600
+            
+              
+                
+                
+                   
+                  
+                  
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 109%
+                                    User's rating: 0 (0 votes)
+       
+       
+              Min deposit: $20
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 129 days 
+                  monitoring: 129 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         0.23%-0.27% Hourly for 20  days, principal included
+              
+                         0.95%-1.35% Hourly for 12  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        InvestBill - Invest And Make Money It's So Easy!...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Vortex 10      
+    
+    Status uHYIPs: NOT PAYING 
+    Last payout: 2 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 65%
+                                    User's rating: 0 (4 votes)
+       
+       
+              Min deposit: $5
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 9 days 
+                  monitoring: 7 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         1.09%-1.11% Hourly for 4  days, principal included
+              
+                         11.3% Daily for 10  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Vortex10 is an investment company uniting professional Cryptocurrencies, Stock, Forex market and Gold trade. Complex world of markets is our daily concern. Our mission is to obtain funds for further management. Five years of successful development for money management in private section ensured us that we are ready to open our service to the whole world. Internet has become the most convenient and widespread communication source, that's why in view of responsibility we decided to bring our service via inter...
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+      Financial Global Bank      
+    
+    Status uHYIPs: NOT PAYING 
+    Last payout: 9 days ago
+
+
+       
+            Investment of uHYIPs: $100
+            
+              
+                
+                   
+                  
+                  
+                
+                
+                
+              
+              
+                          Payout ratio for uHYIPs: 30%
+                                    User's rating: 0 (1 vote)
+       
+       
+              Min deposit: $10
+              Withdrawal: Instant         
+                     
+       
+               
+                                    lifetime: 12 days 
+                  monitoring: 12 days 
+                  
+                  
+       
+
+
+        
+                         Investment plans:
+                         7%-15% Daily for 20  days, principal included
+              
+                         200% After  10  days, principal included
+              
+                         700%-1000% After  30  days, principal included
+              
+                                 
+                                            
+                
+                             
+                
+                             
+                
+                      
+                
+
+
+    
+        
+        Throughout the years we have witnessed market saturation of income opportunities on the internet. Most of them failed to deliver the promised and some managed to sustain for longer than expected. Our consultancy group created financialglobalbank.com to bring in the experience of a stable program that will be here for the long haul. financialglobalbank.com.com started in 2015 and our aim is to bring long term potential to the market....
+        
+    
+
+
+    
+        
+          Program Details
+          :: Payouts for uHYIPs
+          :: All payouts
+           :: RefBack                    :: Votes
+                            
+    
+
+
+    
+		
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+  
+  
+
+
+
+
+
+
+  Recent
+  HYIP payouts
+
+
+
+
+
+    Smart Day Invest
+    $1.42
+
+
+    
+    20 Aug,2017
+
+
+
+    Genetix
+    $1.48
+
+
+    
+    19 Aug,2017
+
+
+
+    Pay Invest
+    $5.85
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Paid
+    $4.50
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Mining Business
+    $5.06
+
+
+    
+    19 Aug,2017
+
+
+
+    Smart Day Invest
+    $6.24
+
+
+    
+    19 Aug,2017
+
+
+
+    Luxearn
+    $1.00
+
+
+    
+    19 Aug,2017
+
+
+
+    Dollar Bill
+    $2.10
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Mining Business
+    $1.40
+
+
+    
+    19 Aug,2017
+
+
+
+    Yesss
+    $2.00
+
+
+    
+    19 Aug,2017
+
+
+
+    Secure Capitals
+    $0.99
+
+
+    
+    19 Aug,2017
+
+
+
+    Crypto Master
+    $1.00
+
+
+    
+    19 Aug,2017
+
+
+
+    Still Forex Ltd
+    $1.50
+
+
+    
+    19 Aug,2017
+
+
+
+    TP FX Pro Ltd
+    $0.89
+
+
+    
+    19 Aug,2017
+
+
+
+    Over True Investments
+    $1.98
+
+
+    
+    19 Aug,2017
+
+
+
+    Capital Primex Ltd
+    $1.68
+
+
+    
+    19 Aug,2017
+
+
+
+    Crypto Center
+    $2.10
+
+
+    
+    19 Aug,2017
+
+
+
+    Atomic Horizons
+    $2.24
+
+
+    
+    19 Aug,2017
+
+
+
+    Respectativa
+    $1.72
+
+
+    
+    19 Aug,2017
+
+
+
+    Famous BTC
+    $2.16
+
+
+    
+    19 Aug,2017
+
+
+
+    Trusty Hour Ltd
+    $1.72
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Pay
+    $1.70
+
+
+    
+    19 Aug,2017
+
+
+
+    Earning Hour
+    $2.20
+
+
+    
+    19 Aug,2017
+
+
+
+    Invest Sar
+    $2.16
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Paid
+    $1.80
+
+
+    
+    19 Aug,2017
+
+
+
+    Now Deposit Ltd  
+    $1.30
+
+
+    
+    19 Aug,2017
+
+
+
+    Sonic Finance Ltd
+    $1.12
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour888 Ltd
+    $2.98
+
+
+    
+    19 Aug,2017
+
+
+
+    USD Hour
+    $3.76
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Mining Business
+    $12.66
+
+
+    
+    19 Aug,2017
+
+
+
+    Pay Invest
+    $2.40
+
+
+    
+    19 Aug,2017
+
+
+
+    Instant Paid Ltd
+    $3.44
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour888 Ltd
+    $1.16
+
+
+    
+    19 Aug,2017
+
+
+
+    Coins Circle Ltd
+    $3.72
+
+
+    
+    19 Aug,2017
+
+
+
+    Instant Paid Ltd
+    $1.04
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Profit Ltd
+    $2.22
+
+
+    
+    19 Aug,2017
+
+
+
+    Hourly USD
+    $3.99
+
+
+    
+    19 Aug,2017
+
+
+
+    TP FX Pro Ltd
+    $1.00
+
+
+    
+    19 Aug,2017
+
+
+
+    Crypto Solutions
+    $1.50
+
+
+    
+    19 Aug,2017
+
+
+
+    Royal Mining
+    $1.00
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Power
+    $5.25
+
+
+    
+    19 Aug,2017
+
+
+
+    Genetix
+    $6.00
+
+
+    
+    19 Aug,2017
+
+
+
+    Investellect
+    $1.20
+
+
+    
+    19 Aug,2017
+
+
+
+    Royera Pay
+    $1.48
+
+
+    
+    19 Aug,2017
+
+
+
+    Investellect
+    $8.00
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Power
+    $19.84
+
+
+    
+    19 Aug,2017
+
+
+
+    Smart Day Invest
+    $2.70
+
+
+    
+    19 Aug,2017
+
+
+
+    Hour Mining Business
+    $5.92
+
+
+    
+    19 Aug,2017
+
+
+
+    Fexbit Business Limited
+    $2.10
+
+
+    
+    19 Aug,2017
+
+
+
+    Famous BTC
+    $10.02
+
+
+    
+    19 Aug,2017
+
+
+
+
+
+
+
+
+DISCLAIMER: We do not own or promote any investment programs. The information presented on our hyip monitor is based on statistics and personal experience only. Please keep in mind that all hyip investments are highly risky. All investments are made at your own risk. We do not recommend you to invest more than you can afford to lose.
+  
+  2006-2017 © uHYIPs.com - unique HYIP monitor system (Why it's unique?). © RFWeb.su - Creative concept.

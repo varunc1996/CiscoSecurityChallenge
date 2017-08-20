@@ -1,0 +1,303 @@
+Free web proxy to surf - Proxii.org
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+                
+                    
+                        
+                            
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+    
+
+    
+
+    
+    
+        
+            
+            
+                
+                    
+                
+                
+                Toggle navigation
+                
+                
+                
+            
+            
+            
+            
+                
+                    
+                    Home
+                    Web Proxy
+                    VPN
+                    Proxy Software
+                    Socks Proxy
+                    Http Proxy
+                    Private Proxy
+                    Contact Us
+                    
+                    
+                
+            
+        
+    
+    
+
+    
+    
+        
+    
+        
+            
+                
+                    Use our free web proxy to surf anonymously online, hide your IP address, secure your internet connection, hide your internet history, and protect your online identity.
+                
+            
+            
+                
+								
+                        
+                        
+                        
+                    
+                
+            
+						
+            
+						Proxy Server Location:	
+		
+			
+
+		
+				
+	 San Francisco
+	 New York City
+	 London
+	
+	 France
+	 Toronto
+	
+				
+			
+			
+										
+										
+        
+        
+				
+    
+    
+    
+    
+
+    
+
+    
+    
+        
+            
+                
+                    Do We Have A Right To Privacy?
+                    
+                    Yes! Amendments 4 and 5 of The United States Bill Of Rights protect the right to be free of unwarranted and unwanted government intrusion into one's personal and private affairs, papers, and possessions. Article 12 of The United Nations Universal Declaration of Human Rights states, "No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks."
+                
+            
+           
+        
+    
+    
+
+    
+
+    
+    
+
+
+    
+    
+        
+            
+                
+                    
+                    How can we help?
+                    
+                        
+                            4285 Express Lane, Suite E4950, 
+														Sarasota, FL 34238
+                        
+                        
+                            
+                            Inquiry - (800) 595-0440
+                        
+                        
+                            
+                            www.proxii.org
+                        
+                        
+                            
+                            [email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */
+                        
+                    
+                
+                
+                    
+                        
+                            Web Proxy
+                            
+                                Proxynix.com
+                                Uroxy.com
+                                Bigzh.com
+                                Edilly.com
+                                Kuzap.com
+                            
+                        
+                        
+                            Web Proxy
+                            
+                                Bp19.com
+                                390e.com
+                                Em60.com
+                                A-14.com
+                                Kv39.com
+                            
+                        
+                        
+                            Web Proxy
+                            
+                                Jayjot.com
+                                Fwizz.com
+                                Neerix.com
+                                Sitesbypass.com
+                                Huck04.com
+                            
+                        
+                        
+                            Terms
+                            
+                                Privacy Policy
+                                Terms
+                                Disclaimer
+                                FAQ
+                                Contact Us
+                            
+                        
+                    
+                    
+                        
+                            
+                            Got Question? Call us 24/7!
+                            (800) 595-0440
+                        
+                    
+                
+            
+        
+        
+            
+                
+                    
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        Proxii.org © 2015. All rights reserved
+                    
+                
+            
+        
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */

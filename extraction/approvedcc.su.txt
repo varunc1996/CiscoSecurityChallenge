@@ -1,0 +1,168 @@
+:: CVV2.SU :: Automatic Cvv Shop
+	
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+$(document).ready(function(){
+$(document).pngFix( );
+});
+
+
+
+
+
+
+$(function() {
+	$('a.info-tooltip ').tooltip({
+		track: true,
+		delay: 0,
+		fixPNG: true,
+		showURL: false,
+		showBody: " - ",
+		top: -35,
+		left: 5
+	});
+});
+
+
+
+$(document).ready(function(){
+$(document).pngFix( );
+});
+
+
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+			Cufon.replace('#header a,#footer h3', {	textShadow: '#000 2px 1px', hover: true	});
+			Cufon.replace('h6,h5,h4,h3,h2,h1');
+	
+
+	
+		
+
+<!--
+.style2 {color: #FFFFFF}
+.style3 {color: #000000}
+-->
+
+
+
+
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		100% COMPATIBLE 
+		
+		
+		
+
+		
+
+	
+	
+
+	
+	
+  
+
+		
+		
+				
+							  
+			
+			
+			
+				Login
+				
+				 
+			
+			
+				Password
+				
+				 
+			
+			
+			
+			   
+			  
+                 
+                Remember Me 
+                 
+			   
+			  
+
+			
+			 
+				
+				  
+			    
+				
+				
+                  
+			
+						
+			  
+			  
+			  
+			  
+			
+			
+			
+		
+	 	
+		
+  
+ 	
+
+
+
+ 
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://legitvendors.cc/shop/stats//";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();

@@ -1,0 +1,604 @@
+﻿
+
+
+
+
+
+
+
+
+VPN, Privacy and Security - VPNoverview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/vpnoverview.com\/","name":"VPNoverview","potentialAction":{"@type":"SearchAction","target":"https:\/\/vpnoverview.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+{"@context":"http:\/\/schema.org","@type":"Person","url":"https:\/\/vpnoverview.com\/","sameAs":[],"@id":"#person","name":"David Janssen"}
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/vpnoverview.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+.pakb-main h2 a, .pakb-main h2 a:hover, .pakb-main h2 a:focus, .pakb-main h2 i { color: #03A9F4}
+.pakb-box h2, .pakb-box:hover h2, .pakb-box:focus h2 { color: #03A9F4}
+.pakb-box .pakb-box-icon i, .pakb-box .pakb-box-icon:hover i, .pakb-box .pakb-box-icon:focus i { color: #03A9F4}
+.pakb-main .pakb-row h2 { font-size: 26px;}
+.pakb-box .pakb-box-icon i { font-size: 48px;}
+.pakb-single a, .pakb-single a:hover, .pakb-single a:focus  { color: #03A9F4}
+.autocomplete-suggestion, .pakb-archive a, .pakb-archive a:hover, .pakb-archive a:focus, .pakb-archive a:visited { color: #03A9F4;}
+.pakb-breadcrumb a, .pakb-breadcrumb a:visited, .pakb-breadcrumb li.active, .pakb-breadcrumb-icon { color: #A9AAAB}
+.pakb-meta, .pakb-meta a { color: #A9AAAB}
+.pakb-boxes .pakb-box .pakb-view-all, .pakb-lists .pakb-view-all a { color: #A9AAAB}
+.pakb-list li a, .pakb-list li a:hover, .pakb-list li a:focus, .pakb-list i { color: #444444}
+.pakb-breadcrumb a:hover, .pakb-breadcrumb a:focus { color: #03A9F4}
+.pakb-meta a:hover, .pakb-meta a:focus, .pakb-lists .pakb-view-all a:hover { color: #03A9F4}
+.pakb-main .pakb-list li { margin-left: 3px;}
+
+
+
+
+
+
+.wpml-ls-statics-footer a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-footer a:hover,.wpml-ls-statics-footer a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-footer .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-footer .wpml-ls-current-language:hover>a, .wpml-ls-statics-footer .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var PAKB = {"base_url":"https:\/\/vpnoverview.com","ajaxurl":"https:\/\/vpnoverview.com\/wp-admin\/admin-ajax.php","category":"1"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(function($) {
+    $(window).scroll(function() {
+        var yPos = ($(window).scrollTop());
+        if (yPos > 800) {
+            $(".ctabutton.stick").addClass('sticky');
+        } else {
+            $(".ctabutton.stick").removeClass('sticky');
+        }
+    });
+});
+jQuery(function($) {
+    $(window).scroll(function() {
+        var yPos = ($(window).scrollTop());
+        if (yPos > 850) {
+            $(".ctabutton.stickwidget").addClass('sticky');
+        } else {
+            $(".ctabutton.stickwidget").removeClass('sticky');
+        }
+    });
+});;
+jQuery(function($) {
+    $(window).scroll(function() {
+        var yPos = ($(window).scrollTop());
+        if (yPos > 1150) {
+            $(".ctabutton.stickwidget").addClass('sticky');
+        } else {
+            $(".ctabutton.stickwidget").removeClass('sticky');
+        }
+    });
+});
+
+
+
+
+body{
+	font-family: Georgia, serif;
+	font-size : 15px;
+}
+
+body.single .entry, body.page .entry{
+	font-size : 15px;
+}
+
+::-webkit-scrollbar {
+	width: 8px;
+	height:8px;
+}
+
+#main-nav,
+.cat-box-content,
+#sidebar .widget-container,
+.post-listing,
+#commentform {
+	border-bottom-color: #37b8eb;
+}
+
+.search-block .search-button,
+#topcontrol,
+#main-nav ul li.current-menu-item a,
+#main-nav ul li.current-menu-item a:hover,
+#main-nav ul li.current_page_parent a,
+#main-nav ul li.current_page_parent a:hover,
+#main-nav ul li.current-menu-parent a,
+#main-nav ul li.current-menu-parent a:hover,
+#main-nav ul li.current-page-ancestor a,
+#main-nav ul li.current-page-ancestor a:hover,
+.pagination span.current,
+.share-post span.share-text,
+.flex-control-paging li a.flex-active,
+.ei-slider-thumbs li.ei-slider-element,
+.review-percentage .review-item span span,
+.review-final-score,
+.button,
+a.button,
+a.more-link,
+#main-content input[type="submit"],
+.form-submit #submit,
+#login-form .login-button,
+.widget-feedburner .feedburner-subscribe,
+input[type="submit"],
+#buddypress button,
+#buddypress a.button,
+#buddypress input[type=submit],
+#buddypress input[type=reset],
+#buddypress ul.button-nav li a,
+#buddypress div.generic-button a,
+#buddypress .comment-reply-link,
+#buddypress div.item-list-tabs ul li a span,
+#buddypress div.item-list-tabs ul li.selected a,
+#buddypress div.item-list-tabs ul li.current a,
+#buddypress #members-directory-form div.item-list-tabs ul li.selected span,
+#members-list-options a.selected,
+#groups-list-options a.selected,
+body.dark-skin #buddypress div.item-list-tabs ul li a span,
+body.dark-skin #buddypress div.item-list-tabs ul li.selected a,
+body.dark-skin #buddypress div.item-list-tabs ul li.current a,
+body.dark-skin #members-list-options a.selected,
+body.dark-skin #groups-list-options a.selected,
+.search-block-large .search-button,
+#featured-posts .flex-next:hover,
+#featured-posts .flex-prev:hover,
+a.tie-cart span.shooping-count,
+.woocommerce span.onsale,
+.woocommerce-page span.onsale ,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+#check-also-close,
+a.post-slideshow-next,
+a.post-slideshow-prev,
+.widget_price_filter .ui-slider .ui-slider-handle,
+.quantity .minus:hover,
+.quantity .plus:hover,
+.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+#reading-position-indicator  {
+	background-color:#37b8eb;
+}
+
+::-webkit-scrollbar-thumb{
+	background-color:#37b8eb !important;
+}
+
+#theme-footer,
+#theme-header,
+.top-nav ul li.current-menu-item:before,
+#main-nav .menu-sub-content ,
+#main-nav ul ul,
+#check-also-box {
+	border-top-color: #37b8eb;
+}
+
+.search-block:after {
+	border-right-color:#37b8eb;
+}
+
+body.rtl .search-block:after {
+	border-left-color:#37b8eb;
+}
+
+#main-nav ul > li.menu-item-has-children:hover > a:after,
+#main-nav ul > li.mega-menu:hover > a:after {
+	border-color:transparent transparent #37b8eb;
+}
+
+.widget.timeline-posts li a:hover,
+.widget.timeline-posts li a:hover span.tie-date {
+	color: #37b8eb;
+}
+
+.widget.timeline-posts li a:hover span.tie-date:before {
+	background: #37b8eb;
+	border-color: #37b8eb;
+}
+
+#order_review,
+#order_review_heading {
+	border-color: #37b8eb;
+}
+
+
+a {
+	color: #020208;
+}
+		
+a:hover {
+	color: #2028bf;
+}
+		
+body.single .post .entry a, body.page .post .entry a {
+	color: #0ca8a8;
+}
+		
+body.single .post .entry a:hover, body.page .post .entry a:hover {
+	color: #077e80;
+	text-decoration: underline;
+}
+		
+.widget-feedburner .feedburner-email {
+display: inline;
+}
+
+			/* <![CDATA[ */
+				var sf_position = '0';
+				var sf_templates = "<a href=\"{search_url_escaped}\">View All Results<\/a>";
+				var sf_input = '.search-live';
+				jQuery(document).ready(function(){
+					jQuery(sf_input).ajaxyLiveSearch({"expand":false,"searchUrl":"https:\/\/vpnoverview.com\/?s=%s","text":"Search","delay":500,"iwidth":180,"width":315,"ajaxUrl":"https:\/\/vpnoverview.com\/wp-admin\/admin-ajax.php?lang=en","rtl":0});
+					jQuery(".live-search_ajaxy-selective-input").keyup(function() {
+						var width = jQuery(this).val().length * 8;
+						if(width < 50) {
+							width = 50;
+						}
+						jQuery(this).width(width);
+					});
+					jQuery(".live-search_ajaxy-selective-search").click(function() {
+						jQuery(this).find(".live-search_ajaxy-selective-input").focus();
+					});
+					jQuery(".live-search_ajaxy-selective-close").click(function() {
+						jQuery(this).parent().remove();
+					});
+				});
+			/* ]]> */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+VPNoverview VPN news and reviews
+
+
+
+ VPNoverview 
+VPN news and reviews
+
+
+jQuery(document).ready(function($) {
+	var retina = window.devicePixelRatio > 1 ? true : false;
+	if(retina) {
+       	jQuery('#theme-header .logo img').attr('src',		'https://vpnoverview.com/wp-content/uploads/2017/04/android-icon-144x144.png');
+       	jQuery('#theme-header .logo img').attr('width',		'72');
+       	jQuery('#theme-header .logo img').attr('height',	'72');
+	}
+});
+
+
+
+
+
+Start
+General VPN information
+
+What is a VPN?
+What you can do with a VPN
+
+
+Internet safety
+
+10 reasons to hide your IP address
+
+
+Geographic restrictions
+VPN reviews
+
+ExpressVPN
+NordVPN
+IPVanish
+GOOSE VPN
+PureVPN
+
+
+Best VPN providers
+
+Best VPNs of 2017
+Good free VPN services
+
+
+
+
+
+
+
+
+
+
+VPN, Privacy and Security
+
+
+
+
+Share
+
+ Facebook
+ Twitter
+
+
+ 
+This post is also available in:
+Deutsch Español Norsk bokmål Português FrançaisVPNoverview offers a wide variety of informative articles pertaining to VPN usage, online privacy and secure & anonymous internet. We aim to offer an overview of some of the most trustworthy and qualitative VPN services available on the market.
+What a VPN can do for you
+A VPN allows you to browse the internet safely, anonymously and freely. Once a VPN connection is established, your online data traffic will be encrypted and rerouted through an external VPN server.
+
+
+The encryption ensures nobody can intercept or read any of your data. This means nobody can see exactly what websites you visit, what you download & upload and what you stream.
+The rerouting of your internet connection ensures your real IP address is hidden; other entities and websites will only register the IP address of the VPN server. All your online actions will be linked to the IP address of the VPN server instead of your own IP address. Your website visits and online actions can no longer be associated with you, and you become anonymous online. The new IP address also allows you to bypass geographic restrictions of online content.
+
+Top 3 VPN Providers
+
+
+EXPRESSVPN
+
+
+
+
+Score: 9.5/10
+From $8.32 per month
+ExpressVPN review
+
+
+
+NordVPN
+
+
+
+
+Score: 9.0/10
+From $3.29 per month
+NordVPN review
+
+
+
+IPVanish
+
+
+
+
+Score: 8.6/10
+From $6.49 per month
+IPVanish review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+©2017 - 2017 VPN Overview
+- Contact 
+
+
+
+
+
+
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-260225-35', 'auto');
+  ga('send', 'pageview');
+
+ 
+        var snp_f = [];
+        var snp_hostname = new RegExp(location.host);
+        var snp_http = new RegExp("^(http|https)://", "i");
+        var snp_cookie_prefix = '';
+        var snp_separate_cookies = false;
+        var snp_ajax_url = 'https://vpnoverview.com/wp-admin/admin-ajax.php';
+        var snp_ignore_cookies = false;
+        var snp_enable_analytics_events = false;
+        var snp_enable_mobile = true;
+        var snp_use_in_all = false;
+        var snp_excluded_urls = [];
+        snp_excluded_urls.push('');    
+
+
+
+
+
+
+
+
+ OUR #1 RATED VPN GET 3 MONTHS FREE!WITH AN ANNUAL SUBSCRIPTIONULTRA SECURE CONNECTIONS
+ 
+VERY FAST AND STABLE
+ 
+HIGHEST VALUE FOR MONEY30-DAY MONEY BACK GET OFFER NOW NO THANKS, I DON'T WANT THIS DEAL
+ 
+
+
+    var snp_bld_open1570=function(){_snp_bld_open(1570);};
+    var snp_bld_close1570=function(){_snp_bld_close(1570);};
+
+
+.snp-pop-1570 .snp-bld-step-cont-1 {}.snp-pop-1570 .snp-bld-step-1 {width: 650px;height: 385px;background-color: #40c0ef;background-position: center center;background-repeat: repeat;}.snp-pop-1570 .bld-step-1-el-0 {   border: 1px solid transparent;width: 650px;height: 210px;top: 174px;left: -1px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-0 .bld-el,.snp-pop-1570 .bld-step-1-el-0 .bld-el p,.snp-pop-1570 .bld-step-1-el-0 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-0 .bld-el:active,.snp-pop-1570 .bld-step-1-el-0 .bld-el:hover{outline: 0;border-width: 0px;background-color: #ffffff !important;background-position: center center;background-repeat: repeat;}.snp-pop-1570 .bld-step-1-el-1 {   border: 1px solid transparent;width: 367px;height: 75px;top: 18px;left: 14px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-1 .bld-el,.snp-pop-1570 .bld-step-1-el-1 .bld-el p,.snp-pop-1570 .bld-step-1-el-1 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-1 .bld-el:active,.snp-pop-1570 .bld-step-1-el-1 .bld-el:hover{outline: 0;font-family: Arial;border-width: 0px;background-position: center center;background-repeat: repeat;}.snp-pop-1570 .bld-step-1-el-2 {   border: 1px solid transparent;width: 617px;height: 75px;top: 68px;left: 9px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-2 .bld-el,.snp-pop-1570 .bld-step-1-el-2 .bld-el p,.snp-pop-1570 .bld-step-1-el-2 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-2 .bld-el:active,.snp-pop-1570 .bld-step-1-el-2 .bld-el:hover{outline: 0;font-family: Arial;border-width: 0px;background-position: center center;background-repeat: repeat;}.snp-pop-1570 .bld-step-1-el-3 {   border: 1px solid transparent;width: 486px;height: 75px;top: 137px;left: 13px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-3 .bld-el,.snp-pop-1570 .bld-step-1-el-3 .bld-el p,.snp-pop-1570 .bld-step-1-el-3 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-3 .bld-el:active,.snp-pop-1570 .bld-step-1-el-3 .bld-el:hover{outline: 0;font-family: Arial;border-width: 0px;background-position: center center;background-repeat: repeat;}.snp-pop-1570 .bld-step-1-el-4 {   border: 1px solid transparent;width: 25px;height: 25px;top: 228px;left: 13px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-4 .bld-el,.snp-pop-1570 .bld-step-1-el-4 .bld-el p,.snp-pop-1570 .bld-step-1-el-4 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-4 .bld-el:active,.snp-pop-1570 .bld-step-1-el-4 .bld-el:hover{outline: 0;}.snp-pop-1570 .bld-step-1-el-5 {   border: 1px solid transparent;width: 25px;height: 25px;top: 275px;left: 10px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-5 .bld-el,.snp-pop-1570 .bld-step-1-el-5 .bld-el p,.snp-pop-1570 .bld-step-1-el-5 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-5 .bld-el:active,.snp-pop-1570 .bld-step-1-el-5 .bld-el:hover{outline: 0;}.snp-pop-1570 .bld-step-1-el-6 {   border: 1px solid transparent;width: 25px;height: 25px;top: 319px;left: 11px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-6 .bld-el,.snp-pop-1570 .bld-step-1-el-6 .bld-el p,.snp-pop-1570 .bld-step-1-el-6 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-6 .bld-el:active,.snp-pop-1570 .bld-step-1-el-6 .bld-el:hover{outline: 0;}.snp-pop-1570 .bld-step-1-el-7 {   border: 1px solid transparent;width: 368px;height: 72px;top: 228px;left: 47px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-7 .bld-el,.snp-pop-1570 .bld-step-1-el-7 .bld-el p,.snp-pop-1570 .bld-step-1-el-7 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-7 .bld-el:active,.snp-pop-1570 .bld-step-1-el-7 .bld-el:hover{outline: 0;font-family: Open Sans;border-width: 0px;background-position: center center;background-repeat: repeat;}.snp-pop-1570 .bld-step-1-el-8 {   border: 1px solid transparent;width: 280px;height: 58px;top: 205px;left: 355px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-8 .bld-el,.snp-pop-1570 .bld-step-1-el-8 .bld-el p,.snp-pop-1570 .bld-step-1-el-8 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-8 .bld-el:active,.snp-pop-1570 .bld-step-1-el-8 .bld-el:hover{outline: 0;}.snp-pop-1570 .bld-step-1-el-9 {   border: 1px solid transparent;width: 269px;height: 75px;top: 266px;left: 404px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-9 .bld-el,.snp-pop-1570 .bld-step-1-el-9 .bld-el p,.snp-pop-1570 .bld-step-1-el-9 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-9 .bld-el:active,.snp-pop-1570 .bld-step-1-el-9 .bld-el:hover{outline: 0;font-family: Open Sans;border-width: 0px;background-position: center center;background-repeat: repeat;}.snp-pop-1570 .bld-step-1-el-10 {   border: 1px solid transparent;width: 210px;height: 50px;top: 298px;left: 388px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-10 .bld-el,.snp-pop-1570 .bld-step-1-el-10 .bld-el p,.snp-pop-1570 .bld-step-1-el-10 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-10 .bld-el:active,.snp-pop-1570 .bld-step-1-el-10 .bld-el:hover{outline: 0;color: #ffffff;font-family: Open Sans;font-size: 17px;font-weight: bold;border-style: dotted;border-width: 0px;background-color: #c91818 !important;background-position: center center;background-repeat: repeat;padding-left: 10px;}.snp-pop-1570 .bld-step-1-el-11 {   border: 1px solid transparent;width: 250px;height: 16px;top: 353px;left: 362px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-11 .bld-el,.snp-pop-1570 .bld-step-1-el-11 .bld-el p,.snp-pop-1570 .bld-step-1-el-11 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-11 .bld-el:active,.snp-pop-1570 .bld-step-1-el-11 .bld-el:hover{outline: 0;color: #494949;font-family: Open Sans;font-size: 12px;font-style: italic;border-style: none;border-width: 0px;background-color: #ffffff !important;background-position: center center;background-repeat: repeat;padding-left: 10px;}.snp-pop-1570 .bld-step-1-el-12 {   border: 1px solid transparent;width: 17px;height: 17px;top: 3px;left: 623px;z-index: 100;}.snp-pop-1570 .bld-step-1-el-12 .bld-el,.snp-pop-1570 .bld-step-1-el-12 .bld-el p,.snp-pop-1570 .bld-step-1-el-12 .bld-el:focus,.snp-pop-1570 .bld-step-1-el-12 .bld-el:active,.snp-pop-1570 .bld-step-1-el-12 .bld-el:hover{outline: 0;}    
+snp_f['snppopup-welcome-open']=snp_bld_open1570;snp_f['snppopup-welcome-close']=snp_bld_close1570; 
+
+
+English
+
+Deutsch (German)
+
+Español (Spanish)
+
+Norsk bokmål (Norwegian Bokmål)
+
+Português (Portuguese (Portugal))
+
+Français (French)
+
+
+
+
+
+
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/vpnoverview.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var wpreview = {"ajaxurl":"https:\/\/vpnoverview.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var tie = {"mobile_menu_active":"true","mobile_menu_top":"","lightbox_all":"true","lightbox_gallery":"true","woocommerce_lightbox":"","lightbox_skin":"dark","lightbox_thumb":"vertical","lightbox_arrows":"","sticky_sidebar":"1","is_singular":"1","SmothScroll":"","reading_indicator":"true","lang_no_results":"No Results","lang_results_found":"Results Found"};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"https:\/\/vpnoverview.com\/","ajax_url":"https:\/\/vpnoverview.com\/wp-admin\/admin-ajax.php","url_type":"1"};
+/* ]]> */

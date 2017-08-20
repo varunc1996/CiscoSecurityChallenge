@@ -1,0 +1,1007 @@
+Популярные HYIP   | HYIP-ZANOZA - анализ и статистика HYIP проектов
+#preloader {
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:#222222; /* change if the mask should have another color then white */
+    z-index:99; /* makes sure it stays on top */
+}
+
+#status {
+    width:200px;
+    height:200px;
+    position:absolute;
+    left:50%; /* centers the loading animation horizontally one the screen */
+    top:50%; /* centers the loading animation vertically one the screen */
+    background-repeat:no-repeat;
+    background-position:center;
+    margin:-100px 0 0 -100px; /* is width and height divided by two */
+    color:#fff;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    margin-right: 15px;
+    padding: 9px 10px;
+    margin-top: 5.5px;
+    margin-bottom: 5.5px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 8px 12px;
+    font-size: 15px;
+    line-height: 1.4;
+    border-radius: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.btn-sm {
+    font-size: 11px;
+    padding: 5px;
+    margin-top: 0px;
+	    line-height: 1.5;
+    border-radius: 0;
+}
+
+.col-sm-12, col-xs-12
+{
+	float:left;
+}
+
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 21px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    list-style: none;
+    font-size: 15px;
+    text-align: left;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 0;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.list-group, .badge {
+    font-size: 11px;
+    border-radius: 0px;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+}
+
+.pagination {
+    margin: 11px 0;
+	    font-size: 12px;
+    font-weight: 300;
+	display: inline-block;
+    padding-left: 0;
+}
+
+.pagination>li {
+    display: inline;
+}
+
+.pagination-sm>li>a, .pagination-sm>li>span {
+    padding: 0 5px;
+}
+
+.pagination>li>a, .pagination>li>span {
+    margin-left: 4px;
+    color: #999999;
+}
+
+.pagination-sm>li>a, .pagination-sm>li>span {
+    padding: 8px 12px;
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+.pagination>li>a, .pagination>li>span {
+    position: relative;
+    float: left;
+    padding: 8px 12px;
+    line-height: 1.4;
+    text-decoration: none;
+    color: #008cba;
+    background-color: transparent;
+    border: 1px solid transparent;
+    margin-left: -1px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.panel {
+    margin-bottom: 10px;
+}
+.panel {
+    margin-top: 5px;
+}
+
+.pull-padding {
+    padding: 5px;
+}
+
+.navbar-nav .open .dropdown-menu>li>a {
+    line-height: 21px;
+	padding: 5px 15px 5px 25px;
+}
+.container
+{
+	margin-right:auto
+	margin-left:auto;
+	padding-left:15px;
+	padding-right:15px
+}
+
+window.hashName = window.location.hash;window.location.hash = '';Toggle navigationHYIP-ZANOZA.MEмега анализ HYIP проектов Главная страница Наши предложения  Реклама на HYIP ZANOZA Для владельца HYIP мониторинга Для владельца сайта/блога Контакты  E-mail для связи (hyipzanoza@gmail.com) Skype для связи (hyip.zanoza) Добавить страницу в избранноеTelegram @HyipZanozaBotAdd @HyipZanozaBotНаш информер под WindowsHyipZanoza Informer - новые и перспективные HYIP проекты теперь в автоматическом режиме в операционной системе Windows Скачать с YandexDiskПодробнееНаше расширение для браузеровДля загрузки нашего расширение, нажмите ниже на иконку Вашего браузера.HyipZanoza AssistantПодробнее о расширениеZanozaList asiapacificgasoil.com cryptosolutions.biz bitpetite.comОбзор alt-energy.bizОбзор investellect.netОбзорТоп 15 хайпов по вкладам за все время  вчера  сегодня  cryptosolutions.biz229000.24  laser.online84392.54  atomic-horizons.com70806.27  uplinerr.com67346.03  solidtradebank.com54191.00  hour888.com50844.63  control-finance.com49758.87  hourpower.biz42011.06  resonance-capital.eu41248.00  trafficheap.com40248.77  bitconnect.co38636.00  investellect.net36416.11  aurum-bank.com34533.33  coinscircle.biz31651.34  citybuildtrade.com29301.30  stillforex.com5012.00  bitpetite.com2173.00  diamodus.cc1965.13  thunderbit.io1577.60  royerapay.cc1431.00  coinvalley.net1310.00  atomic-horizons.com1163.00  alt-energy.biz1100.00  genetix.biz970.00  solidtradebank.com900.00  ertravel.io900.00  hourpower.biz714.25  hourmining.com645.00  coinscircle.biz642.00  bitcoin5.io625.00  genetix.biz20.00  coinroi.com15.00  atomic-horizons.com10.00  usdhour.com10.00  lasvegasincome.com10.00  hourlyusd.com5.00  bandeiracorp.biz0.00  online-investment.net0.00  wealth-code.com0.00  dynamicstrust.net0.00  greatinvestinvestmentproject.com0.00  adclickxpress.com0.00  aurum-bank.com0.00  dollarbill.biz0.00  funds-broker.com0.00 Новые HYIP magic-solution.trade 2017-08-19  trafficsharepartners.com 2017-08-19  worldatlant.surgery 2017-08-19  line-profit.com 2017-08-19  lucky-billion.com 2017-08-19  general-money.bid 2017-08-19  zuzu-limited.bid 2017-08-19  saxo-lucky.info 2017-08-19  genetix.biz 2017-08-18  trusthyipver1.cc 2017-08-18  bitinternational.net 2017-08-18  britbit.biz 2017-08-18  fxprimex.com 2017-08-18  bitin.cc 2017-08-18  bitcoinstell.com 2017-08-17 Последние 10 отзывов kiraВсем привет, успейте хорошо...bitpetite.com2017-08-20 06:24:22 kiraВсем привет, успейте хорошо...cryptosolutions.biz2017-08-20 06:23:19 kiraВсем привет, успейте хорошо...asiapacificgasoil.com2017-08-20 06:21:46 HyipConsultingPAY OUT show  https://hyip-consultings.info/bitpetite.com2017-08-20 02:55:54 HyipConsultingPAY OUT show  https://hyip-consultings.info/laser.online2017-08-20 02:55:22 HyipConsultingPAY OUT show  https://hyip-consultings.info/cryptosolutions.biz2017-08-20 02:54:44 HyipConsultingPAY OUT show  https://hyip-consultings.info/investellect.net2017-08-20 02:53:58 HyipConsultingPAY OUT show  https://hyip-consultings.info/atomic-horizons.com2017-08-20 02:52:49 MetamorfozzzВыплата!  
+Внутренняя транзакция API...alt-energy.biz2017-08-20 02:48:42 PatI've had registered my account about 8 hours ago and now it's gone. I...billbergs.com2017-08-20 01:23:24
+
+	
+		
+			
+		
+					Рекламное место освободится после: 2017-08-20 
+			
+	
+		
+			
+		
+			
+	
+		 Поиск по имени хайпа
+		
+			
+				
+				
+						
+		
+	Категории HYIP проектов Популярные HYIP проекты Рейтинг HYIP по отзывам Рейтинг HYIP по голосам Скамы и проблемные HYIP Новые HYIPHYIP-ZANOZA - лучший помощник для HYIP инвестора в рунете.
+				Благодаря нашему сервису, инвесторы смогут ослеживать хайп-проекты, узнавать первыми о новых хайпах, получать всегда актуальную, подробную информацию по заданому HYIP. 
+				Мы, HYIP-ZANOZA - мощный, современный, многофункциональный анализатор HYIP проектов.Поделитесь ЗАНОЗОЙ с друзьями: 
+	
+		
+			
+		
+			
+	
+		
+			
+		
+			
+Популярные HYIP 123456789101112131415161718192021
+	ZanozaList
+	
+																										
+							
+								 VIP Asia Pacific Gas Oil 
+								
+									3  
+									1  
+								
+							
+								
+							
+								
+									
+										
+											 
+											
+												ПЛАТИТ
+											
+										
+										
+											
+												Посмотреть
+											
+											
+												Анализ
+											
+											
+																							
+										
+									
+									
+										ZanozaRating (ZR)
+										
+											
+												2.14 ZR
+											
+										 
+										
+											
+												Минимальный депозит: $ 10.00
+											
+											
+												Депозитов через мониторы:$ 283.00
+											
+											
+												Депозитов через мониторы (вчера): $ 0.00
+											
+											
+												Депозитов через мониторы (сегодня): $ 0.00
+											
+											
+												Реферальная программа: 5%
+											
+											
+												Тип выплат: Моментальный
+											
+											
+												Платежные системы: 
+											
+										
+									
+								
+							
+							
+								
+									Старт: 2017-07-20 	
+									Alexa: 492828
+								
+							
+						
+																													
+							
+								 VIP CryptoSolutions 
+								
+									38  
+									56  
+								
+							
+								
+							
+								
+									
+										
+											 
+											
+												ПЛАТИТ
+											
+										
+										
+											
+												Посмотреть
+											
+											
+												Анализ
+											
+											
+																							
+										
+									
+									
+										ZanozaRating (ZR)
+										
+											
+												7.63 ZR
+											
+										 
+										
+											
+												Минимальный депозит: $ 20.00
+											
+											
+												Депозитов через мониторы:$ 229000.24
+											
+											
+												Депозитов через мониторы (вчера): $ 581.04
+											
+											
+												Депозитов через мониторы (сегодня): $ 0.00
+											
+											
+												Реферальная программа: 1%
+											
+											
+												Тип выплат: Ручной
+											
+											
+												Платежные системы: 
+											
+										
+									
+								
+							
+							
+								
+									Старт: 2016-04-08 	
+									Alexa: 87820
+								
+							
+						
+																													
+							
+								 VIP Bitpetite 
+								
+									19  
+									3  
+								
+							
+								
+							
+								
+									
+										
+											 
+											
+												ПЛАТИТ
+											
+										
+										
+											
+												Посмотреть
+											
+											
+												Анализ
+											
+											
+																							
+										
+									
+									
+										ZanozaRating (ZR)
+										
+											
+												3.01 ZR
+											
+										 
+										
+											
+												Минимальный депозит: $ 10.00
+											
+											
+												Депозитов через мониторы:$ 27590.11
+											
+											
+												Депозитов через мониторы (вчера): $ 2173.00
+											
+											
+												Депозитов через мониторы (сегодня): $ 0.00
+											
+											
+												Реферальная программа: 10%-5%-2%
+											
+											
+												Тип выплат: Моментальный
+											
+											
+												Платежные системы: 
+											
+										
+									
+								
+							
+							
+								
+									Старт: 2017-06-01 	
+									Alexa: 27637
+								
+							
+						
+																													
+							
+								 VIP ALTENERGY VENTURES 
+								
+									8  
+									0  
+								
+							
+								
+							
+								
+									
+										
+											 
+											
+												ПЛАТИТ
+											
+										
+										
+											
+												Посмотреть
+											
+											
+												Анализ
+											
+											
+																							
+										
+									
+									
+										ZanozaRating (ZR)
+										
+											
+												2.46 ZR
+											
+										 
+										
+											
+												Минимальный депозит: $ 25.00
+											
+											
+												Депозитов через мониторы:$ 9363.00
+											
+											
+												Депозитов через мониторы (вчера): $ 1100.00
+											
+											
+												Депозитов через мониторы (сегодня): $ 0.00
+											
+											
+												Реферальная программа: 8-3-2%
+											
+											
+												Тип выплат: Ручной
+											
+											
+												Платежные системы: 
+											
+										
+									
+								
+							
+							
+								
+									Старт: 2017-07-21 	
+									Alexa: 654861
+								
+							
+						
+																													
+							
+								 VIP Investellect 
+								
+									705  
+									22  
+								
+							
+								
+							
+								
+									
+										
+											 
+											
+												ПЛАТИТ
+											
+										
+										
+											
+												Посмотреть
+											
+											
+												Анализ
+											
+											
+																							
+										
+									
+									
+										ZanozaRating (ZR)
+										
+											
+												4.32 ZR
+											
+										 
+										
+											
+												Минимальный депозит: $ 10.00
+											
+											
+												Депозитов через мониторы:$ 36416.11
+											
+											
+												Депозитов через мониторы (вчера): $ 300.00
+											
+											
+												Депозитов через мониторы (сегодня): $ 0.00
+											
+											
+												Реферальная программа: 2
+											
+											
+												Тип выплат: Ручной
+											
+											
+												Платежные системы: 
+											
+										
+									
+								
+							
+							
+								
+									Старт: 2017-02-25 	
+									Alexa: 90836
+								
+							
+						
+						
+CryptoSolutions38 56 ПЛАТИТПосмотретьАнализZanozaRating (ZR)7.63 ZRМинимальный депозит: $ 20.00Депозитов через мониторы:$ 229000.24Депозитов через мониторы (вчера): $ 581.04Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 1%Тип выплат: РучнойПлатежные системы: Старт: 2016-04-08 Alexa: 87820Laser Online27 12 ПЛАТИТПосмотретьАнализZanozaRating (ZR)4.19 ZRМинимальный депозит: $ 0.00Депозитов через мониторы:$ 84392.54Депозитов через мониторы (вчера): $ 529.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 5%-2%-1%Тип выплат: РучнойПлатежные системы: Старт: 2017-07-01 Alexa: 72703atomic-horizons31 1 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.98 ZRМинимальный депозит: $ 1.00Депозитов через мониторы:$ 70806.27Депозитов через мониторы (вчера): $ 1163.00Депозитов через мониторы (сегодня): $ 10.00Реферальная программа: 8%-3%-2%Тип выплат: МоментальныйПлатежные системы: Старт: 2017-03-17 Alexa: 369078Uplinerr4 9 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.68 ZRМинимальный депозит: $ 20.00Депозитов через мониторы:$ 67346.03Депозитов через мониторы (вчера): $ 0.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 1Тип выплат: РучнойПлатежные системы: Старт: 2017-01-16 Alexa: 1106482SolidTrade BANK1 10 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.34 ZRМинимальный депозит: $ 25.00Депозитов через мониторы:$ 54191.00Депозитов через мониторы (вчера): $ 900.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 1%Тип выплат: РучнойПлатежные системы: Старт: 2013-10-06 Alexa: 405382Hour888 Ltd15 37 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.86 ZRМинимальный депозит: $ 8.00Депозитов через мониторы:$ 50844.63Депозитов через мониторы (вчера): $ 341.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: needТип выплат: МоментальныйПлатежные системы: Старт: 2017-04-06 Alexa: 80916Control Finance10 6 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.38 ZRМинимальный депозит: $ 15.00Депозитов через мониторы:$ 49758.87Депозитов через мониторы (вчера): $ 0.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: Up to 25%Тип выплат: РучнойПлатежные системы: Старт: 2017-05-25 Alexa: 62211HourPower17 48 ОЖИДАНИЕПосмотретьАнализZanozaRating (ZR)2.52 ZRМинимальный депозит: $ 5.00Депозитов через мониторы:$ 42011.06Депозитов через мониторы (вчера): $ 714.25Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 5%Тип выплат: МоментальныйПлатежные системы: Старт: 2016-11-02 Alexa: 171998Resonance-Capital2 1 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.04 ZRМинимальный депозит: $ 50.00Депозитов через мониторы:$ 41248.00Депозитов через мониторы (вчера): $ 0.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 3%-2%-1%Тип выплат: РучнойПлатежные системы: Старт: 2017-03-19 Alexa: 57477TrafficHeap2 0 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.05 ZRМинимальный депозит: $ 50.00Депозитов через мониторы:$ 40248.77Депозитов через мониторы (вчера): $ 0.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 12%Тип выплат: РучнойПлатежные системы: Старт: 2017-05-12 Alexa: 25010BitConnect15 8 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.21 ZRМинимальный депозит: $ 100.00Депозитов через мониторы:$ 38636.00Депозитов через мониторы (вчера): $ 0.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 5%Тип выплат: АвтоматическийПлатежные системы: Старт: 2016-07-11 Alexa: 10387Investellect705 22 ПЛАТИТПосмотретьАнализZanozaRating (ZR)4.32 ZRМинимальный депозит: $ 10.00Депозитов через мониторы:$ 36416.11Депозитов через мониторы (вчера): $ 300.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 2Тип выплат: РучнойПлатежные системы: Старт: 2017-02-25 Alexa: 90836Aurum Bank11 23 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.82 ZRМинимальный депозит: $ 50.00Депозитов через мониторы:$ 34533.33Депозитов через мониторы (вчера): $ 10.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 0.5%Тип выплат: РучнойПлатежные системы: Старт: 2016-03-16 Alexa: 124812Coins Circle LTD1 0 ОЖИДАНИЕПосмотретьАнализZanozaRating (ZR)1.85 ZRМинимальный депозит: $ 5.00Депозитов через мониторы:$ 31651.34Депозитов через мониторы (вчера): $ 642.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 3%Тип выплат: МоментальныйПлатежные системы: Старт: 2017-06-05 Alexa: 154717City Build Trade1 8 ПЛАТИТПосмотретьАнализZanozaRating (ZR)2.83 ZRМинимальный депозит: $ 1.00Депозитов через мониторы:$ 29301.30Депозитов через мониторы (вчера): $ 0.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 0.5 -10%Тип выплат: РучнойПлатежные системы: Старт: 2014-02-25 Alexa: 8233665 Investment LTD24 69 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.09 ZRМинимальный депозит: $ 15.00Депозитов через мониторы:$ 29199.60Депозитов через мониторы (вчера): $ 0.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 5% - 1%Тип выплат: МоментальныйПлатежные системы: Старт: 2016-10-28 Alexa: 1375072Hourly Cool17 51 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.03 ZRМинимальный депозит: $ 3.00Депозитов через мониторы:$ 28809.98Депозитов через мониторы (вчера): $ 64.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 3%-10%Тип выплат: МоментальныйПлатежные системы: Старт: 2016-09-16 Alexa: 733188Diamodus1 0 ПЛАТИТПосмотретьАнализZanozaRating (ZR)2.68 ZRМинимальный депозит: $ 25.00Депозитов через мониторы:$ 28181.26Депозитов через мониторы (вчера): $ 1965.13Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 1Тип выплат: МоментальныйПлатежные системы: Старт: 2017-07-16 Alexa: 4436701Royerapay0 0 ПЛАТИТПосмотретьАнализZanozaRating (ZR)2.95 ZRМинимальный депозит: $ 10.00Депозитов через мониторы:$ 27687.11Депозитов через мониторы (вчера): $ 1431.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 4%Тип выплат: РучнойПлатежные системы: Старт: 2016-11-12 Alexa: 566993Bitpetite19 3 ПЛАТИТПосмотретьАнализZanozaRating (ZR)3.01 ZRМинимальный депозит: $ 10.00Депозитов через мониторы:$ 27590.11Депозитов через мониторы (вчера): $ 2173.00Депозитов через мониторы (сегодня): $ 0.00Реферальная программа: 10%-5%-2%Тип выплат: МоментальныйПлатежные системы: Старт: 2017-06-01 Alexa: 27637123456789101112131415161718192021
+Быстрая авторизация Войти через Google Войти через YandexПройдя автоизацию Вы сможете добавлять HYIP программы в список наблюденияПодписаться на RSS ленту Подпишитесь на нашу RSS ленту, чтобы узнавать первым о каждом новом HYIP проекте.Топ 15 хайпов по ZanozaRating cryptosolutions.biz 7.63 ZR investellect.net 4.32 ZR laser.online 4.19 ZR atomic-horizons.com 3.98 ZR hour888.com 3.86 ZR aurum-bank.com 3.82 ZR uplinerr.com 3.68 ZR control-finance.com 3.38 ZR solidtradebank.com 3.34 ZR chain.group 3.27 ZR bitconnect.co 3.21 ZR 5inv.biz 3.09 ZR trafficheap.com 3.05 ZR resonance-capital.eu 3.04 ZR hourlycool.com 3.03 ZRРейтинг HYIP мониторингов по вкладам за все время  вчера  сегодня  Fair Monitor My Hyips4522363.32  Grasp Gold1411011.34  Hyip Cruiser1350092.93  Invest Tracing1326383.07  HyipClub1157197.39  MyInvestBlog879547.68  Instant Scam Alert654619.51  Punk Monitor619694.83  Hyip Dollar607817.33  HyipRegular577403.52  Uhyips528316.79  Hyip Master491544.72  MonHyip441170.00  Pb Hyips372522.59  Hyip Income348330.13  HyipsCope300689.78  Rich Invest Monitor252969.98  Hyip Guardian218930.76  Make Ind Money200871.11  Hyip Hunter175443.32  ProHyip121244.46  GS Monitor114496.93  Ie Hyip113324.19  Sq Monitor105364.58  List4Hyip104306.53  SaneGain87020.56  HyipFriend76998.70  HHyips54887.16  YHyip51138.95  HyipsBZ46494.94  MegaHyip40550.49  GoFunInvest35588.88  InvestorsCare26848.00  InvestRecord19962.90  Angel monitor15852.00  Hyip Hall14437.63  Fair Monitor My Hyips8229.13  HyipClub6150.00  Hyip Cruiser4016.00  Uhyips3615.99  Grasp Gold3347.00  Pb Hyips2242.04  List4Hyip1424.58  MyInvestBlog701.00  InvestorsCare325.00  Make Ind Money189.00  Hyip Dollar168.00  MegaHyip160.00  Hyip Income150.00  Ie Hyip26.69  HyipsCope20.00  HyipsBZ20.00  Hyip Master17.00  Punk Monitor0.00  Angel monitor0.00  Invest Tracing0.00  Rich Invest Monitor0.00  Sq Monitor0.00  MonHyip0.00  Instant Scam Alert0.00  Hyip Hall0.00  Hyip Hunter0.00  Hyip Guardian0.00  HyipRegular0.00  YHyip0.00  HyipFriend0.00  GoFunInvest0.00  ProHyip0.00  HHyips0.00  GS Monitor0.00  InvestRecord0.00  SaneGain0.00  Fair Monitor Uhyips40.00  Make Ind Money25.00  Hyip Cruiser20.00  Punk Monitor0.00  Angel monitor0.00  Invest Tracing0.00  Rich Invest Monitor0.00  MyInvestBlog0.00  Sq Monitor0.00  HyipsCope0.00  MonHyip0.00  My Hyips0.00  Grasp Gold0.00  Hyip Dollar0.00  Instant Scam Alert0.00  Hyip Income0.00  Hyip Hall0.00  Hyip Hunter0.00  Hyip Guardian0.00  Hyip Master0.00  HyipRegular0.00  Pb Hyips0.00  YHyip0.00  HyipClub0.00  HyipFriend0.00  GoFunInvest0.00  ProHyip0.00  HHyips0.00  HyipsBZ0.00  Ie Hyip0.00  GS Monitor0.00  MegaHyip0.00  List4Hyip0.00  InvestorsCare0.00  InvestRecord0.00  SaneGain0.00 Читайте нас Вконтакте
+						
+						
+
+						Следуйте за нами в TwitterНовые хайпы от @HyipZanoza
+							!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+":/js/twitter/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+							Следите за нами на Facebook
+						
+						
+						Мы на Google Plus							
+							
+							  window.___gcfg = {lang: 'en-GB'};
+
+							  (function() {
+								var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+								po.src = '/js/google/platform.js';
+								var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+							  })();
+							
+						
+						Мы в Pinterest
+							
+						
+	
+	
+		
+			
+				
+					Наши предложения
+					 Наши предложения
+					 Для владельца HYIP мониторинга
+					 Для владельца сайта/блога
+				
+				
+					Категории HYIP проектов
+					 Популярные HYIP проекты
+					 Новые HYIP
+					 Рейтинг HYIP по голосам
+					 Рейтинг HYIP по отзывам
+					 Скамы и проблемные HYIP
+				
+				
+					Полезные ссылки
+					Карта сайта
+					Наше расширение для браузеров
+					Наш информер под Windows
+
+					 
+					E-mail для связи
+					hyipzanoza@gmail.com
+					Skype для связи
+					hyip.zanoza
+				
+			
+				
+				Русская версия hyip-zanoza.me
+				English version hyip-zanoza.me
+				Versão portuguesa hyip-zanoza.me
+				La versión española hyip-zanoza.me
+				Deutsche version hyip-zanoza.me
+				
+			
+			
+					HYIP-ZANOZA.ME - мега анализ HYIP проектов
+					
+						Сервис HYIP-ZANOZA предоставляет самую полную информацию по инвестиционным проектам и является уникальным желанным инструментом для любого HYIP инвестора.
+						Наличие ZR рейтинга у какого-либо HYIP проекта не является гарантией безопасности и прибыльности Ваших депозитов.
+						Помните, все инвестиции несут риски, не инвестируйте больше чем можете позволить себе потерять.
+						Желаем всем нашим посетителям распоряжаться своими средствами мудро, ведь от этого зависит, будете ли Вы жить богатой жизнью или в постоянной нужде.
+					
+					
+					
+						Работаем для Вас с 2016 года
+					
+					
+						<!--
+						document.write("<a href='//www.liveinternet.ru/click' "+
+						"target=_blank><img src='//counter.yadro.ru/hit?t50.1;r"+
+						escape(document.referrer)+((typeof(screen)=="undefined")?"":
+						";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+						screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+						";"+Math.random()+
+						"' alt='' title='LiveInternet' "+
+						"border='0' width='31' height='31'><\/a>")
+						//-->
+						
+						
+						
+						
+
+						
+						
+							(function (w, d, c) {
+							(w[c] = w[c] || []).push(function() {
+								var options = {
+									project: 4427142,
+									element: 'top100_widget'
+								};
+								try {
+									w.top100Counter = new top100(options);
+								} catch(e) { }
+							});
+							var n = d.getElementsByTagName("script")[0],
+							s = d.createElement("script"),
+							f = function () { n.parentNode.insertBefore(s, n); };
+							s.type = "text/javascript";
+							s.async = true;
+							s.src ="/js/rambler/top100.js";
+
+							if (w.opera == "[object Opera]") {
+							d.addEventListener("DOMContentLoaded", f, false);
+						} else { f(); }
+						})(window, document, "_top100q");
+						
+						
+						
+					
+			
+			
+			
+			
+				(function (d, w, c) {
+					(w[c] = w[c] || []).push(function() {
+						try {
+							w.yaCounter36958270 = new Ya.Metrika({
+								id:36958270,
+								clickmap:true,
+								trackLinks:true,
+								accurateTrackBounce:true
+							});
+						} catch(e) { }
+					});
+
+					var n = d.getElementsByTagName("script")[0],
+						s = d.createElement("script"),
+						f = function () { n.parentNode.insertBefore(s, n); };
+					s.type = "text/javascript";
+					s.async = true;
+					s.src = "/js/yandex/share.js";
+
+					if (w.opera == "[object Opera]") {
+						d.addEventListener("DOMContentLoaded", f, false);
+					} else { f(); }
+				})(document, window, "yandex_metrika_callbacks");
+			
+			
+			
+			
+			
+			
+				
+				var _tmr = window._tmr || (window._tmr = []);
+				_tmr.push({id: "2783053", type: "pageView", start: (new Date()).getTime()});
+				(function (d, w, id) {
+				  if (d.getElementById(id)) return;
+				  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+				  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+				  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+				  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+				})(document, window, "topmailru-code");
+				
+				
+				
+			
+			
+			
+				
+				
+				
+					_atrk_opts = { atrk_acct:"mig9o1IWNa10Cs", domain:"hyip-zanoza.me",dynamic: true};
+					(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "/js/alexa/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+				
+				
+				  
+				
+		
+	
+	
+	
+	
+	
+	
+	
+		<!-- функция FadeOut без jquery -->
+		function fadeOut( elem, ms )
+		{
+			if( ! elem )
+				return;
+
+			if( ms )
+			{
+				var opacity = 1;
+				var timer = setInterval( function() {
+				  opacity -= 50 / ms;
+				  if( opacity <= 0 )
+				  {
+					clearInterval(timer);
+					opacity = 0;
+					elem.style.display = "none";
+					elem.style.visibility = "hidden";
+				  }
+				  elem.style.opacity = opacity;
+				  elem.style.filter = "alpha(opacity=" + opacity * 100 + ")";
+				}, 50 );
+			}
+			else
+			{
+				elem.style.opacity = 0;
+				elem.style.filter = "alpha(opacity=0)";
+				elem.style.display = "none";
+				elem.style.visibility = "hidden";
+			}
+		}
+		<!-- -->
+		
+		<!-- функция загрузки (отображения) сайта после прелоадера -->
+		function show_hyip_zanoza()
+		{
+			fadeOut(document.getElementById("status"), 100);
+			fadeOut(document.getElementById("preloader"), 100);
+			document.body.style.overflow = "visible";
+		}
+		<!-- -->
+		
+		<!-- Загружаем JQuery после загрузки страницы -->
+					function ready() 
+			{
+				var script = document.createElement("script");
+				script.src = "//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js";
+				script.type = "text/javascript";
+				document.getElementsByTagName("head")[0].appendChild(script);
+				script.onload = function() { jsAndCssInit(); };
+			};
+				<!-- -->
+		
+		
+		<!-- Функция загрузки javascript и css (асинхронно) -->
+		function jsAndCssInit()
+		{	
+			$.ajaxSetup({ cache: true });
+
+							<!-- Подключаем Facebook -->
+					(function(d, s, id) {
+						  var js, fjs = d.getElementsByTagName(s)[0];
+						  if (d.getElementById(id)) return;
+						  js = d.createElement(s); js.id = id;
+						  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.6";
+						  fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));
+				<!-- -->
+				<!-- Подключаем Google Plus -->		
+					$.getScript("/js/jquery.kyco.googleplusfeed2.min.js", function(){
+						  		$('.mydiv').kycoGooglePlusFeed2(
+								{
+							  		id: '104492224226891836983',
+							  		feedPosts: 5,           // Feed posts to show on load
+							  		postsIncrement: 1,      // Number of feed posts to show on "Show more" button click
+							  		maxPosts: 20,            // Max number of posts to pull before "Show more" will go to Google+, cannot excced 20 because of Google API in use
+							  		profileImageSize: 50,  // Max is 250
+							  		fadeSpeed: 0,           // Fade-in animation duration
+							  		loadAttachments: true, // Load images, videos, links and other attachments into feed?
+							  		orderBy: 'date',  // Either 'date' or 'popularity'
+							  		sort: 'asc'            // Either 'asc' or 'desc'
+								});
+						  	});
+				<!-- -->
+				<!-- Подключаем PinTerest -->		
+				$.getScript("//assets.pinterest.com/js/pinit.js", function(){});
+				<!-- -->
+					
+			
+			<!-- Подключаем CSS стили -->		
+		 	$.getScript("/js/loadCSS.js", function()
+			{
+				$.getScript("/js/cssrelpreload.js", function()
+				{	
+					$('head').append('<link rel="preload" href="/css/bootstrap.min.css" as="style" onload="this.rel=\'stylesheet\'">');
+					$('head').append('<link rel="preload" href="/css/bootstrap-dialog.css" as="style" onload="this.rel=\'stylesheet\'">');
+					$('head').append('<link rel="preload" href="/css/bootstrap-select.min.css" as="style" onload="this.rel=\'stylesheet\'">');
+					$('head').append('<link rel="preload" href="/css/main.css" as="style" onload="this.rel=\'stylesheet\'">');
+					$('head').append('<link rel="preload" href="/css/jquery.kyco.googleplusfeed2.css" as="style" toeval="show_hyip_zanoza();" onload="show_hyip_zanoza(); this.rel=\'stylesheet\'">');	
+					
+		 		 });
+			});
+			<!-- -->
+			
+							<!-- Подключаем скрипт Добавления в закладки -->		
+					   $.getScript("/js/bookmark.js", function(){});
+				<!-- -->	   
+				<!-- Подключаем Вконтакте -->
+					$.getScript("/js/vk/openapi.js", function(){
+						
+						$( document ).ready(function() {
+							VK.Widgets.Group("vk_groups", {mode: 2, width: $("#vk_width").width(), height: "300"}, 120388929);
+						});
+						
+					});
+				<!-- -->
+						
+			<!-- Подключаем Bootstrap JS -->	
+  			   $.getScript("/js/bootstrap.min.js", function()
+  			   {
+					<!-- Подключаем Bootstrap Dialog -->	
+						$.getScript("/js/bootstrap-dialog.min.js", function(){});
+  			   		<!-- --> 
+  			   		<!-- Подключаем Bootstrap Select -->	
+						$.getScript("/js/bootstrap-select.min.js", function(){});
+						$.getScript("/js/defaults-en_US.js", function(){
+									$('.selectpicker').selectpicker({
+ 								 style: 'btn-search',
+ 								 size: 4
+							});
+							
+							$('#select_program_topicstarter').on('hidden.bs.select', function (e) {
+								$.get( "/project_info.php?url="+$('#select_program_topicstarter').val()+"", function( data )
+								{
+									
+									$("#forum_code").html(data);
+								});
+							});
+						});
+  			   		<!-- --> 
+									});
+			<!-- --> 
+			
+			<!-- Пример работы виджета на странице Для вебмастера -->	
+							<!-- --> 
+			
+			<!-- Проверка форма на странице Реклама -->	
+						<!-- --> 
+			
+						
+			<!-- Фикс активных елементов -->	
+			$('.pull-padding a').click(function (e) 
+			{
+				$('.pull-padding a.active').removeClass('active');
+				$(this).addClass('active');
+			});
+			<!-- -->
+			
+			<!-- Кнопка вверх -->	
+			$(".to_top").hide();
+			
+			$(function () 
+			{
+				$(window).scroll(function () {
+					if ($(this).scrollTop() > 50) {
+						$('.to_top').fadeIn();
+					} else {
+						$('.to_top').fadeOut();
+					}
+				});
+				$('.to_top').click(function () {
+					$('body,html').animate({
+						scrollTop: 0
+					}, 500);
+					return false;
+				});
+			});
+			<!-- -->
+		}
+
+		<!-- Функция голосования -->	
+		function vote(v, id)
+		{
+			$.get( "/vote.php?id="+id+"&v="+v+"", function( data ) 
+			{
+				switch(data)
+				{
+					case "voted_up":
+						var dialogInstance = new BootstrapDialog();
+						dialogInstance.setTitle('Вы успешно проголосовали');
+						dialogInstance.setMessage('Вы успешно проголосовали. Напомним что Вы можете голосовать только 1 раз.');
+						dialogInstance.setType(BootstrapDialog.TYPE_SUCCESS);
+						dialogInstance.open();     
+						$(".up_result").html(parseInt($(".up_result").html())+1);
+					break;
+					case "voted_down":
+						var dialogInstance = new BootstrapDialog();
+						dialogInstance.setTitle('Вы успешно проголосовали');
+						dialogInstance.setMessage('Вы успешно проголосовали. Напомним что Вы можете голосовать только 1 раз.');
+						dialogInstance.setType(BootstrapDialog.TYPE_SUCCESS);
+						dialogInstance.open();     
+						$(".down_result").html(parseInt($(".down_result").html())+1);
+					break;
+					case "double":
+						var dialogInstance2 = new BootstrapDialog();
+						dialogInstance2.setTitle('Вы уже голосовали');
+						dialogInstance2.setMessage('К сожалению голосовать Вы не можете. С данного IP уже проголосовали.');
+						dialogInstance2.setType(BootstrapDialog.TYPE_WARNING);
+						dialogInstance2.open();    
+					break;
+					case "no_match":
+						var dialogInstance2 = new BootstrapDialog();
+						dialogInstance2.setTitle('Ошибка');
+						dialogInstance2.setMessage('Ошибка при голосовании.');
+						dialogInstance2.setType(BootstrapDialog.TYPE_DANGER);
+						dialogInstance2.open();    
+					break;
+				}
+			   
+			});
+		}
+		<!-- -->
+		
+		<!-- Функция вывода результатов поиска -->	
+		function showResult(str) 
+		{
+			 if (str.length==0) { 
+				document.getElementById("livesearch").innerHTML="";
+				return;
+			}
+			 if (window.XMLHttpRequest) {
+				// code for IE7+, Firefox, Chrome, Opera, Safari
+				xmlhttp=new XMLHttpRequest();
+			} else {  // code for IE6, IE5
+				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+			  }
+			 xmlhttp.onreadystatechange=function() {
+				if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+				  document.getElementById("livesearch").innerHTML=xmlhttp.responseText;
+				}
+			  }
+			  xmlhttp.open("GET","/livesearch.php?q="+str+"&l=",true);
+			  xmlhttp.send();
+		}
+		<!-- -->
+		
+		<!-- Функция следить за хайпов -->	
+				<!-- -->
+		<!-- После загрузки контента HTML запускаем цепочку Javascript и CSS -->
+		document.addEventListener("DOMContentLoaded", ready);

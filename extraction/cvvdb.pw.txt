@@ -1,0 +1,419 @@
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=420"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=420"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=6de47e9ad720da0e4b06422602731134&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/styles/DarkCore/misc";
+	var IMGDIR_BUTTON = "images/styles/DarkCore/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "420";
+	var BBURL = "http://crimes.ws";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "index";
+	var RELPATH = "";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://crimes.ws/";
+// -->
+
+
+
+
+
+
+
+	
+        
+
+	
+
+
+
+/* ***** google fonts ***** */
+
+h1,h2,h3,h4,h5,h6 {   font-family: 'Open Sans', sans-serif; }
+ul li, ol li {   font-family: 'Open Sans', sans-serif; }
+p {   font-family: 'Open Sans', sans-serif; }
+a, a:hover, a:visited {    font-family: 'Open Sans', sans-serif; }
+
+.general_color a:link {color: #8e8e8e; text-decoration: none}
+.general_color a:visited {color: #8e8e8e; text-decoration: none}
+.general_color a:active {color: #8e8e8e; text-decoration: none}
+
+.with_thumbs a:link {color: #8e8e8e; text-decoration: none}
+.with_thumbs a:visited {color: #8e8e8e; text-decoration: none}
+.with_thumbs a:active {color: #8e8e8e; text-decoration: none}
+
+.postbit
+{
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	display: block;  
+}
+.post .postbit_controls
+{
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+.post
+{
+	height: 30px;
+	line-height: 30px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	font-size: 22px;
+	margin-bottom: 10px;
+	float: right;
+	min-width: 60px;
+	max-width: 200px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 10px;
+	background-repeat: no-repeat;
+	background-position-x: left;
+	background-position-y: center;
+	background-color: #1a1a1a;
+}
+.post .post_thumbs
+{
+	letter-spacing: -0.04em;
+	display: inline;
+  font-family: "Trebuchet MS",Calibri,Verdana,sans-serif;
+}
+.post .post_thumbs img
+{
+	top: 3px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 1px;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-bottom-color: transparent;
+	border-left-color: transparent;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	position: relative;
+}
+.post .post_thumbs img.thumbsup
+{
+	right: 7px;
+  
+}
+.post .post_thumbs img.thumbsdown
+{
+	right: 3px;
+  
+}
+
+
+/* css/tooltip.css -- fancy tooltips */
+
+span.tool {
+  position: relative;   /* this is key */
+  cursor: help;
+}
+ 
+span.tool span.tip {
+  display: none;        /* so is this */
+}
+
+/* tooltip will display on :hover event */
+ 
+span.tool:hover span.tip {
+  display: block;
+  z-index: 10;
+  position: absolute;
+  left: -70px;
+top: 1.6em;
+  width: 150px;
+  padding: 0px;
+  font: normal;
+  text-align: right;
+  color: #4A4A6E;
+}
+
+/* css/tooltip.css */
+
+.inlineimg
+{
+	vertical-align: inherit;
+}
+p.thumbers
+{ 
+        line-height: 20px;
+        font-weight:bold;
+        font-family: "Trebuchet MS",Calibri,Verdana,sans-serif;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+h6.thumbsup
+{
+	font-weight: normal;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	overflow: hidden;
+	letter-spacing: -0.05em;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.menu_popup
+{
+	font-size: 12px;
+	border-top-color: #bbb;
+	border-right-color: #bbb;
+	border-bottom-color: #bbb;
+	border-left-color: #bbb;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	opacity: 0.9;
+	background-image: none;
+	background-attachment: scroll;
+	background-repeat: repeat;
+	background-position-x: 0%;
+	background-position-y: 0%;
+	background-size: auto;
+	background-origin: padding-box;
+	background-clip: border-box;
+	background-color: white;
+}
+.menu_popup h6, .menu_popup p
+{
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 6px;
+	padding-left: 5px;
+}
+
+.h6 img
+{
+	top: 3px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 20px;
+	padding-left: 1px;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-bottom-color: transparent;
+	border-left-color: transparent;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	position: relative;
+}
+
+
+	
+
+	Crimes.WS :: Elite Carding Forum ::
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -=FRESHSTUFF=- ONLY OWN EXCLUSIVE DUMPS & CVV BASES | ICQ 740770 | USA/WORLD/ASIA
+
+
+
+	Message
+	
+			
+			
+					
+			
+			
+						
+			
+		
+			
+				
+					
+				
+				
+					
+					This resource is a private platform, Has been created for the information purposes exclusively and bears no responsibility for the participants and their actions.
+					
+						
+							 
+							 
+							
+
+
+
+ 
+
+Support  h3kt0r@xmpp.jp 
+
+╪ I'm crimes forum support only ✪ I don't sell/buy anything ╪
+
+						
+					
+					
+					[ Log in panel ]
+					
+					Log in		
+					
+						User Name:
+						
+					
+								
+						Password:
+						
+					
+					
+						  Remember Me?
+
+					
+					
+				
+				
+					
+						
+						
+					
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+	
+	
+	
+	<!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+	
+        
+
+ 
+
+
+
+					
+				
+			
+		
+		
+			
+
+	
+
+		
+		
+		
+	
+
+	
+		
+		Crimes.WS
+		
+		
+		
+		
+		
+		
+		Top
+	
+			
+	All times are GMT +4. The time now is 08:03 AM.	
+
+	
+	Copyright ©2012 - 2017 Crimes.WSElite Only!			
+			
+
+	
+		
+	
+
+
+    var exclude_domains = ['crimes.ws'];

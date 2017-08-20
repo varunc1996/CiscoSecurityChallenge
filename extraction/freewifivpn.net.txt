@@ -1,0 +1,1077 @@
+SecureVPN - secure and anonymous Internet surfing through VPN connection
+        
+    
+    
+    
+    
+    
+        
+    
+      WebFont.load({
+        google: {
+          families: ["Ubuntu:400,300,500:latin,cyrillic-ext,latin-ext,cyrillic"]
+        }
+      });
+    
+    window.WebFont || document.write('<link rel="stylesheet" type="text/css" href="/theme/modern/css/ubuntu.css" />')
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+        
+
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter25674350 = new Ya.Metrika({
+                    id:25674350,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+
+
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53195001-1', 'auto');
+  ga('send', 'pageview');
+
+
+      
+        
+    
+    
+	
+	    
+    		
+	    
+        
+    
+    
+	
+    	    
+        	
+    		76.102.171.186 - United States, San Jose    		
+            
+	    
+    	    	    
+            
+        	
+        	    		    ENG
+            	    РУС
+    		    中文
+        	
+            
+	
+    
+
+    
+    
+	
+    	    
+        	
+    	    
+    	    
+        	
+		        	
+    	    
+    	    
+        	
+        	    
+            		ENG
+            		
+			    ENG
+			    РУС
+			    中文
+            		
+        	    
+    		
+    	    
+	
+    
+    
+	
+    	    
+        	
+        	    Plans
+        	    Questions and answers
+    		    Setup
+        	    Support
+        	    Blog
+        	
+        	
+    		Log inSign up        	
+    	    
+	
+    
+
+    
+    
+	
+    	    
+        	
+    	    
+    	    
+        	
+        	    
+    		    Log inSign up        	    
+        	    
+            	    Plans
+                    Questions and answers
+                    Setup
+            	    Support
+            	    Blog
+        	    
+        	
+    	    
+	
+    
+    
+        Login to Personal Area
+		
+    	    
+        	            
+            
+        	            
+            
+    		
+            
+            
+        	Forgot password?            
+	
+	    
+    
+    
+
+      
+         
+        
+          A reliable and convenient tool for anonymous Internet access
+        
+         
+      
+      
+        
+           
+          
+            
+          
+          
+            
+            
+              
+              
+              
+              
+              
+            
+          
+           
+        
+      
+      
+        
+          
+            
+              Large selection of static IP addresses
+            
+            
+              
+                Unlimited bandwidth and IP switches
+              
+            
+          
+          
+            
+              
+                Why use a VPN?
+                
+              
+              
+            
+          
+          
+            
+              Download app
+            
+            
+              You can rent a dedicated IP
+            
+            
+              Double chain VPN connection
+            
+          
+        
+      
+    
+    
+      
+          
+            
+            Full anonymity
+            
+              
+                No logging of your network traffic
+                Only email is required to sign up
+                We accept anonymous payments
+              
+            
+          
+          
+            
+            Large selection of static IP
+            
+              
+              Rent of dedicated IP
+              Only white-listed IP, regular pool updates
+              Port forwarding available
+              
+            
+          
+          
+            
+            No limitations
+            
+              
+                Unlimited IP switches
+                Unlimited bandwidth and speed
+                All ports are open
+              
+            
+          
+        
+      
+        
+          
+          Comfortable
+          
+            
+              Fast IP change
+              Simultaneous connections on up to 5 devices
+              User-friendly application
+            
+          
+        
+        
+          
+          Easy to use
+          
+            
+              Compatible with all platforms and devices
+              Easy setup
+              24/7 english speaking support
+            
+          
+        
+        
+          
+          Safe
+          
+            
+              Strong 256-bits data encryption
+              Double chain VPN connection
+              Anonymous DNS server
+            
+          
+        
+      
+    
+    
+      
+        
+          Servers available for connection
+          Connect to any of 30 servers in 21 countries
+        
+      
+      
+        
+          
+            
+              
+                
+                
+                  
+                
+                  Russia
+                  Moscow, St. Petersburg
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Germany
+                  Frankfurt
+                
+                
+              
+              
+                
+                
+                  
+                
+                  France
+                  Strasbourg
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Netherlands
+                  Amsterdam
+                
+                
+              
+              
+                
+                
+                  
+                
+                  USA
+                  Virginia, St. Louis, New York, Phoenix, Los Angeles, Seattle, Las Vegas, Dallas
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Ukraine
+                  Kiev
+                
+                
+              
+            
+            
+              
+                
+                
+                  
+                
+                  Austria
+                  Graz
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Spain
+                  Madrid
+                
+                
+              
+              
+                
+                  
+                    
+                  
+                    China
+                    Hong Kong
+                  
+                  
+              
+              
+                
+                
+                  
+                
+                  Poland
+                  Warsaw
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Sweden
+                  Stockholm
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Switzerland
+                  Zurich
+                
+                
+              
+            
+            
+              
+                
+                
+                  
+                
+                  Romania
+                  Bucharest
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Italy
+                  Milan
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Australia
+                  Melbourne
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Israel
+                  Tel Aviv
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Belgium
+                  Oostkamp
+                
+                
+              
+              
+                
+                  
+                    
+                  
+                    United Kingdom
+                    London
+                  
+                  
+              
+            
+            
+              
+                
+                
+                  
+                
+                  Luxembourg
+                  Steinsel
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Canada
+                  Montreal
+                
+                
+              
+              
+                
+                
+                  
+                
+                  Vietnam
+                  Hanoi
+                
+                
+              
+              
+                
+                
+                  
+                
+                  TOR
+                  .onion
+                
+                
+              
+            
+          
+        
+        
+          
+            Need another country?
+            Email us and we will add it to the list!
+            		              
+                
+                                  
+                
+                                  
+                
+                                 
+		
+		    
+		
+                
+                  Add to list
+                
+              
+                      
+        
+      
+    
+    
+      
+        
+          Plans for any tasks
+        
+        
+          
+            
+              Period
+            
+              
+                  Month
+                    
+                      Day
+                      Week
+                      Month
+                      2 mths
+                      3 mths
+                      6 mths
+                      Year
+                    
+                  
+              
+            
+          
+        
+      
+      
+        
+          
+            
+              
+                Pro
+              
+              
+                
+                
+                    $17.9
+                  
+                  
+                    60¢
+                    per day
+                  
+                
+              
+            
+            
+              
+                Devices amount х3
+              
+              
+                PPTP/L2TP
+              
+              
+                OpenVPN
+              
+              
+                Double VPN
+              
+              
+                Change the location without reconnecting
+              
+            
+            
+              
+                Buy this Plan
+              
+            
+          
+        
+        
+          
+            
+              
+                Advanced
+              
+              
+                
+                
+                    $10.9
+                  
+                  
+                    36¢
+                    per day
+                  
+                
+              
+            
+            
+              
+                Devices amount х3
+              
+              
+                PPTP/L2TP
+              
+              
+                OpenVPN
+              
+              
+                —
+              
+              
+                —
+              
+            
+            
+              
+                Buy this Plan
+              
+            
+          
+        
+        
+          
+            
+              
+                Basic
+              
+              
+                
+                
+                    $7.9
+                  
+                  
+                    26¢
+                    per day
+                  
+                
+              
+            
+            
+              
+                Devices amount х1
+              
+              
+                PPTP/L2TP
+              
+              
+                —
+              
+              
+                —
+              
+              
+                —
+              
+            
+            
+              
+                Buy this Plan
+              
+            
+          
+        
+        
+          
+            
+              
+                Free
+              
+              
+                
+                
+                    3 hours free
+                  
+                
+              
+            
+            
+              
+                Devices amount х1
+              
+              
+                PPTP/L2TP
+              
+              
+                OpenVPN
+              
+              
+                —
+              
+              
+                —
+              
+            
+            
+              
+                Try it for free
+              
+            
+          
+        
+      
+      
+        
+          Port forwarding available on all plans from 3 months.Dedicated IP: from $2/month.A money refund to your account balance if you cancel the subscription.
+        
+      
+    
+    
+      
+        
+          What plan to choose?
+          
+            
+              Pro
+              Is intended for professionals who need a higher level of security. This plan includes Double VPN connection scheme meaning that encrypted data passes through a two servers and the IP addresses at the input and output servers are different. It is an optimal solution ensuring maximum safety without decrease in data transmission rate.
+            
+            
+        	Buy this Plan
+          
+          
+            
+              Advanced
+              Is designed for sophisticated users and provides the option of simultaneous connection with different protocols, namely via OpenVPN, PPTP and L2TP/IPSec. This solution allows to implement simultaneous Internet access for PC and mobile devices while OpenVPN technology ensures the possibility to bypass provider’s block of PPTP and L2TP protocols.
+            
+            
+		            
+        	Buy this Plan
+          
+          
+            
+              Basic
+                Is intended for users who need protection from traffic interception on the provider’s equipment, secure connection to public Wi-Fi hotspots, and substitution of IP address at the output with the help of PPTP/L2TP.
+              
+             
+		             
+              Buy this Plan
+          
+        
+      
+    
+    
+      
+        
+          Why Do You Need SecureVPN?
+        
+        
+          
+          Protect Your Privacy
+        
+        
+          
+          Secure Your Internet Connection
+        
+        
+          
+          Bypass censorship and unblock websites
+        
+        
+          
+          Get access to geo-targeted content
+        
+        
+        
+	            
+	          
+        
+        
+          What plan to choose?
+        
+      
+    
+    
+      
+        
+          Questions and answers
+        
+      
+      
+        
+          Why use a VPN?
+          VPN solves a number of problems: gaining access to blocked sites (social networks); anonymous access to web resources; access to geo-targeted media content (Hulu, Spotify, Rhapsody etc.); data protection when using Wi-Fi hotspots. In general, VPN is a very necessary thing, by the way, look at the video!
+        
+        
+          Do you log my data?
+          Security and anonymity of clients - the main priority of our company. Therefore, we do NOT keep any data that allow to identify users or track their activity on the Internet. For more details, view our Privacy Policy.
+        
+        
+          What is Double VPN?
+          Double VPN technology allows you to use two different servers for anonymous and secure access to the Internet. User is connected to the server in one country (for example, in USA), and goes online from a different server (for example, in Germany). The traffic between the servers is encrypted, and user’s IP address changes twice.
+        
+        
+          Is it necessary to be a rocket scientist to setup VPN?
+          You are not required to have special knowledge and skills to configure VPN - we have developed detailed manual that even a child can set up a VPN on your desktop, tablet or smartphone!
+        
+        
+          What VPN protocols are supported?
+          Any of our servers support VPN protocols - PPTP, L2TP/IPSec, OpenVPN. This allows you to configure the VPN-connection on any modern device and operating system.
+        
+        
+          I have installed anti-virus/firewall. Will I be able to use VPN?
+          Yes, of course. As a rule, there is no need to change any settings in the computer security software. But if anti-virus or firewall blocks the connection, please, contact our technical support team and you will be assisted in resolving the problem.
+        
+      
+      
+        
+          More answers
+          What is VPN? How VPN works? What are the system requirements?...
+        
+      
+    
+    
+      
+	        
+          
+		Tweets by @thesecurevpn 
+          
+        
+	
+	          
+            Got a question?
+            We are pleased to answer them!
+    	    		              
+                
+		                    
+                
+		                    
+                
+		                    
+		
+		    
+		
+                
+                  Send question
+                
+              
+    	              
+        
+      
+    
+    
+    __basic = {"1":{"price":0.5,"id":146,"c_conn":1},"7":{"price":2.7,"id":147,"c_conn":1},"30":{"price":7.9,"id":148,"c_conn":1},"180":{"price":34.9,"id":158,"c_conn":1},"90":{"price":19.9,"id":157,"c_conn":1},"365":{"price":61.9,"id":159,"c_conn":1},"60":{"price":13.9,"id":149,"c_conn":1}};
+__advanced = {"7":{"price":3.9,"id":151,"c_conn":2},"30":{"price":10.9,"id":152,"c_conn":3},"60":{"price":19.9,"id":153,"c_conn":3},"90":{"price":27.9,"id":160,"c_conn":4},"180":{"price":49.9,"id":161,"c_conn":5},"365":{"price":79.9,"id":162,"c_conn":5},"1":{"price":0.9,"id":150,"c_conn":2}};
+__pro = {"7":{"price":5.9,"id":154,"c_conn":2},"30":{"price":17.9,"id":155,"c_conn":3},"90":{"price":47.9,"id":163,"c_conn":4},"180":{"price":77.9,"id":164,"c_conn":5},"365":{"price":119.9,"id":165,"c_conn":5},"60":{"price":32.9,"id":156,"c_conn":3}};
+__demo = {"180":{"price":0,"id":186,"c_conn":1}};
+    
+        
+            
+	
+	    Registration
+	    
+	
+        
+        
+	E-mail
+	
+        
+        
+	Language
+	
+	    
+	    Русский
+	    English
+	    中文
+	    
+	
+        
+        
+	Password
+	
+        
+        
+	Confirm Password
+	
+        
+        
+          Agree with terms of service
+          
+        
+        
+	
+	
+        
+	
+	    Register
+	
+        
+                
+	×
+        
+    
+    
+    
+	
+	    
+		Support and Feedback
+		
+	    
+        
+		
+            
+	                
+            
+	                
+	    
+	                
+            
+	                
+	    
+		
+	    
+            
+                Send message
+            
+        
+		
+	    ×
+        
+    
+
+    
+      
+        
+          SecureVPN
+          
+	    Home
+           
+            Free trial
+            Stealth VPN
+            Affiliate Program
+            Partnership
+            Blog
+          
+        
+        
+          Support
+          
+            Setup
+            Questions and answers
+            Articles
+            Feedback
+            Terms of service
+            Privacy policy
+          
+        
+        
+          Contacts
+          
+            securevpn
+            support@securevpn.pro
+            support@securevpn.pro
+            securevpn@yahoo.com
+            3067691665
+          
+        
+        
+          Share
+          
+            Facebook
+            ВКонтакте
+            Twitter
+            Google+
+          
+        
+      
+      
+        © 2014–2017 SecureVPN LTD.
+        
+          
+          
+          
+          
+          
+          
+          
+        
+      
+      
+        
+          
+        
+      
+    
+    
+    
+	SECUREVPN = {
+                lang: 'eng',
+                messages: {
+                    'processing': 'Processing',
+                    'wrong_amount': 'Wrong Amount',
+                    'empty_email': 'Empty Email',
+                    'empty_username': 'Empty Username',
+                    'empty_password': 'Empty Password',
+                    'empty_recaptcha': 'Empty Recaptcha',
+                    'passwords_should_be_equal': 'Passwords should be equal',
+                    'you_should_accept_rules': 'You should accept the rules',
+                    'wrong_combination': 'Sorry, but you can\'t use this combination',
+                    'minutes': 'minutes',
+                    'days': 'days',
+                    'confirm_plan_cancel': 'Do you confirm cancellation of this subscription?',
+                    'yes': 'Yes',
+                    'no': 'No',
+                    'today': 'Today',
+                    'error': 'Error',
+                    'please_enter_your_email_to_receive_trial': 'Please enter your email to receive trial',
+                    'please_enter_your_email': 'Please enter your email',
+                    'password_can_not_by_empty': 'Password can not be empty',
+                    'wrong_chars_in_password': 'Wrong chars in password',
+                    'password_and_confirmation_are_not_equal': 'The passwords do not match',
+                    'this_e-mail_already_registered': 'This email already registered',
+                    'please_agree_with_terms_of_service': 'Please agree with terms of service',
+                    'wrong_password': 'Wrong password'
+                },
+		is_dev: false        };
+    
+        
+    
+	(function(){ var widget_id = '79iiQxbIXF';var d=document;var w=window;function l(){
+	var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();

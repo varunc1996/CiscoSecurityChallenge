@@ -1,0 +1,259 @@
+VPN Shield - Top Best VPN for Anonymous Browsing and Encrypt Connection
+	
+	
+    
+    
+	
+    
+	
+    Raven.config("https://92fa66a759ec44d5a4de778efac04794@sentry.io/101551").install();
+    
+    
+
+    
+
+/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","vpnshield.zendesk.com");
+/*]]>*/
+
+
+zE(function() {
+    zE.hide();
+  });
+    
+
+
+
+
+    
+        
+            
+                
+            
+        
+    
+    
+        
+            
+                
+            
+        
+    
+    
+        
+            
+                
+            
+        
+    
+    
+        
+            
+                
+            
+        
+    
+    
+        
+            
+                
+            
+        
+    
+
+
+
+
+
+
+    
+        Home
+        Pricing
+        Features
+        Customers
+        Downloads
+        Help & Support
+         
+        Sign In
+        Sign Up
+    
+
+
+    
+        
+            
+            
+                Home
+                Pricing
+                Features
+                Customers
+                Downloads
+                Help & Support
+                Sign In
+                Sign Up
+            
+            
+                    
+            
+        
+    
+
+
+
+
+	
+        VPN Shield by Defendemus
+        Most Advanced and Fast VPN Service for Protecting Personal Data (AES Encryption) and Unblocking Web Sites due Regional Censorship
+        
+            macOS
+            iPhone / iPad
+            Google Android
+            Windows
+        
+        
+            Register Here
+        		
+	
+
+
+    
+	
+		
+			Downloads:
+            iOS
+			macOS
+			Android
+            Amazon  Kindle
+			Windows
+		
+	
+    
+    
+	
+        
+			
+		
+        Why VPN Shield?
+        
+			
+		
+		
+			Why VPN Shield?
+			We take the complexities out of securing your Internet connection. VPN Shield is a blazing fast, on-demand connection encryption service with straightforward pricing and a brilliant user experience. You'll be amazed at how fast and easy it is to use VPN Shield and start protecting your privacy. With VPN Shield, you’ll be able to set up protected connections for all your devices with one single subscription.
+            Install today and get started
+				
+	
+    
+	
+        
+            
+                Built for non-geeks
+                Most of our users are not geeks and they tell us the user experience is great. That makes us really proud.
+                Learn about our features
+            
+            
+                Pay as you go
+                We offer 7-day, 30-day, 90-day and 1-year subscriptions. Choose the plan that fits your needs. Remember, one account can be shared on up to 5 devices that belong to you!
+                See plans and pricing
+            
+            
+                Happy customers
+                Excellent app! - I first downloaded this on my Kindle Fire. It's quick and easy and highly dependable. I am now installing it on all of my devices including my iPhone and iPad. The customer support is superior. Very fast response.
+                Reviews
+                    
+        
+        
+            
+                Browse our helpful articles & tutorials
+                Want to learn what VPN is? Want to research the options to find what’s best for you? Find what you’re looking for here!
+                Browse Help & Tutorials
+            
+        
+	
+
+
+
+
+	
+		
+			
+				Pricing
+				Features
+				Customers
+				About company
+				FAQ
+                Contact
+			
+		
+		
+			
+				Troubleshooting
+				VPN on macOS
+				VPN on Android/Kindle
+				VPN on iPad/iPhone
+				VPN on Windows 7/8/10
+			
+		
+		
+			
+				What is VPN?
+				Why and when I need VPN?
+				Trial period
+				What to do with connection problem
+				How many devices I can use per account?
+			
+		
+	
+    
+        
+           
+                English
+                Deutsch
+                中文
+                文言
+                日本語
+                한국어
+                Español
+                Français
+                Русский                
+            
+       
+       
+           
+               
+                    
+                        
+                            
+                                
+                            
+                        
+                    
+                
+           
+           
+               
+                    
+                        
+                            
+                                
+                            
+                        
+                    
+            
+           
+       
+       
+            © 2011-2017 Defendemus Limited Liability Company.All rights reserved.Terms & Privacy.
+       
+    
+
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-55959180-2', 'auto', {'allowLinker': true});
+    ga('require', 'linker');
+    ga('require', 'linkid', 'linkid.js');
+    ga('linker:autoLink', ['vpnshieldapp.com', 'www.vpnshieldapp.com', 'account.vpnshieldapp.com', 'support.vpnshieldapp.com']);
+    ga('send', 'pageview');

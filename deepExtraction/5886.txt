@@ -1,0 +1,904 @@
+COIN UNION LIMITED - Best Bitcoin Investment Since 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function() {
+
+	jQuery('.post').addClass("hidden").viewportChecker({
+
+	    classToAdd: 'visible animated fadeInUp', // Class to add to the elements when they are visible
+
+	    offset: 200    
+
+	   });   
+
+});            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$(document).ready(function(){
+
+   $("#slider").easySlider({
+
+      auto: true,
+
+      continuous: true,
+
+	  numeric: true
+
+   });
+
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  $(document).ready(function () {
+
+
+
+      $(window).scroll(function () {
+
+          if ($(this).scrollTop() > 100) {
+
+              $('.scrollup').fadeIn();
+
+          } else {
+
+              $('.scrollup').fadeOut();
+
+          }
+
+      });
+
+
+
+      $('.scrollup').click(function () {
+
+          $("html, body").animate({
+
+              scrollTop: 0
+
+          }, 600);
+
+          return false;
+
+      });
+
+
+
+  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      
+
+      Home
+
+      Login
+
+      Signup
+
+      
+
+
+Paymentproof
+
+about
+
+news
+
+F.A.Q
+
+Terms
+
+Rate us
+
+contact
+
+
+
+    
+
+  
+
+
+
+
+
+
+
+      
+
+  
+
+  
+
+
+
+
+
+
+
+  
+
+    
+
+      
+
+      
+Login
+
+
+
+
+      
+
+      
+Open an account
+
+
+
+
+      
+
+      
+PAYMENTPROOF
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      
+Total deposited: $ 14768968.15  
+Total withdraw: $ 12103787.83  
+Visitors online: 402  
+VIP Members: 7695  
+DDOS Protection: Enable  
+Withdrawal: Instant Payment  
+
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+  
+
+    
+
+      
+
+      
+
+      
+
+      
+
+
+
+      
+
+
+
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      
+
+      Welcome To COINUNION Limited
+
+          COINUNION Limited is a professional cryptocurrency investment company since 2017. We are based in London and have in our employ investment professionals from many industries, ranging from advanced computer technology to engineering. 
+
+COINUNION Limited spends a lot of time studying the phenomenon of cryptocurrency and looking for different ways to get Bitcoin and other virtual currencies. In addition, we are ready to share our knowledge and experience, use our skills for earnings and to promote the idea of switching to cryptocurrency in all sectors of the financial life of people. That is why we are launching our investment project and invite everyone who shares our ideas and is ready to grow with COINUNION Limited. 
+
+  
+
+  About Us ...
+
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      
+
+        
+
+          Our Mission Is To Manage Risk
+
+            and deliver returns - as efficiently as possible.
+
+          sign up now ...
+
+        
+
+      
+
+    
+
+  
+
+
+
+
+
+
+
+investment plans
+
+
+
+	
+
+    
+
+    
+
+    
+
+     
+
+    
+
+      
+
+        
+
+          200% After 1 Day
+
+          Duration: After 1 Day
+
+          Minimum: $30
+
+          Maximum: $10,000
+
+          Referral Commission: 3%
+
+          Instant Payment
+
+          Accept: Bitcoin, Litecoin, PM, Payeer, Advcash
+
+        
+
+        
+
+           300% After 1 Day
+
+          Duration: After 1 Day
+
+          Minimum: $300
+
+          Maximum: $20,000
+
+          Referral Commission: 5%
+
+          Instant Payment
+
+          Accept: Bitcoin, Litecoin, PM, Payeer, Advcash
+
+        
+
+        
+
+           500% After 1 Day
+
+          Duration: After 1 Day
+
+          Minimum: $1,000
+
+          Maximum: $30,000
+
+          Referral Commission: 10%
+
+          Instant Payment
+
+          Bitcoin, PM, Payeer, Advcash, Bankwire
+
+        
+
+        
+
+      
+
+    
+
+  
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+    
+
+    
+
+    
+
+    
+
+   
+
+   
+
+
+
+
+
+
+
+
+
+UP TO 10% REFERRAL COMMISSION
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      
+
+        Lastest News
+
+          
+            
+
+ 
+
+ 
+  
+     Top Stability with COINUNION
+ 
+   Hello Dear Investors and Guests, 
+
+Our program is online already 500 days and we are happy to share this news with you! It is a long time for a new company and we are proud to say that we have made good progress during this period. 
+Thanks to lot of support of all our investors worldwide we will be able to achieve even greater success. We have received a lot of very positive feedback from popular monitors and first of all we would like to thank to all our investors for the trust they put in Investellect. 
+We are very happy to have you on our program and we are doing our best to bring you the best online investment experience. 
+
+Thank you for staying with us ...
+   
+   Jul-2-2017 08:33:33 AM 
+  
+  read more
+ 
+
+
+ 
+ 
+
+
+
+
+        
+
+        Why COINUNION.BIZ
+
+
+
+  
+
+    
+
+      
+
+      
+
+      Fast Withdrawals
+
+      
+
+      We process all withdrawal requests instantly 24/7. You can make as many requests as you want without minimum withdrawal amount.
+
+      
+
+    
+
+  
+
+
+
+
+
+
+
+  
+
+    
+
+      
+
+      
+
+      Strong DDOS Protection
+
+      
+
+      Dedicated server - DDoS Protected by DDoS-GUARD & SSL Encrypted by Comodo - highest available level of trust and authentication for the website.
+
+      
+
+    
+
+  
+
+
+
+
+
+
+
+  
+
+    
+
+      
+
+      
+
+      24/7 Support
+
+      
+
+      We provide live chat and almost instantly mail support during business days & hours and our staff is professional, fast & reliable to answer any of your questions.
+
+      
+
+    
+
+  
+
+
+
+          
+
+        
+
+      
+
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      Last Deposits
+      
+
+
+ 
+ $500
+ mezo0o1986
+
+
+ 
+ $3000
+ bitcoinhunter
+
+
+ 
+ $30
+ Olacity35
+
+
+ 
+ $350
+ pumakido
+
+
+ 
+ $5200
+ Hopkins3
+
+
+ 
+ $860
+ behnamnasiri
+
+
+ 
+ $300
+ Isaacov
+
+
+ 
+ $150
+ linadge
+
+
+ 
+ $30
+ brianbitworker
+
+
+ 
+ $1500
+ lovihegar
+
+
+
+      
+      
+      Last Withdrawals
+      
+
+
+ 
+ $900
+ teta08
+
+
+ 
+ $2500
+ jasminadge
+
+
+ 
+ $150
+ jamesirms
+
+
+ 
+ $15000
+ GHBM4a2s3d
+
+
+ 
+ $750
+ revisaac777
+
+
+ 
+ $7500
+ YNEMO1964
+
+
+ 
+ $5600
+ DayProfit222
+
+
+ 
+ $26000
+ mak1368
+
+
+ 
+ $500
+ Sonntag580
+
+
+ 
+ $2700
+ hoangduyle
+
+
+
+      
+      Investment Calculator
+       
+      
+                   
+                   
+                  200% After 1 Day
+                  300% After 1 Day
+                  500% After 1 Day
+
+
+                
+                
+                
+  
+    
+      ROI
+      PROFIT
+    
+  
+
+
+                
+                
+  
+    
+      $0
+      0%
+    
+  
+
+
+
+
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      
+
+      Home
+
+      Login
+
+
+PaymentProof
+
+about us
+
+news
+
+F.A.Q
+
+Terms Of Use
+
+Rate us
+
+contact us
+
+
+
+
+
+
+
+Running Days: 548 
+Total Accounts: 26015
+
+
+
+
+
+      Telephone: +44-203-829****(Only For VIP)
+
+      E-mail: admin@coinunion.biz
+
+       
+
+        
+
+      
+
+    
+
+  
+
+
+
+
+
+
+
+Risk and be wealthy or never have the chance to be wealthy at all.
+
+Wise people know what to choose. Lazy people choose not to risk at all. 
+
+
+
+All rights reserved.  2017-2020 @ coinunion.biz.  Designed by COINUNION.BIZ
+
+
+
+
+
+
+
+
+
+
+
+Scroll

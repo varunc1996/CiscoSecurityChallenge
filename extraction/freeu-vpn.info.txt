@@ -1,0 +1,410 @@
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=424"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=424"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=424"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=385361b6af2164fd1a6dd07cc1deaf0c&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/styles/TheBeaconDark/misc";
+	var IMGDIR_BUTTON = "images/styles/TheBeaconDark/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "424";
+	var BBURL = "http://cardinglegends.net";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "index";
+	var RELPATH = "";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://cardinglegends.net/";
+// -->
+
+
+
+
+
+
+
+	
+
+	
+
+
+_atrk_opts = { atrk_acct:"2+yen1a4KM10kU", domain:"fraud.ws",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+
+
+
+
+
+	
+
+	Ministry of Fraudulently Affairs republic of carders | Fraud.ws
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+		
+		
+	
+		
+			Forum
+		
+		
+		
+			
+				
+					
+						
+					
+				
+			
+		
+
+	
+		
+			Escrow
+		
+		
+		
+
+	
+		
+			Become VIP Member
+		
+		
+		
+
+	
+		
+			Apply For Vouch Group
+		
+		
+		
+
+	
+		
+			Advertise With Us
+		
+		
+		
+
+		
+	
+	
+				
+			
+			
+			
+			
+			
+				
+					
+				
+				
+					
+				
+			
+			
+		
+
+	
+
+
+
+
+
+
+ 
+ 
+ 
+
+				
+					
+					
+					
+						
+							
+							
+					
+						
+							
+								
+									  Remember Me? 
+									
+															
+							
+				
+				
+				
+				
+				
+			
+			
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'Ù†Ø§Ù… Ú©Ø§Ø±Ø¨Ø±ÛŒ')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='Ù†Ø§Ù… Ú©Ø§Ø±Ø¨Ø±ÛŒ';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			
+					
+				
+					
+				
+					
+					
+
+
+
+
+
+				
+
+
+
+
+
+
+
+	
+		
+		
+		
+	Board Message
+
+	
+	
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+	Board Message
+	
+			
+			
+					
+			
+			
+						
+			
+		
+			
+				
+					
+				
+				
+					
+					This resource is a private platform, Has been created for the information purposes exclusively and bears no responsibility for the participants and their actions.
+					
+						
+							
+
+
+							Support:  676141227 ::  [email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */
+							I'm Fraud.WS Forum Support Only - I Don't Sell/Buy Anything.
+						
+					
+					
+					The administrator may have required you to register before you can view this page.
+					
+					Log in		
+					
+						User Name:
+						
+					
+								
+						Password:
+						
+					
+					
+						 Remember Me?
+					
+					
+				
+				
+					
+						
+						
+					
+				
+			
+			
+	
+
+
+
+
+
+
+
+	
+
+		
+			
+				
+				
+					
+					
+									
+					
+	-- TheBeaconDark
+
+					
+					
+										
+				
+				
+					
+					
+					
+					
+	-- Default Mobile Style
+
+					
+					
+										
+				
+				
+		
+		
+		
+	
+
+	
+		Contact Us
+		Ministry of Fraudulently Affairs republic of carders | Fraud.ws
+		
+		
+		Archive
+		
+		
+		
+		Top
+	
+	
+	
+	
+	
+	
+	<!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+	
+        
+
+ 
+
+
+
+ 
+
+
+	
+		
+All times are GMT. The time now is 04:11 AM.
+
+
+
+_atrk_opts = { atrk_acct:"fBtZl1aQibl0WR", domain:"fraud.ws",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+
+
+
+
+	
+	© Fraud.WS Underground Carding Community : carders forum 
+
+
+All About Fraud!

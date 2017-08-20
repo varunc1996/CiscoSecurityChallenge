@@ -1,0 +1,90 @@
+myhyip.cn | 521: 源站宕机
+
+
+
+
+
+
+
+body{margin:0;padding:0}
+
+
+
+
+
+
+
+
+
+刷新重试
+
+
+源站宕机
+
+云加速尝试连接源站，但是源站无响应。
+
+
+
+
+
+
+
+
+Error
+521
+ -- Event ID: 3912899c12f72822
+
+如果您是网站管理员，点击查看如何修复。如需网站监控，可以使用百度云观测。
+
+
+
+
+
+
+
+
+
+您的浏览器
+
+工作正常
+
+
+
+
+
+
+百度云加速
+
+工作正常
+
+
+
+
+
+
+myhyip.cn
+
+错误
+
+
+
+
+
+
+
+云加速 Event ID: 3912899c12f72822
+•
+你的IP: 76.102.171.186
+•
+帮助中心
+•
+ 百度云加速
+
+
+
+
+
+
+    var img = document.createElement('img');
+    img.src = 'http://static.su.baidu.com/static/app/ver-3.6.14/upload/su.png?r=' + Math.random();
+    document.body.appendChild(img);

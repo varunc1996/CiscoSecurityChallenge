@@ -1,0 +1,2714 @@
+pro-hyip.net - Best HYIP Monitor - High Yield Investment Programs - HYIP Monitor | HYIPs Rating
+ 
+        
+        
+        pro-hyip.net - paying hyip 2016 
+		
+
+
+       
+		
+        
+        
+        
+        
+        
+		
+		
+		
+		
+        
+        
+		
+        
+        
+        
+        
+
+        
+            (function ($) {
+                $(window).load(function () {
+
+                    $("#content-1").mCustomScrollbar({
+                        autoHideScrollbar: true,
+                        theme: "minimal-dark"
+                    });
+
+                });
+            })(jQuery);
+        
+        
+        
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+
+
+
+            checkEmail = function (email) {
+                if (!email)
+                {
+                    return 1;
+                }
+                else
+                {
+                    a = email.indexOf('@');
+                    b = email.indexOf('@', a + 1);
+                    c = email.lastIndexOf('.');
+                    if (a == -1 || b != -1 || c <= a + 2 || a < 1 || c + 2 >= email.length || c + 5 < email.length)
+                    {
+                        return 2;
+                    }
+                }
+                return 0;
+            }
+
+startList = function () {
+                if (document.all && document.getElementById) {
+                    navRoot = document.getElementById("nav");
+                    for (i = 0; i < navRoot.childNodes.length; i++) {
+                        node = navRoot.childNodes[i];
+                        if (node.nodeName == "LI") {
+                            node.onmouseover = function () {
+                                this.className += " over";
+                            }
+                            node.onmouseout = function () {
+                                this.className = this.className.replace(" over", "");
+                            }
+                        }
+                    }
+                }
+            }
+            window.onload = startList;
+        
+        
+                     
+
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5814a3b3e808d60cd07461f1/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+
+
+        
+         
+
+
+   
+    
+    
+   
+            
+
+            
+             
+            
+            
+            	
+                       
+                     
+                    
+                                           
+                        
+                        
+                            Toggle navigation
+                            
+                            
+                            
+                        
+                        
+                    
+
+                    
+                        
+                            Home
+
+							 News 
+                            New
+							 
+						  
+			
+          Listing 
+          
+          							Paid Sticky
+											Exclusive Listing
+											Premium Listing
+											
+											Trial Listing
+											Scam
+											Closed
+											
+					  
+          
+        
+                           Portfolio
+ Blog
+ 
+	
+          Members
+          
+          	
+						
+ Login
+Signup
+Bonus
+Affiliate
+About Our Rating
+PARTNERS
+
+					
+          
+        
+                          
+    RCB Requests
+  Support
+                        
+
+                        
+                            Advertise
+                            Add program
+                      
+            	
+            
+              
+                    
+                    
+                   
+           
+           
+           
+            
+            
+             
+              
+
+                    
+                        						
+
+  
+      
+       
+      
+  
+      
+
+                        
+                    
+
+
+                    
+                        
+
+ 
+
+ 
+
+
+                        
+                    
+
+
+
+                
+                       
+              
+                
+                    
+                    
+   
+                            
+                                
+								  
+								  
+
+
+
+
+   
+        
+     
+     2% daily,1% on weekdays for 88 days     Buy rotating banner here right now for $50.00/week
+     
+
+
+
+
+
+
+
+
+
+
+     
+     
+     Avaliable Now for $45.00/week
+     
+
+
+     
+     
+     Avaliable Now for $40.00/week
+     
+
+
+     
+          
+     
+     Royal-Mining Avaliable on Aug 21, 2017 for $35.00/week
+     
+
+
+     
+          
+     
+      Avaliable on Aug 21, 2017 for $30.00/week
+     
+
+
+     
+     
+     Avaliable Now for $25.00/week
+     
+
+
+     
+          
+     
+     0.8%-17% daily, for 260-15 trading days; 6500%-400% after 110-20 trading days Avaliable on Aug 21, 2017 for $20.00/week
+     
+
+
+     
+
+             
+					   
+                                    
+                                
+
+                            
+
+                        
+						
+                        
+                            
+                                
+                                    
+                                        LAST VOTES
+                                    
+                                    
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            Number one High Yield Investment Programs.. Date : 19.08.17 12:16 From/To Account : U12935665 Amount : 10.50 Currency : USD Batch :185428734 Memo: API Payment. Chain.group payout 79238  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            Payment received very fast as usual. The amount of 19.25 USD has been deposited to your account. Accounts: U8732954->U******. Memo: API Payment. Chain.group payout .. Date: 02:50 19.08.17. Batch: 185484753.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            The amount of 6 USD has been deposited to your account. Accounts: U12935665->U19362XX. Memo: API Payment. Chain.group payout .. Date: 03:47 19.08.17. Batch: 185491475.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            The first Fast payment received from Chain Group Service by schedule :  The amount of 9.5 USD has been deposited to your account.  Accounts: U12935665->U821****.  Memo: API Payment. Chain.group payout ..  Date: 03:15 19.08.17.  Batch: 185428597.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            MY Favorite investment company. I like instant payment and I have earned over $ 60  here, thanks a lot. Chain Group Services is my trusted and Very Reliable company.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            The amount of 9 USD has been deposited to your account. Accounts: U12935665->U51942XX. Memo: API Payment. Chain.group payout .. Date: 06:14 18.08.17. Batch: 185324965.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            The first Fast payment received from Chain Group Service by schedule : 
+The amount of 10.4 USD has been deposited to your account. 
+Accounts: U12935665->U749****. 
+Memo: API Payment. Chain.group payout .. 
+Date: 02:49 18.08.17. 
+Batch: 185319423.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            Payment received very fast as usual. The amount of 13.27 USD has been deposited to your account. Accounts: U8732954->U******. Memo: API Payment. Chain.group payout .. Date: 07:42 17.08.17. Batch: 1852  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            The amount of 7 USD has been deposited to your account. Accounts: U12935665->U42831XX. Memo: API Payment. Chain.group payout .. Date: 02:34 17.08.17. Batch: 185293587.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            The first Fast payment received from Chain Group Service by schedule :  The amount of 11.2 USD has been deposited to your account.  Accounts: U12935665->U928****.  Memo: API Payment. Chain.group payout ..  Date: 04:19 17.08.17.  Batch: 185248379.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            MY Favorite investment company. I like instant payment and I have earned over $ 47  here, thanks a lot. Chain Group Services is my trusted and Very Reliable company.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            The amount of 9 USD has been deposited to your account. Accounts: U12935665->U57923XX. Memo: API Payment. Chain.group payout .. Date: 04:52 15.08.17. Batch: 184987142.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            The first Fast payment received from Chain Group Service by schedule :  The amount of 10.4 USD has been deposited to your account.  Accounts: U12935665->U712****.  Memo: API Payment. Chain.group payout ..  Date: 06:27 16.08.17.  Batch: 185019285.  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            Processor: Perfect money Date: 12.08.17. 16:02 From/To Account: U12935665 Amount: 10.20 Currency: USD Batch :184812518 Memo: API Payment. Chain.group payout 64768  
+                                        
+
+
+
+                                        
+                                            Very Good  Chain Group Service 
+                                            Number one High Yield Investment Programs.. Date : 09.08.17 12:16 From/To Account : U12935665 Amount : 10.50 Currency : USD Batch :184428734 Memo: API Payment. Chain.group payout 62947  
+                                        
+
+
+
+
+
+
+
+                                    
+                                
+
+                            
+
+                        
+
+                    
+
+                
+
+                               
+                                                                   
+   
+                 
+				 
+                     
+    
+	             
+              
+                
+                    
+                
+     
+    
+                
+              
+                         
+
+
+
+            Your Investments Ads plan 
+       
+             
+              
+                
+                    STATUS:PAYING   
+                    
+                        Go Details
+                    
+                     
+     
+   
+     
+                
+                
+              
+            
+
+                    
+
+           	
+            
+                  
+                     
+                  
+                     
+                                                
+                                
+                                    
+                                        SEARCH
+
+                                         
+
+                                    
+
+                                        
+                                            
+                                                
+                                                
+                                                    
+                                                        
+                                                    
+                                                
+                                        
+                                    
+
+                                
+                            		
+
+                         		
+
+                       
+                                     
+                          
+       
+                                            
+                            
+						
+                                
+                                    
+																		 Sign In
+                                    
+									 Forgot password?
+									                                      
+
+                                
+									
+
+                                    
+                                        function checklogin() {
+                                            if (document.loginform.username.value == '') {
+                                                alert("Please enter your username!");
+                                                document.loginform.username.focus();
+                                                return false;
+                                            }
+                                            if (document.loginform.password.value == '') {
+                                                alert("Please enter your password!");
+                                                document.loginform.password.focus();
+                                                return false;
+                                            }
+                                            return true;
+                                        }
+                                    
+
+                                    
+
+
+
+
+										
+                                        
+                                            
+                                                                                    
+                                        
+
+                                        
+                                            
+                                            
+                                        
+
+
+
+                                        
+                                            
+                                                
+                                                     Remember me
+                                                
+                                            
+                                        
+
+
+                                        
+                                            
+
+                                            
+
+                                                
+                                            
+                                        
+
+
+                                        
+                                            
+                                                
+                                                    Don't have an account! 
+                                                    
+                                                        Sign Up Here
+                                                    
+                                                
+                                            
+                                            
+                                         
+									
+									
+                                  
+                                  
+
+
+                      
+            
+                    
+                        TOP INVESTOR MONTH
+               
+                         
+
+                    
+
+  
+   1.
+   alexp
+   $1,060.00
+  
+  
+   2.
+   pilot2014
+   $900.00
+  
+  
+   3.
+   SteveMan
+   $440.00
+  
+  
+   4.
+   binguin
+   $350.00
+  
+  
+   5.
+   virajnim7
+   $150.00
+  
+  
+   6.
+   neoo64
+   $130.00
+  
+  
+   7.
+   wide_awake
+   $130.00
+  
+  
+   8.
+   sevakalex895
+   $100.00
+  
+  
+   9.
+   htuvbnv
+   $20.00
+  
+  
+   10.
+   VipInvestor
+   $20.00
+  
+  
+   11.
+   semon
+   $20.00
+  
+  
+   12.
+   giacuong
+   $10.00
+  
+  
+   13.
+   aston
+   $10.00
+  
+  
+   14.
+   nelomota
+   $5.00
+  
+
+	
+					
+			
+	
+
+
+
+                                                
+                                
+                                    
+                                        NEW LISTING
+
+                                         
+
+                                    
+
+                                        
+
+
+
+                                                
+                                                     Aug 6th, 2017
+                                                
+
+                                            
+
+ 
+
+                                                
+                                                    BTCMART.BIZ
+
+                                                       
+  Not Paying
+   														
+                                                     
+                                                    20.5% - 25% Hourly For 5 Hours 9% - 20% Hourly For 12 Hours 150% - 300% After 3 Days 550% - 1200% After 18 Days
+                                                
+
+                                            
+
+                                            
+                                           
+                                            
+
+                                        
+
+                                    
+                                		
+
+                             		             	
+                           	
+
+                    
+                                
+                                    
+                                        ADVERTISING
+
+                                         
+
+                                    
+                                        
+
+										
+
+
+       
+
+
+
+
+
+       
+
+
+                                           
+
+
+                                        
+
+
+                                    
+                                		
+
+                             	
+				   
+	 
+                                                
+                                
+                                    
+                                        SUPPORT ONLINE
+
+                                         
+
+                                    
+                                        
+                                            MY TEAM GROUP
+                                       
+                                        
+                                            prohyip1@gmail.com
+                                            
+                                            Telegram: @prohyip
+                                            
+                                            Skype: prohyip
+
+                                        
+                                           
+                                            
+                                            
+                                            
+                                        
+                                    
+                                		
+
+                             		
+				   
+				   
+
+
+
+                                                
+                                
+                                    
+                                        NEWS
+
+                                         
+
+                                    
+
+                                        
+										 
+
+                                                
+                                                    
+													PRO-HYIP.NET - TOP INVESTOR OF MONTH ( 2017/05) is PAID
+                                                     
+                                                    Dear Friends,
+we are happy to announce. We paid (TOP 15 INVESTOR OF THE MONTH) commission May, 2017
+Become our top 15 investors and get High RCB and High monthly commission.
+mopia516	$1300.00
+wasimbutt22	$330.00
+zswedcheck	$300.00	
+ngtanloc9520	$200.00
+sweetmercy50	$200.00	
+elfah524	$170.00
+virajnim7	$160.00
+robinUking30	$160.00
+htuvbnv	        $140.00
+remikriszta	$130.00
+losangels266	$100.00
+aigaruha42	$100.00
+Williambrown99	$100.00
+adilson27	$100.00
+wknpx5	        $85.00
+CLICK ON THE LINKS TO CHECK THE PROOFS.
+Commission paid detail here: http://i.imgur.com/LLnG1UR.jpg
+Investors detail here: http://i.imgur.com/FwKP5dD.jpg
+Bonus detail here: http://pro-hyip.net/page/id/bonus.html
+
+Note: when you create RCB. first you login in our monitor and after you create RCB. when you create account in our monitor make sure your all E-Wallet ID's should correct. Thank you to become our member. When you invest via Bitcoin. you add transaction link in RCB summary. more --> Jun-7-2017 07:11:58 AM
+                                                
+
+                                            
+
+ 
+
+                                                
+                                                    
+													PRO-HYIP.NET - TOP INVESTOR OF MONTH ( 2017/04) is PAID
+                                                     
+                                                    Dear Friends,
+we are happy to announce. We paid (TOP 20 INVESTOR OF THE MONTH) commission April, 2017
+Become our top 20 investors and get High RCB and High monthly commission.
+charly690	$3513.00
+mopia516	$2900.00	
+qq	        $1906.00	
+Kabal	        $1001.00	
+Fart	        $1000.00
+giacuong	$670.00	
+htuvbnv 	$650.00	
+Williambrown99	$585.00	
+remikriszta	$550.00	 
+virajnim7	$528.00		
+wasimbutt22	$505.00		
+sevakalex895	$500.00		
+elfah524	$470.00	
+wknpx5	        $446.00		
+ngtanloc9520	$440.00		
+aigaruha42	$430.00		
+adilson27	$415.00	
+sweetmercy50	$410.00	
+losangels266	$400.00		
+robinUking30	$350.00	
+
+CLICK ON THE LINKS TO CHECK THE PROOFS.
+Commission paid detail here: http://i.imgur.com/OdIvQy8.jpg
+Investors detail here: http://i.imgur.com/sQTfHgg.jpg
+Bonus detail here: http://pro-hyip.net/page/id/bonus.html
+
+Note: when you create RCB. first you login in our monitor and after you create RCB. when you create account in our monitor make sure your all E-Wallet ID's should correct. Thank you to become our member. When you invest via Bitcoin. you add transaction link in RCB summary. more --> May-5-2017 12:41:56 AM
+                                                
+
+                                            
+
+ 
+
+                                                
+                                                    
+													PRO-HYIP.NET - BONUS SIGNATURE MONTH 3/2017 is PAID
+                                                     
+                                                    Hello all friend!
+We Have Successfully Sent BONUS SIGNATURE MONTH 03/2017.
+
+- Proof Payment Bonus: http://i.imgur.com/4CCTWYa.jpg
+- Details bonus: http://pro-hyip.net/affiliate
+
+Hope you will happy with us.
+Thank you for help us! more --> Apr-9-2017 03:05:00 AM
+                                                
+
+                                            
+
+ 
+
+                                                
+                                                    
+													PRO-HYIP.NET - TOP INVESTOR OF MONTH ( 2017/03) is PAID
+                                                     
+                                                    Dear Friends,
+we are happy to announce. We paid (TOP 20 INVESTOR OF THE MONTH) commission March, 2017
+Become our top 20 investors and get High RCB and High monthly commission.
+JTC	        $4451.00	
+paradise18	$2750.00		
+sty	        $2500.00	
+anhtult92	$2376.00		
+qq	        $1900.00	
+kcchang	        $1250.00		
+pilot2014	$1100.00		
+jshowwin	$1030.00	
+mjwu	        $750.00	
+bugi0321	$750.00	
+mopia516	$700.00	
+etchg8	        $700.00	
+charly690	$650.00	
+aigaruha42	$550.00	
+zswedcheck	$500.00	
+remikriszta	$500.00	 
+mick492011	$500.00	
+losangels266	$460.00		
+robinUking30	$460.00	
+Williambrown99	$430.00	
+
+CLICK ON THE LINKS TO CHECK THE PROOFS.
+Commission paid detail here: http://i.imgur.com/q1fIip0.jpg
+Investors detail here: http://i.imgur.com/dqQ6leO.jpg
+Bonus detail here: http://pro-hyip.net/page/id/bonus.html
+
+Note: when you create RCB. first you login in our monitor and after you create RCB. when you create account in our monitor make sure your all E-Wallet ID's should correct. Thank you to become our member. When you invest via Bitcoin. you add transaction link in RCB summary. more --> Apr-4-2017 03:47:48 AM
+                                                
+
+                                            
+
+ 
+
+                                                
+                                                    
+													
+                                                     
+                                                    Hello dear friends,
+
+ We start a new Bonus promotion for top 3 investors.Monthly Commission+Bonus
+1st :  total investment: $15000  Bonus: $50
+2nd  :  total investment: $12000  Bonus: $40
+2rd  :  Total investment: $10000  Bonus: $30
+
+Daily invest on the new Long term sites and get Highest RCB daily and get High Monthly commission. Join now the new sites and get these biggest offers. Do not waste time and join now and get Highest earning. more --> Mar-24-2017 02:58:51 AM
+                                                
+
+                                            
+
+   
+
+                                                
+                                                     All news
+                                                
+
+                                                                                                                         
+                                            
+
+                                        
+
+                                    
+                                		
+
+                             		             	
+                           	
+
+				   
+
+                                                
+                                
+                                    
+                                        ARTICLES
+
+                                         
+
+                                    
+
+                                        
+										 
+
+                                                
+                                                    
+
+                                                       
+
+                                                     
+                                                     more 
+                                                
+
+                                            
+
+   
+
+                                                
+                                                     All articles
+                                                
+
+                                                                                                                         
+                                            
+
+                                        
+
+                                    
+                                		
+
+                             		             	
+                           	
+
+				   
+ 
+
+                                    
+                                        Payment Systems
+
+                                         
+
+                                    
+                                        
+                                            
+  
+  
+   PerfectMoney
+ 
+  
+  
+   Payeer
+ 
+  
+  
+   Bitcoin
+ 
+  
+  
+   Adv Cash
+ 
+  
+  
+   Payza
+ 
+  
+  
+   OkPay
+ 
+  
+  
+   PayPal
+ 
+  
+  
+   NixMoney
+ 
+
+                                    
+                                	  	
+				   				   			   				   
+				   
+                    
+                                
+                                    
+                                        TOP HITS/HOSTS
+
+                                         
+
+                                    
+
+
+                                        
+										                                             
+											 Aurum Bank
+											Yesterday Hits: 1102 Hosts: 1102
+
+
+                                                                                         
+											 Chain Group Service
+											Yesterday Hits: 204 Hosts: 204
+
+
+                                                                                         
+											 Royal-Mining
+											Yesterday Hits: 45 Hosts: 45
+
+
+                                                                                         
+											 BLOCKMINE LIMITED
+											Yesterday Hits: 16 Hosts: 16
+
+
+                                                                                         
+											 adclickxpress
+											Yesterday Hits: 16 Hosts: 16
+
+
+                                            
+
+                                        
+
+
+
+
+                                    
+                                		
+
+                             	 
+
+
+
+
+
+
+                     
+                                
+                                    
+                                        TOP PROFITABLE
+
+                                         
+
+                                    
+
+
+                                        
+										                                             
+											Royal-Mining
+											160.0455%
+
+
+                                                                                         
+											Aurum Bank
+											83.26%
+
+
+                                                                                         
+											adclickxpress
+											77.8667%
+
+
+                                                                                         
+											BLOCKMINE LIMITED
+											53%
+
+
+                                                                                         
+											Chain Group Service
+											41.9143%
+
+
+                                                                                         
+											Cryptomaster
+											37.5833%
+
+
+                                            
+
+                                        
+
+
+
+
+                                    
+                                		
+
+                             	 
+
+				   
+
+
+
+                     
+                                
+                                    
+                                        TOP MONITORED
+
+                                         
+
+                                    
+
+
+                                        
+										                                             
+											adclickxpress
+											1491 days
+
+
+                                                                                         
+											Royal-Mining
+											132 days
+
+
+                                                                                         
+											Aurum Bank
+											118 days
+
+
+                                                                                         
+											BLOCKMINE LIMITED
+											66 days
+
+
+                                                                                         
+											Chain Group Service
+											26 days
+
+
+                                                                                         
+											Cryptomaster
+											20 days
+
+
+                                            
+
+                                        
+
+
+
+
+                                    
+                                		
+
+                             	 
+
+				   
+				   
+	
+                                
+
+
+                                    
+                                        LAST SCAM
+
+                                         
+
+                                    
+
+
+                                        
+										                                             
+											BTC Task LTD
+											SCAM
+                                                                                       
+											BTCMART.BIZ
+											SCAM
+                                                                                       
+											CASTLE FINANCIAL INVESTMENT LTD
+											SCAM
+                                                                                       
+											instantcryptopayments
+											SCAM
+                                                                                       
+											Coinminers.US
+											SCAM
+                                                                                       
+											traderuk
+											SCAM
+                                            
+                                        
+
+
+
+
+                                    
+                                	  		
+				   
+				   
+	 
+                                                
+                                
+                                    
+                                        BANNER 160x600
+
+                                         
+
+
+     
+     
+     Available Now for $25.00/week
+     
+
+
+
+     
+     
+     Available Now for $20.00/week
+     
+
+
+
+    
+
+														  
+                          
+                    
+                    
+
+                        
+                             
+								
+
+
+                                                    
+                                    
+                                        
+                                            LAST PAYOUT
+
+                                             
+
+                                        
+
+
+                                            
+											
+											  
+     Cryptomaster  $8.55
+     Chain Group Service  $12.44
+     Aurum Bank  $2.40
+     Royal-Mining  $3.80
+    
+     Royal-Mining  $2.80
+              
+                                            
+
+
+
+
+                                        
+                                    		
+
+                                 									 
+                            
+                            
+								
+
+
+                                                    
+                                    
+                                        
+                                            TOP RCB
+
+                                             
+
+                                        
+
+
+                                            
+											                                                
+												Royal-Mining  
+												8000% + $7.00
+												                                                
+												Aurum Bank  
+												5000% + $6.00
+												                                                
+												Chain Group Service  
+												5000% + $6.00
+												                                                
+												BLOCKMINE LIMITED  
+												3000% + $6.00
+												                                                
+												Cryptomaster  
+												2000% + $7.00
+												                                            
+
+
+
+
+                                        
+                                    		
+
+                                 	                                
+                            
+                        
+                        
+           
+                                 
+
+
+             
+
+    BUY ADS
+     ADS HERE: Available now for $15.00/week.
+
+
+
+                            
+                            
+ 
+  Warning! Better check yourself,Invest only what you can afford to loss. Thank you!
+
+                        
+             
+           
+                        
+                        
+                       
+                        
+   
+      
+
+
+ 
+ Paid Sticky
+   List your program in the Paid Sticky listing
+  
+
+
+
+
+
+ 
+                                        
+                                            
+                                                
+                                                    Royal-Mining
+                                                
+                                                
+                                                    
+                                                        
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+                                                        PAYOUT RATIO
+                                                        160%
+                                                    
+                                                
+
+
+                                            
+                                            
+                                            
+
+                                                
+                                                    
+													  
+                                                     
+
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Lifetime:  132 days
+                                                            
+                                                            
+                                                                Monitored:  132 days
+                                                            
+
+
+                                                        
+                                                    
+                                                
+
+                                                
+                                                    
+                                                         Our Ratings
+                                                        
+                                                            
+															
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Our Investment: $220.00
+                                                            
+                                                            
+                                                                Payout Ratio: 160% in profit
+                                                            
+                                                            
+                                                                Support: 
+
+                                                                                 												
+                                                                  
+                                                            
+                                                            
+                                                                Payment: 
+                                                                       
+																	
+                                                            
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+													
+                                                        
+                                                        
+
+                                                    
+                                                    
+
+                                                        PAYING
+  
+                                                    
+                                                    
+                                                         Last Payout
+                                                        Aug 16th, 2017
+                                                    
+
+                                                
+                                                
+                                                    
+                                                         INVESTOR VOTES 
+                                                        
+                                                            
+
+                                                                 GOOD 0
+                                                                  BAD 0
+
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Min/Max: $10 / $No Limit
+                                                            
+                                                            
+                                                                Referral: 5%
+                                                            
+                                                            
+                                                                Withdrawal:  Manual
+  
+                                                            
+                                                            
+                                                               All Monitor:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                
+                                                            
+
+                                                        
+                                                    
+
+                                                
+
+                                            
+                                            
+                                            
+                                                Investment Plan:1~1.3% DAILY FOR LIFETIME
+                                            
+                                            
+											
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            DETAILS
+                                                        
+                                                        
+															 REF BACK: 8,000%
+                                                        
+                                                        
+                                                             VOTE NOW
+                                                        
+                                                        
+                                                              REPORT SCAM
+                                                        
+                                                        
+                                                           
+  BOOKMARK                                                        
+                                                    
+                                                
+                                            
+                                           
+                                            
+                                        
+
+
+
+1
+
+
+
+ 
+ Exclusive
+   List your program in the Exclusive listing
+  
+
+
+
+
+
+ 
+                                        
+                                            
+                                                
+                                                    Aurum Bank
+                                                
+                                                
+                                                    
+                                                        
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+                                                        PAYOUT RATIO
+                                                        83%
+                                                    
+                                                
+
+
+                                            
+                                            
+                                            
+
+                                                
+                                                    
+													  
+                                                     
+
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Lifetime:  118 days
+                                                            
+                                                            
+                                                                Monitored:  118 days
+                                                            
+
+
+                                                        
+                                                    
+                                                
+
+                                                
+                                                    
+                                                         Our Ratings
+                                                        
+                                                            
+															
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Our Investment: $100.00
+                                                            
+                                                            
+                                                                Payout Ratio: 83% 
+                                                            
+                                                            
+                                                                Support: 
+
+                                                                                												
+                                                                  
+                                                            
+                                                            
+                                                                Payment: 
+                                                                        
+																	
+                                                            
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+													
+                                                        
+                                                        
+
+                                                    
+                                                    
+
+                                                        PAYING
+  
+                                                    
+                                                    
+                                                         Last Payout
+                                                        Aug 16th, 2017
+                                                    
+
+                                                
+                                                
+                                                    
+                                                         INVESTOR VOTES 
+                                                        
+                                                            
+
+                                                                 GOOD 0
+                                                                  BAD 0
+
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Min/Max: $10 / $No Limit
+                                                            
+                                                            
+                                                                Referral: from 0.5% (It depends on the investment plan chosen by your referral.)
+                                                            
+                                                            
+                                                                Withdrawal:  Manual
+  
+                                                            
+                                                            
+                                                               All Monitor:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                
+                                                            
+
+                                                        
+                                                    
+
+                                                
+
+                                            
+                                            
+                                            
+                                                Investment Plan:0.8%-17% daily, for 260-15 trading days;  6500%-400% after 110-20 trading days
+                                            
+                                            
+											
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            DETAILS
+                                                        
+                                                        
+															 REF BACK: 5,000%
+                                                        
+                                                        
+                                                             VOTE NOW
+                                                        
+                                                        
+                                                              REPORT SCAM
+                                                        
+                                                        
+                                                           
+  BOOKMARK                                                        
+                                                    
+                                                
+                                            
+                                           
+                                            
+                                        
+
+
+
+ 
+                                        
+                                            
+                                                
+                                                    Chain Group Service
+                                                
+                                                
+                                                    
+                                                        
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+                                                        PAYOUT RATIO
+                                                        42%
+                                                    
+                                                
+
+
+                                            
+                                            
+                                            
+
+                                                
+                                                    
+													  
+                                                     
+
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Lifetime:  26 days
+                                                            
+                                                            
+                                                                Monitored:  26 days
+                                                            
+
+
+                                                        
+                                                    
+                                                
+
+                                                
+                                                    
+                                                         Our Ratings
+                                                        
+                                                            
+															
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Our Investment: $140.00
+                                                            
+                                                            
+                                                                Payout Ratio: 42% 
+                                                            
+                                                            
+                                                                Support: 
+
+                                                                                  												
+                                                                  
+                                                            
+                                                            
+                                                                Payment: 
+                                                                       
+																	
+                                                            
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+													
+                                                        
+                                                        
+
+                                                    
+                                                    
+
+                                                        PAYING
+  
+                                                    
+                                                    
+                                                         Last Payout
+                                                        Aug 16th, 2017
+                                                    
+
+                                                
+                                                
+                                                    
+                                                         INVESTOR VOTES 
+                                                        
+                                                            
+
+                                                                 GOOD 52
+                                                                  BAD 0
+
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Min/Max: $$ 5 / $$ 1,000,000
+                                                            
+                                                            
+                                                                Referral: 5%
+                                                            
+                                                            
+                                                                Withdrawal:  Manual
+  
+                                                            
+                                                            
+                                                               All Monitor:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                
+                                                            
+
+                                                        
+                                                    
+
+                                                
+
+                                            
+                                            
+                                            
+                                                Investment Plan:0.1-10% daily, depends on a Trade Group offer.
+                                            
+                                            
+											
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            DETAILS
+                                                        
+                                                        
+															 REF BACK: 5,000%
+                                                        
+                                                        
+                                                             VOTE NOW
+                                                        
+                                                        
+                                                              REPORT SCAM
+                                                        
+                                                        
+                                                           
+  BOOKMARK                                                        
+                                                    
+                                                
+                                            
+                                           
+                                            
+                                        
+
+
+
+1
+
+
+
+ 
+ Premium
+   List your program in the Premium listing
+  
+
+
+
+
+
+ 
+                                        
+                                            
+                                                
+                                                    BLOCKMINE LIMITED
+                                                
+                                                
+                                                    
+                                                        
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+                                                        PAYOUT RATIO
+                                                        53%
+                                                    
+                                                
+
+
+                                            
+                                            
+                                            
+
+                                                
+                                                    
+													  
+                                                     
+
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Lifetime:  66 days
+                                                            
+                                                            
+                                                                Monitored:  66 days
+                                                            
+
+
+                                                        
+                                                    
+                                                
+
+                                                
+                                                    
+                                                         Our Ratings
+                                                        
+                                                            
+															
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Our Investment: $100.00
+                                                            
+                                                            
+                                                                Payout Ratio: 53% 
+                                                            
+                                                            
+                                                                Support: 
+
+                                                                                												
+                                                                  
+                                                            
+                                                            
+                                                                Payment: 
+                                                                      
+																	
+                                                            
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+													
+                                                        
+                                                        
+
+                                                    
+                                                    
+
+                                                        PAYING
+  
+                                                    
+                                                    
+                                                         Last Payout
+                                                        Aug 14th, 2017
+                                                    
+
+                                                
+                                                
+                                                    
+                                                         INVESTOR VOTES 
+                                                        
+                                                            
+
+                                                                 GOOD 0
+                                                                  BAD 0
+
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Min/Max: $10 / $No Limit
+                                                            
+                                                            
+                                                                Referral: 8%,5%,1
+                                                            
+                                                            
+                                                                Withdrawal:  Manual
+  
+                                                            
+                                                            
+                                                               All Monitor:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                
+                                                            
+
+                                                        
+                                                    
+
+                                                
+
+                                            
+                                            
+                                            
+                                                Investment Plan:1%-1.5% daily
+                                            
+                                            
+											
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            DETAILS
+                                                        
+                                                        
+															 REF BACK: 3,000%
+                                                        
+                                                        
+                                                             VOTE NOW
+                                                        
+                                                        
+                                                              REPORT SCAM
+                                                        
+                                                        
+                                                           
+  BOOKMARK                                                        
+                                                    
+                                                
+                                            
+                                           
+                                            
+                                        
+
+
+
+1
+
+
+
+ 
+ Trial
+   List your program in the Trial listing
+  
+
+
+
+
+
+ 
+                                        
+                                            
+                                                
+                                                    adclickxpress
+                                                
+                                                
+                                                    
+                                                        
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+                                                        PAYOUT RATIO
+                                                        78%
+                                                    
+                                                
+
+
+                                            
+                                            
+                                            
+
+                                                
+                                                    
+													  
+                                                     
+
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Lifetime:  1491 days
+                                                            
+                                                            
+                                                                Monitored:  1491 days
+                                                            
+
+
+                                                        
+                                                    
+                                                
+
+                                                
+                                                    
+                                                         Our Ratings
+                                                        
+                                                            
+															
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Our Investment: $150.00
+                                                            
+                                                            
+                                                                Payout Ratio: 78% 
+                                                            
+                                                            
+                                                                Support: 
+
+                                                                                												
+                                                                  
+                                                            
+                                                            
+                                                                Payment: 
+                                                                       
+																	
+                                                            
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+													
+                                                        
+                                                        
+
+                                                    
+                                                    
+
+                                                        PAYING
+  
+                                                    
+                                                    
+                                                         Last Payout
+                                                        Aug 5th, 2017
+                                                    
+
+                                                
+                                                
+                                                    
+                                                         INVESTOR VOTES 
+                                                        
+                                                            
+
+                                                                 GOOD 0
+                                                                  BAD 0
+
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Min/Max: $10 / $250000
+                                                            
+                                                            
+                                                                Referral: 5%
+                                                            
+                                                            
+                                                                Withdrawal:  Manual
+  
+                                                            
+                                                            
+                                                               All Monitor:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                
+                                                            
+
+                                                        
+                                                    
+
+                                                
+
+                                            
+                                            
+                                            
+                                                Investment Plan:2% daily on weekdays, 1% per day on the weekends
+                                            
+                                            
+											
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            DETAILS
+                                                        
+                                                        
+															 REF BACK: 0%
+                                                        
+                                                        
+                                                             VOTE NOW
+                                                        
+                                                        
+                                                              REPORT SCAM
+                                                        
+                                                        
+                                                           
+  BOOKMARK                                                        
+                                                    
+                                                
+                                            
+                                           
+                                            
+                                        
+
+
+
+ 
+                                        
+                                            
+                                                
+                                                    Cryptomaster
+                                                
+                                                
+                                                    
+                                                        
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+                                                        PAYOUT RATIO
+                                                        38%
+                                                    
+                                                
+
+
+                                            
+                                            
+                                            
+
+                                                
+                                                    
+													  
+                                                     
+
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Lifetime:  20 days
+                                                            
+                                                            
+                                                                Monitored:  20 days
+                                                            
+
+
+                                                        
+                                                    
+                                                
+
+                                                
+                                                    
+                                                         Our Ratings
+                                                        
+                                                            
+															
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Our Investment: $60.00
+                                                            
+                                                            
+                                                                Payout Ratio: 38% 
+                                                            
+                                                            
+                                                                Support: 
+
+                                                                              												
+                                                                  
+                                                            
+                                                            
+                                                                Payment: 
+                                                                      
+																	
+                                                            
+
+                                                        
+                                                    
+
+                                                
+                                                
+                                                    
+													
+                                                        
+                                                        
+
+                                                    
+                                                    
+
+                                                        PAYING
+  
+                                                    
+                                                    
+                                                         Last Payout
+                                                        Aug 16th, 2017
+                                                    
+
+                                                
+                                                
+                                                    
+                                                         INVESTOR VOTES 
+                                                        
+                                                            
+
+                                                                 GOOD 0
+                                                                  BAD 0
+
+                                                            
+                                                        
+                                                    
+                                                    
+                                                        
+                                                            
+                                                                Min/Max: $10 / $NA
+                                                            
+                                                            
+                                                                Referral: 5%
+                                                            
+                                                            
+                                                                Withdrawal:  Manual
+  
+                                                            
+                                                            
+                                                               All Monitor:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                
+                                                            
+
+                                                        
+                                                    
+
+                                                
+
+                                            
+                                            
+                                            
+                                                Investment Plan:1-1.5% Daily for 200 Days
+                                            
+                                            
+											
+                                            
+
+                                            
+                                                
+                                                    
+                                                        
+                                                            DETAILS
+                                                        
+                                                        
+															 REF BACK: 2,000%
+                                                        
+                                                        
+                                                             VOTE NOW
+                                                        
+                                                        
+                                                              REPORT SCAM
+                                                        
+                                                        
+                                                           
+  BOOKMARK                                                        
+                                                    
+                                                
+                                            
+                                           
+                                            
+                                        
+
+
+
+1
+
+
+
+
+    			 
+                
+            
+        
+    
+
+    
+        
+            
+                
+                    
+                         Partner Link
+                        
+                              Monitor  
+                              Hyip Template 
+                              Hyip Shop 
+                              Hyip Script  
+                        
+                    
+                    
+                         Quick Link 
+                        
+                            										Paid Sticky
+									  										Exclusive
+									  										Premium
+									  										Blacklist
+									  										Not Monitor
+									  										NOT MONITOR
+									  										Trial
+									                          
+                    
+                    
+                         Members 
+                        
+                            Login
+                                      Signup
+									 
+									  Forgot password
+                        
+                    
+                    
+                         Contact Us
+                        
+                             Email:prohyip1@gmail.com 
+                             Facebook Group 
+                             Yahoo: prohyip  
+                             Skype: prohyip  
+
+                        
+                    
+                    
+                         Subscribe Now! 
+                        
+                            
+                                
+								
+									<!--
+									function checkSubscribe()
+									{
+									  status = checkEmail(document.subscribe.email.value);
+
+									  if (status > 0) {
+										if (status == 1)
+											alert('Please, enter your E-mail address!');
+										if (status == 2)
+											alert('Please, enter a valid E-mail address!');
+
+										document.subscribe.email.focus();
+										return false;
+									  }
+
+									  return true;
+									}
+									-->
+									
+								
+									
+									
+									
+                                    
+                                   
+									 
+									
+                                
+                            
+                        
+                        
+                                 
+                                 
+                                 
+                                 
+                                 
+                        
+                    
+                
+                 
+            
+             
+        
+        
+
+        
+            
+                 Copyright © pro-hyip.net. All right reserved.

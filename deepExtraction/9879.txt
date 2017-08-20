@@ -1,0 +1,703 @@
+BlazingFast | Your reliable hosting
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+    
+
+    
+
+
+    
+    
+    
+    
+    
+
+    
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+            
+
+                Toggle navigation
+
+                
+
+                
+
+                
+
+            
+
+            Blazzingfast.io
+
+			
+
+
+
+            
+
+                
+
+                     Support
+
+                     Log in
+
+                     Sign up
+
+                    Twitter
+
+                
+
+            
+
+        
+
+    
+
+    
+
+        
+
+            
+
+                
+
+		    WEB
+
+                    VPS             
+		
+		    DEDICATED
+
+                    FIREWALL
+
+                    ABOUT
+		    
+		    STATUS
+
+                
+
+            
+
+            
+
+        
+
+    
+
+
+
+ 
+ 
+ 
+
+
+
+
+	
+  
+  
+	
+	
+
+  
+ 
+  
+  
+	
+	
+        
+  
+   
+   
+	
+	        
+  
+
+
+
+
+
+    
+        
+            
+                
+                
+                    Technical Support
+                    High-quality assistance 24 hours a day, 365 days a year
+                
+            
+            
+                
+                
+                    Only SSD Disks
+                    Check the new speed of your applications
+                
+            
+            
+                
+                
+                    Global Network
+                    Network based on redundant fiber optic connections and top transit providers
+                
+            
+            
+                
+                
+                    DDoS Protection
+                    Up to 980Gbps of maximum load on DDoS filters
+                
+            
+            
+                
+                
+                    99.95% Uptime SLA
+                    You don't have to worry about downtimes, stay online!
+                
+            
+            
+                
+                
+                    Payment Methods
+                    We offer many payment methods for many countries
+                
+            
+        
+    
+
+
+
+    
+        
+            
+                
+                    
+                        
+                        
+                            Dedicated Server
+                            Dedicated servers up to 10Gbps 
+							
+                            Dedicated servers are an ideal option for customers who want to get the best possible stability of services and custom hardware configuration. Offer available only after contact with the support.
+                        
+                        
+                    
+                
+                
+                
+                    
+                        
+                        
+                            Domains 
+                            Best pricing on the market
+							
+                            Every business, every project, every blog needs its own name. Show yourself on the Internet, a good domain is essential. Find your dream name and order it at BlazingFast.io
+                        
+                        
+                    
+                
+            
+            
+                
+                    
+                        
+                        
+                            SSD KVM VPS
+                            DDoS protected and High IO performance
+							
+                             KVM virtualization with guaranteed resources and SSD Disks will show the real power of your applications. For many purposes VPS's are functionally equivalent to a dedicated server. 
+                        
+                        
+                    
+                
+                
+                
+                    
+                        
+                        
+                            Web Hosting
+                            Best Website Protection with Web Application Firewall
+							
+                            If you need a website for your business or project you are in the right place. No limits. High protection against DDoS attacks including free Web Application Firewall and Anycast DNS. cPanel and easy management. Try us!
+                        
+                        
+                    
+                
+            
+        
+    
+
+
+
+    
+        
+            
+                
+                
+                    980Gbps Firewall
+                    All of our services are provided with 980Gbps Firewall absolutely for free. Sounds great?
+                    Read More
+                
+            
+        
+    
+
+
+
+    
+        
+            
+                We have 40,000 satisfied customers!
+            
+        
+        
+            
+                
+                    Abhiyukthan Rohit - Facebook
+                    “BlazingFast - Name itself shows the QUALITY of the site. Blazing Fast SSD Drives - really consumes less space and works fabulous and my site runs as smooth as butter.”
+                
+            
+            
+                
+                    Mariusz Witek - Twitter
+                    “I never met such high server quality and customer service.”
+                
+            
+        
+    
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+    $('.gotop').click(function(){
+
+        $('html, body').animate({
+
+            scrollTop: $( $.attr(this, 'href') ).offset().top - 50
+
+        }, 1100, 'easeInOutExpo');
+
+        return false;
+
+    });
+
+
+
+
+
+    $(document).ready(function(){
+
+        var smallheight;
+
+        var offerheight;
+
+        if($(window).width() > 480) {
+
+            offerheight = $('.offer-box').height()-9;
+
+        } else {
+
+            $('.offer-box .item .text').each(function(){
+
+                $(this).siblings('.splitgo').data('expand', 'up');
+
+                $(this).siblings('.splitgo').find('.fa').removeClass('fa-angle-up').addClass('fa-angle-down');
+
+            });
+
+        }
+
+        var dots = '<span class="dots">..</span>';
+
+        $('.offer-box .item .text').each(function(){
+
+            var fullheight = $(this).height();
+
+            $(this).attr('data-fullheight', fullheight);
+
+            $(this).find('p.long').hide();
+
+            smallheight = $(this).height();
+
+            /*$(this).height(smallheight);*/
+
+            $(this).find('p.short').append(dots);
+
+        });
+
+
+
+        $('.offer-box .item').click(function(e){
+
+            e.preventDefault();
+
+
+
+            if($(window).width() < 992) {
+
+                offerheight = $(this).find('.text').data('fullheight')+32;
+
+            }
+
+
+
+            var fullheight = $(this).data('fullheight');
+
+            $(this).find('.text').find('p.long').slideToggle();
+
+
+
+            $(this).find('.text').css('padding-bottom', '10px');
+
+            $(this).find('.text').toggleClass('active');
+
+            $('.offer-box .item').not(this).each(function(){
+
+                $(this).find('.text').find('p.long').slideUp();
+
+                $(this).find('.text').removeClass('active');
+
+                var len = $(this).find('.text').find('p.short .dots');
+
+                $(this).find('.text').animate( { height:smallheight }, { queue:false, duration:500 }).parent().parent().removeClass('zindex');
+
+                $('.offer-box .item').find('.in-img').removeClass('animatetop animatedown');
+
+                $(this).parent().find('.in-img').removeClass('activetop activedown');
+
+                if(len.length == 0) {
+
+                    $(this).find('.text').find('p.short').append(dots);
+
+                    if($(this).find('.fa').hasClass('fa-angle-up')) {
+
+                        $(this).find('.fa').removeClass('fa-angle-up').addClass('fa-angle-down');
+
+                    } else {
+
+                        $(this).find('.fa').removeClass('fa-angle-down').addClass('fa-angle-up');
+
+                    }
+
+                }
+
+            });
+
+
+
+            var datahide = $(this).find('.splitgo').data('hide');
+
+
+
+            if($(this).find('.text').hasClass('active')) {
+
+//                $(this).animate({height: smallheight}, 300).removeClass('active');
+
+
+
+                $(this).find('.text').find('p.short .dots').remove('');
+
+
+
+
+
+
+
+                if($(this).find('.fa').hasClass('fa-angle-up')) {
+
+                    $(this).find('.fa').removeClass('fa-angle-up').addClass('fa-angle-down');
+
+                } else {
+
+                    $(this).find('.fa').removeClass('fa-angle-down').addClass('fa-angle-up');
+
+                }
+
+
+
+                if($(this).find('.splitgo').data('expand') == 'down') {
+
+                    $(this).find('.in-img').addClass('activedown');
+
+                    $('.offer-box .item.' + datahide).find('.in-img').addClass('animatedown');
+
+                    $(this).find('.text').animate( { height:offerheight }, { queue:false, duration:500 }).parent().parent().toggleClass('zindex');
+
+                } else {
+
+                    $(this).find('.in-img').addClass('activetop');
+
+                    $('.offer-box .item.' + datahide).find('.in-img').addClass('animatetop');
+
+                    if($(window).width() < 992) {
+
+                        offerheight = offerheight+32;
+
+                    }
+
+                    $(this).find('.text').animate( { height:offerheight-32 }, { queue:false, duration:500 }).parent().parent().toggleClass('zindex');
+
+                }
+
+            } else {
+
+//                $(this).animate({height: fullheight}, 300).addClass('active');
+
+//                $(this).find('p.long').show();
+
+                var len = $(this).find('.text').find('p.short .dots');
+
+                if(len.length == 0) {
+
+                    $(this).find('.text').find('p.short').append(dots);
+
+                }
+
+
+
+
+
+                if($(this).find('.fa').hasClass('fa-angle-down')) {
+
+                    $(this).find('.fa').removeClass('fa-angle-down').addClass('fa-angle-up');
+
+                } else {
+
+                    $(this).find('.fa').removeClass('fa-angle-up').addClass('fa-angle-down');
+
+                }
+
+                $(this).find('.text').animate( { height:smallheight }, { queue:false, duration:500 }).parent().parent().toggleClass('zindex');
+
+                $('.offer-box .item.'+datahide).find('.in-img').removeClass('animatetop animatedown');
+
+                $(this).parent().find('.in-img').removeClass('activetop activedown');
+
+            }
+
+        });
+
+
+
+    });
+
+
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/57432a7a39b153e4033120e3/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+
+
+
+
+        
+
+        
+
+          
+
+            
+
+              
+
+                About BlazingFast
+                
+
+                  
+                    SSD KVM VPS
+                    Web Hosting
+		    Firewall
+		    Dedicated Servers
+                    Contacts
+		 Sign Up
+                  
+
+                
+			
+		 
+
+                SpeedTest
+
+                
+
+                  
+
+                    Amsterdam
+
+                  
+
+                
+                        
+
+
+	              
+              
+                Our Contacts
+
+                
+
+                  
+
+                    Address :
+
+                    87/30, Zhylianska Street, Office 402 Kyiv 01032
+Ukraine 
+		                         BlazingFast LLC.
+			ASN : AS60033 
+                  
+
+                  
+
+                    Support  :
+
+                    
+
+                     
+                    
+
+                    
+
+                      Email  :
+
+                      support@blazingfast.io
+
+                    
+		     
+
+                      Phone  :
+
+                      +380638106649
+
+                    
+                  
+
+                
+              
+
+              
+
+            
+
+          
+
+        
+
+        
+
+        
+
+        
+
+          
+
+            
+
+              
+
+                (c) blazingfast.io
+
+                
+
+                  Terms of Service
+                  Acceptable Use Policy
+		  Privacy Policy
+                
+
+              
+
+
+            
+
+          
+
+        
+
+        
+
+      
+
+      
+
+      
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+  
+        
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-49085746-1', 'auto');
+                ga('send', 'pageview');
+        
+        
+
+    
+
+
+	       $(function() {
+    $(".rslides").responsiveSlides({nav:true,pager:true, namespace: "centered-btns", pause:true});
+  });

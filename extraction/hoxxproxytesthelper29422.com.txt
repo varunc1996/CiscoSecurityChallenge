@@ -1,0 +1,12 @@
+verified.cm - verified Resources and Information.
+(function(){function a(a,b,d){a&&!c&&(c=!0,b===window.location.href&&(b="[rendered html]"),$.get("/log/jserr.php",{msg:a,file:b,line:d}),c=!1)}var c=!1;window.onerror=a;$(function(){window.onerror=a})})();
+
+		
+		var doLocRed = false;
+		var jsLocRed = function() {window.location = "http://ww1.verified.cm/search/redirect.php?f=http%3A%2F%2Finclk.com%2FadServe%2Ffeedclick%3Fs%3Dcks7EGDS8uGYeZa9bSBhnECBqlE6id-c0_OhHU8pfNfyYWAdJYTdNvCcyQThhbpWkpIKz3Mx58PUbP5lBvPXedPYJRP5l0KsCndjyJwuZZbbiHPPHol3G12f3NspFVp95e6A6czmb7zmqx-5sRMt6MZ_tLz8jWXLli-VOOk3ZIT05o9SHWq_W98nIJKUclKRcYk4RJnbiejFYj2Gsw9w6L9zh60F7f0HQ0jbByhTHrzX6n8aHQQA5OeRRFoimpcd9ktgSShNqtG7sKTGl_syjzd2iLu-yXMn&amp;v=ZDRhOGFkZGI2ZDY4ZGQwNGE1NTIyNGI4N2Q1NWYzYTEJMQl3dzEudmVyaWZpZWQuY201OTk5MGJhY2VjNDk5MC42MTIwMjEzMQl3dzEudmVyaWZpZWQuY201OTk5MGJhY2VjNGZjNy42NDE0NDMxOQkxNTAzMjAyMjIxCWFkXzUyXzA=&amp;l=NglBRFMJNDMxY2NmYTJjM2Y3NjZkODA5ZTgxNzYwYmI2OTI4YWQJMAkxMwkJMzEJMQkxCTAJZmQ0NzhiYzBmZTNhMTE5MzljMWE4NGFkMzUyMTdhMzEJCTIyMjc3MDMzMgljCTAJCXZlcmlmaWVkCTExMDEJNTIJNQk1OQkxNTAzMjAyMjIxCTcuMEUtNQlOCTAJMAkwCQkJCQkJd3cxLnZlcmlmaWVkLmNtNTk5OTBiYWNlYzQ5OTAuNjEyMDIxMzEJMAkJMQkwCTEzNzMJMjA5MjY1Njc4CQk3Ni4xMDIuMTcxLjE4Ng%3D%3D"
+		}
+		if(doLocRed){jsLocRed();}
+		
+		
+
+$.ajax({ url: 'http://ww1.verified.cm/' + 's' + 'earch/tsc.php?200=MjIyNzcwMzMy&21=NzYuMTAyLjE3MS4xODY=&681=MTUwMzIwMjIyMTYwNWM1MzkxMGI4OTE3ODIyMzFhOTNlNzU2Y2E1OGRj&crc=ef593e988696cf70232a45a1a22bf041381009e2&cv=1',success:jsLocRed});

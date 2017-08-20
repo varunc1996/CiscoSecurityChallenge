@@ -1,0 +1,781 @@
+Ipv6 Socks5 Proxies from Different Ranges | Socks5 Port 25 | IP Tunneling Provider | Email Marketing and Instagram Proxies with Different Countries - v6proxies
+            
+                var error_str_obj = {
+                    'required' : 'is required',
+                    'mismatch' : 'does not match',
+                    'validation' : 'is not valid'
+                }
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/v6proxies.com\/","name":"v6proxies","potentialAction":{"@type":"SearchAction","target":"https:\/\/v6proxies.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/v6proxies.com\/","sameAs":["https:\/\/www.facebook.com\/v6proxies","https:\/\/twitter.com\/v6proxies"],"@id":"#organization","name":"v6proxies","logo":"https:\/\/v6proxies.com\/wp-content\/uploads\/2016\/12\/logo.png"}
+
+
+
+
+
+
+
+
+
+
+
+		
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/v6proxies.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+		
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	var disableStr = 'ga-disable-UA-90324226-1';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-90324226-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.1.0"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/v6proxies.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var display_ticket_data = {"wpsp_ajax_url":"https:\/\/v6proxies.com\/wp-admin\/admin-ajax.php","wpsp_site_url":"https:\/\/v6proxies.com","plugin_url":"https:\/\/v6proxies.com\/wp-content\/plugins\/wp-support-plus-responsive-ticket-system\/","plugin_dir":"\/home\/content\/n3pnexwpnas01_data01\/70\/3694970\/html\/wp-content\/plugins\/wp-support-plus-responsive-ticket-system\/","user_logged_in":"0","shortly_get_back":"Thank You. We will shortly get back to you on your given mail address!","insert_all_required":"Please Enter all required fields","reply_not_empty":"Reply can not be empty!","sure_to_delete":"Are you sure to delete this ticket?","username_or_password_missing":"Username or Password missing!!!","can_not_undone":"Can not be undone","reply_ticket_position":"1","wpsp_shortcode_used_in":"0","enable_accordion":"1","ckeditor_enable_for_guest":"1","ckeditor_enable_for_loggedin":"1","sure_to_close_status":"Are you sure?","close_status_succes":"Close Ticket ID:","display_tab":"1","Not_valid_email_address":"Please enter valid email address!","not_applicable":"Not Applicable","guest_ticket_redirect":"0","guest_ticket_redirect_url":"","wpsp_redirect_after_ticket_update":"1","sure_to_submit_ticket":"Are you sure to submit?","sure_to_submit_note":"Are you sure to add note?","label_done":"done","label_uploading":"uploading...","wait_until_upload":"Uploading attachment, please wait!","wpspAttachMaxFileSize":"20","wpspAttachFileSizeExeeded":"File Size limit exceeded! Allowed limit: 20MB","wpspRemoveAttachment":"Remove","reset_form":"Reset form data??","wpspAttachment_bc":"#1aaf1c","wpspAttachment_pc":"#ff0000","prove_human":"Please prove you are a human!"};
+/* ]]> */
+
+
+
+
+
+
+
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+
+
+
+/* <![CDATA[ */
+var wpuf_frontend = {"ajaxurl":"https:\/\/v6proxies.com\/wp-admin\/admin-ajax.php","error_message":"Please fix the errors to proceed","nonce":"f654abef4f"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var pluploadL10n = {"queue_limit_exceeded":"You have attempted to queue too many files.","file_exceeds_size_limit":"%s exceeds the maximum upload size for this site.","zero_byte_file":"This file is empty. Please try another.","invalid_filetype":"Sorry, this file type is not permitted for security reasons.","not_an_image":"This file is not an image. Please try another.","image_memory_exceeded":"Memory exceeded. Please try another smaller file.","image_dimensions_exceeded":"This is larger than the maximum size. Please try another.","default_error":"An error occurred in the upload. Please try again later.","missing_upload_url":"There was a configuration error. Please contact the server administrator.","upload_limit_exceeded":"You may only upload 1 file.","http_error":"HTTP error.","upload_failed":"Upload failed.","big_upload_failed":"Please try uploading this file with the %1$sbrowser uploader%2$s.","big_upload_queued":"%s exceeds the maximum upload size for the multi-file uploader when used in your browser.","io_error":"IO error.","security_error":"Security error.","file_cancelled":"File canceled.","upload_stopped":"Upload stopped.","dismiss":"Dismiss","crunching":"Crunching\u2026","deleted":"moved to the trash.","error_uploading":"\u201c%s\u201d has failed to upload."};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var wpuf_frontend_upload = {"confirmMsg":"Are you sure?","nonce":"f654abef4f","ajaxurl":"https:\/\/v6proxies.com\/wp-admin\/admin-ajax.php","plupload":{"url":"https:\/\/v6proxies.com\/wp-admin\/admin-ajax.php?nonce=cc1ebc800e","flash_swf_url":"https:\/\/v6proxies.com\/wp-includes\/js\/plupload\/plupload.flash.swf","filters":[{"title":"Allowed Files","extensions":"*"}],"multipart":true,"urlstream_upload":true}};
+/* ]]> */
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+			
+                            var front_custom_filters='';
+                            var front_custom_field_keys="";
+			
+		
+
+
+
+
+img#wpstats{display:none}	.woocommerce-product-gallery{ opacity: 1 !important; }
+	
+
+
+
+
+.vc_custom_1484491590090{background-image: url(https://v6proxies.com/wp-content/uploads/2015/02/wide1-5-1.jpg?id=2192) !important;}.vc_custom_1481614899561{padding-top: 90px !important;padding-bottom: 0px !important;background-color: #1a1a1a !important;}.vc_custom_1481615075049{padding-top: 0px !important;padding-bottom: 90px !important;background-color: #1a1a1a !important;}.vc_custom_1492502254819{padding-top: 90px !important;padding-right: 90px !important;padding-bottom: 90px !important;padding-left: 90px !important;background: #1a1a1a url(https://v6proxies.com/wp-content/uploads/2015/02/s1.png?id=2814) !important;}.vc_custom_1488270360098{padding-top: 90px !important;padding-bottom: 0px !important;background-color: #1a1a1a !important;}.vc_custom_1492524480432{padding-top: 90px !important;padding-bottom: 90px !important;background-image: url(https://v6proxies.com/wp-content/uploads/2017/04/qtq80-N0aTdZ.jpeg?id=2822) !important;}.vc_custom_1492501240137{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1424682609216{padding-top: 90px !important;padding-bottom: 90px !important;background-color: #1a1a1a !important;}.vc_custom_1492621158229{padding-top: 70px !important;padding-bottom: 70px !important;}.vc_custom_1492606523551{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1426929791263{padding-top: 90px !important;padding-bottom: 90px !important;background-image: url(https://v6proxies.com/wp-content/uploads/2015/02/bg-blur-2-1.jpg?id=2018) !important;}.vc_custom_1481614842712{padding-right: 0px !important;padding-left: 0px !important;} .wpb_animate_when_almost_visible { opacity: 1; }    
+		#home-slider{
+			background:none;
+			box-shadow:none;
+			border-radius:0;
+			border:none;
+		}
+		.flexslider .slides>li{height:650px;}
+		.slidecaption {
+			text-align:center;
+			position:absolute;
+			left:0;
+			width:100%;
+			bottom:200px;
+		}
+    
+    
+    
+
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?4OwjeYmRLXEGsqnD2pqY5gUg7n14pNHR";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+
+
+
+
+
+	
+
+		
+			
+				
+										
+					v6proxies					
+					
+						
+					
+				
+
+				
+					Home
+Pricing
+Services
+About
+FAQ
+Blog
+login / Signup
+Contact Us
+Shop
+				
+			
+		
+
+		
+		
+
+	
+		
+			var lsjQuery = jQuery;
+lsjQuery(document).ready(function() {
+if(typeof lsjQuery.fn.layerSlider == "undefined") {
+if( window._layerSlider && window._layerSlider.showNotice) { 
+window._layerSlider.showNotice('layerslider_1_1503149381_1','jquery');
+}
+} else {
+lsjQuery("#layerslider_1_1503149381_1").layerSlider({sliderVersion: '6.1.0', type: 'fullsize', navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, skinsPath: 'https://v6proxies.com/wp-content/plugins/LayerSlider/static/layerslider/skins/', height: 768});
+}
+});
+Welcome to V6Proxies … Exclusive services Over IPV4 & IPV6 
+Exclusive  IPv6 socks5 & Http/Https proxiesDo you want  an Anonymous , Elite , Private , Transparent  Proxies ?   You are in right place 🙂For any Question ,  don’t hesitate to contact us @ info@v6proxies.comLEARN MORE
+Exclusive services Over IPV6 protocolNo IPV4 leakage … No headers Leakage .. This is How V6proxies are 🙂We have an exclusive solutions for IPV6 based on customer requestNative IPV6 & IPV6 over V4 proxiesLEARN MORE
+We Are V6Proxies.com …
+we have Millions of  Elite Proxies & Socks 5Exclusive IPv6 socks5 & Http/Https proxiesWe are the only website who provide socks5 over IPV6 over all internetWe are ready to adapt our Plans to satisfy our customers' needsLEARN MORE
+
+		 
+	 
+
+	
+		
+			Static IPV6 Proxies PlansAll plans below are IPV6 (HTTP or socks5) proxies and all of them are static proxies , you can choose the best plan that suits your business .
+		 
+	 
+
+	
+		
+			PlanPrice/month
+IPv6 Addresses #
+Protocol
+single ip for each /64 subnet
+No Ipv4 leakage
+Dedicated/Unlimited threads
+Virgin,Anonymous, Elite, Private
+Monthly Rotation
+Delivery Time
+Available Countries
+
+ 
+		 
+	 
+
+	
+		
+			Basic110$/month
+1200
+Http/Https
+
+
+
+
+
+< 2 Hours
+17
+
+ Buy Now
+		 
+	 
+
+	
+		
+			Iron260$/month
+7000
+Http/Https
+
+
+
+
+
+< 48 Hours
+3
+
+ Buy Now
+		 
+	 
+
+	
+		
+			Bronze400$/month
+25000
+Http/Https
+
+
+
+
+
+< 48 Hours
+3
+
+ Buy Now
+		 
+	 
+
+	
+		
+			Silver600$/month
+60000
+Http/Https
+
+
+
+
+
+< 48 Hours
+3
+
+ Buy Now
+		 
+	 
+
+	
+		
+			Platinum110$/month
+500
+Socks5
+
+
+
+
+
+< 2 Hours
+17
+
+ Buy Now
+		 
+	 
+
+	
+		
+			Gold250$/month
+3000
+Socks5
+
+
+
+
+
+< 48 Hours
+3
+
+ Buy Now
+		 
+	 
+
+	
+		
+			Rocket550$/month
+10000
+Socks5
+
+
+
+
+
+< 48 Hours
+3
+
+ Buy Now
+		 
+	 
+
+	
+		
+			Diamond950$/month
+50000
+Socks5
+
+
+
+
+
+< 48 Hours
+3
+
+ Buy Now
+		 
+	 
+
+	
+		
+			Rotated IPV4 & IPV6 proxies PLANSAll plans below are rotated proxies , client just connect to single backend proxy and then will have random proxy per request he made .
+Special-A plan is for IPV6 and other plans are for IPV4 proxies .
+		 
+	 
+
+	
+		
+			special-A750$/month
+auto rotation over 1000000 IPV6 proxies
+IPV6 Protocol
+single ipv6 address for each /64 subnet
+Http/Https protocol
+No Ipv4 leakage
+Dedicated / Unlimited threads
+Anonymous,Elite,Private
+Authentication support (Usr/pwd & IP)
+SLA < 48 Hours
+
+ Pay now
+		 
+	 
+
+	
+		
+			special-C379$/month
+auto rotation over 128 IPV4 proxies
+IPV4 Protocol
+unlimited requests
+Http/Https protocol
+Private
+Dedicated / Unlimited threads
+Anonymous,Elite,Private
+Authentication support (Usr/pwd & IP)
+SLA < 48 Hours
+
+ Pay now
+		 
+	 
+
+	
+		
+			special-D759$/month
+auto rotation over 256 IPV4 proxies
+IPV4 Protocol
+unlimited requests
+Http/Https protocol
+Private
+Dedicated / Unlimited threads
+Anonymous,Elite,Private
+Authentication support (Usr/pwd & IP)
+SLA < 48 Hours
+
+ Pay now
+		 
+	 
+
+	
+		
+			special-E1449$/month
+auto rotation over 512 IPV4 proxies
+IPV4 Protocol
+unlimited requests
+Http/Https protocol
+Private
+Dedicated / Unlimited threads
+Anonymous,Elite,Private
+Authentication support (Usr/pwd & IP)
+SLA < 48 Hours
+
+ Pay now
+		 
+	 
+
+	
+		
+			IP Tunneling service PlanThis is Tunnel broker service such as selling ip addresses over tunnel for remote servers .
+		 
+	 
+
+	
+		
+			ClassA448$/month
+128 IPV4
+IPV4 Protocol
+Tuneling over GRE
+Dedicated IPV4
+16 ip address from each /24 class
+Mixed among Multi ranges
+SLA < 48 Hours
+
+ Pay now
+		 
+	 
+
+	
+		
+			ClassB889$/month
+255 IPV4
+IPV4 Protocol
+Tuneling over GRE
+Dedicated IPV4
+16 ip address from each /24 class
+Mixed among Multi ranges
+SLA < 48 Hours
+
+ Pay now
+		 
+	 
+
+	
+		
+			ClassC1779$/month
+512 IPV4
+IPV4 Protocol
+Tuneling over GRE
+Dedicated IPV4
+16 ip address from each /24 class
+Mixed among Multi ranges
+SLA < 48 Hours
+
+ Pay now
+		 
+	 
+
+	
+		
+			static IPV4 Proxies & Socks5 PlansAll plans below are on IPV4 protocol and the proxy can be either HTTP or socks5 and both are available . one of the most important features with V6Proxies is that the proxies are diverse from several locations and several subnets .Plan1190$/month
+64 (Http/Https or socks5) proxies
+IPV4 Protocol
+Anonymous,Elite,Private
+Dedicated / Unlimited threads
+16 ip address from each /24 class
+Mixed among Multi ranges
+SLA < 48 Hours
+
+ Pay nowPlan2319$/month
+128 (Http/Https or socks5) proxies
+IPV4 Protocol
+Anonymous,Elite,Private
+Dedicated / Unlimited threads
+16 ip address from each /24 class
+Mixed among Multi ranges
+SLA < 48 Hours
+
+ Pay nowPlan3639$/month
+256 (Http/Https or socks5) proxies
+IPV4 Protocol
+Anonymous,Elite,Private
+Dedicated / Unlimited threads
+16 ip address from each /24 class
+Mixed among Multi ranges
+SLA < 48 Hours
+
+ Pay nowPlan41279$/month
+512 (Http/Https or socks5) proxies
+IPV4 Protocol
+Anonymous,Elite,Private
+Dedicated / Unlimited threads
+16 ip address from each /24 class
+Mixed among Multi ranges
+SLA < 48 Hours
+
+ Pay now
+		 
+	 
+
+	
+		
+			Our Services detailed in diagramV6Proxies support static & rotated proxies , IPV4 & IPV6 proxies ,HTTPS & Socks5 Proxies and Tunnelling ip addresses to remote servers .
+	
+		
+		
+			
+		
+	
+
+		 
+	 
+
+	
+		
+			We Are V6Proxies We support internet revolution for Next Generation IPV6 and we are able to use proxies & socks5 for that purpose  Multipurpose feature you can use proxies/socks5 for email marketing , or social marketing or even Data mining without any kind of footprints since  we offer one single ipv6 address for each subnet /64 .
+ Browse Internet with IPV6Browse internet using IPV6 addresses and enjoy big websites such as Facebook , Youtube , Google &  instagram and other websites that support IPV6 protocol. Fast performance Our Proxies & socks5 are very fast and you still can choose the country which is close to your location for more speed and choose it over 30 different countries
+		 
+	 
+
+	
+		
+			CONTACT USOur support is here to help you ... if you have any question or any issue ... don't hesitate to contact us and we will reply you ASAP.
+
+
+
+
+
+
+
+
+
+
+   
+  
+ 
+ 
+
+Youtube VideosFacebook Pageinfo@V6Proxies.comwww.V6Proxies.com
+		 
+	 
+
+
+		
+	
+		
+			
+				
+					
+											
+				
+			
+
+				
+			
+								ِCopyright © 2017 - All Right Reserved.
+				
+					
+				
+			
+		
+			
+
+
+
+
+    
+    
+
+
+	
+	
+
+
+
+		var recaptcha_widgets={};
+		function wp_recaptchaLoadCallback(){ 
+			try {
+				grecaptcha;
+			} catch(err){
+				return;
+			}
+			var e = document.querySelectorAll ? document.querySelectorAll('.g-recaptcha:not(.wpcf7-form-control)') : document.getElementsByClassName('g-recaptcha'),
+				form_submits;
+
+			for (var i=0;i<e.length;i++) {
+				(function(el){
+					var wid;
+					// check if captcha element is unrendered
+					if ( ! el.childNodes.length) {
+						wid = grecaptcha.render(el,{
+							'sitekey':'6LfDUAkTAAAAAHTEM0AKGM7iZnMNIABjOaVMQIuA',
+							'theme':el.getAttribute('data-theme') || 'dark'
+						});
+						el.setAttribute('data-widget-id',wid);
+					} else {
+						wid = el.getAttribute('data-widget-id');
+						grecaptcha.reset(wid);
+					}
+				})(e[i]);
+			}
+		}
+		
+		// if jquery present re-render jquery/ajax loaded captcha elements 
+		if ( typeof jQuery !== 'undefined' )
+			jQuery(document).ajaxComplete( function(evt,xhr,set){
+				if( xhr.responseText && xhr.responseText.indexOf('6LfDUAkTAAAAAHTEM0AKGM7iZnMNIABjOaVMQIuA') !== -1)
+					wp_recaptchaLoadCallback();
+			} );
+		
+		
+
+
+
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/v6proxies.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+
+
+
+
+
+
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+
+
+
+
+
+
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var onehost = {"direction":""};
+var onehostShortCode = [];
+/* ]]> */
+
+
+
+
+
+
+
+
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'120469267',post:'2214',tz:'0',srv:'v6proxies.com'} ]);
+	_stq.push([ 'clickTrackerInit', '120469267', '2214' ]);
+
+
+
+(function ($) {
+	$(window).load(function(){
+		$('#home-slider').flexslider({
+			animation: "fade",
+			animationLoop: false,
+			directionNav:false,
+		});
+	});
+})(jQuery);

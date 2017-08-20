@@ -1,0 +1,7 @@
+try
+				{
+				    var rurl = 'http://ww7.carderscave.com';
+					window.top.location.replace(rurl);
+				} catch(exception) {
+					document.write("This page has moved, <A HREF='http://ww7.carderscave.com'>Click here</A> to go there.");
+				}This page has moved, Click here to go there.

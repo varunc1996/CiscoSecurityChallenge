@@ -1,0 +1,235 @@
+/| copyme /|
+
+
+
+
+img  {
+border: 0;
+display: block;
+}
+
+
+
+
+
+
+
+
+ 
+  
+  You are welcome to compile kopimi and play with it as much 
+    as you like!
+  
+  
+  
+  
+    
+      
+          
+          
+        
+    
+  
+
+kopimi (copyme), symbol showing that you want to be copied. use kopimi in your own fancy. kopimi may be put on homepages or blogs, in books, in software, as sound logos in music or whatever.
+
+1. copy one of these kopimi symbols, or make up your own
+2. put it on a homepage
+3. link the logotype to: www.kopimi.com/kopimi
+
+   
+     
+      
+
+          
+          
+          
+        
+    
+  
+  
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+   
+  
+   
+  
+    
+       
+          
+            
+            
+             
+          
+            
+            
+            
+            
+            
+            
+          
+           
+           
+          
+             
+               
+               
+               
+               
+               
+            
+             
+               
+               
+               
+               
+               
+            
+             
+               
+               
+               
+               
+               
+            
+             
+               
+               
+               
+               
+               
+            
+             
+               
+               
+               
+               
+               
+            
+             
+               
+               
+               
+               
+               
+            
+             
+               
+               
+               
+               
+               
+            
+          
+           
+        
+    
+  
+   
+   
+  
+  
+  
+    
+       0 0 0 
+          0 0 0 0 0 0 0 0 0 0 0 0
+          0 0 0 0 0 0 0 a 0 
+          0 0 0 0 0 0
+          0 0 0 0 0 0 a C 
+          a 0 0 0 0 
+          0 0
+          0 0 0 0 0 a a a a a 0 
+          0 0 0 0
+          0 0 0 0 a a a a a a a 0 
+          0 0 0
+          0 0 0 a a a a a a a a a 0 
+          0 0
+          0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+          0 0 0 0 0 0 0 K O P I M I 0 0 0 0 0 0
+          0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+          
+        
+    
+  
+    
+   
+  
+  
+  
+  
+  
+   
+  
+   
+  
+   
+  
+   
+  
+  
+  
+  
+  
+  
+    
+   
+   
+    
+    
+    
+    
+  
+
+   
+    
+        
+      
+        
+         
+      
+      
+     
+       
+    
+    
+         
+      
+      
+    
+        
+      
+    
+         
+    
+  
+
+ 
+   
+   
+
+
+
+
+
+var sc_project=540764; 
+var sc_partition=3; 
+var sc_security=""; 
+var sc_invisible=1;

@@ -1,0 +1,2025 @@
+Pedropolis - Peliculas online gratis
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/4carding.com\/","name":"Pedropolis","potentialAction":{"@type":"SearchAction","target":"http:\/\/4carding.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+
+
+
+
+
+
+
+
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+body{font-family:"Roboto", sans-serif;}
+a,.home-blog-post .entry-date .date,.top-imdb-item:hover>.title a,.module .content .items .item .data h3 a:hover,.head-main-nav ul.main-header li:hover>a,.login_box .box a.register{color:#408BEA;}
+.nav_items_module a.btn:hover,.pagination span.current,.w_item_b a:hover>.data span.wextra b i,.comment-respond h3:before,footer.main .fbox .fmenu ul li a:hover{color:#408BEA;}
+header.main .hbox .search form button[type=submit]:hover,.animate-loader,#seasons .se-c .se-a ul.episodios li .episodiotitle a:hover,.sgeneros a:hover,.page_user nav.user ul li a:hover{color:#408BEA;}
+footer.main .fbox .fmenu ul li.current-menu-item a,.posts .meta .autor i,.pag_episodes .item a:hover,a.link_a:hover,ul.smenu li a:hover{color:#408BEA;}
+header.responsive .nav a.active:before, header.responsive .search a.active:before,.dtuser a.clicklogin:hover,.menuresp .menu ul.resp li a:hover,.menuresp .menu ul.resp li ul.sub-menu li a:hover{color:#408BEA;}
+.sl-wrapper a:before,table.account_links tbody td a:hover,.dt_mainmeta nav.genres ul li a:hover{color:#408BEA;}
+.plyr__progress--played,.plyr__volume--display,.dt_mainmeta nav.genres ul li.current-cat a:before{color:#408BEA;}
+.head-main-nav ul.main-header li ul.sub-menu li a:hover,form.form-resp-ab button[type=submit]:hover>span,.sidebar aside.widget ul li a:hover{color:#408BEA;}
+header.top_imdb h1.top-imdb-h1 span,article.post .information .meta span.autor,.w_item_c a:hover>.rating i,span.comment-author-link,.pagination a:hover{color:#408BEA;}
+.linktabs ul li a.selected,ul.smenu li a.selected,a.liked,.module .content header span a.see-all,.page_user nav.user ul li a.selected,.dt_mainmeta nav.releases ul li a:hover{background:#408BEA;}
+a.see_all,p.form-submit input[type=submit]:hover,.report-video-form fieldset input[type=submit],a.mtoc,.contact .wrapper fieldset input[type=submit],span.item_type,a.main{background:#408BEA;}
+.head-main-nav ul.main-header li a i,.post-comments .comment-reply-link:hover,#seasons .se-c .se-q span.se-o,#edit_link .box .form_edit .cerrar a:hover{background:#408BEA;}
+.user_edit_control ul li a.selected,form.update_profile fieldset input[type=submit],.page_user .content .paged a.load_more:hover,#edit_link .box .form_edit fieldset input[type="submit"]{background:#408BEA;}
+.login_box .box input[type="submit"],.form_post_lik .control .left a.add_row:hover,.form_post_lik .table table tbody tr td a.remove_row:hover,.form_post_lik .control .right input[type="submit"]{background:#408BEA;}
+#dt_contenedor{background:#9facc1;}
+.plyr input[type=range]::-ms-fill-lower{background:#408BEA;}
+.menuresp .menu .user a.ctgs,.menuresp .menu .user .logout a:hover{background:#408BEA;}
+.plyr input[type=range]:active::-webkit-slider-thumb{background:#408BEA;}
+.plyr input[type=range]:active::-moz-range-thumb{background:#408BEA;}
+.plyr input[type=range]:active::-ms-thumb{background:#408BEA;}
+.tagcloud a:hover,ul.abc li a:hover,ul.abc li a.select, {background:#408BEA;}
+.contact .wrapper fieldset input[type=text]:focus, .contact .wrapper fieldset textarea:focus,header.main .hbox .dt_user ul li ul li:hover > a,.login_box .box a.register{border-color:#408BEA;}
+.module .content header h1{border-color:#408BEA;}
+.module .content header h2{border-color:#408BEA;}
+a.see_all{border-color:#408BEA;}
+.top-imdb-list h3{border-color:#408BEA;}
+.user_edit_control ul li a.selected:before{border-top-color:#408BEA;}
+#seasons .se-a {
+    display:none
+}
+.player_sist .control nav.player ul.options li ul {
+    display:block;
+    position:relative;
+    float:left;
+    padding:0;
+    margin:0;
+    border:0;
+    box-shadow:none;
+    overflow:hidden;
+    z-index: 3;
+    background:#141516;
+    width:auto
+}
+.player_sist .control nav.player ul.options li ul li {
+    text-align:left;
+    float:left;
+    margin:0
+}
+.player_sist .control nav.player ul.options li ul li a {
+    padding:15px 15px 13px 15px;
+    text-transform:none
+}
+.player_sist .control nav.player ul.options {
+    float: left;
+    background: #141516
+}
+.player_sist .control nav.player {
+    float: left;
+    width: auto
+}
+.player_sist .control nav.player ul.options li {
+    float:left;
+    width:auto
+}
+.player_sist .control nav.player ul.options li a {
+    padding:17px 20px;
+    float:left;
+    width:100%;
+    color: #fff;
+    font-size:13px;
+    padding-left:40px;
+    position:relative;
+    cursor:pointer;
+    text-transform:uppercase;
+}
+span.dt_flag {
+    float: left;
+    padding-right: 8px
+}
+
+(function(w,d){function a(){var b=d.createElement("script");b.async=!0;b.src="http://4carding.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload.1.0.5.min.js";var a=d.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)}w.attachEvent?w.attachEvent("onload",a):w.addEventListener("load",a,!1)})(window,document);
+
+
+
+	
+		
+			
+									
+							
+		
+		
+			Peliculas
+
+	Todas
+	Pide tu película
+	Mas vistas
+	Mas valoradas
+
+
+Series TV
+
+	Todas
+	Temporadas
+	Episodios
+	Mas vistas
+	Mejor valoradas
+
+
+Genero
+
+	Drama
+	Acción
+	Suspense
+	Comedia
+	Aventura
+	Ciencia ficción
+	Crimen
+	Animación
+	Fantasía
+	Familia
+	Terror
+	Romance
+	Misterio
+	Guerra
+	Historia
+	Música
+	Proximamente
+	Action & Adventure
+	Western
+	Sci-Fi & Fantasy
+	Documental
+
+
+Año
+
+	2018
+	2017
+	2016
+	2015
+	2014
+	2013
+	2012
+	2011
+
+
+Noticias
+Tutorial
+		
+
+		
+			
+				
+					
+					
+				
+			
+			
+						
+			
+		
+
+
+	
+
+
+	
+		
+		
+		
+							
+					
+	
+	
+		
+			
+			
+		
+		
+	
+	
+		
+						Peliculas
+
+	Todas
+	Pide tu película
+	Mas vistas
+	Mas valoradas
+
+
+Series TV
+
+	Todas
+	Temporadas
+	Episodios
+	Mas vistas
+	Mejor valoradas
+
+
+Genero
+
+	Drama
+	Acción
+	Suspense
+	Comedia
+	Aventura
+	Ciencia ficción
+	Crimen
+	Animación
+	Fantasía
+	Familia
+	Terror
+	Romance
+	Misterio
+	Guerra
+	Historia
+	Música
+	Proximamente
+	Action & Adventure
+	Western
+	Sci-Fi & Fantasy
+	Documental
+
+
+Año
+
+	2018
+	2017
+	2016
+	2015
+	2014
+	2013
+	2012
+	2011
+
+
+Noticias
+Tutorial
+		
+	
+
+
+
+		
+		
+			
+			Login to your account
+			
+				
+				
+				  Remember Me
+				
+				Register a new account
+				Lost your password?
+				
+			
+		
+	
+	
+
+	
+		
+				 
+	
+		
+		
+		
+			Poli de guardería 2
+			2016		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			El origen del planeta de los simios
+			2011		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			Fast & Furious: Aún más rápido
+			2009		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			Dunkerque
+			2017		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			Una vida en tres días
+			2013		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			El rey Mono
+			2014		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			Camino sangriento 5: Linaje caníbal
+			2012		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			Scooby-Doo! Frankencreepy
+			2014		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			iCarly
+			2007		
+		
+		Serie
+	
+ 
+	
+		
+		
+		
+			Eliminadores
+			2016		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			IT
+			2017		
+		
+		Película
+	
+ 
+	
+		
+		
+		
+			Ip Man 3
+			2015		
+		
+		Película
+	
+		
+	
+
+
+	
+		
+Temporadas
+
+  
+  
+
+130 Ver todo
+
+Cargando...
+
+			
+	
+		
+				
+			
+				temporada
+				1
+				The Defenders
+			
+		
+			
+	
+		Temporada 1
+		Aug. 18, 2017
+	
+		
+	
+		
+				
+			
+				temporada
+				4
+				iCarly
+			
+		
+			
+	
+		Temporada 4
+		Jul. 30, 2010
+	
+		
+	
+		
+				
+			
+				temporada
+				3
+				iCarly
+			
+		
+			
+	
+		Temporada 3
+		Sep. 12, 2009
+	
+		
+	
+		
+				
+			
+				temporada
+				2
+				iCarly
+			
+		
+			
+	
+		Temporada 2
+		Sep. 27, 2008
+	
+		
+	
+		
+				
+			
+				temporada
+				1
+				iCarly
+			
+		
+			
+	
+		Temporada 1
+		Sep. 08, 2007
+	
+		
+	
+		
+				
+			
+				temporada
+				3
+				Rick y Morty 
+			
+		
+			
+	
+		Temporada 3
+		Apr. 01, 2017
+	
+		
+	
+		
+				
+			
+				temporada
+				2
+				Rick y Morty 
+			
+		
+			
+	
+		Temporada 2
+		Jul. 26, 2015
+	
+		
+	
+		
+				
+			
+				temporada
+				1
+				Rick y Morty 
+			
+		
+			
+	
+		Temporada 1
+		Dec. 02, 2013
+	
+		
+	
+		
+				
+			
+				temporada
+				1
+				El coche fantástico
+			
+		
+			
+	
+		Temporada 1
+		Sep. 24, 2008
+	
+		
+	
+		
+				
+			
+				temporada
+				1
+				Marvel's Jessica Jones
+			
+		
+			
+	
+		Temporada 1
+		Nov. 20, 2015
+	
+		
+	
+		
+				
+			
+				temporada
+				1
+				Hijos del Tercer Reich
+			
+		
+			
+	
+		Temporada 1
+		Mar. 17, 2013
+	
+		
+	
+		
+				
+			
+				temporada
+				1
+				El Chapo
+			
+		
+			
+	
+		Temporada 1
+		Apr. 23, 2017
+	
+		
+	
+		
+				
+			
+				temporada
+				4
+				Los 100
+			
+		
+			
+	
+		Temporada 4
+		Feb. 01, 2017
+	
+		
+	
+		
+				
+			
+				temporada
+				3
+				Los 100
+			
+		
+			
+	
+		Temporada 3
+		Jan. 21, 2016
+	
+		
+	
+		
+				
+			
+				temporada
+				2
+				Los 100
+			
+		
+			
+	
+		Temporada 2
+		Oct. 22, 2014
+	
+		
+	
+		
+				
+			
+				temporada
+				1
+				Los 100
+			
+		
+			
+	
+		Temporada 1
+		Mar. 19, 2014
+	
+		
+	
+		
+				
+			
+				temporada
+				2
+				Club de Cuervos
+			
+		
+			
+	
+		Temporada 2
+		Dec. 09, 2016
+	
+		
+	
+		
+				
+			
+				temporada
+				1
+				Club de Cuervos
+			
+		
+			
+	
+		Temporada 1
+		Aug. 07, 2015
+	
+		
+	
+		
+				
+			
+				temporada
+				3
+				Power
+			
+		
+			
+	
+		Temporada 3
+		Jul. 17, 2016
+	
+		
+	
+		
+				
+			
+				temporada
+				2
+				Power
+			
+		
+			
+	
+		Temporada 2
+		Jun. 06, 2015
+	
+	
+	
+Episodios
+
+  
+  
+
+2200 Ver todo
+
+Cargando...
+
+			
+	
+		
+		
+			
+				1x104
+				temporada x episodios
+				Dragon Ball Super
+			
+		
+				HD 720		Dragon Ball Super  ( 1 x 104 )
+	
+	
+		
+				
+				
+				Episode 104		
+		Aug. 19, 2017
+	
+		
+	
+		
+		
+			
+				4x11
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 11 )
+	
+	
+		
+				
+				Fiesta Con Victorious		
+		Jun. 10, 2011
+	
+		
+	
+		
+		
+			
+				4x10
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 10 )
+	
+	
+		
+				
+				Ay, Por Dios! 		
+		Apr. 09, 2011
+	
+		
+	
+		
+		
+			
+				4x9
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 9 )
+	
+	
+		
+				
+				Pobre Nevel		
+		Mar. 19, 2011
+	
+		
+	
+		
+		
+			
+				4x8
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 8 )
+	
+	
+		
+				
+				Contraté a Un Tonto		
+		Feb. 12, 2011
+	
+		
+	
+		
+		
+			
+				4x7
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 7 )
+	
+	
+		
+				
+				La Guerra de los Fans (Parte 2)		
+		Nov. 19, 2010
+	
+		
+	
+		
+		
+			
+				4x6
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 6 )
+	
+	
+		
+				
+				La Guerra de los Fans (Parte 1)		
+		Nov. 19, 2010
+	
+		
+	
+		
+		
+			
+				4x5
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 5 )
+	
+	
+		
+				
+				Acepto		
+		Oct. 11, 2010
+	
+		
+	
+		
+		
+			
+				4x4
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 4 )
+	
+	
+		
+				
+				Vendiendo Camisetas de a Centavo		
+		Oct. 02, 2010
+	
+		
+	
+		
+		
+			
+				4x3
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 3 )
+	
+	
+		
+				
+				Me Vuelvo Bromista 		
+		Sep. 25, 2010
+	
+		
+	
+		
+		
+			
+				4x2
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 2 )
+	
+	
+		
+				
+				La Mamá de Sam		
+		Sep. 11, 2010
+	
+		
+	
+		
+		
+			
+				4x1
+				temporada x episodios
+				iCarly
+			
+		
+				HD 1080		iCarly  ( 4 x 1 )
+	
+	
+		
+				
+				Una Habitación Ardiente		
+		Jul. 30, 2010
+	
+		
+	
+		
+		
+			
+				1x8
+				temporada x episodios
+				Marvel's The Defenders
+			
+		
+				HD 720		Marvel's The Defenders  ( 1 x 8 )
+	
+	
+		
+				
+				The Defenders		
+		Aug. 18, 2017
+	
+		
+	
+		
+		
+			
+				1x7
+				temporada x episodios
+				Marvel's The Defenders
+			
+		
+				HD 720		Marvel's The Defenders  ( 1 x 7 )
+	
+	
+		
+				
+				Carne fresca en prisión		
+		Aug. 18, 2017
+	
+		
+	
+		
+		
+			
+				1x6
+				temporada x episodios
+				Marvel's The Defenders
+			
+		
+				HD 720		Marvel's The Defenders  ( 1 x 6 )
+	
+	
+		
+				
+				Cenizas, cenizas		
+		Aug. 18, 2017
+	
+		
+	
+		
+		
+			
+				1x5
+				temporada x episodios
+				Marvel's The Defenders
+			
+		
+				HD 720		Marvel's The Defenders  ( 1 x 5 )
+	
+	
+		
+				
+				Ponte a refugio		
+		Aug. 18, 2017
+	
+		
+	
+		
+		
+			
+				1x4
+				temporada x episodios
+				Marvel's The Defenders
+			
+		
+				HD 720		Marvel's The Defenders  ( 1 x 4 )
+	
+	
+		
+				
+				Dragón real		
+		Aug. 18, 2017
+	
+		
+	
+		
+		
+			
+				1x3
+				temporada x episodios
+				Marvel's The Defenders
+			
+		
+				HD 720		Marvel's The Defenders  ( 1 x 3 )
+	
+	
+		
+				
+				Comportamiento pésimo		
+		Aug. 18, 2017
+	
+		
+	
+		
+		
+			
+				1x2
+				temporada x episodios
+				Marvel's The Defenders
+			
+		
+				HD 720		Marvel's The Defenders  ( 1 x 2 )
+	
+	
+		
+				
+				Derechazo demoledor		
+		Aug. 18, 2017
+	
+		
+	
+		
+		
+			
+				1x1
+				temporada x episodios
+				Marvel's The Defenders
+			
+		
+				HD 720		Marvel's The Defenders  ( 1 x 1 )
+	
+	
+		
+				
+				
+				Esa palabra que empieza por H		
+		Aug. 18, 2017
+	
+	
+
+Proximamente		
+		  
+		  
+		
+		 Ver todo
+		Cargando...		      
+                      
+
+	
+		
+		 10
+				Proximamente		
+	
+	
+		
+		The Foreigner
+		
+				2017
+			
+	                      
+
+	
+		
+		 0
+				Proximamente		
+	
+	
+		
+		Midnight Sun
+		
+				2017
+			
+	                      
+
+	
+		
+		 10
+				Proximamente		
+	
+	
+		
+		Dando la nota 3
+		
+				2017
+			
+	                      
+
+	
+		
+		 7.5
+				Proximamente		
+	
+	
+		
+		IT
+		
+				2017
+			
+	                      
+
+	
+		
+		 8.2
+				HD		
+	
+	
+		
+		Diario de Greg: Carretera y manta
+		
+				2017
+			
+	                      
+
+	
+		
+		 7.5
+				Proximamente		
+	
+	
+		
+		Wind River
+		
+				2017
+			
+	                      
+
+	
+		
+		 10
+				Proximamente		
+	
+	
+		
+		Operación cacahuete 2
+		
+				2017
+			
+	                      
+
+	
+		
+		 7.5
+				Proximamente		
+	
+	
+		
+		Wonderstruck
+		
+				2017
+			
+	                      
+
+	
+		
+		 10
+				Proximamente		
+	
+	
+		
+		Saw: Legacy
+		
+				2017
+			
+	                      
+
+	
+		
+		 7.9
+				Proximamente		
+	
+	
+		
+		The Florida Project
+		
+				2017
+			
+	                      
+
+	
+		
+		 10
+				Proximamente		
+	
+	
+		
+		Kingsman: El círculo de oro
+		
+				2017
+			
+	                      
+
+	
+		
+		 7.2
+				Proximamente		
+	
+	
+		
+		Step
+		
+				2017
+			
+	        		
+		
+		jQuery(document).ready(function($) {
+			var owl = $("#genre_proximamente");
+			owl.owlCarousel({
+				items : 5,
+				autoPlay: 4000,				stopOnHover : true,
+				pagination : false,
+				itemsDesktop : [1199,5],
+				itemsDesktopSmall : [980,5],
+				itemsTablet: [768,4],
+				itemsTabletSmall: false,
+				itemsMobile : [479,3],
+			});
+			$(".next_proximamente").click(function(){
+				owl.trigger('owl.prev');
+			 })
+			 $(".prev_proximamente").click(function(){
+				owl.trigger('owl.next');
+			 })
+		});
+		
+		
+		
+Películas
+1448 Ver todo
+
+Cargando...
+
+			  
+
+	
+		
+		 6.7
+				HD 720		
+	
+	
+		
+		Gold, la gran estafa
+		
+				2016
+			
+			  
+
+	
+		
+		 10
+				HD		
+	
+	
+		
+		No Manches Frida
+		
+				2016
+			
+			  
+
+	
+		
+		 10
+				HD 720		
+	
+	
+		
+		Supercross
+		
+				2005
+			
+			  
+
+	
+		
+		 10
+				HD 720		
+	
+	
+		
+		Projecto X
+		
+				2012
+			
+			  
+
+	
+		
+		 6.8
+				HD 720		
+	
+	
+		
+		21: Blackjack
+		
+				2008
+			
+			  
+
+	
+		
+		 10
+				HD-TS		
+	
+	
+		
+		Annabelle 2: La Creación
+		
+				2017
+			
+			  
+
+	
+		
+		 10
+				HD		
+	
+	
+		
+		Ni Idea / Clueless / Fuera de Onda
+		
+				1995
+			
+			  
+
+	
+		
+		 5.7
+				CAM		
+	
+	
+		
+		The Book of Henry
+		
+				2017
+			
+			  
+
+	
+		
+		 6.4
+				HD 720		
+	
+	
+		
+		Golpe Bajo
+		
+				2005
+			
+			  
+
+	
+		
+		 8
+				HD-TS		
+	
+	
+		
+		La torre oscura
+		
+				2017
+			
+			  
+
+	
+		
+		 9.6
+				HD 1080		
+	
+	
+		
+		Guardianes de la bahía
+		
+				2017
+			
+			  
+
+	
+		
+		 7
+				HD 1080		
+	
+	
+		
+		Yo Antes de ti
+		
+				2016
+			
+			  
+
+	
+		
+		 6.8
+				HD 720		
+	
+	
+		
+		La autopsia de Jane Doe
+		
+				2016
+			
+			  
+
+	
+		
+		 9
+				HD 720		
+	
+	
+		
+		The Model
+		
+				2016
+			
+			  
+
+	
+		
+		 4.7
+				HD 720		
+	
+	
+		
+		The Saint
+		
+				2017
+			
+			  
+
+	
+		
+		 10
+				HD		
+	
+	
+		
+		La Dictadura Perfecta
+		
+				2014
+			
+			  
+
+	
+		
+		 10
+				HD 720		
+	
+	
+		
+		Comando Especial / 21 Jump Street
+		
+				2012
+			
+			  
+
+	
+		
+		 10
+				HD 720		
+	
+	
+		
+		Marmaduke
+		
+				2010
+			
+			  
+
+	
+		
+		 8.5
+				HD 720		
+	
+	
+		
+		The Bride
+		
+				2017
+			
+			  
+
+	
+		
+		 9
+				HD 720		
+	
+	
+		
+		Richard, la cigüeña
+		
+				2017
+			
+		
+	
+	
+		
+			
+
+	
+		
+			
+		
+		
+				Los descendientes 2
+								2017
+								
+					 8.9
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				La guerra del planeta de los simios
+								2017
+								
+					 8.2
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Transformers: El último caballero
+								2017
+								
+					 8.7
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Dunkerque
+								2017
+								
+					 8.8
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Piratas del Caribe: La venganza de Salazar
+								2017
+								
+					 8.8
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				El bebé jefazo
+								2017
+								
+					 8.4
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Guardianes de la galaxia Vol. 2
+								2017
+								
+					 9.4
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Logan
+								2017
+								
+					 8.6
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Wonder Woman / Mujer Maravilla
+								2017
+								
+					 8.9
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Anomalia
+								2014
+								
+					 4.8
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Alien: Covenant
+								2017
+								
+					 7.8
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Juego de Tronos
+								2011
+								
+					 9.1
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Dragon Ball Super
+								2015
+								
+					 9.5
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Cars 3
+								2017
+								
+					 7.3
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Resident Evil: El capítulo final
+								2016
+								
+					 10
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Origen
+								2010
+								
+					 8.5
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Escuadrón suicida
+								2016
+								
+					 8.5
+				
+		
+	
+
+
+	
+		
+			
+		
+		
+				Boruto: Naruto Next Generations
+								2017
+								
+					 9.7
+				
+		
+	
+		
+	
+
+
+
+	
+				Pedropolis © 2017
+	
+
+
+
+// OWL Movies
+
+// OWL TVshows
+jQuery(document).ready(function($) {
+  var owl = $("#dt-tvshows");
+	owl.owlCarousel({
+		autoPlay: false,
+		items : 5,
+	stopOnHover : true,
+	pagination : false,
+	itemsDesktop : [1199,5],
+    itemsDesktopSmall : [980,5],
+    itemsTablet: [768,4],
+    itemsTabletSmall: false,
+    itemsMobile : [479,3],
+  });
+  // Custom Navigation Events
+  $(".next4").click(function(){
+    owl.trigger('owl.next');
+  })
+  $(".prev4").click(function(){
+    owl.trigger('owl.prev');
+  })
+	  // end botons
+});
+// OWL Episodes
+jQuery(document).ready(function($) {
+  var owl = $("#dt-episodes");
+  owl.owlCarousel({
+		autoPlay: false,
+		pagination : false,
+	items : 3,
+	stopOnHover : true,
+	itemsDesktop : [900,3],
+	itemsDesktopSmall : [750,3],
+	itemsTablet: [500,2],
+	itemsMobile : [320,1]
+  });
+  // Custom Navigation Events
+  $(".next").click(function(){
+    owl.trigger('owl.next');
+  })
+  $(".prev").click(function(){
+    owl.trigger('owl.prev');
+  })
+	  // end botons
+});
+
+// OWL Seasons
+jQuery(document).ready(function($) {
+  var owl = $("#dt-seasons");
+	owl.owlCarousel({
+		autoPlay: false,
+		items : 5,
+	stopOnHover : true,
+	pagination : false,
+	itemsDesktop : [1199,5],
+    itemsDesktopSmall : [980,5],
+    itemsTablet: [768,4],
+    itemsTabletSmall: false,
+    itemsMobile : [479,3],
+  });
+  // Custom Navigation Events
+  $(".next2").click(function(){
+    owl.trigger('owl.next');
+  })
+  $(".prev2").click(function(){
+    owl.trigger('owl.prev');
+  })
+	  // end botons
+});
+
+// OWL Movies Slider
+jQuery(document).ready(function($) {
+  var owl = $("#slider-movies");
+  owl.owlCarousel({
+		autoPlay: false,
+		items : 2,
+	stopOnHover : true,
+	pagination : true,
+	itemsDesktop : [1199,2],
+    itemsDesktopSmall : [980,2],
+    itemsTablet: [768,2],
+    itemsTabletSmall: [600,1],
+    itemsMobile : [479,1]
+  });
+  // Custom Navigation Events
+});
+
+// OWL TVShows Slider
+jQuery(document).ready(function($) {
+  var owl = $("#slider-tvshows");
+  owl.owlCarousel({
+		autoPlay: false,
+			items : 2,
+	stopOnHover : true,
+	pagination : true,
+	itemsDesktop : [1199,2],
+    itemsDesktopSmall : [980,2],
+    itemsTablet: [768,2],
+    itemsTabletSmall: [600,1],
+    itemsMobile : [479,1]
+  });
+  // Custom Navigation Events
+});
+
+// OWL Movies - TVShows Slider
+jQuery(document).ready(function($) {
+  var owl = $("#slider-movies-tvshows");
+  owl.owlCarousel({
+				autoPlay: false,
+					items : 2,
+		stopOnHover : true,
+		pagination : true,
+		itemsDesktop : [1199,2],
+		itemsDesktopSmall : [980,2],
+		itemsTablet: [768,2],
+		itemsTabletSmall: [600,1],
+		itemsMobile : [479,1]
+  });
+  // Custom Navigation Events
+});
+
+ // Slider Master
+jQuery(document).ready(function($) {
+  var owl = $("#slider-master");
+  owl.owlCarousel({
+				autoPlay: 2000,
+					items : 3,
+		stopOnHover : true,
+		pagination : true,
+		itemsDesktop : [1199,3],
+		itemsDesktopSmall : [980,2],
+		itemsTablet: [768,2],
+		itemsTabletSmall: [600,1],
+		itemsMobile : [479,1]
+  });
+});
+
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-84205218-3', 'auto');
+  ga('send', 'pageview');
+
+
+
+/* <![CDATA[ */
+var dtGonza = {"api":"http:\/\/4carding.com\/wp-json\/dooplay\/search\/","nonce":"89033f2ac2","area":".live-search","button":".search-button","more":"Ver todos los resultados"};
+/* ]]> */
+
+
+
+		
+		jQuery(document).ready(function($) {
+			 $(".reset").click(function(event){
+				if (!confirm("Really you want to restart all data??"))
+				   event.preventDefault();
+			});
+			$(".addcontent").click(function(event){
+				if (!confirm("Seguro que ya haz agregado contenido para mostrar?"))
+				   event.preventDefault();
+			});
+		});
+	
+	
+		<!--
+	document.write("<a href='http://www.liveinternet.ru/click' "+
+	"target=_blank><img src='//counter.yadro.ru/hit?t12.11;r"+
+	escape(document.referrer)+((typeof(screen)=="undefined")?"":
+	";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+	screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+	";"+Math.random()+
+	"' alt='' title='LiveInternet: показано число просмотров за 24"+
+	" часа, посетителей за 24 часа и за сегодня' "+
+	"border='0' width='88' height='31'><\/a>")
+	//-->

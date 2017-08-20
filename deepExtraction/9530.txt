@@ -1,0 +1,1 @@
+Security Check ...function makecookie(obj,srv){document.cookie="CPRAYID="+obj+"; domain="+srv+";";} Security Check Before Accessing www.advhyipstat.comPlease allow up to 5 secondsAnti-DDoS & Security by CloudProtection  makecookie("618d61f1e6cf51307fc3ee45565d4f82","advhyipstat.com");setTimeout("location.reload();",5000);

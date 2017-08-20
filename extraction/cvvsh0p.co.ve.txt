@@ -1,0 +1,559 @@
+Fast VPN provider - USA/UK/EU VPN nodes on PPTP, OpenVPN and SSH proxy
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        
+        
+
+    
+
+    
+        	
+  
+	
+		
+		Toggle Nav
+		
+		
+		
+		
+                VPN Service Provider
+	
+	
+            
+                 My Account
+                 Live Support
+                
+                         English 
+    
+                                           Magyar
+                  
+
+                
+            
+	
+
+
+
+
+	
+		
+		Toggle Nav
+		
+		
+		
+		
+	
+	
+		
+                  
+                
+		
+			VPN Home
+			
+                            Info 
+                            
+                                 FAQ
+                                 OpenVPN Setup
+                                 PPTP Setup
+                                 SSH Tunnelling
+                                 Onion Access
+                                
+                                 Warrant Canary
+                                 Server Locations
+                                 Terms of Service
+                            
+                        
+			
+                            Tools 
+                            
+                                 Downloads
+                                
+                                 Proxy List
+
+                                 Disposable E-mail
+
+                                 What Is My IP
+                            
+                        
+			Start
+		
+                
+                  
+                
+	
+
+
+
+    
+        
+            
+                TOR + VPN
+                Why use TorVPN?
+                Features
+                Free VPN
+                Try it now
+
+            
+        
+    
+
+
+
+
+
+  
+    
+      
+        
+          
+            
+              Fast VPN Proxy
+              
+                Enjoy your privacy with TorVPN. Unlimited speed, uncensored internet access from anywhere.
+              
+              
+                Get Started
+                 
+                Learn More
+              
+            
+          
+          
+            
+              
+            
+            
+              
+            
+            
+              
+            
+            
+              
+            
+            
+              
+            
+            
+              
+            
+          
+        
+      
+    
+    
+      
+   
+   
+   
+   
+
+
+    
+  
+
+  
+  
+    TorVPN is the right VPN for you
+  
+
+    
+        
+            
+                
+                    
+                        
+                            
+                            "Hide my IP address"
+                            
+                              Hide your IP address from websites, surf the web anonymously.
+                              Make it seem like you are connecting from the other part of the planet.
+                              Connect through either of our VPN servers and exit in a different country.
+                            
+                        
+                    
+                    
+                        
+                            
+                            "Facebook is blocked"
+                            
+                              Bypass restrictions, create uncensored internet anywhere.
+                              Facebook, Twitter, Gmail, file sharing, adult sites will all work as soon as you are connected.
+                              When you have TorVPN, no sites can be blocked.
+                            
+                        
+                    
+                    
+                        
+                            
+                            "I use P2P / Torrent"
+                            
+                              Hide torrent traffic from your ISP or local network administrator.
+                              This torrent VPN will shield your connection.
+                              No more threatening letters sent to your ISP.
+                            
+                        
+                    
+                
+                
+                    
+                        
+                            
+                            "Internet based calls?"
+                            
+                              Enable internet based phone calls like Skype and VoIP with ease.
+                              Many providers have overpriced phone call contracts and block internet telephony.
+                              TorVPN has low latency servers to give you great sound quality.
+                            
+                        
+                    
+                    
+                        
+                            
+                            "Geo-blocked video sites"
+                            
+                              Watch streaming and video sites: Hulu, BBC iPlayer, Youtube.
+                              This VPN has servers that are fast enough to stream HD content.
+                              A good VPN is essential to have at hand for anyone.
+                            
+                        
+                    
+                    
+                        
+                            
+                            "In Wi-Fi we trust"
+                            
+                              Connecting to a hotspot under the control of hackers can be dangerous.
+                              If you ever use public Wi-Fi, your data may be eavesdropped on, and your computer infected.
+                              Protect your Wi-Fi with TorVPN.
+                            
+                        
+                    
+                
+                
+                    
+                        
+                            
+                            "I use a smartphone"
+                            
+                              TorVPN is compatible with iPhone, Android, your PC, and many routers.
+                              Windows, Linux, MacOS are all supported.
+                              With OpenVPN TCP+UDP, PPTP and SSH protocols available, you can't go wrong.
+                            
+                        
+                    
+                    
+                        
+                            
+                            "How to use it?"
+                            
+                              There is no problem if you are new to this.
+                              We have guides, tutorials, screenshots, videos and step-by-step instructions.
+                              Our support is helpful and quick to solve any problems.
+                            
+                        
+                    
+                    
+                        
+                            
+                            "I need it right now"
+                            
+                              Instant activation means that you will be using the VPN in minutes.
+                              There are no contracts, we have flexible packages from as low as $0.
+                              Your privacy is in safe hands with TorVPN.
+                            
+                        
+                    
+                
+            
+        
+    
+
+  
+
+  
+    List of our services and features
+  
+
+  
+
+  
+    
+      
+        
+          Secure VPN
+        
+        
+          OpenVPN
+        
+        
+          PPTP
+        
+        
+          Internal Network
+        
+        
+          SSH Tunnelling
+        
+        
+          Socks Proxy
+        
+      
+      
+        
+          Dedicated IP
+        
+        
+          Shared IP
+        
+        
+          Transparent TOR
+        
+        
+          Access .onion
+        
+        
+          P2P File Sharing
+        
+        
+          Control Panel
+        
+      
+      
+        
+          Prepaid VPN
+        
+        
+          Fast VPN
+        
+        
+          Free VPN
+        
+        
+          Reliable VPN
+        
+        
+          Cheap VPN
+        
+        
+          Bitcoin VPN
+        
+      
+    
+  
+
+  
+  
+  
+    Free VPN service
+  
+  
+
+    
+      
+        
+            TorVPN offers free VPN service and intends to introduce a big audience on the internet to privacy protection.
+            Depending on actual site usage and other variables, you are likely to be eligible for free access. At any given time, a generous number of slots are reserved on TorVPN servers to provide free access.
+        
+      
+    
+
+
+  
+
+  
+    VPN packages
+  
+  
+
+
+    
+        
+                      
+                
+                
+                    
+                        
+                            Free VPN
+                            £ 0
+                             Valid for 7 days
+                             Unlimited speed
+                             Choose 1 server
+                             One open session
+                             OpenVPN + PPTP
+                             SSH Tunnel
+                             Not guaranteed
+                             Possible time limits
+                             2 GB traffic
+                            Get Free VPN
+                        
+                    
+                    
+                        
+                            Cheap VPN
+                            £ 0.50
+                             Valid for 15 days
+                             Unlimited speed
+                             Choose 1 server
+                             2 sessions
+                             OpenVPN + PPTP
+                             SSH Tunnel
+                             Always eligible
+                             No time limit
+                             5 GB traffic
+                            Order Cheap VPN
+                        
+                    
+                    
+                        
+                        
+                        
+                        
+                            Custom VPN
+                            £ 
+                             Valid for 123456789101112 months
+                             Unlimited speed
+                             123All (11) servers
+                             234567891011121314151617181920 sessions
+                             OpenVPN + PPTP
+                             SSH Tunnel
+                             Always eligible
+                             No time limit
+                             1020304050607080901001101201301401501601701801902002002503003504004505005506006507007508008509009501000110011501200125013001350140014501500155016001650170017501800185019001950200020502100215022002250230023502400245025002550260026502700275028002850290029503000305031003150320032503300335034003450350035503600365037003750380038503900395040004050410041504200425043004350440044504500455046004650470047504800485049004950500050505100515052005250530053505400545055005550560056505700575058005850590059506000605061006150620062506300635064006450650065506600665067006750680068506900695070007050710071507200725073007350740074507500755076007650770077507800785079007950800080508100815082008250830083508400845085008550860086508700875088008850890089509000905091009150920092509300935094009450950095509600965097009750980098509900995010000 GB traffic
+                            
+                        
+                        
+                    
+                 
+             
+
+            
+                
+                
+                    
+                        
+                            Pro VPN
+                            £ 1.90
+                             Valid for 30 days
+                             Unlimited speed
+                             Choose 2 servers
+                             2 sessions
+                             OpenVPN + PPTP
+                             SSH Tunnel
+                             Always eligible
+                             No time limit
+                             60 GB traffic
+                            Order Pro VPN
+                        
+                    
+                                                                                                             
+                        
+                            Silver VPN
+                            £ 5.50
+                             Valid for 90 days
+                             Unlimited speed
+                             All basic servers
+                             3 sessions
+                             OpenVPN + PPTP
+                             SSH Tunnel
+                             Always eligible
+                             No time limit
+                             100 GB traffic
+                            Order Silver VPN
+                        
+                    
+                    
+                        
+                            Gold VPN
+                            £ 19.90
+                             Valid for 1 year
+                             Unlimited speed
+                             All basic servers
+                             4 sessions
+                             OpenVPN + PPTP
+                             SSH Tunnel
+                             Always eligible
+                             No time limit
+                             Unlimited traffic
+                            Order Gold VPN
+                        
+                    
+                 
+                Introductory Prices
+             
+
+
+        
+    
+
+
+        
+        
+
+        
+        
+            
+                 Everything VPN
+                VPN Provider
+                Bitcoin VPN
+                VPN Server
+                Proxy List
+            
+            
+                 How To VPN?
+                Frequently Asked Questions
+                Install OpenVPN
+                Set Up PPTP
+                SSH Tunnelling
+            
+            
+                 TOR + VPN
+                E-mail Us
+                Affiliates
+                Privacy Policy
+                Twitter
+            
+        
+    
+
+
+    
+        Copyright © 2017 Lockspin UK Ltd. Company reg. #07600443 in Wallasey, United Kingdom
+    
+
+
+
+
+        
+<!-- //
+
+  site_context = '';
+
+  topoffset = 150;
+  selected_language = 'en';
+  one_gigabyte = 1000000000;
+
+  price_per_gb = 0.015;
+  price_per_day = 0.02;
+  price_per_server = 0.00333;
+  price_max_servercount = 5;
+  price_per_concurrency = 0.00333;
+  price_per_dedicated_ip = 0.08;
+  price_time_modifier_min = 0.8;
+  price_time_discount = 1800;
+
+  csrf_token = 'vvgkzsczrysskdui';
+
+// -->

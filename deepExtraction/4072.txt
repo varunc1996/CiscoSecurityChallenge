@@ -1,0 +1,680 @@
+Perfect Money - new generation of Internet payment system. Payment processor for money transfer.
+
+
+
+
+<!--
+body { max-width:1650px}
+.top {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
+.req {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #FF0000}
+td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; color: #333333}
+.ag {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #333333}
+h2 {  font-family: Arial, Helvetica, sans-serif; font-size: 15pt; color: #333333}
+#TJK_ToggleON,#TJK_ToggleOFF {display:none}
+.menu {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt}
+.txt {  text-align: justify}
+a {  color: #990000}
+-->
+
+
+
+
+
+$j = jQuery.noConflict();	
+jQuery(document).ready(function(){  
+	$j("#memo").addClass("input");
+	$j("input").addClass("input");
+	$j(":submit").addClass("submit");
+});
+
+
+
+
+$(document).ready(function(){  
+	$('a[href="https://perfectmoney.is/tour.html"]').colorbox({href:"/tour.html",scrolling:false,initialWidth:1000,initialHeight:590,innerWidth:977,width:1000,height:590,fixed:true,top:60,left:350});
+	$('a[href="/tour.html"]').colorbox({href:"/tour.html",scrolling:false,initialWidth:1000,initialHeight:590,innerWidth:977,width:1000,height:590,fixed:true,top:60,left:350});
+});
+
+
+
+
+   
+    
+      
+         
+          
+                     
+            
+            
+    --- --- EnglishDeutschΕλληνικά中文日本語한국어EspañolFrançaisРусскийУкраїнськаItalianoPortuguêsالعربيةفارسیไทยIndonesiaMalaysianTürkçePolskiRomânHindiUrduVietnam  
+
+             
+              Signup   
+|   Login   
+|   Exchangers
+
+                 
+|   Tour   
+|   Help   |   Security Center         
+
+              
+          
+        
+      
+      
+    
+  
+
+
+
+
+  
+    
+     
+
+	
+   	
+	
+    
+    
+    	
+	
+    
+    	  
+	
+	
+	
+	
+	
+		
+	
+
+
+
+    
+  
+  
+
+
+  
+    
+    
+      
+        
+           Login
+          
+          
+          
+            
+			  
+               Home
+								About Us
+								Features
+								Fees
+								E-Vouchers
+                Guarantees
+                F.A.Q.
+                Contact Us
+							
+				
+            
+          
+        
+      
+    
+    
+      
+    
+  
+
+
+
+                                                                               
+
+    
+  
+
+
+
+
+         
+          
+           
+            
+      
+         
+          
+            PM Exchange Rates
+
+
+	
+		USD, EUR:
+		
+		
+		
+			
+			
+			
+				
+				USD
+				 / EUR  0.833  
+				|
+			
+			
+			
+				
+					|
+					  EUR
+						 / 
+					
+					USD  1.152
+				
+			
+			
+			
+				
+			
+		
+		
+		
+		
+			BTC:
+		
+		
+		
+			
+			
+			
+				
+					
+						USD
+						 >> 
+					
+					4099.36  
+						|
+					
+				
+			
+			
+			
+				
+					|
+					   EUR
+					
+						 >> 
+					
+					3505.55
+				
+			
+			
+			
+				
+			
+			
+		
+		
+		
+		
+			GOLD Bid Price /oz:
+		
+		
+		
+			
+			
+			
+				
+					
+						USD
+						 >> 
+					
+					1258.731  
+						|
+					
+				
+			
+			
+			
+				
+					|
+					   EUR
+					
+						 >> 
+					
+					1070.299
+				
+			
+			
+			
+				
+			
+			
+		
+		
+		
+	
+
+
+
+
+Public Poll
+
+Perfect Money: Service Quality & Products
+View results in real-time »
+
+ 
+            
+              
+
+
+Frequently Asked Questions 
+
+
+
+
+
+	
+    Can I go through only one of the three verification procedures?
+    
+    
+	
+To verify your account, you need to complete all three steps."Address Verification" and "Phone Number Verification" become available only after you verify your name. 
+    
+
+
+	
+    How can I send money to an e-mail address?
+    
+    
+	You can send money by e-mail to anyone, even if he/she does not have a Perfect Money account. All you need to do is to indicate the receiver e-mail address, the exact amount and the account you want to send money from. The recipient will receive an e-mail containing a special link to the Perfect Money website. Once registered at Perfect Money, your recipient will be able to get the transfer. 
+    
+
+
+  
+  
+Read more Q & A »
+
+  
+
+
+
+
+
+
+ 
+              
+          
+           
+			
+Welcome to a new generation of Internet Payment System!
+ Perfect Money is a leading financial service allowing the users to make instant payments and to make money transfers securely throughout the Internet opening unique opportunities to Internet users and owners of the Internet businesses. Perfect Money targets to bring the transactions on the Internet to the ideal level!
+
+
+  
+    
+      
+        
+          
+          About System
+          
+        
+      
+    
+    
+      
+        
+          
+          How to Deposit
+          
+        
+      
+    
+    
+      
+        
+          
+          How to Withdraw
+          
+        
+      
+    
+    
+      
+        
+          
+          e-Voucher
+          
+        
+      
+    
+  
+
+
+  
+    
+  
+
+
+  
+    Perfect Money presents unique
+      features for Business and Personal accounts.
+      
+      While using Perfect Money payment system one can do the following:
+      
+      
+        
+           
+          
+            
+              
+                
+                  Perform money transfers between members 
+              
+              
+                
+                  Receive payments in various business projects in Internet 
+              
+              
+                
+                  Make regular payments in Internet
+              
+              
+                
+                  Safely store money funds on electronic account and get monthly
+                  interests 
+              
+              
+                
+                  Make payment for goods and services in Internet shops 
+              
+              
+                
+                  Buy Bitcoin, Gold Metal, USD and EUR currency online 
+              
+            
+          
+        
+      
+    
+  
+
+
+
+  
+    Deposit has never been so
+      easy - 7 unique ways with Perfect Money
+      
+      To make payments on the Internet with Perfect Money currency you need firstly
+      to load the account. This can be made by various methods enabling you to
+      turn your real wallet into a virtual one. 
+      
+       Bank Wire
+      
+      To deposit account you can send Bank Wire (SWIFT / IBAN) from your online
+      banking account or accept Bank Wire from the third party, for example from
+      your business partner. Giving your partners Perfect Money account details
+      you have an opportunity to accept Bank Wire even if you don't have a bank
+      account. Find out how easy »
+      it is to fund your Perfect Money account using a bank wire.
+      
+        Instant Bank Transfer
+      
+      A convenient way to make a deposit from the comfort of your home. By using
+      this method you are instructing your bank to make a transfer to us without
+      visiting your local branch. The transfers are instant. Available to bank
+      account holders at Germany, Austria, Switzerland and Belgium.
+      
+       Certified Exchange Partners
+      
+      Perfect Money e-currency can be purchased with other e-currency, Western
+      Union, Money Gram or just for cash. Deposit funds via Certified
+      Exchange Partners ».
+      
+       Cash Terminals
+      
+      Fast cash based method to make a deposit to your account at Perfect Money.
+      Create a order at "Deposit" section of your account, make a deposit
+      at the payment terminal near you. The funds are immediately credited to
+      your account. 150,000 payment terminals available across Russian Federation
+      and Ukraine.
+      
+       Bitcoin
+      
+      Make a deposit using a Bitcoin crypto-currency. Instantly deposit funds to your Perfect Money B account after 3 network confirmations.
+      
+       Perfect Money Prepaid
+      Card / e-Voucher
+      
+      This is an option when you buy an e-Voucher on the Internet with an Activation code or a Prepaid Card locally and credit your account after entering the code to the special form. For example you can buy the e-Voucher for e-currency or Western Union with a variety of online exchange services or auctions.
+      
+       E-currency
+      
+      Deposit funds via e-currency transfer from the accounts in electronic payment
+      systems. All the e-currency deposit transactions are instant.
+  
+
+
+
+  
+     Withdraw money with Perfect
+      Money
+      
+      It is easy to convert Perfect Money electronic currency to real money or
+      other payment tools. Money withdrawals can be performed as follows: 
+      
+       Bank
+      Wire
+      
+      You can withdraw Perfect Money currency via Bank Wire transfer to your online
+      banking account or to the third party. If your business partners or some
+      service accept only Bank Wires you can also withdraw Perfect Money currency
+      via Bank Wire as a payment for services or goods.
+      
+       Perfect Money Prepaid
+      Card / e-Voucher
+      
+      Create your own Perfect Money e-Voucher certificate. It's a great idea to
+      give it to friends, family or reward. Also you can sell e-Voucher or exchange
+      it for cash or e-currency
+      
+       E-currency
+      
+      You have an opportunity to withdraw funds from your account in Perfect Money
+      to the account in other electronic payment system. 
+      
+       Prepaid Visa / Master
+      Card gift cards
+      
+      We give our customers an opportunity to buy prepaid cards online within
+      a Perfect Money account. For example, you can purchase "Prepaid Visa
+      Card" for safe and secure shopping everywhere on the Internet.
+      
+        Certified Exchange Partners
+        
+        
+      Perfect Money e-currency is available for
+        sale with Western Union®, Money Gram®. Also you can exchange Perfect
+        Money to other electronic currency or cash it in your city. Withdraw funds
+        via Certified Exchange Partners
+        ».
+      
+        Bitcoin
+        
+        
+      Withdraw funds directly to your Bitcoin wallet. Perfect Money lets customers withdraw funds from Perfect Money B accounts to the Bitcoin wallet of your choice. All transactions are processed automatically.
+      
+  
+
+
+
+  
+    Have you ever thought of making your
+      own virtual prepaid card? 
+      
+      Have you ever thought that you can buy Perfect Money virtual prepaid card
+      for your e-currency on the Internet and then convert it to Perfect Money
+      currency? Perfect Money payment system gives you such an opportunity and
+      makes it real!
+      A virtual Perfect Money prepaid card with Activation code called e-Voucher
+        is always available to be created by any Perfect Money user.
+      e-Voucher is a special code which you can use to deposit any account
+        in Perfect Money payment system. Also you can give this code to anybody
+        and they can fund their accounts in Perfect Money payment system anytime.
+      You can send the code of e-Voucher to any e-mail or mobile phone number.
+      If you want to create an e-Voucher you should access your Perfect Money
+        account, click on "Withdraw" and click on "e-Voucher".
+        Then please write value of the e-Voucher and create it. Please note that
+        all the created e-Vouchers are available in e-Voucher Depository which
+        can be found in a "Statement" section. 
+      If you want to deposit your Perfect Money account you can buy the e-Voucher
+        on the Internet. Next you should access your Perfect Money account, click
+        on "Deposit" and choose "e- Voucher" as a payment
+        option.
+      e-Voucher is a convenient way to pay for goods and/or services even if
+        your client does not have a Perfect Money account.
+    
+  
+
+
+
+  
+    
+  
+
+
+function showPromo(id, elem)
+{
+  $('table.promo').hide();
+  $(id).show();
+
+  if (elem)
+  {
+    $("table.nav td").each(
+      function()
+      {
+        switch (this.className) {
+          case 'act_left' : case 'ina_left': classname = 'ina_left'; break;
+          case 'act_center' : case 'ina_center': classname = 'ina_center'; break;
+          case 'act_right' : case 'ina_right' : classname = 'ina_right'; break;
+        }
+
+        this.className = classname;
+      }
+    );
+
+    var current = $(elem+' td');
+
+    current.get(0).className = 'act_left';
+    current.get(1).className = 'act_center';
+    current.get(2).className = 'act_right';
+  }
+}
+
+showPromo('#promo1','#promo_nav1');
+
+
+In every operation
+  performed in Perfect Money payment system we aspire to offer our customers perfect
+  service.We know that future has Perfect Money, and you have an opportunity to
+  become our customer! 
+New to Perfect Money? Take a tour » 
+                  
+                    
+                  
+ 
+            
+               
+                
+
+Major Perfect Money Shopping Cart plugins update for e-commerce websites
+
+07.03.17
+
+Perfect Money team fully understand the importance of straightforward payment system integration into a website. We constantly keep track of newest webmaster technological preferences and proudly present a major Shopping Cart plugins update. By using our plugins you will be able to add Perfect Money payment system to your website hassle free while increasing amount of your potential customers by 10 million.Read more »
+
+ More news:
+Perfect Money team proudly announces Islam Banking compliant account setting » 16.01.17
+Perfect Money team wishes all our customers Merry Christmas And Happy New Year 2017! » 23.12.16
+Perfect Money rewards customers for their loyalty » 13.12.16
+Perfect Money Payment system has added Vietnamese language to our website » 29.01.16
+News archive »
+
+
+              
+            
+            
+            
+          
+           
+          
+
+PM E-Vouchers 
+
+It seems like virtualBut it works like real money
+
+	Create e-voucher for any amount.
+	Transfer money to any receiver around the world (the recipient will receive  e-voucher number and activation code by SMS, even if he/she has no PM account).
+	Pay online for goods and services securely and confidentially.
+	Easily exchange e-voucher to any other e-currency or cash through online exchange service.
+
+Read more »
+ Accept Perfect Money - ensure profit growth!
+
+
+Dramatically increase your sales by adding Perfect Money as a payment method on your website.
+Quick steps to set-up SCI, integration with dozens of CMS, over 10,000,000 Perfect Money account holders.
+Add Perfect Money Shopping Cart to your website and introduce your services to millions of Perfect Money customers » 
+ Easy integration into Shopping Cart software
+
+
+Our tech team developed plugins for the most popular shopping cart scripts. Now you can add Perfect Money to the list of payment options on your website just downloading the necessary plug in for your existing shopping cart. Payment by SMS, Bank Wire Transfer, Perfect Money e-Vouchers, PM Prepaid Cards are going to be available on your existing shopping cart!
+Detailed information about Perfect Money API & Plugins »
+
+
+            
+
+        
+      
+          
+          
+        
+      
+
+
+   
+     
+      
+         
+          
+          
+          
+        
+      
+    
+  
+
+
+
+
+
+   
+     
+        
+
+
+
+
+
+    
+    
+      
+        
+           
+             
+              Perfect Money - new generation of Internet payment system. Payment processor for money transfer. ©
+              2007-2017 SR & I. All rights reserved. 
+              Affiliate Program
+| Perfect
+Money API | Legal notice
+| Privacy policy
+| Terms of Use 
+| AMLSite Map

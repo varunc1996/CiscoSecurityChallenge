@@ -1,0 +1,2985 @@
+HyipGuardian.com Your Trusted Monitor
+                        
+        
+                
+        
+
+        
+                
+            
+                checkEmail = function(email) {
+                    if (!email)
+                    {
+                        return 1;
+                    }
+                    else
+                    {   
+                        a = email.indexOf('@');
+                        b = email.indexOf('@', a+1);
+                        c = email.lastIndexOf('.');
+                        if (a == -1 || b != -1 || c <= a + 2 || a < 1 || c + 2 >= email.length || c + 5 < email.length)
+                        {
+                            return 2;
+                        }
+                    }
+                    return 0;
+                }
+
+                startList = function() {
+                    if (document.all&&document.getElementById) {
+                        navRoot = document.getElementById("nav");
+                        for (i=0; i<navRoot.childNodes.length; i++) {
+                            node = navRoot.childNodes[i];
+                            if (node.nodeName=="LI") {
+                                node.onmouseover=function() { this.className+=" over"; }
+                                node.onmouseout=function() { this.className=this.className.replace(" over", ""); }
+                            }
+                        }
+                    }
+                }
+                window.onload=startList;
+                function getTimeRemaining(endtime) {
+  var t = Date.parse(endtime) - Date.parse(new Date());
+  var seconds = Math.floor((t / 1000) % 60);
+  var minutes = Math.floor((t / 1000 / 60) % 60);
+  var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+  var days = Math.floor(t / (1000 * 60 * 60 * 24));
+  return {
+    'total': t,
+    'days': days,
+    'hours': hours,
+    'minutes': minutes,
+    'seconds': seconds
+  };
+}
+
+function initializeClock(id, endtime) {
+  var clock = document.getElementById(id);
+  var daysSpan = clock.querySelector('.days');
+  var hoursSpan = clock.querySelector('.hours');
+  var minutesSpan = clock.querySelector('.minutes');
+  var secondsSpan = clock.querySelector('.seconds');
+
+  function updateClock() {
+    var t = getTimeRemaining(endtime);
+
+    daysSpan.innerHTML = t.days;
+    hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+    minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+    secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+
+    if (t.total <= 0) {
+      clearInterval(timeinterval);
+    }
+  }
+
+  updateClock();
+  var timeinterval = setInterval(updateClock, 1000);
+}
+
+$(window).scroll(function(){
+      var y=$('#topobanner').height();
+      if ($(this).scrollTop() > y) {
+        $('#absolute_banner_left').css({"position":"fixed","top":0});
+        $('#absolute_banner_right').css({"position":"fixed","top":0});
+
+      } else {
+        $('#absolute_banner_left').css({"position":"fixed","top":y-$(this).scrollTop()});
+        $('#absolute_banner_right').css({"position":"fixed","top":y-$(this).scrollTop()});
+      }
+  });
+  
+$( document ).ready(function(){
+      var y=$('#topobanner').height();
+        $('#absolute_banner_left').css({"position":"fixed","top":y-$(this).scrollTop()});
+        $('#absolute_banner_right').css({"position":"fixed","top":y-$(this).scrollTop()});
+
+        $('a[href=#top]').click(function(){
+            $('html, body').animate({scrollTop:0}, 'slow');
+        });
+});  
+            
+        
+    
+    
+        
+			var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/56af47c193a92f5d7e2c3e68/default';s1.charset='UTF-8';	s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();
+		
+		
+			{"handle":"hyipguardiancom","arch":"js","styles":{"a":"0084ef","b":95,"c":"FFFFFF","d":"FFFFFF","f":95,"i":95,"k":"0084ef","l":"0084ef","m":"0084ef","n":"FFFFFF","o":95,"p":"10","q":"0084ef","r":95,"pos":"br","cv":1,"cvbg":"3366ff","cvw":277,"cvh":32,"cnrs":"0.35","ticker":1,"fwtickm":1}}
+        
+		                                                            
+                                                        Buy TOP banner here right now for $250.00/week
+                        
+                                    
+		        
+
+            
+            
+
+
+
+
+
+
+
+
+                
+        
+                                                            
+                                                           
+							                            Buy rotating banner here right now for $25.00/week
+                        
+                                                
+                                                
+                        
+                                                                
+                                                        
+                                                                Buy rotating banner here right now for $35.00/week
+                            
+                        
+                    
+                              
+    
+                                                
+                        STATIC BANNER 728x90
+                                                                                    
+                                    
+                                    
+                                        Available Now for $80.00/week
+                                    
+                                
+                                                                                                                
+                                    
+                                    
+                                        Available Now for $75.00/week
+                                    
+                                
+                                                                                                                
+                                    
+                                    
+                                        Available Now for $70.00/week
+                                    
+                                
+                                                                                                                
+                                    
+                                    
+                                        Available Now for $65.00/week
+                                    
+                                
+                                                                                                                
+                                    
+                                    
+                                        Available Now for $60.00/week
+                                    
+                                
+                                                                                                                
+                                    
+                                    
+                                        Available Now for $55.00/week
+                                    
+                                
+                                                                                                                
+                                    
+                                    
+                                        Available Now for $50.00/week
+                                    
+                                
+                                                                                                                
+                                    
+                                    
+                                        Available Now for $45.00/week
+                                    
+                                
+                                                                                                                
+                                    
+                                    
+                                        Available Now for $40.00/week
+                                    
+                                
+                                                                        
+                            
+                                                
+                        STATIC BANNER 468x60
+                        
+                                                                                                
+                                        
+                                        
+                                            Available Now for $26.00/week
+                                        
+                                    
+                                                                                                                                
+                                        
+                                        
+                                            Available Now for $24.00/week
+                                        
+                                    
+                                                                                              
+                                    
+                                        
+                                                                                    
+                                        
+                                                                                        Available on Aug 22, 2017 for $22.00/week
+                                        
+                                    
+                                                                                                                                
+                                        
+                                        
+                                            Available Now for $20.00/week
+                                        
+                                    
+                                                                                        
+                        
+                    
+                                    
+            
+                        LATEST NEWS:
+                                                                                              
+                                                                            BITIN.CC
+                                                                        :  
+                                    
+                                                                            New piggy BTC added on Bitcoin Program
+                                     - Aug-19-2017
+                                                                                            
+                                    
+                                                                                                                              
+                                                                            BITCOIN CASH (BCC)
+                                                                        :  
+                                    
+                                                                            How to get Bitcoin Cash from many wallet/software/services !!!
+                                     - Aug- 7-2017
+                                                                                            
+                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                        
+                    
+            
+                
+                    
+                
+                
+                    Home »
+                        
+                            New
+                                                            PRO INSURANCE $2K+
+                                                            PRO INSURANCE $1K
+                                                            PRO INSURANCE $500
+                                                            TOP BITCOIN PROGRAM
+                                                            STICKY
+                                                            PREMIUM
+                                                            STANDARD
+                                                            BITCOIN PROGRAM
+                                                            TRIAL
+                                                            SLEEPING
+                                                            ON HOLD
+                                                            Scam
+                                     
+                        
+                    
+                    News 
+                    Advertise
+                        
+                            Add program
+                            Banners & Ads
+                        
+                    
+                                            RCB
+                            
+                                RCB Programs
+                                RCB Requests
+                            
+                        
+                                        Directory
+                    Articles
+                    Support
+					INSURANCE
+                    
+                
+            
+            
+                
+                    
+
+    
+
+    
+    
+    
+        PRO INSURANCE $2K+
+                    List your program in the PRO INSURANCE $2K+ listing
+            
+
+                        
+                
+        Currently there are no items in the PRO INSURANCE $2K+ listing         
+        
+    
+
+    
+    
+    
+        PRO INSURANCE $1K
+                    List your program in the PRO INSURANCE $1K listing
+            
+
+                        
+                
+        Currently there are no items in the PRO INSURANCE $1K listing         
+        
+    
+
+    
+    
+    
+        PRO INSURANCE $500
+                    List your program in the PRO INSURANCE $500 listing
+            
+
+                        
+                
+        Currently there are no items in the PRO INSURANCE $500 listing         
+        
+    
+
+    
+    
+    
+        TOP BITCOIN PROGRAM
+                    List your program in the TOP BITCOIN PROGRAM listing
+            
+
+                        
+            
+        
+            Minimum deposit to claim your RCB is $ 10
+        
+                
+    
+Ambis International LLC
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                 
+                
+                                   
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plan: From 0.15% to 0.2% per hour for lifetime. Principal Back anytime after 24h with 7% fee.
+                
+                    
+                          
+                               
+                    
+                                          
+                    307%
+                                                            
+                        
+                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: 0.01฿ / 149.99
+                    Referral:  5%
+
+                    Withdrawal: 
+                        
+                            Instant                                                        
+                      
+                    Our Investment: $200.00 
+                    Last Payout: Aug 18th, 2017                    
+                                            Ref. Back: 400%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Jun 27th, 2017
+			        Monitored: 54 days
+			        				        Lifetime: 54 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            49
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                		Admin Note: Minimum deposit to request your RCB is $10
+	                     
+                 
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    Why should one choose AMBIS over other companies?
+We believe AMBIS has a prefect solution for any Bitcoin investor who has no time to analyze the markets & make fast decisions based on the data that he receives. We have tested our software for 1 year & we know it’s working perfectly & is able to deliver the result no matter what.
+
+            
+    
+BITCONNECT
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                
+                
+                   TG MMG DTM                 
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plan: daily interest $ 100 - $ 1000 Volatility software interest lifetime (capital back after 299 days) .....
+                
+                    
+                          
+                               
+                    
+                                          
+                    150%
+                                                            
+                        
+                                                                                                 
+                                                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $100 / $100,000
+                    Referral:  8%
+
+                    Withdrawal: 
+                        
+                            Manual                                                        
+                      
+                    Our Investment: $200.00 
+                    Last Payout: Aug 10th, 2017                    
+                    					   
+		        
+		        
+			        
+			        Added: Dec 8th, 2016
+			        Monitored: 255 days
+			        				        Lifetime: 465 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            13
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            1
+		            
+		        
+		        		                	
+            
+                                            
+	                		Admin Note: Minimum deposit to request your RCB is $100
+	                    
+               
+            
+                              
+                               
+               
+               
+               
+			    
+			   			   
+               
+               
+               
+           
+    
+    
+    BitConnect members can earn Bitcoins just by pooling their Bitcoin with other community members through the BitConnect lending platform. Using our Bitcoin lending platform, we can help you earn a substantial return on your bitcoin investment along with all of our other satisfied members!
+
+            
+    
+ROLY INVESTMENT
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                               
+                
+                                   
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plan: 21-35% monthly for a year. 3x payday each week (MON-WED-FRI), after your package ends, you get 80% of your money back
+                
+                    
+                          
+                               
+                    
+                                          
+                    14%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: 0.01฿ / 20฿
+                    Referral:  7%-1%-1%
+
+                    Withdrawal: 
+                        
+                            Instant                                                        
+                      
+                    Our Investment: $200.00 
+                    Last Payout: Aug 16th, 2017                    
+                                            Ref. Back: 700%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Aug 4th, 2017
+			        Monitored: 16 days
+			        				        Lifetime: 68 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            2
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                		Admin Note: Minimum deposit to request your RCB is $10.
+	                     
+                
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    Roly Investment LTD https://www.youtube.com/watch?v=CHnbgxTrshg Roly Investment is a community of retired former hedge fund banks that have over 17 years of experience on Wall Street. ...
+
+        
+    
+
+    
+    
+    
+        STICKY
+                    List your program in the STICKY listing
+            
+
+                        
+                
+    
+Royal-Mining
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                   
+                
+                   TG MMG DTM                 
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plan: 1-1.3% DAILY FOR LIFETIME, Principal included.
+                
+                    
+                          
+                               
+                    
+                                          
+                    96%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $10 / No Limit
+                    Referral:  5%
+
+                    Withdrawal: 
+                        
+                            Instant                                                        
+                      
+                    Our Investment: $200.00 
+                    Last Payout: Aug 19th, 2017                    
+                    					   
+		        
+		        
+			        
+			        Added: May 18th, 2017
+			        Monitored: 94 days
+			        				        Lifetime: 136 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            84
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                       
+                
+            
+                              
+                               
+               
+               
+               
+			    
+			   			   
+               
+               
+               
+           
+    
+    
+    Royal-Mining is professional software developers who were directly involved in the development and testing of the most known classical algorithms for mining SHA-256 and scrypt. Knowledge and practical skills are the key to the success of the company.
+
+            
+    
+Aurum Bank
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                 
+                
+                   TG MMG DTM                 
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plans: 0.8%-17% daily, for 260-15 trading days;  6500%-400% after 110-20 trading days
+                
+                    
+                          
+                               
+                    
+                                          
+                    77%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $10 / No Limit
+                    Referral:  0.5%
+
+                    Withdrawal: 
+                        
+                            Manual                                                        
+                      
+                    Our Investment: $200.00 
+                    Last Payout: Aug 18th, 2017                    
+                                            Ref. Back: 500%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Apr 24th, 2017
+			        Monitored: 118 days
+			        				        Lifetime: 838 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            74
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                        
+                
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    Aurum Financial Group LTD is a global investment company founded and registered in the UK. We provide our services for use in different parts of the world.
+
+            
+    
+BITTANK LTD
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                               
+                
+                                   
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plans: EARNING EVERY HOUR 0.04%, 0.06%, 0.09%; PLANDURATION 1YEAR Daily earnings 0.96%-2.16%
+                
+                    
+                          
+                               
+                    
+                                          
+                    17%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $5 / $36000
+                    Referral:  7%
+
+                    Withdrawal: 
+                        
+                            Instant                                                        
+                      
+                    Our Investment: $200.00 
+                    Last Payout: Aug 19th, 2017                    
+                                            Ref. Back: 600%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Aug 1st, 2017
+			        Monitored: 19 days
+			        				        Lifetime: 80 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            17
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                            
+                 
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    BitTank.Club is a venture started 2 years back in 2015 and has since then become a strong player on the online marked with profitable online business as Bitcoin Wallet, Coin Exchange, Advertising and more funded by a strong team of 200+ founders teamed together as MATRIXBIT CLUB LIMITED
+
+        
+    
+
+    
+    
+    
+        PREMIUM
+                    List your program in the PREMIUM listing
+            
+
+                        
+                
+    
+Still Forex LTD
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                 
+                
+                   TG MMG                 
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plans: 130% After 1 Day, 200% After 3 Days, 275% After 5 Days, 370% After 7 Days, 700% After 15 Days, 1500% After 30 Days, 3000% After 44 Days, 5000% After 60 Days, VIP Plan: 1000% After 5 Days
+                
+                    
+                          
+                               
+                    
+                                          
+                    12%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $25 / $100000
+                    Referral:  5%
+
+                    Withdrawal: 
+                        
+                            Manual                                                        
+                      
+                    Our Investment: $150.00 
+                    Last Payout: Aug 19th, 2017                    
+                                            Ref. Back: 500%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Aug 15th, 2017
+			        Monitored: 5 days
+			        				        Lifetime: 5 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            15
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                        
+                 
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    Still Forex LTD specialize on trading and has been trading on major exchanges (such as CME) and interbank foreign exchange market. 
+We have our own approach to trading, are able to evaluate the risks and know how to diversify them.
+In the company a group of people is working with extensive experience in different areas, where everyone is actively cooperating with 
+each other to achieve the goals.
+
+        
+    
+
+    
+    
+    
+        STANDARD
+                    List your program in the STANDARD listing
+            
+
+                        
+                
+    
+Chain Group Service
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                   
+                
+                   TG MMG DTM                 
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plan: 0.1-10% daily, depends on a Trade Group offer.
+                
+                    
+                          
+                               
+                    
+                                          
+                    91%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $5 / No Limit
+                    Referral:  5%
+
+                    Withdrawal: 
+                        
+                            Manual                                                        
+                      
+                    Our Investment: $100.00 
+                    Last Payout: Aug 19th, 2017                    
+                                            Ref. Back: 400%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Jul 27th, 2017
+			        Monitored: 24 days
+			        				        Lifetime: 24 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            22
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                        
+              
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    At Chain.Group, those who want to make money on cryptocurrency exchanges meet those who is good at doing it. The site presents a list of Trade Groups and Investors choose a Trade Group to invest in.
+
+            
+    
+MARYBETS
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                   
+                
+                                   
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plan: 3% daily for 50 working days, principal Included.
+                
+                    
+                          
+                               
+                    
+                                          
+                    84%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $10 / $10000
+                    Referral:  8%
+
+                    Withdrawal: 
+                        
+                            Instant                                                        
+                      
+                    Our Investment: $100.00 
+                    Last Payout: Aug 18th, 2017                    
+                                            Ref. Back: 700%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Jul 11th, 2017
+			        Monitored: 40 days
+			        				        Lifetime: 40 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            25
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                        
+                
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    Reliable online betting that provides stable income from the positive outcomes of sports bets and the effectiveness of investing in each contract.
+
+            
+    
+LasVegasIncome
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                 
+                
+                                   
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plans: 2.10% Daily For 3 Days - Principal Refundable, 124% After 6 Days, 154% After 12 Days, 185% After 18 Days
+                
+                    
+                          
+                               
+                    
+                                          
+                    26%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $10 / $9999
+                    Referral:  3%
+
+                    Withdrawal: 
+                        
+                            Instant                                                        
+                      
+                    Our Investment: $100.00 
+                    Last Payout: Aug 18th, 2017                    
+                                            Ref. Back: 200%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Jul 30th, 2017
+			        Monitored: 21 days
+			        				        Lifetime: 25 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            14
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                       
+               
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    Our team consists of more than twenty highly qualified specialists in the field of financial risk management as well as professional traders with extensive long-term experience in the foreign exchange markets and also stock market.
+
+            
+    
+Super-Market Business Ltd
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                  
+                
+                                   
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plans: 3% Daily for 100 Business Days, 7% Daily For 35 Business Days, 12% Daily For 20 Business Days, 800% After 40 Business Days and 2000% After 75 Business Days.
+                
+                    
+                          
+                               
+                    
+                                          
+                    22%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $10 / No Limit
+                    Referral:  5%-2%-1%
+
+                    Withdrawal: 
+                        
+                            Manual                                                        
+                      
+                    Our Investment: $100.00 
+                    Last Payout: Aug 19th, 2017                    
+                    					   
+		        
+		        
+			        
+			        Added: Aug 3rd, 2017
+			        Monitored: 17 days
+			        				        Lifetime: 17 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            10
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                             
+                
+            
+                              
+                               
+               
+               
+               
+			    
+			   			   
+               
+               
+               
+           
+    
+    
+    Our company consists of highly motivated and experienced professionals in many areas of financial activity.
+
+            
+    
+Capital Primex LTD
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                               
+                
+                   TG MMG DTM                 
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plan: 1.5% - 1.7% - 1.9% daily for 25 days, 1.7% - 1.9% - 2.1% daily for 45 days, principal back . 130% - 140% - 150% after 15 days, Principal Included.
+                
+                    
+                          
+                               
+                    
+                                          
+                    12%
+                                                            
+                        
+                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: $10 / $100000
+                    Referral:  5%-3%-2%
+
+                    Withdrawal: 
+                        
+                            Instant                                                        
+                      
+                    Our Investment: $100.00 
+                    Last Payout: Aug 19th, 2017                    
+                                            Ref. Back: 400%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Aug 12th, 2017
+			        Monitored: 8 days
+			        				        Lifetime: 8 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            17
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                		Admin Note: Minimum deposit to request your RCB is $10.
+	                         
+                 
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    Welcome to the world of opportunities, with Capital Primex LTD you can generate daily income thanks to our extensive investment portfolio. Capital Primex LTD offers you 3 investment plans with the highest returns...
+
+        
+    
+
+    
+    
+    
+        BITCOIN PROGRAM
+                    List your program in the BITCOIN PROGRAM listing
+            
+
+                        
+            
+        
+            Minimum deposit to claim your RCB is $ 10
+        
+                
+    
+BitIn.cc
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                  
+                
+                                   
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plans: 4% up to 6% DAILY (0.17% up to 0.25% HOURLY) FOR LIFETIME (Principal Withdraw is Available with 5.00% fee after 1 day)
+                
+                    
+                          
+                               
+                    
+                                                              
+                    
+                        
+                    
+                                        Min/Max: 0.01฿ / No Limit
+                    Referral:  7%-3%-1%
+
+                    Withdrawal: 
+                        
+                            Instant                                                        
+                      
+                    Our Investment: $100.00 
+                    Last Payout: No Payouts                    
+                                            Ref. Back: 400%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Aug 19th, 2017
+			        Monitored: 1 days
+			        				        Lifetime: 1 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                     
+                    
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    BIT INTERNATIONAL LIMITED ensures high safety and security of your investments and major gains in profits.
+
+        
+    
+
+    
+    
+    
+        TRIAL
+            
+
+                        
+                
+    
+HOURPAY
+	        
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                               
+                
+                   TG DTM                 
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plan : 1.1%-2.25% hourly for 96 hours,7% - 10% hourly for 48 hours,15% - 20% hourly for 24 hours
+                
+                    
+                          
+                               
+                    
+                                          
+                    114%
+                                                            
+                        
+                                                                                                 
+                                                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: 5$ / No Limit
+                    Referral:  3%
+
+                    Withdrawal: 
+                        
+                            Manual                                                        
+                      
+                    Our Investment: $2,665.00 
+                    Last Payout: Aug 19th, 2017                    
+                                            Ref. Back: 200%    
+                        
+                    					   
+		        
+		        
+			        
+			        Added: Jan 25th, 2017
+			        Monitored: 207 days
+			        				        Lifetime: 238 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            160
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                         
+                
+            
+                              
+                               
+               
+               
+               
+			                  
+                
+			   			   
+               
+               
+               
+           
+    
+    
+    HOURPAY LIMITED specializes in the trading and exchange of cryptocurrencies. With the advent of Bitcoin our traders paid attention to the volatile fluctuations of its exchange rate and realized the prospects of a new type of electronic currency.
+
+        
+    
+
+    
+    
+    
+        SLEEPING
+                    List your program in the SLEEPING listing
+            
+
+                        
+                
+        Currently there are no items in the SLEEPING listing         
+        
+    
+
+    
+    
+    
+        ON HOLD
+            
+
+                        
+                
+    
+TRADY.IO
+	
+	 	 	         
+    
+    
+        
+                            
+                        
+                
+            	
+                
+                
+				
+            	
+            	
+                
+				
+				
+				
+                
+			
+              
+                                                                                                 
+                
+                                   
+               
+                
+                	
+					
+					
+					
+					
+					
+					
+                
+            
+            
+                Investment plan: 5% daily
+                
+                    
+                          
+                               
+                    
+                                          
+                    333%
+                                                            
+                        
+                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                    
+                    
+                                        Min/Max: 0.01฿ / No Limit
+                    Referral:  5%-2%-1%
+
+                    Withdrawal: 
+                        
+                            Instant                                                        
+                      
+                    Our Investment: $250.00 
+                    Last Payout: Aug 15th, 2017                    
+                    					    
+						    
+                         
+                                               
+              
+                        
+                                                                                                                                                                        
+                                                                                    
+                            
+                            
+
+                                                        
+
+                             
+                                INSURANCE: $0.385(฿)
+                                                                    INSURANCE EXPIRES IN:
+                                                                                                                                    expired: 08/07/2017 09:03:00
+                                                                
+                             
+                        					   
+		        
+		        
+			        
+			        Added: Jun 18th, 2017
+			        Monitored: 61 days
+			        				        Lifetime: 62 days
+			        			        
+				        Our Rating:
+				        
+			        
+			        
+				        Users Rating:
+				        
+			        
+			        
+			            
+				            
+					            49
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+				            0
+			            
+			            
+				            
+			            0
+		            
+		        
+		        		                	
+            
+                                            
+	                     
+                
+            
+                              
+                               
+               
+               
+               
+			    
+			   			   
+               
+               
+               
+           
+    
+    
+    trady is a cryptocurrency trading company established during the first quarter of 2017. We assist our investors in getting the most out of their investment. In the last month, we have made around 5% profit a day by using our state of the art trading algorithm!
+
+        
+
+
+    
+
+   
+Sticky Ads
+
+
+
+Available Now
+
+
+Available now for $26.00/week
+
+
+
+
+Available Now
+
+
+Available now for $24.00/week
+
+
+Place your Text Ads Here
+
+
+LISTING DECLINED
+
+    
+    
+        
+            
+                                                    Matrixbit.club Association
+                                    cashinhand.biz
+                                    TRABACO
+                            
+        
+    
+
+
+
+
+ New Listings
+
+
+
+
+
+
+
+  Aug 19th, 2017
+
+ 
+   BitIn.cc
+ 
+  Wating
+     
+   Investment plans: 4% up to 6% DAILY (0.17% up to 0.25% HOURLY) FOR LIFETIME (Principal Withdraw is Available with 5.00% fee after 1 day)
+ 
+
+  Aug 15th, 2017
+
+ 
+   Still Forex LTD
+ 
+  Paying
+     
+   Investment plans: 130% After 1 Day, 200% After 3 Days, 275% After 5 Days, 370% After 7 Days, 700% After 15 Days, 1500% After 30 Days, 3000% After 44 Days, 5000% After 60 Days, VIP Plan: 1000% After 5 Days
+ 
+
+  Aug 12th, 2017
+
+ 
+   Capital Primex LTD
+ 
+  Paying
+     
+   Investment plan: 1.5% - 1.7% - 1.9% daily for 25 days, 1.7% - 1.9% - 2.1% daily for 45 days, principal back . 130% - 140% - 150% after 15 days, Principal Included.
+ 
+
+
+
+			   
+News
+
+
+
+goldenbankhourly.com
+ 
+            listing was declined
+         more
+Jan-6-2017 10:37:41 AM
+
+
+SHARES BID LTD
+ 
+            The insurance was shared at 100 % check status here ...
+         more
+Jan-3-2017 10:51:55 PM
+
+
+SHARES BID LTD
+ 
+            has stopped paying, request your compensation, click more ...
+         more
+Jan-1-2017 02:57:35 PM
+
+
+RE-CYCLIX
+ 
+            added in standard listing
+         more
+Dec-28-2016 03:00:39 PM
+
+
+SANTABOT
+ 
+            added to Sticky Listing
+         more
+Dec-27-2016 06:48:49 PM
+
+
+BLUECHIP LAB LTD
+ 
+            The insurance was shared at 100 % check status here ...
+         more
+Dec-26-2016 08:54:14 AM
+
+
+All news
+	
+Top Monitored
+
+
+  
+   BITCONNECT
+   255 days
+  
+  
+   HOURPAY
+   207 days
+  
+  
+   Aurum Bank
+   118 days
+  
+  
+   Royal-Mining
+   94 days
+  
+  
+   Ambis International LLC
+   54 days
+  
+  
+   MARYBETS
+   40 days
+  
+  
+   Chain Group Service
+   24 days
+  
+  
+   LasVegasIncome
+   21 days
+  
+  
+   BITTANK LTD
+   19 days
+  
+  
+   Super-Market Business Ltd
+   17 days
+  
+  
+   ROLY INVESTMENT
+   16 days
+  
+  
+   Capital Primex LTD
+   8 days
+  
+  
+   Still Forex LTD
+   5 days
+  
+
+Last Scams
+
+
+  
+   TRADY.IO
+  
+  
+   BitFlash
+  
+  
+   Phenix Bit
+  
+  
+   Bitcoin Great Limited
+  
+  
+   PRIME STARTUP LIMITED
+  
+  
+   ELLINGTON FUND
+  
+  
+   PBIO
+  
+  
+   GOLDENPARK
+  
+  
+   BitXXXA LTD
+  
+  
+   StrongFunding
+  
+  
+   BTChain
+  
+  
+   LUCRACO
+  
+  
+   Cryptearn Co
+  
+  
+   Swiss Credit
+  
+  
+   BITCOIN FUTURE
+  
+
+Payment Systems
+
+
+  
+  
+  List PerfectMoney programs
+ 
+  
+  
+  List AlertPay programs
+ 
+  
+  
+  List SolidTrustPay programs
+ 
+  
+  
+  List StrictPay programs
+ 
+  
+  
+  List ECUmoney programs
+ 
+  
+  
+  List GlobalDigitalPay programs
+ 
+  
+  
+  List C-Gold programs
+ 
+  
+  
+  List MoneyBookers programs
+ 
+  
+  
+  List Pecunix programs
+ 
+  
+  
+  List Payza programs
+ 
+  
+  
+  List Payeer programs
+ 
+  
+  
+  List Bitcoin programs
+ 
+  
+  
+  List Neteller programs
+ 
+  
+  
+  List WireTransfer programs
+ 
+  
+  
+  List OkPay programs
+ 
+  
+  
+  List PayPal programs
+ 
+  
+  
+  List Skrill programs
+ 
+  
+  
+  List AdvCash programs
+ 
+  
+  
+  List NixMoney programs
+ 
+
+		
+STATIC BANNER 160x600
+
+List your non rotating banners here
+
+			   
+
+  
+  
+
+Server Time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Translation and Social
+
+
+
+    
+        
+            
+            
+                
+                    function googleTranslateElementInit() {
+                        new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+                    }
+                
+            
+            
+            
+                
+                
+                
+                
+                
+            
+            
+
+                
+        
+    
+
+
+Members
+
+
+
+
+
+function checklogin() {   
+  if (document.loginform.username.value=='') {
+    alert("Please enter your username!");
+    document.loginform.username.focus();
+    return false;
+  }
+  if (document.loginform.password.value=='') {
+    alert("Please enter your password!");
+    document.loginform.password.focus();
+    return false;
+  }
+  return true;
+}
+
+
+
+
+
+
+
+ Username:
+ 
+
+
+ Password:
+ 
+
+
+  Remeber me
+
+
+  
+  
+
+
+  
+ 
+
+
+
+Sign Up | Forgot Password?
+
+			   
+Last Payouts
+
+
+    
+   Aug 19th, 2017
+  
+      
+   $4.50
+   Still Forex LTD
+  
+      
+   $1.50
+   Chain Group Service
+  
+      
+   $1.96
+   BITTANK LTD
+  
+      
+   $1.70
+   Capital Primex LTD
+  
+      
+   $32.18
+   HOURPAY
+  
+      
+   $2.00
+   Royal-Mining
+  
+      
+   $1.99
+   Super-Market Business Ltd
+  
+      
+   Aug 18th, 2017
+  
+      
+   $10.54
+   Ambis International LLC
+  
+      
+   $4.50
+   Still Forex LTD
+  
+      
+   $1.26
+   LasVegasIncome
+  
+      
+   $1.60
+   Aurum Bank
+  
+      
+   $1.84
+   BITTANK LTD
+  
+      
+   $2.99
+   Chain Group Service
+  
+      
+   $1.70
+   Capital Primex LTD
+  
+      
+   $3.00
+   MARYBETS
+  
+      
+   $2.00
+   Royal-Mining
+  
+      
+   $3.98
+   Super-Market Business Ltd
+  
+      
+   Aug 17th, 2017
+  
+      
+   $18.30
+   Ambis International LLC
+  
+      
+   $1.60
+   Aurum Bank
+  
+      
+   $4.50
+   Still Forex LTD
+  
+      
+   $17.16
+   HOURPAY
+  
+      
+   $1.24
+   LasVegasIncome
+  
+      
+   $3.63
+   Chain Group Service
+  
+      
+   $1.69
+   BITTANK LTD
+  
+      
+   $1.70
+   Capital Primex LTD
+  
+      
+   $2.00
+   Royal-Mining
+  
+      
+   $3.00
+   MARYBETS
+  
+      
+   Aug 16th, 2017
+  
+      
+   $1.99
+   Super-Market Business Ltd
+  
+      
+   $4.50
+   Still Forex LTD
+  
+      
+   $2.01
+   BITTANK LTD
+  
+  
+ 
+Last Votes
+
+
+    
+   Aug 19th, 2017
+  
+      
+   
+   Still Forex LTD
+  
+      
+   
+   Chain Group Service
+  
+      
+   
+   BITTANK LTD
+  
+      
+   
+   Capital Primex LTD
+  
+      
+   
+   HOURPAY
+  
+      
+   
+   Royal-Mining
+  
+      
+   
+   Still Forex LTD
+  
+      
+   
+   Still Forex LTD
+  
+      
+   
+   Still Forex LTD
+  
+      
+   
+   Super-Market Business Ltd
+  
+      
+   
+   Still Forex LTD
+  
+      
+   
+   Still Forex LTD
+  
+      
+   
+   Still Forex LTD
+  
+      
+   
+   Still Forex LTD
+  
+      
+   
+   Still Forex LTD
+  
+  
+ Our Logo
+
+
+
+
+
+
+Put my logo on your site
+
+
+
+
+
+   
+    Plans Calculator & Currency Converter
+	
+	
+		
+     Long Term Plans 
+		
+			Investment:	$ 
+			Plans: % daily for  days
+			Compounding: %
+			Deposit: $0.00
+			Total Return: $0.00
+			Profit: $0.00
+            | Profit+Principal: $0.00 |
+		
+	
+	
+	
+     Short Term Plans 
+		
+			Investment: $ 
+			Plans: 
+			% after  day(s).
+			Deposit: $0.00
+			Total Return: $0.00
+			Profit: $0.00
+		
+    
+	
+    
+     Hourly Plans 
+		
+			Investment:	$ 
+			Plans: % hour for  hours
+			Compounding: %
+			Deposit: $0.00
+			Total Return: $0.00
+			Profit: $0.00
+		
+    
+
+Partners Links
+
+
+ 
+ 
+
+ 
+ 
+
+ 			   
+				   
+Top Profitable
+
+
+  
+   Ambis International LLC
+   306%
+  
+  
+   BITCONNECT
+   149%
+  
+  
+   HOURPAY
+   113%
+  
+  
+   Royal-Mining
+   96%
+  
+  
+   Chain Group Service
+   91%
+  
+  
+   MARYBETS
+   84%
+  
+  
+   Aurum Bank
+   77%
+  
+  
+   LasVegasIncome
+   25%
+  
+  
+   Super-Market Business Ltd
+   21%
+  
+  
+   BITTANK LTD
+   17%
+  
+  
+   ROLY INVESTMENT
+   13%
+  
+  
+   Still Forex LTD
+   12%
+  
+  
+   Capital Primex LTD
+   11%
+  
+
+				   				   
+				   
+   
+
+ 
+
+ 
+ DISCLAIMER: We do not own or promote any investment programs. The information presented on our HYIP Monitor is based on statistics and personal experience only. Please keep in mind that all HYIP investments are highly risky. All investments are made at your own risk. We do not recommend you to invest more than you can afford to lose.
+ All Rights Reserved. HyipGuardian.com Your Trusted Monitor
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+LT:1.765 sec
+/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */

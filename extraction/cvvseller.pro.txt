@@ -1,0 +1,5791 @@
+pbhyips.info - Trusted Monitor, Real HYIP Status, New daily HYIP Update
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?2W0ju8GDZhRHgVgsEQnsXHyR0OJ3WlVq';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+   
+   
+   
+   
+   
+    
+      
+         
+  
+  
+  
+ 	 
+  		
+  		
+  		 Home
+		Add Programs
+		Add Banner
+		Add Sticky
+		Our Partner
+		All RCB
+		
+		Contact Us
+  		
+  		
+ 	 
+ 	 
+ 
+  
+
+
+
+
+1.5% Daily For 30 Days,1.7% Daily For 60 Days,500% After 15 Days,1100% After 30 Days, ...etc | $120/Week | Expired:2017-09-08
+ 
+
+
+
+ 	 
+  		
+		NEW HYIP
+		TOP LISTING
+		PREMIUM LISTING
+		STANDARD LISTING
+		
+		
+		SCAM HYIP
+		
+	
+
+
+
+    Ad-price ($85/Week) | Expired:2017-09-13
+                 up to 70% monthly    Ad-price ($70/Week) | Expired:2017-08-31
+                 1.5% - 2.1% daily for 25 - 45 days, Principal Back; 130% - 140% - 150% after 15 days, Principal Included    Ad-price ($65/Week) | Expired:2017-08-26
+                 4% Daily or 6% Daily or 8% Daily or 4% Daily for 30 days    Ad-price ($40/Week) | Expired:2017-08-29
+                 4% Daily for 30 Days    Ad-price ($35/Week) | Expired:2017-08-22
+                 EXCH 4.5% daily for 30days, BTC 5.5% daily for 30 days, ETH 1.66% daily for 15 days, principal back    Ad-price ($20/Week) | Expired:2017-08-24
+                 2% daily for 25 days
+
+ABOUT US
+You've lost some money with bad projects and you want to be successful with the HYIP industry. Yes it is possible, you just spend 1 minute every day to visit our website. We  introduced & recommended only quality HYIP program, those are safe and secure for you.If you have any questions, please contact me follow info below: MMG - DTM - TALKGOLD - MMGP - FACEBOOK Note: We only spend small funds to HYIP site but all program we joined is best place to invest.WE BRING SUCCESS TO YOU!!!
+
+
+
+
+                            
+
+<!--
+function viewStatistics(id)
+{
+  w = 400; h = 600;
+  t = (screen.height-h-30)/2;
+  l = (screen.width-w-30)/2;
+  window.open('?a=view_statistics&lid=' + id, 'view_statistics' + id, "top="+t+",left="+l+",width="+w+",height="+h+",resizable=1,scrollbars=1");
+}
+-->
+
+
+  function ch_reload(ec)
+  {
+    var img;
+    if(img = document.getElementById('ec_img'))
+    {
+      img.src = '/images/'+ec+'.gif';
+    }
+  }
+
+
+
+    TOP LISTING 
+      
+
+ 
+
+  
+  
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						CryptoSolutions
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          1245
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        600% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Apr 8th, 2016
+                        
+                    
+                    
+                        ROI: 6284%
+                        Min/Max: $10/$100000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 3%-15%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                          
+                                                                             
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                        TerraTransit AG, Esecurity S.A.                          
+                                                  
+                                                                                                                                                                                                                     
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1.5% Daily For 30 Days,1.7% Daily For 60 Days,500% After 15 Days,1100% After 30 Days,2000% After 50 Days,3000% After 75 Days,5000% After 100 Days,VIP 1000% After 25 Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 499 days
+	     
+
+
+
+
+
+   
+  
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Control Finance
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          65
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        4200% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Jun 4th, 2017
+                        
+                    
+                    
+                        ROI: 65%
+                        Min/Max: $10/$30000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: Up to 25%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                          
+                                                                             
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                                  Sharktech                                                   
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1%-1.5% daily for lifetime
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 77 days
+	     
+
+
+
+
+
+   
+  
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Aragon International
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          11
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        3000% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Jul 28th, 2017
+                        
+                    
+                    
+                        ROI: 42%
+                        Min/Max: $10/$5000
+                    
+                    
+                        Last Paid: Aug-17,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 7%-2%-1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                          
+                                                                             
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                 OVH, SAS 
+                                                                                                                                                                                                                     
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  5% Daily For 31 Days, 3.2% Daily For 50 Days, 110% After 10 Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 23 days
+	     
+
+
+
+
+
+   
+  
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						CRYPTOUNITY GLOBAL LTD
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          6
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        2500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Aug 2nd, 2017
+                        
+                    
+                    
+                        ROI: 19%
+                        Min/Max: $10/$10000
+                    
+                    
+                        Last Paid: Aug-18,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                 Custumized Cripts                         
+                                                                             
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                 CloudFlare 
+                                                  
+                                                                                                                                                                                                                     
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  7% Daily for 30 Days or 150% After 1 Day or 340% After 4 Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 18 days
+	     
+
+
+
+
+
+   
+  
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Capital Primex LTD
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          18
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        3200% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Aug 11th, 2017
+                        
+                    
+                    
+                        ROI: 14%
+                        Min/Max: $10/$100000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: 5%-3%-2%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                          
+                                                                             
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                                                                                     
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1.5% - 1.7% - 1.9% daily for 25 days, Principal Back; 1.7% - 1.9% - 2.1% daily for 45 days, Principal Back; 130% - 140% - 150% after 15 days, Principal Included
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 9 days
+	     
+
+
+
+
+
+   
+  
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						CRYPTO CRYSTALS
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          5
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        3500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Aug 12th, 2017
+                        
+                    
+                    
+                        ROI: 16%
+                        Min/Max: $1/$10000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 6%-3%-2%-1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                 Custumized Cripts                         
+                                                                             
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                 CloudFlare 
+                                                  
+                                                                                                                                                                                                                     
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  EXCH 4.5% daily for 30days, BTC 5.5% daily for 30 days, ETH 1.66% daily for 15 days, principal back
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 8 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Royal-Mining
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          71
+                          1
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                           
+                        
+                        4000% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  May 15th, 2017
+                        
+                    
+                    
+                        ROI: 75%
+                        Min/Max: $10/No Max
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: 5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1-1.3%DAILY FOR LIFETIME
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 97 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Ripfire BTC Ltd.
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          56
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        2500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $201.00
+                        Added:  Jun 23rd, 2017
+                        
+                    
+                    
+                        ROI: 45%
+                        Min/Max: $10/$50000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 7% - 2% - 1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                         Global Frag Networks                                                                                                                                 
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1.5% - 3.1% Daily For 12 - 60 Calendar Days(Deposit Return)
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 58 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Bitpetite.com
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          11
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                          
+                        
+                        3600% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Jul 17th, 2017
+                        
+                    
+                    
+                        ROI: 91%
+                        Min/Max: $0.005 BTC/$No limit
+                    
+                    
+                        Last Paid: Aug-18,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: 10%-5%-2%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                 Custumized Cripts                                                    
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  4.5% daily from Monday to Friday, 1% daily on Saturday and Sunday, last for 6 weeks, principal included
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 34 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Chestwallet
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          12
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                         
+                        
+                        3200% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Jul 24th, 2017
+                        
+                    
+                    
+                        ROI: 57%
+                        Min/Max: $0.005 btc/$0.10 btc
+                    
+                    
+                        Last Paid: Aug-18,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: 1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                 Custumized Cripts                                                    
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  0.1% Hourly Forever  - Release deposit only 5% fee
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 27 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Chain Group Service
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          22
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                             
+                        
+                        3500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Jul 27th, 2017
+                        
+                    
+                    
+                        ROI: 83%
+                        Min/Max: $$ 5/$$ 1,000,000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                 Custumized Cripts                                                    
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                 CloudFlare 
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  0.1-10% daily, depends on a Trade Group offer
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 24 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Ykke.io
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          14
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                         
+                        
+                        2500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Jul 30th, 2017
+                        
+                    
+                    
+                        ROI: 55%
+                        Min/Max: $0.01 BTC/$No limit
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: 5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                        Dancom Ltd, DDoS-Guard.net 
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  Daily 3% profit for lifetime
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 21 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Cryptomaster.us
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          3
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                         
+                        
+                        3000% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Aug 1st, 2017
+                        
+                    
+                    
+                        ROI: 6%
+                        Min/Max: $10/$50000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                 Custumized Cripts                                                    
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1-1.5% daily principle back anytime after 50 days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 19 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						In Vinom Veritas
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          13
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                           
+                        
+                        4000% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Aug 3rd, 2017
+                        
+                    
+                    
+                        ROI: 10%
+                        Min/Max: $5/$50000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 5%, 3%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                 License H-Scripts 
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                 CloudFlare 
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  0.8%-7days, 14%-8days, 15%-9days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 17 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Russia-bank.com
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          3
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                         
+                        
+                        3000% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $151.00
+                        Added:  Aug 15th, 2017
+                        
+                    
+                    
+                        ROI: 12%
+                        Min/Max: $10/$50000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 7%-3%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  4% Daily or 6% Daily or 8% Daily or 4% Daily for 30 days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 5 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						FXPRIMEX LTD
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          0
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                          
+                        
+                        100% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          
+		WAITING 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $150.00
+                        Added:  Aug 18th, 2017
+                        
+                    
+                    
+                        ROI: 0%
+                        Min/Max: $$20/$$10,000
+                    
+                    
+                        Last Paid: No Payout
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: $2
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  4% Daily for 30 Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 2 days
+	     
+
+
+
+
+
+ 
+
+
+
+
+
+
+    PREMIUM LISTING
+      
+
+ 
+  
+  
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Laser Online LLC
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          39
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        1700% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Jul 2nd, 2017
+                        
+                    
+                    
+                        ROI: 741%
+                        Min/Max: $5/$No limit
+                    
+                    
+                        Last Paid: Aug-17,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 5%-2%-1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                 Custumized Cripts                         
+                                                                             
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                 CloudFlare 
+                                                  
+                                                                                                                                                                                                                     
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  12% daily for 12 business days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 49 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Uplinerr
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          162
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                           
+                        
+                        1000% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Jan 16th, 2017
+                        
+                    
+                    
+                        ROI: 193%
+                        Min/Max: $20/$99999999
+                    
+                    
+                        Last Paid: Aug-18,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                 CloudFlare 
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  130% After 1 Day
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 216 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Bankofbanks.cc
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          36
+                          2
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                         
+                        
+                        900% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Jun 27th, 2017
+                        
+                    
+                    
+                        ROI: 76%
+                        Min/Max: $10/$500
+                    
+                    
+                        Last Paid: Aug-17,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: No
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                 CloudFlare 
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  2% daily for 90 days (principal included)
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 54 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Old School Trade Investment Limited
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          35
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                           
+                        
+                        200% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Jun 10th, 2017
+                        
+                    
+                    
+                        ROI: 59%
+                        Min/Max: $10/$200
+                    
+                    
+                        Last Paid: Aug-17,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1.5% on business days for 30 days(Return principal after the plan completion)
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 71 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Yokg.com
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          19
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Jul 30th, 2017
+                        
+                    
+                    
+                        ROI: 31%
+                        Min/Max: $10/$50000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  2.1% DAILY FOR 90DAYS or 7.44% DAILY FOR 60DAYS or 235% After 3 Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 21 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Sport trades
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          13
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        2500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Aug 2nd, 2017
+                        
+                    
+                    
+                        ROI: 27%
+                        Min/Max: $5$/$25000$
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: 8%-5%-3%-2%-1%-0.5
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                        Dancom Ltd, DDoS-Guard.net 
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  2% per day Deposit 5$-499$ Term of Deposit: 6 months, 2,5% per day Deposit 500$-2999$ Term of Deposit: 9 months, 3% per day Deposit 3000$-25000$ Term of Deposit: 12 months
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 18 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						BITCOIN5
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          2
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                         
+                        
+                        2200% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Aug 6th, 2017
+                        
+                    
+                    
+                        ROI: 22%
+                        Min/Max: $0.005 BTC/$No limit
+                    
+                    
+                        Last Paid: Aug-17,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 8%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                 Custumized Cripts                                                    
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                        Dancom Ltd, DDoS-Guard.net 
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  Up to 5% per day, deposit period 20 days, deposit refund at the end of the deposit term
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 14 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Palladio-stone
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          16
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                         
+                        
+                        1700% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Jul 26th, 2017
+                        
+                    
+                    
+                        ROI: 16%
+                        Min/Max: $10/$500
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 2%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                        Dancom Ltd, DDoS-Guard.net 
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1% daily
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 25 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						King Exchange Bitcoin Investment
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          11
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        2000% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Aug 3rd, 2017
+                        
+                    
+                    
+                        ROI: 14%
+                        Min/Max: $20.00/$unlimited
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: 3%-1%-1%-1%-1%-1%-1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  0.05-0.06% hourly or 1.2-1.5% daily!
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 17 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Render-Invest
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          6
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                           
+                        
+                        3000% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Aug 12th, 2017
+                        
+                    
+                    
+                        ROI: 12%
+                        Min/Max: $10/$2000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: 6%-3%-1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                 CloudFlare 
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1.5% - 30 days 1.75% - 45 days 2% - 60 days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 8 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Indelible Gain
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          0
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                           
+                        
+                        2500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          
+		WAITING 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $101.00
+                        Added:  Aug 18th, 2017
+                        
+                    
+                    
+                        ROI: 0%
+                        Min/Max: $10$/$50000$
+                    
+                    
+                        Last Paid: No Payout
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 4.5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  2% daily for 25 days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 2 days
+	     
+
+
+
+
+
+ 
+
+
+
+
+
+
+    NORMAL LISTING
+      
+
+ 
+ 
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Royerapay.cc
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          79
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        400% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $50.00
+                        Added:  Apr 24th, 2017
+                        
+                    
+                    
+                        ROI: 140%
+                        Min/Max: $10/$50000
+                    
+                    
+                        Last Paid: Aug-19,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 4%-1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1.65% Daily For 21 days or 2% Daily For 31 Days or 3% Daily For 41 Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 118 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Aurum Bank
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          49
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        50% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $50.00
+                        Added:  Dec 7th, 2016
+                        
+                    
+                    
+                        ROI: 121%
+                        Min/Max: $10/$50000
+                    
+                    
+                        Last Paid: Aug-15,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: from 0.5% to 17% (It depends on the investment plan chosen by your referral.)
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  0.8%-17% daily, for 260-15 trading days; up to 6500% after 120 trading days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 256 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Crypto Center
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          23
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                             
+                        
+                        500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $50.00
+                        Added:  Jul 22nd, 2017
+                        
+                    
+                    
+                        ROI: 102%
+                        Min/Max: $10$/$50000$
+                    
+                    
+                        Last Paid: Aug-18,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 4%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                        License Goldcoders Script 
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                        TerraTransit AG, KODDOS.                          
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  2.1% Daily for 20 Days, 2.4% Daily for 45 Days, 2.8% Daily for 65 Days, 270% After 45 Days, 570% After 60 Days, 1650% After 95 Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 29 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Investellect
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          64
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                              
+                        
+                        200% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $50.00
+                        Added:  Apr 26th, 2017
+                        
+                    
+                    
+                        ROI: 95%
+                        Min/Max: $10/$50000
+                    
+                    
+                        Last Paid: Aug-18,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 2
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  1.0% Daily for 30 Days, 1.2% Daily for 60 Days, 1.4% Daily for 120 Days, 600% After 60 Days, 1700% After 120 Days, 320% After 18 Days, 960% After 38 Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 116 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						10daysprofit.co.uk
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          6
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                           
+                        
+                        500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $50.00
+                        Added:  Aug 9th, 2017
+                        
+                    
+                    
+                        ROI: 88%
+                        Min/Max: $10/$50000
+                    
+                    
+                        Last Paid: Aug-18,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  up to 15% for 10 business day
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 11 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Luxearn
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          21
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                         
+                        
+                        100% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $50.00
+                        Added:  Mar 7th, 2017
+                        
+                    
+                    
+                        ROI: 45%
+                        Min/Max: $25/No Max
+                    
+                    
+                        Last Paid: Aug-17,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 0.3%-0.5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  0.5%-20% Daily, for 356-10 Business Days; 5000% After 120 Business Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 166 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						YESSS
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          18
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                         
+                        
+                        500% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $50.00
+                        Added:  Feb 10th, 2017
+                        
+                    
+                    
+                        ROI: 36%
+                        Min/Max: $25/No Max
+                    
+                    
+                        Last Paid: Aug-16,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 0.10%-0.5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  2% Weekly, for 777  days; 12500%-400% after 160-20 Business Days; 7%-20% Daily, for 120-14 Business Days.
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 191 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						LasVegasIncome.Com
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          8
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                           
+                        
+                        1000% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $50.00
+                        Added:  Jul 30th, 2017
+                        
+                    
+                    
+                        ROI: 23%
+                        Min/Max: $10/$9999
+                    
+                    
+                        Last Paid: Aug-17,2017
+                        Withdrawal:   Instant 
+                    
+                    
+                        Support:  
+                        Referral: 3
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  2.10% Daily For 3 Days - Principal Refundable, 124% After 6 Days, 154% After 12 Days, 185% After 18 Days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 21 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						crypto-fx ltd
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          6
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                          
+                        
+                        200% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          PAYING 
+		 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:   $50.00
+                        Added:  Jun 28th, 2017
+                        
+                    
+                    
+                        ROI: 15%
+                        Min/Max: $20/$1000
+                    
+                    
+                        Last Paid: Aug-17,2017
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  0.60%-0.8%-1% / 100 days / daily + return 100.00% principal
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 53 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Transarrival.biz
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          0
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                            
+                        
+                        200% RCB
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          
+		WAITING 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:  --- 
+                        Added:  Jun 8th, 2017
+                        
+                    
+                    
+                        ROI: 0%
+                        Min/Max: $10/$150
+                    
+                    
+                        Last Paid: No Payout
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  FlyCash - 1.01% daily for 5 days (Deposit return)
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 73 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Bithash.com
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          0
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                          
+                        
+                         
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          
+		WAITING 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:  --- 
+                        Added:  Aug 17th, 2017
+                        
+                    
+                    
+                        ROI: 0%
+                        Min/Max: $6/$No limit
+                    
+                    
+                        Last Paid: No Payout
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 7%-2%-1%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  5% daily for 25 days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 3 days
+	     
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+	
+    	
+        	
+            
+					
+						Advfund
+                        
+                        
+                        
+                        
+                      
+                        
+                          
+                          
+                          
+                          
+                        
+                        
+                          0
+                          0
+                          0
+                          0
+                        
+                      
+                    
+
+                        
+                        
+                        
+                        Payment Options:
+                          
+                        
+                         
+                        
+                         
+		 
+		
+		
+        			
+    		
+    		
+			
+                    
+                      
+                          
+		WAITING 
+		 
+		                                                                              
+                       Add to Myhyips
+                    
+                    
+                        Our Deposit:  --- 
+                        Added:  Aug 19th, 2017
+                        
+                    
+                    
+                        ROI: 0%
+                        Min/Max: $10/$50000
+                    
+                    
+                        Last Paid: No Payout
+                        Withdrawal:  Manual  
+                    
+                    
+                        Support:  
+                        Referral: 5%
+                    
+                    
+                        Feature:  SSL - 
+			DDOS -  
+                         
+                                                  
+                         
+                                                                                                     
+			
+			
+                    
+                    
+                      Hosting:  
+                         
+                         
+                                                  
+                         
+                                                  
+                                                  
+                                                                                                                                                          
+                        
+                        
+                    
+                    
+                    
+                         			 												
+								
+								
+												
+								
+								
+												
+								
+								
+								
+                    
+			
+			
+
+	
+
+
+	
+	   Investment Plans:  6% daily for 20days
+
+
+
+	
+    VIEW DETAILS
+    REFBACK
+    VOTE
+    PAYOUT
+     REPORT SCAM
+    
+    Monitored: 1 days
+	     
+
+
+
+
+
+ 
+
+
+
+
+		  
+	  	
+
+
+
+
+Search HYIPs
+
+
+
+
+
+
+ 
+   
+ 
+
+
+
+Member Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register | Forgot Password
+
+
+
+
+
+
+
+
+
+New Listing
+
+ 
+
+
+Added from Aug 19th, 2017
+ Advfund -   
+    WAITING       
+ 
+
+6% daily for 20days
+
+
+Added from Aug 18th, 2017
+ FXPRIMEX LTD -   
+    WAITING       
+ 
+
+4% Daily for 30 Days
+
+
+ Indelible Gain -   
+    WAITING       
+ 
+
+2% daily for 25 days
+
+
+Added from Aug 17th, 2017
+ Bithash.com -   
+    WAITING       
+ 
+
+5% daily for 25 days
+
+
+Added from Aug 15th, 2017
+ Russia-bank.com -   
+ PAYING          
+ 
+
+4% Daily or 6% Daily or 8% Daily or 4% Daily for 30 days
+
+
+Added from Aug 13th, 2017
+ Investco.club -   
+          SCAM 
+ 
+
+3.6% HOURLY FOR 30 HOURS OR  125% AFTER 3 DAYS OR 170% AFTER 7 DAYS
+
+
+Added from Aug 12th, 2017
+ CRYPTO CRYSTALS -   
+ PAYING          
+ 
+
+EXCH 4.5% daily for 30days, BTC 5.5% daily for 30 days, ETH 1.66% daily for 15 days, principal back
+
+
+ Render-Invest -   
+ PAYING          
+ 
+
+1.5% - 30 days 1.75% - 45 days 2% - 60 days
+
+
+Added from Aug 11th, 2017
+ Capital Primex LTD -   
+ PAYING          
+ 
+
+1.5% - 1.7% - 1.9% daily for 25 days, Principal Back; 1.7% - 1.9% - 2.1% daily for 45 days, Principal Back; 130% - 140% - 150% after 15 days, Principal Included
+
+
+ Fitcoins.biz -   
+          SCAM 
+ 
+
+1.8% Daily For 25 Days or 3.2% Daily for 45 Days or
+
+
+Added from Aug 9th, 2017
+ 10daysprofit.co.uk -   
+ PAYING          
+ 
+
+up to 15% for 10 business day
+
+
+Added from Aug 8th, 2017
+ 7Plans -   
+          SCAM 
+ 
+
+110% after 5 days, 2% daily for 7 days, 117.5% after 10 days, 120% after 5 days
+
+
+Added from Aug 6th, 2017
+ BITCOIN5 -   
+ PAYING          
+ 
+
+Up to 5% per day, deposit period 20 days, deposit refund at the end of the deposit term
+
+
+
+
+
+
+Lastest Vote
+
+ 
+
+
+ - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544. - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544. - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544. - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544. - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544. - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544. - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544. - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544. - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544. - Royerapay.ccThanks! The amount of 6.1 USD has been deposited to your account. Accounts: U12836637->U*. Memo: Shopping Cart Payment. Withdraw from www.royerapay.cc.. Date: 18:14 19.08.17. Batch: 185479544.
+
+
+
+Lastest Payout
+
+ 
+
+
+
+
+ +2.02 - Render-Invest
+Date Payout: Aug 19th, 2016
+
+
+
+
+ +2.26 - Chain Group Service
+Date Payout: Aug 19th, 2016
+
+
+
+
+ +1.01 - Palladio-stone
+Date Payout: Aug 19th, 2016
+
+
+
+
+ +2.57 - Capital Primex LTD
+Date Payout: Aug 19th, 2016
+
+
+
+
+ +3.02 - Ripfire BTC Ltd.
+Date Payout: Aug 19th, 2016
+
+
+
+
+ +0.83 - Royerapay.cc
+Date Payout: Aug 19th, 2016
+
+
+
+
+ +5.88 - CryptoSolutions
+Date Payout: Aug 19th, 2016
+
+
+
+
+ +1.60 - CryptoSolutions
+Date Payout: Aug 19th, 2016
+
+
+
+
+ +21.00 - CryptoSolutions
+Date Payout: Aug 19th, 2016
+
+
+
+
+ +1.01 - King Exchange Bitcoin Investment
+Date Payout: Aug 19th, 2016
+
+
+
+
+
+Lastest Scam
+
+ Investco.club SCAM Fitcoins.biz SCAM Algocoins Ltd SCAM BTC Task LTD SCAM 7Plans SCAM ENDLESSROR GLOBAL LLC SCAM Castle-inv.com SCAM JadeValley SCAM EuroInsider SCAM Oceansbit.co SCAM
+Payment System
+
+
+
+
+
+
+
+ 
+    List PerfectMoney
+ 
+  
+
+  
+
+
+
+   List SolidTrustPay 
+    
+    
+
+
+
+
+
+
+ 
+   
+     List OKPay 
+    
+  
+
+
+
+  
+  
+     List Payza 
+    
+   
+
+
+
+ 
+ 
+    List Web Money 
+   
+  
+
+
+
+
+ 
+    List BitCoin 
+    
+  
+
+
+
+ 
+ 
+    List Payeer 
+   
+  
+
+
+
+
+
+ 
+ 
+    List Paypal 
+   
+  
+
+
+
+
+ 
+
+
+
+
+
+
+
+DISCLAIMER: We do not own or promote any programs listed here.The information provided here is for your own use.Some programs, investments or any listings here may be illegal depending on your country's laws.We do not recommend you spend what you cannot afford to lose. 
+©Copyright 2010-2017 by pbhyips.info. All rights reserved!

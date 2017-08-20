@@ -1,0 +1,566 @@
+Anonymous, Cheap, Fast and Best VPN Service
+
+
+
+
+
+
+
+
+
+ //<![CDATA[
+        ajaxurl = 'https://www.worldvpn.net/wp-admin/admin-ajax.php';
+    //]]> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.worldvpn.net\/","name":"WorldVPN","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.worldvpn.net\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.worldvpn.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+		body {background-color:#eeeeee; }
+		body {background-image: url(https://www.worldvpn.net/wp-content/themes/mts_onepage/images/nobg.png);}
+        .main-header, #navigation ul ul { background-color:#189e18; background-image: url(https://www.worldvpn.net/wp-content/themes/mts_onepage/images/nobg.png); box-shadow: 0 4px #189e18; }
+        footer { background-color:#189e18; background-image: url(https://www.worldvpn.net/wp-content/themes/mts_onepage/images/nobg.png); box-shadow: 0 -4px 0 #189e18; }
+        body.home #homepage-title-slider { background-image: url(); }
+        
+        .pace .pace-progress, #mobile-menu-wrapper ul li a:hover, .blog-title { background: #f3a500; }
+		.postauthor h5, .copyrights a, .single_post a, .textwidget a, .pnavigation2 a, .sidebar.c-4-12 a:hover, .copyrights a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover, .reply a, .title a:hover, .post-info a:hover, #tabber .inside li a:hover, .readMore a:hover, .fn a, a, a:hover,.counter-item .count,.homepage-twitter .mts_recent_tweets .twitter_username,#portfolio-grid .item a.expand-view .overlay span,#pricing_tables ul li.highlight .price,#navigation ul ul li > a:hover,.feature-icon span.fa, .single_post .single-title a:hover { color:#f3a500; }	
+		
+		footer{border-top: 1px solid #f3a500;}
+		.tagcloud a:hover:after{border-right-color:#f3a500;}
+
+        .main-header { border-bottom: 1px solid #f3a500; }
+        #navigation ul li:hover,
+        #navigation ul li.current-menu-item,
+        #navigation ul li.current_page_parent { border-bottom: 3px solid #f3a500; color: #f3a500; }
+		
+		#homepage-features .feature-icon .arrow ,#homepage-service .service-icon .arrow { border-top-color: #f3a500; }
+
+        #service_slides .owl-buttons div:hover,#homepage-testimonials .owl-buttons div:hover, .team-member-contact i:hover, .homepage-button:hover, .widget_wpt .tab_title.selected a, nav a#pull, #commentform input#submit, .contactform #submit, .mts-subscribe input[type='submit'], #move-to-top:hover, #searchform .icon-search, .pagination a, #load-posts a, .widget_wpt ul.wpt-tabs li.selected a, .widget_wp_review_tab ul.wp-review-tabs li.selected a, .tagcloud a:hover, #navigation ul .sfHover a, #search-image.sbutton, #searchsubmit,.social_icons a:hover,.team-member .team-member-contact i:hover,#filters li a.selected,#portfolio-grid .item a.expand-view .overlay,#pricing_tables ul li .table_title,#pricing_tables ul li.highlight .table_button > a,#mtscontact_form > #mtscontact_submit,.blog-title,.postcontent .meta span a:hover, .service-icon span.fa, .widget-content a:hover + .posts-number, .ajax-pagination .paginate-link:hover, .ajax-pagination .paginate-link.current, div.slider-overlay, .latestPost-review-wrapper, #homepage-posts .review-type-circle.latestPost-review-wrapper, #homepage-posts .review-type-circle.wp-review-on-thumbnail, #wpmm-megamenu .review-total-only { background-color:#f3a500; color: #fff!important; }
+		.widget-content a:hover + .posts-number, .ajax-pagination .paginate-link:hover, .ajax-pagination .paginate-link.current { border-color: #f3a500; }
+		
+		
+		
+		
+			
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var mtsnb_data = {"ajaxurl":"https:\/\/www.worldvpn.net\/wp-admin\/admin-ajax.php","cookies_expiry":"365"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img#wpstats{display:none}
+
+#logo a { font-family: 'Roboto'; font-weight: 700; font-size: 38px; color: #f3a500;text-transform: uppercase; }
+.menu li, .menu li a { font-family: 'Roboto'; font-weight: normal; font-size: 14px; color: #ffffff; }
+body,#search-image.sbutton, #searchsubmit, .popular-posts a, .category-posts a, .advanced-recent-posts a, .related-posts-widget a ,.author-posts-widget li a,.widget_recent_entries a,.tagcloud a,.mts-subscribe input[type="submit"],.sidebar .menu li a,.ajax-search-results li  a,.wp_review_tab_widget_content .entry-title a,.wpt_widget_content .entry-title a { font-family: 'Roboto'; font-weight: normal; font-size: 16px; color: #4e4e4e; }
+#homepage_slider .flex-caption h2 { font-family: 'Roboto'; font-weight: 700; font-size: 68px; color: #ffffff; }
+.page-title, .post-title, .counter-item .count,#pricing_tables ul li .price, #pricing_tables ul li .table_title { font-family: 'Roboto'; font-weight: 700; font-size: 38px; color: #282828; }
+.single-title { font-family: 'Roboto'; font-weight: 700; font-size: 28px; color: #282828; }
+h1 { font-family: 'Roboto'; font-weight: 700; font-size: 28px; color: #282828; }
+h2 { font-family: 'Roboto'; font-weight: 700; font-size: 24px; color: #282828; }
+h3 { font-family: 'Roboto'; font-weight: 700; font-size: 22px; color: #282828; }
+h4 { font-family: 'Roboto'; font-weight: 700; font-size: 20px; color: #222222; }
+h5 { font-family: 'Roboto'; font-weight: 700; font-size: 18px; color: #222222; }
+h6 { font-family: 'Roboto'; font-weight: 700; font-size: 16px; color: #222222; }
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54097769-1', 'auto');
+  ga('send', 'pageview');
+
+
+
+
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58e265bcf97dd14875f5b790/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+
+document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');
+Get Support (7am to 9pm GMT)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+ Home
+ Trial
+ Pricing
+
+ Budget VPN Service
+ Unlimited VPN Service
+ Business VPN Service
+ Dedicated VPN Service
+ Reseller Program
+
+
+ Help
+
+ Download
+ How To Setup
+ Contact Support
+
+
+ Servers
+ Info
+
+ Referral Program
+ Privacy Policy
+ Refund Policy
+
+
+ My Account
+
+ Client Area
+ VPN Panel
+ Reseller Panel
+
+
+ 
+
+
+
+
+
+
+
+Pricing
+
+
+
+Budget
+
+
+$2.24 
+
+Per Month 
+
+
+30 GB Data Transfer
+PPTP/SSL VPN/OpenVPN/IKEv2
+100 mbps Port Speed
+256 bit Encryption
+3 Multi Login
+225+ Server Location's
+$4.95/mo billed monthly
+$2.24/mo paid yearly 
+
+Read More
+
+
+
+Unlimited
+
+
+$4.95 
+
+Per Month 
+
+
+Unlimited Data Transfer
+PPTP/SSL VPN/OpenVPN/IKEv2
+100 mbps Port Speed
+256 bit Encryption
+5 Multi Login
+225+ Server Location's
+$9.95/mo billed monthly
+$4.95/mo paid yearly 
+
+Read More
+
+
+
+Dedicated
+
+
+$10.25 
+
+Per Month 
+
+
+Unlimited Data Transfer
+PPTP/SSL VPN/OpenVPN/IKEv2
+100 mbps Port Speed
+256 bit Encryption
+10 Multi Login
+One Server Location
+$10/mo billed monthly
+$7/mo paid yearly 
+
+Read More
+
+
+
+Business
+
+
+$9.95 
+
+Per Month 
+
+
+Unlimited Data Transfer
+PPTP/SSL VPN/OpenVPN/IKEv2
+100 mbps Port Speed
+256 bit Encryption
+10 Multi Login
+225+ Server Location's
+$19.95/mo billed monthly
+$9.95/mo paid yearly 
+
+Read More
+
+
+
+
+
+
+
+
+FEATURES OF WorldVPN
+We offer Fastest VPN service in a 100% private environment. It lets you unblock any site you want and secures your internet connection or hide your IP. You also have a wide choice of different countries IPs to select from with unlimited bandwidth and speed. Currently we offer from 100+ location's in 5 continents .
+
+
+
+
+
+Easy Setup
+WorldVPN offer VPN Connector, that can connect easily to our servers via PPTP and customized OpenVPN ports (default ports: UDP53/TCP443), You can connect on Windows, MacOs, iPhone, iPad, Android and Linux devices
+
+
+
+
+
+Unlimited Bandwidth
+Enjoy unrestricted speed and unlimited traffic, whether you want to watch a movie, download a torrent or run any traffic intensive apps, we do not restrict speed whether you use 1GB or 100GB of bandwidth in a day.
+
+
+
+
+
+Access to 200+ location's
+WorldVPN offers a wide choice of different countries IPs to select from with unlimited bandwidth and speed. Currently we offer from 200+ location's in 5 continents . All these network access will offer from 2.24$ per month.
+
+
+
+
+
+
+WorldVPN Counter
+WorldVPN Statistics 
+
+
+0
+Free VPN Accounts
+
+                            jQuery(window).load(function() {                            
+								jQuery(document).scroll(function(){
+									if(jQuery(this).scrollTop()>=jQuery('#homepage-counter').position().top - 200){
+										jQuery('#homepage-counter .count-0').animateNumbers(152600,200);
+									}
+								});
+                            });                                
+							
+
+
+0
+Paid VPN Account
+
+                            jQuery(window).load(function() {                            
+								jQuery(document).scroll(function(){
+									if(jQuery(this).scrollTop()>=jQuery('#homepage-counter').position().top - 200){
+										jQuery('#homepage-counter .count-1').animateNumbers(48068,200);
+									}
+								});
+                            });                                
+							
+
+
+0
+Active Clients
+
+                            jQuery(window).load(function() {                            
+								jQuery(document).scroll(function(){
+									if(jQuery(this).scrollTop()>=jQuery('#homepage-counter').position().top - 200){
+										jQuery('#homepage-counter .count-2').animateNumbers(34021,200);
+									}
+								});
+                            });                                
+							
+
+
+
+
+
+
+WorldVPN Location's
+USA VPN, Ukraine VPN, UK VPN, UAE VPN, Turkey VPN, Taiwan VPN, Swiss VPN, Sweden VPN, Spain VPN, South Africa VPN, Slovenia VPN, Singapore VPN, Russia VPN, Romania VPN, Portugal VPN, Poland VPN, Panama VPN, Norway VPN, New Zealand VPN, Netherlands VPN, Mexico VPN, Malaysia VPN, Luxembourg VPN, Lithuania VPN, Latvia VPN, Japan VPN, Italy VPN, Isle of Man VPN, Ireland VPN, India VPN, Iceland VPN, Israel VPN, Hungary VPN, Hong Kong VPN, Germany VPN, France VPN, Finland VPN, Estonia VPN, Denmark VPN, Czech Republic VPN, Chile VPN, Canada VPN, Bulgaria VPN, Brazil VPN, Belgium VPN, Austria VPN, Australia VPN
+
+
+
+All
+
+No categories 
+
+
+
+
+
+
+
+
+
+They Talk About Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Referral Program
+VPN How To
+Privacy Policy
+Refund Policy
+ 
+
+© Copyright 2017, WorldVPN
+ 
+
+
+
+
+
+				.mtsnb { position: fixed; -webkit-box-shadow: 0 3px 4px rgba(0, 0, 0, 0.4);box-shadow: 0 3px 4px rgba(0, 0, 0, 0.4);}
+				.mtsnb .mtsnb-container { width: 1080px; font-size: 16px; font-weight: bolder; line-height: 1.4}
+				.mtsnb a { color: #d35151;}
+				.mtsnb a:hover { color: #d35151;}
+				.mtsnb .mtsnb-button { color: #ffffff!important; background-color: #000000;}
+			
+
+
+Click Here To Order VPN With 30% Discount 
+
+
+Wait!GET 30% OFF ON WorldVPN!Click here to get this recurring discount #wp_subscribe_popup {width: 600px;}
+body > .mfp-bg {background: #0b0b0b;}
+body > .mfp-bg.mfp-ready {opacity: 0.7;}
+
+var wps_disabled = false;
+function wp_subscribe_popup() {
+	if (!wps_disabled && !jQuery.cookie('wps_cookie_1452537839600')) {
+		jQuery.magnificPopup.open({
+			items: {
+		  		src: '#wp_subscribe_popup',
+		  		type: 'inline'
+			},
+			removalDelay: 800,
+			callbacks: {
+			    beforeOpen: function() {
+			       this.st.mainClass = 'animated bounceInDown';
+			    },
+			    beforeClose: function() {
+			    	var $wrap = this.wrap,
+			    		$bg = $wrap.prev(),
+			    		$mfp = $wrap.add($bg);
+
+			    	$mfp.removeClass('bounceInDown').addClass('fadeOut');
+			    },
+			  },
+		});
+		jQuery.cookie('wps_cookie_1452537839600', '1', { path: '/', expires: 1});
+		wps_disabled = true;
+	}
+}
+
+jQuery(document).ready(function($) {
+	$(document).exitIntent(wp_subscribe_popup);
+});
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var wp_subscribe = {"ajaxurl":"https:\/\/www.worldvpn.net\/wp-admin\/admin-ajax.php"};
+var wp_subscribe = {"ajaxurl":"https:\/\/www.worldvpn.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+
+
+
+/* <![CDATA[ */
+var mts_customscript = {"ajaxurl":"https:\/\/www.worldvpn.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var slideropts = {"twitter_slider":"0"};
+/* ]]> */
+
+
+
+
+
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.3',blog:'91537863',post:'0',tz:'0',srv:'www.worldvpn.net'} ]);
+	_stq.push([ 'clickTrackerInit', '91537863', '0' ]);
+
+
+	
+	// Enable parralax images for different sections on homepage
+	if(jQuery().parallax){
+		
+		
+		
+				
+				
+				
+				
+			
+				
+				
+			}

@@ -1,0 +1,1499 @@
+HYIP Monitor - Best HYIP Analysis & Rating Service
+
+
+
+
+
+
+
+	
+
+
+ 
+ 
+  
+
+
+
+    
+	
+
+
+
+
+ 
+
+
+
+    $(document).ready(function() {
+        $('#coin-slider').coinslider({ width: 205, height: 154, navigation: true, delay: 3500 });
+		$(".iframe").colorbox({iframe:true, width:"94%", height:"90%"});
+    });
+ 
+
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=261431963980157";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+ 
+     
+     
+    
+		HYIP monitorWelcome to our HYIP monitor site. Find best HYIP program on our HYIP monitor site. What is HYIP - A high-yield investment program (HYIP) is a Ponzi scheme, an investment that promises high return on investment by paying investors with the money invested by new investors. With our site you may check all HYIP monitors of any HYIP.
+      
+      
+	   		
+			
+					 
+			E-mail Password
+			      
+			
+			
+				        
+	      
+      
+    
+    
+      
+       Hyip
+        New Hyip
+        Scam	
+		What Is Hyip	
+		Advertise
+		Contact UsSign UpLogin	      
+		 
+      
+    
+      
+
+  
+  
+     
+    
+		
+		
+		
+		function googleTranslateElementInit() {
+		new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+		}
+		
+		SERVERTIME
+		obj=new Object;obj.clockfile="5005-white.swf";obj.TimeZone="GMT-0600";obj.width=60;obj.height=20;obj.wmode="transparent";showClock(obj);
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ADVERTISE YOUR BANNER HERE	
+       
+	
+
+        
+        
+          
+          
+             Advertise
+          
+          
+           Earn 21% hourly profit,instant withdraw!10% referral commissions!
+
+BTC Paying Instant!
+https://indextrade.biz
+ADVERTISE YOUR BANNER HERE 		 
+          
+        			   
+		   
+	 
+        
+          
+            
+             New HYIP Programs
+          
+          
+            Quick Experts, added: Aug 17, 20176% - 10% daily for 20-70 days, 0.45%...Wealth And Romance, added: Aug 17, 20171.0% - 2.5% daily for 180 daysAsset Coin, added: Aug 17, 2017144% after 1 day, 28% hourly for 5 hoursOfund, added: Aug 17, 201730% daily for 5 day, 250% after 1 dayIcebear Pty, added: Aug 17, 20172.2% - 12.5% weeklyIndex Trade, added: Aug 17, 201710% daily for 60 days, 15% daily for 30...Coin Builder Ltd, added: Aug 17, 20176% - 8% daily foreverCrypto Hour, added: Aug 16, 2017137% after 1 day, 179% after 2 daysDaily Pay, added: Aug 16, 20172.1% daily for lifetimeSmart Day Invest, added: Aug 16, 20174.6% - 6.2% hourly for 24 hoursPerfect Angel, added: Aug 16, 201710% hourly for 12 hours, 13% hourly for...          
+        
+		
+		  
+        
+          
+            
+             Like azHYIPmonitor
+          
+          
+           
+          
+        
+		
+		
+		
+		  
+        
+          
+            
+             Top HYIP Profitable
+          
+          
+            1. Derive Money - 244%2. Go Deposit - 91%3. World Trade Finance Ltd - 26%4. Profit Coming - 10%5. Auto Invest Inc - 1%6. Claruxe Xpress Ltd - 0%7. Cyber Paying Ltd - 0%8. Still Forex Ltd - 0%9. Golden Coin - 0%10. Indelible Gain - 0%11. Perfect Angel - 0%12. Smart Day Invest - 0% 
+          
+             
+	
+	    
+        
+          
+            
+             Latest HYIP Scams
+          
+          
+            1. Green Seashore Group - Aug 19, 20172. Vortex10 - Aug 19, 20173. Hyip Visionaries - Aug 19, 20174. Porafx - Aug 19, 20175. New Tech Road - Aug 19, 20176. Trady Ltd - Aug 18, 20177. Voguecraze - Aug 18, 20178. Algocoins Ltd - Aug 18, 20179. Nordex Llc - Aug 18, 201710. Myadwin - Aug 18, 201711. Finance Advice - Aug 18, 201712. Typhoon Company - Aug 18, 2017HYIP Scams 
+          
+           
+		
+		
+        
+          
+            
+             Total HYIPs programs
+          
+          
+            
+				August, 2017
+				69
+				
+				July, 2017
+				111
+				
+				June, 2017
+				123
+				
+				May, 2017
+				140
+				
+				April, 2017
+				150
+				
+				March, 2017
+				165
+				
+				February, 2017
+				147
+				
+				January, 2017
+				100
+				
+				December, 2016
+				121
+				
+				November, 2016
+				107
+				
+				October, 2016
+				124
+				
+				September, 2016
+				125
+				
+				August, 2016
+				142
+				
+				July, 2016
+				97
+				
+				June, 2016
+				149
+				 
+          
+          		
+		
+		 
+        
+          
+            
+             Last HYIPs Votes
+          
+          
+              Royal Coins Ltd - 20.08.17 04:24Received Payment 1.84 USD from account U14887979 to account U5077677. Batch: 185507077. Memo: API Payment. Withdraw to edpr2140 from Royal-Coins.tomy123 [Aug 19, 23:20]  Ed pay - 20.08.17 01:16Received Payment 1.00 USD from account U12678191 to account U5077677. Batch: 185500885. Memo: API Payment. Withdraw to edpr2140 from edpay.me.tomy123 [Aug 19, 20:18]  Growing Profits - 19.08.17 20:40Received Payment 0.6 USD from account U4225620 to account U5077677. Batch: 185490476. Memo: Shopping Cart Payment. Withdraw to Edgardo from Growing Profits.tomy123 [Aug 19, 17:23]  Hi deposit ltd - The best Hyip I have never metDate : 08/19/2017 12:14From/To Account : U14131514Amount : 168.00Currency : USDBatch : 185363731Memo : API Payment. Withdrawal from hideposit.com.Emanuele [Aug 19, 15:59]  Trusty Hour Ltd - Last word was Outstanding!!Date : 08/19/2017 09:56From/To Account : U13567865Amount : 1746.00Currency : USDBatch : 185465807Memo : API Payment. Withdrawal from trustyhour.com.Jessica [Aug 19, 14:58]  Hour paid - Hello$618.00 has been successfully sent to your Perfectmoney account.Transaction batch is 185467670.Amelia [Aug 19, 14:37]  Hour pay limited - Show brilliant resultsThe amount of 1600 USD has been deposited to your account. Accounts: U13396295->U** __ **. Memo: API Payment. Withdraw from HOUR PAY LIMITEDBest Bitcoin Investment.. Date: 13:58 19.08.17. Batch: 185458757.Elijah [Aug 19, 14:11]  Earning hour - PAID. GREAT. THANKS ADMINlotofale [Aug 19, 11:56]  Hourly  usd - The amount of 59.03 USD has been deposited to your Perfect Money account. Accounts: U12578671-U557****. Date: 15:27 2017.08.19. Batch: 185465384 Memo: API Payment. Withdrawal dadar11 from hourlyusd.comvitamin [Aug 19, 11:49]  Pay invest ltd - The amount of 60.04 USD has been deposited to your Perfect Money account.Accounts: U14997408->U464****. Date: 15:27 17.08.19. Batch: 185465886.Memo: API Payment. Withdrawal to fingalenvitamin [Aug 19, 11:43]  Fx headway - $121.80 has been successfully sent to your PerfectMoney account U15308597.Transaction batch is 185599251.aaman [Aug 19, 11:30]  Investsar Ltd - $300.00 has been successfully sent to your PerfectMoney account U18305712.Transaction batch is 185429862.123456 [Aug 19, 10:42] 
+          
+           
+		
+		 
+        
+          
+            
+             Advertise
+          
+          
+            <!--
+			google_ad_client = "ca-pub-4372974297470911";
+			/* hyip3 */
+			google_ad_slot = "3537463421";
+			google_ad_width = 200;
+			google_ad_height = 200;
+			//-->
+			
+			
+			
+			<!--
+			google_ad_client = "ca-pub-4372974297470911";
+			/* hyip3 */
+			google_ad_slot = "3537463421";
+			google_ad_width = 200;
+			google_ad_height = 200;
+			//-->
+			
+			
+			 
+          
+           
+		
+		
+
+			
+	  
+	  
+      
+	  	
+								
+		 
+          		   
+            	
+				HYIP programs found: 163
+				
+			 			
+				
+					
+						
+				sort:    
+				Lifetime
+				Roi
+				Withdrawal
+				Alexa Rank
+				Hyip Rating
+				
+				
+				Ascending
+				Descending
+				
+				
+				
+					
+						
+				search:    
+				
+				
+					
+								 
+		  			  
+				
+	 
+       
+            	
+			
+           		  
+		    
+							
+						Crypto Solutions
+								PAYING
+								monitored: 487 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.5% daily for 30 days, 200% after 7 days, 500% after 15 days, 1100%...
+							min/max deposit: $10 - $100000
+							withdrawal: instant 
+							referral bonus: 1%
+							roi: -
+							HYIP Crypto Solutions - Crypto Solutions PTY Limited company carries out the trading of cryptocurrency funds on the specialized cryptocurrency exchanges, minimizing sags and drawdowns by restructuring of investment means. Using exchange spatial arbitration and exchange rate arbitrage, we create the most comfortable conditions to implementation of our investment obligations to our clients in full.
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  317
+		  0
+		        
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							
+						Pay Invest Ltd
+								PAYING
+								monitored: 111 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.0% hourly for 120 hours, 4.0% hourly for 72 hours, 20% hourly for 24...
+							min/max deposit: $5 - $100000
+							withdrawal: instant 
+							referral bonus: 10%
+							roi: -
+							HYIP Pay Invest Ltd - is a financial institution with a long history. Like other banks with traditional principles our company aims to extract maximum from the opportunities we have while operating assets of our customers. The foundation of Pay Invest LTD consists in the aspect that now has become our distinctive feature. It is cross-insurance mechanism that enables all our clients to have protected their funds even if the world falls apart.
+
+Pay Invest...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  316
+		  0
+		        
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							
+						Royal Coins Ltd
+								PAYING
+								monitored: 8 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.5% hourly for 96 hours, 4% hourly for 33 hours, 130% after 1 day,...
+							min/max deposit: $5 - $10000
+							withdrawal: instant 
+							referral bonus: 10%
+							roi: -
+							HYIP Royal Coins Ltd - investment program from the British company called Royal COINS Limited, the recognized leader of the global financial market that is also well known far beyond the UK. After going a long way of business formation and total adjustment of development strategy, we are ready to offer favorable conditions for investors and loyal partners around the world. The company is open to any kind of cooperation and we are pleased to leave on the...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  41
+		  0
+		        
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							
+						Golden Coin
+								PAYING
+								monitored: 4 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 13.5% hourly for 10 hours, 175% after 1 day, 550% after 3 days, 1250%...
+							min/max deposit: $1 - $10000
+							withdrawal: instant 
+							referral bonus: 6%
+							roi: -
+							HYIP Golden Coin - GoldenCoin is the best way to access the global financial markets of the future. Businesses small and large rely on our data to power their decision-making. We are a group of dedicated developers, traders, analysts and evangelists that believe in the upcoming paradigm shift that cryptography and the blockchain are bringing to the global financial industry.
+
+We built GoldenCoin because we are passionate about open, transparent markets...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  0
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							1.
+						Chain Group
+								PAYING
+								monitored: 29 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 0.1% - 1.7% daily for 300 days
+							min/max deposit: $5 - $500000
+							withdrawal: manual 
+							referral bonus: 5%
+							roi: -
+							HYIP Chain Group - Do you want to earn on cryptocurrency trading? It's a great idea! But do not trade by yourself.
+At Chain.group, those who want to make money on cryptocurrency exchanges meet those who is good at doing it.
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  0
+		  0
+		        
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							2.
+						Aurum Bank
+								PAYING
+								monitored: 841 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1% - 2% weekly for 365 days
+							min/max deposit: $50 - $∞
+							withdrawal: manual 
+							referral bonus: 1%
+							roi: -
+							HYIP Aurum Bank - Aurum Bank is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts. Aurum Bank is a long investment program, backed up by Forex market trading, microcredit and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  1
+		  0
+		    
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							3.
+						Fat Or Funds
+								PAYING
+								monitored: 145 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 2.1% daily
+							min/max deposit: $5 and more
+							withdrawal: instant 
+							referral bonus: 10%
+							roi: -
+							HYIP Fat Or Funds - Hello, my name is Dr.Dilon and I am 47 years old. I am a Harvard, Yale, and Cornell educated psychiatrist and NY State licensed nutritionist. I'm a dedicated and passionate therapist who works with adolescent and adults who are struggling with some form of eating/weight or body image issue. For over 22 years, I've helped people with weight problems to lose weight, and to recover from all types of eating disorders, using a highly...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  2
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							4.
+						Funds Broker
+								PAYING
+								monitored: 675 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 2.1% weekly for 800 days
+							min/max deposit: $30 - $∞
+							withdrawal: manual 
+							referral bonus: 0.5%
+							roi: -
+							HYIP Funds Broker - The Funds Broker Company was founded to perform brokerage services and a number of profitable and promising areas, such as investing in Forex market trading, cryptocurrency and trading on the stock market. Strong, highly efficient, talented and close-knit team, with a wealth of experience in finance and investment, making Funds Broker a perfect and unique money-making machine!
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  1
+		  0
+		    
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							5.
+						Dollar Bill
+								PAYING
+								monitored: 690 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 2.1% weekly for 700 days
+							min/max deposit: $30 - $∞
+							withdrawal: manual 
+							referral bonus: 0.1%
+							roi: -
+							HYIP Dollar Bill - DollarBill is an secure and profitable investment platform, backed up by Forex market trading, Stock Market trading, Cryptocurrency trading, and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+DollarBill is the best choice for people willing to achieve their financial freedom but unable to do so because they're not financial...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  1
+		  0
+		    
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							6.
+						Yesss
+								PAYING
+								monitored: 673 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 2% weekly for 777 days, 0.8% daily for 260 trading days, 1% daily for...
+							min/max deposit: $25 - $∞
+							withdrawal: manual 
+							referral bonus: 0.1%
+							roi: -
+							HYIP Yesss - YESSS Company is a high profitable, secure and stable investment program. By combining the knowledge, expertise, unique tactics and strategy of our skillful traders, YESSS provides the most successful trading on the Forex market trading, commodity, stock and cryptocurrency exchange. All you need to do is invest in Company on our website yesss.cc, and get a high and stable income!
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  1
+		  0
+		    
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							7.
+						Super Market Ltd
+								PAYING
+								monitored: 16 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 3% daily for 100 business days, 7% daily for 35 business days, 12%...
+							min/max deposit: $10 and more
+							withdrawal: manual 
+							referral bonus: 20%
+							roi: -
+							HYIP Super Market Ltd - Super Market business ltd is a registered investment company based in the United Kingdom under the company number . Our company consists of highly motivated and experienced professionals in many areas of financial activity. Our average customer type ranges from individual online entrepreneurs to banks and financial corporations willing to spare their savings in the times of the global crisis.
+
+SUPER-MARKET BUSINESS LTD is an...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  0
+		  0
+		        
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							8.
+						Hour Pay Limited
+								PAYING
+								monitored: 236 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.1% - 2.25% hourly for 96 hours, 7% - 10% hourly for 48 hours, 15% -...
+							min/max deposit: $10 - $1000
+							withdrawal: instant 
+							referral bonus: 3%
+							roi: -
+							HYIP Hour Pay Limited - HOURPAY LIMITED specializes in the trading and exchange of cryptocurrencies. With the advent of Bitcoin our traders paid attention to the volatile fluctuations of its exchange rate and realized the prospects of a new type of electronic currency. From this moment we are focused on the study the features of work on crypto exchanges and conduct trading activity.
+Since 2016 HOUR PAY LIMITED is involved in attraction of investments to enter...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  674
+		  2
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							9.
+						Mary Bets
+								PAYING
+								monitored: 43 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 3% daily for 50 days
+							min/max deposit: $10 - $10000
+							withdrawal: instant 
+							referral bonus: 8%
+							roi: -
+							HYIP Mary Bets - is one of the leaders in the intermediary online betting, where mediatorial bookmakers are used for betting on the outcome of sports events.
+
+Why does the company use an intermediary online betting?
+
+Because it has a number of advantages over traditional types of betting. One of the main advantages is practically unlimited number of bets on certain sports events.
+Thus, we can also use external financing in the form of investment...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  0
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							10.
+						Las Vegas Income
+								PAYING
+								monitored: 20 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 2.10% daily for 3 days, 124% after 6 days, 154% after 12 days, 185%...
+							min/max deposit: $10 - $9999
+							withdrawal: instant 
+							referral bonus: 3%
+							roi: -
+							HYIP Las Vegas Income - Our team consists of more than twenty highly qualified specialists in the field of financial risk management as well as professional traders with extensive long-term experience in the foreign exchange markets and also stock market. All of our employees have specialized education and constantly improve their trading skills, they take an active part in the organization of thematic exhibitions and forums dedicated to Forex trading.
+
+Our...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  0
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							11.
+						Bist Invest
+								PAYING
+								monitored: 22 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1% - 3% daily for 30-100 days
+							min/max deposit: $10 - $300000
+							withdrawal: manual 
+							referral bonus: 5%
+							roi: -
+							HYIP Bist Invest - bist invest is a well known cooperation which focus its activity on istanbul stock exchange. Trading successful achievements in main activity allowed the cooperation to grow day by day bist invest gives new financial opportunities for its investors. Our result is a product of experience,knowledge and hard working.
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  0
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							12.
+						Investsar Ltd
+								PAYING
+								monitored: 57 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 17% -24% hourly for 24 hours, 6% - 8% hourly for 48 hours, 1.08% -...
+							min/max deposit: $5 and more
+							withdrawal: instant 
+							referral bonus: 3%
+							roi: -
+							HYIP Investsar Ltd - gives you stability guarantee high returns stability on your investment .We are providing you features such as INSTANT DEPOSITS and INSTANT WITHDRAWALS, you will make biggest profit every day. Imagine a world where life is easy. Where people go out to live their dreams. Travel to their dream destinations, buy a Car, shop and dine, or even buy their very own home. Imagine a future where you are your own boss. Invest Sar is an independent...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  36
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							13.
+						Crypto Center
+								PAYING
+								monitored: 114 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 0.8% - 1.0% daily for 100 days
+							min/max deposit: $10 - $50000
+							withdrawal: manual 
+							referral bonus: 1%
+							roi: -
+							HYIP Crypto Center - Crypto Center Limited offers a profitable cooperation, which will allow to receive a steady income, not putting any effort to this. Our company is a unique in its own way trust company, leading its activities between three investment areas simultaneously. We offer high-return investing in the Forex and cryptocurrency markets as well as promising Fintech start-ups. Our employees have many years' experience of working the Forex and...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  0
+		  0
+		      
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							14.
+						Investellect
+								PAYING
+								monitored: 175 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.2% daily for 80 days, 1.4% daily for 180 days
+							min/max deposit: $10 - $50000
+							withdrawal: manual 
+							referral bonus: 2%
+							roi: -
+							HYIP Investellect - We are a leading company that focus on Forex market and Cryptocurrency sectors. Our goal is to achieve the highest return from the activity on the foreign currency exchange (Forex) and Cryptocurrency exchange markets. If you would like to enter the world of online Forex trading and Cryptocurrency trading with modern Cloud Mining platform then you are on your right way. Investments with Investellect - Force Of Experience are affordable...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  177
+		  0
+		        
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							15.
+						Capitalist Assets
+								PAYING
+								monitored: 32 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1% - 5% daily for 45 days
+							min/max deposit: $5 and more
+							withdrawal: instant 
+							referral bonus: 5%
+							roi: -
+							HYIP Capitalist Assets - Our website is a simple digital platform operating in automated mode that allows you manage your deposits, keep funds in your account, track transactions history along with interest payments and request withdrawals of available funds. Almost the same as online-banking, but way better!
+
+Being an investment company we are interested in collecting investments into one single pool and utilize gathered funds to perform our trading.
+
+Our...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  0
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							16.
+						Hour Paid
+								PAYING
+								monitored: 144 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.0% hourly for 120 hours, 4.0% hourly for 72 hours, 20%  hourly for...
+							min/max deposit: $20 - $100000
+							withdrawal: manual 
+							referral bonus: 3%
+							roi: -
+							HYIP Hour Paid - If you are looking for a profitable way to make money, there is no better option than cryptocurrency trading in today's world. We invite you to join HourPaid and enjoy the benefits of cryptocurrency trading with us.
+
+Founded in 2016 as a finance company, HourPaid.com is one of the fast growing companies worldwide. We have hundreds of satisfied customers from all over the world. Online investment attraction is the best way to make our...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  636
+		  1
+		      
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							17.
+						Secure Capitals
+								PAYING
+								monitored: 130 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 2.5% - 6.0% daily for 90 business days
+							min/max deposit: $20 - $100000
+							withdrawal: manual 
+							referral bonus: 5%
+							roi: -
+							HYIP Secure Capitals - Whether it is your first attempt in investing or you are an experienced investor, it is always important for you to have confidence in your investment company. We are the independent service provider and we have a huge team of professionals, including traders, brokers, Auditors and bankers to look our business 24 hours a day and 7 days a week. They are always here to provide a solution designed to give you maximum returns.
+
+Investing...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  1
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							18.
+						Hourly Cool
+								PAYING
+								monitored: 338 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 4% hourly for 33 hours, 130% after 1 day, 200% after 3 days, 600%...
+							min/max deposit: $3 - $5000
+							withdrawal: instant 
+							referral bonus: 5%
+							roi: -
+							HYIP Hourly Cool - Our investment company Hourlycool.com offers you a unique view of earnings. You will not need to do anything, just invest in our own Forex trading and make profits. We give you 100% assurance in hourly profit. You can dramatically change your life, just joined with us. Just make deposit into your account and watch the growth of profits. Does Hourlycool pay referral commissions to people who do not have active investments to their...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  81
+		  6
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							19.
+						Trusty Hour Ltd
+								PAYING
+								monitored: 100 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 0.86% - 0.93% hourly for 120 hours, 1.52% - 1.86% hourly for 70 hours,...
+							min/max deposit: $10 and more
+							withdrawal: instant 
+							referral bonus: 10%
+							roi: -
+							HYIP Trusty Hour Ltd - TrustyHour Ltd Founded in 2015 By a group of likeminded businessmen Specialist Investment cryptocurrencies. Now in 2017 Our Company Open To Public "TrustyHour Ltd" Because We need investor to get best profit together.trustyhour Ltd System in all country. Bitcoin can make change Future and Dream , Trading bitcoin and cryptocurrency make biggest profit every day. Imagine a world where life is easy. Where people go out to live their...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  214
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							20.
+						Hour888 Ltd
+								PAYING
+								monitored: 135 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.49% - 1.60% hourly for 70 hours, 2.18% - 2.80% hourly for 50 hours,...
+							min/max deposit: $8 - $100000
+							withdrawal: instant 
+							referral bonus: 3%
+							roi: -
+							HYIP Hour888 Ltd - Hour888 is a new bitcoin-based foreign exchange trading company, legally registered in terms of British law. The company has already gained 12 year forex investing experience. Employing long-term or short-term investment strategy or technical analysis, the foreign exchange trading team of the company can always help customers to trade in a safest way and with maximum return. Whether you want to make stable profits or higher, we can...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  1
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							21.
+						Earning Hour
+								PAYING
+								monitored: 168 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.1%-1.45% hourly for 96 hours, 5% - 8% hourly for 48 hours, 18% - 24%...
+							min/max deposit: $10 and more
+							withdrawal: instant 
+							referral bonus: 5%
+							roi: -
+							HYIP Earning Hour - Efficient operation of EarningHour Company relies on superior network design specialists and advanced robots that support highly efficient and profitable Bitcoin mining systems. Looking for high interests return and stable hourly profit from your investments? You have come to the right place, EarningHour Limited is the simple way to earn money online. We make bitcoin profits in bitcoin market 24 hours daily and all trade is made by our...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  305
+		  8
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							22.
+						Hourly  Usd
+								PAYING
+								monitored: 233 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.08% - 1.25% hourly for 96 hours, 5% - 6% hourly for 48 hours, 16% -...
+							min/max deposit: $5 - $500000
+							withdrawal: instant 
+							referral bonus: 10%
+							roi: -
+							HYIP Hourly  Usd - HourlyUsd.com is an investment-scientific group that has been working on capital placement in business processes with high financial yield since March 2016. The priority of the company are business processes that are formed based on innovation. The unique resource of the company is a scientific council that is made up of scientists who are working on expert evaluation of analytical reports prepared by specialists of our company....
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  686
+		  388
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							23.
+						5inv Ltd
+								PAYING
+								monitored: 295 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 50% daily for 5 days, 400% after 5 days, 1.5% hourly for 240 hours,...
+							min/max deposit: $15 - $10000
+							withdrawal: instant 
+							referral bonus: 5%
+							roi: -
+							HYIP 5inv Ltd - 5 Investment LTD brings people, capital and ideas together to help our growing list of investors and the communities of large individuals we serve
+
+5 Investment LTD was founded by a team of individuals comprising of experts from the banking, finance and technology sectors, which are multi-billion dollars industries, in 2004. Until the birth of 5 Investment LTD, we have always been a group of independent traders as far as financial...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  35
+		  1
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							24.
+						Usd Hour
+								PAYING
+								monitored: 65 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.50% hourly for 72 hours, 2.50% hourly for 48 hours, 20% hourly for...
+							min/max deposit: $10 - $30000
+							withdrawal: instant 
+							referral bonus: 3%
+							roi: -
+							HYIP Usd Hour - specializes in the trading and exchange of cryptocurrencies. With the advent of Bitcoin our traders paid attention to the volatile fluctuations of its exchange rate and realized the prospects of a new type of electronic currency. From this moment we are focused on the study the features of work on crypto exchanges and conduct trading activity.
+
+Since 2017 UsdHour.com is involved in attraction of investments to enter the international...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  0
+		  0
+		          
+					
+						
+				
+           
+          
+       
+            	
+			
+           		  
+		    
+							25.
+						Coins Circle Ltd
+								PAYING
+								monitored: 73 days
+							
+									
+          
+		  
+                        
+		   
+						
+						
+						payouts: 1.11% - 1.22% hourly for 96 hours, 2.78% - 4.06% hourly for 40 hours,...
+							min/max deposit: $5 - $300000
+							withdrawal: instant 
+							referral bonus: 3%
+							roi: -
+							HYIP Coins Circle Ltd - We have special ability to see information other people have no access to, so as to create the best results to gain profit.
+
+CoinsCircle LTD is a professional investment corporation engaged in stock, foreign exchange market, Bitcoin market and gold trading.Our goal at CoinsCircle LTD is to provide our clients with a comprehensive market with new resources, whether you have limited experience in foreign exchange trade or gold trade or...
+										
+				
+						
+					Details 
+				Visit  	
+				
+		  10
+		  0
+		        
+					
+						
+				
+           
+         Page 1 of 71234567NextLast
+	
+
+
+	
+      	
+    
+  
+
+  
+  
+    
+			
+     
+          
+        
+         Hyip
+        New Hyip
+        Scam	
+		What Is Hyip	
+		Advertise
+		Contact Us
+		Sign Up
+		Login		 
+        
+           
+		        	
+  Best HYIP monitor. Disclaimer. We do not promote or own any HYIP programs. We can not be held responsible for any losses that may occur.
+All investments are made at your own risk. Use your own strategy. Please also know that investingin high yield investment programs can be illegal in some countries and states.
+We do not give any investment advice. Don't spend more than you can afford to lose! © 2012 - 2017 azHYIPmonitor.com. More than just HYIP monitor. Page load in: 0.189 sec.
+					
+			HYIP Monitor		
+			HYIPwikipedia
+				HYIP
+			AllHYIPmonitors
+				PopularHYIP	
+               
+		
+      
+	 
+      
+	  
+    
+	
+  
+
+
+
+
+		
+		var clicky_site_ids = clicky_site_ids || [];
+		clicky_site_ids.push(100562144);
+		(function() {
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = '//static.getclicky.com/js';
+		( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+		})();
+		
+		
+		  
+		var _Hasync= _Hasync|| [];
+		_Hasync.push(['Histats.start', '1,3802930,4,0,0,0,00010000']);
+		_Hasync.push(['Histats.fasi', '1']);
+		_Hasync.push(['Histats.track_hits', '']);
+		(function() {
+		var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+		hs.src = ('//s10.histats.com/js15_as.js');
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+		})();
+		
+		
+		
+		var switchTo5x=true;
+		
+				
+		stLight.options({publisher: "4f598563-83a1-42af-b481-c4d002cc446b"});
+		
+		var options={ "publisher": "4f598563-83a1-42af-b481-c4d002cc446b", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "linkedin", "digg", "email", "sharethis"]}};
+		var st_hover_widget = new sharethis.widgets.hoverbuttons(options);

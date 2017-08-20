@@ -1,0 +1,45 @@
+VPN.ht | Be completely anonymous on the internet
+[{
+  "@context": "http://schema.org",
+  "@type" : "Organization",
+  "name" : "VPN.ht Limited",
+  "legalName": "VPN.ht Limited",
+  "email": "hello@vpn.ht",
+  "logo" : "https://vpn.ht/themes/vpnht/assets/www2/images/logo.png",
+  "url": "https://vpn.ht",
+  "sameAs": ["https://facebook.com/vpnht", "https://twitter.com/vpnht","https://www.youtube.com/channel/UC5pHxfhFf74PYsVVKAYvBBQ","https://plus.google.com/+vpnhtnews"]
+},
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "VPN.ht",
+    "url": "https://vpn.ht/",
+    "description": "Be completely Anonymous on the Internet, Secure all your devices with our leading-edge VPN service.",
+    "alternateName": "VPNht",
+    "publisher" : {
+    "@type" : "Organization",
+    "name" : "VPN.ht Limited",
+    "url" : "https://vpn.ht",
+    "sameAs": ["https://facebook.com/vpnht", "https://twitter.com/vpnht","https://www.youtube.com/channel/UC5pHxfhFf74PYsVVKAYvBBQ","https://plus.google.com/+vpnhtnews"]
+    },
+    "author" : {
+    "@type" : "Organization",
+    "name" : "VPN.ht Limited",
+    "url" : "https://vpn.ht",
+    "sameAs": ["https://facebook.com/vpnht", "https://twitter.com/vpnht","https://www.youtube.com/channel/UC5pHxfhFf74PYsVVKAYvBBQ","https://plus.google.com/+vpnhtnews"]
+    }
+}]
+
+BlogAffiliatesLogin English  Chinese Dutch French GermanVPN.ht | Be completely anonymous on the internetToggle navigationHomeHow It WorksBuy VPN ServersSoftwareSupportBe completelyAnonymouson the InternetSecure all your devices with our leading-edge VPN service.Create your accountYou’re discrete. We get that.Just because you live online doesn’t mean you want to leave it all online.A Virtual Private Network (VPN) encrypts all your vital information to create
+        a secure tunnel between your devices and the Internet.Be totally invisibleYou’re not one to attract attention. The website you’re visiting or the application you’re using will never know you’re there. They’ll only see VPN.ht’s IP address and location.Fake a locationWe have servers around the world so you can surf blocked sites in your country. Now the web is truly worldwide—simply choose your virtual location to start secure encryption.Explore with encryptionOur leading-edge VPN service hides your online activity with military-grade 256-bit encryption. That makes it virtually impossible to monitor your online activity.Register Now !Anyone can know where you’re fromHide your IP with a VPN to block unwanted exposure and data leaks.Without VPN.ht, Videotron Ltee will continue to track and record everything.YOUR INFORMATION:IP Address:City:	State:Country:	ZIP:Surf any site. From anywhere in the world.Access blocked websitesIn some countries accessing websites like Netflix, Spotify, Gmail, Skype and even Google can be a problem. Our servers around the world bypass geographic limitations so you can get around.Without a trace.Simple set-up. Perfect privacy.Plug and play !You can start using our service, and start surfing in privacy, as soon as you create an account.No logsYou value your privacy. So do we. We don’t keep logs, we don’t know the sites you have visited or the applications you’ve used.And VPN.ht works on virtually any deviceRegister Now !Friendly PricingAccess any site, from anywhere in the world, with any device.Just choose your virtual location and start surfing like a local.100% Money-Back Guarantee for your first 30 days of serviceChoose the best billing plans for you1 Monthonly$1.00/first monththen $4.99/monthBUY 1 MONTHChoose a Payment MethodCREDIT CARDPAYPALBITCOINLitecoinPAYMENTWALLiDEALSofortBankingMisterCashGiropaySofortBanking12 Monthsonly$3.33/month$39.99 billed annuallyBUY 12 MONTHSChoose a Payment MethodCREDIT CARDPAYPALBITCOINLitecoinPAYMENTWALLiDEALSofortBankingMisterCashGiropaySofortBanking×Account Details
+				    Order Total:
+					Join Now
+                By submitting this form you agree to our Terms of serviceSee what you get with your subscriptionNo complicated set-upOur proprietary software makes set-up a snap on any of your devices.No limitsWe don’t restrict use or track your bandwith use. Surf, upload and download all you want.100% anonymous sign-upWe never have to know your name or any identifiable information.No logsWe don’t keep logs, so we don’t know what you do with our service.No bordersAccess any content around the world, from anywhere in the world.Three simultaneous connectionsUse up to three devices at the same time with your account.P2P friendlyWe don’t restrict any usage.You can Bittorent at will.No kiddingUnlimited speeds. Unlimited server switches.VPN.htHow It WorksBuy VPN AccountSoftwareSupportLoginToolsStarter GuideFree ProxyWhat is my IP?DNS Leak TestRemote SupportLegalsWarrant CanaryTerms of useContact usDMCALatest blog postWhy A Popcorn Ti...Are Government S...VPN ht forall iO...VPN.ht & Popcorn...Copyright 2014-2017. VPN.ht All rights reserved(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KJSF6T');
+PostAffTracker.setAccountId('default1');
+try {
+PostAffTracker.track();
+} catch (err) { }

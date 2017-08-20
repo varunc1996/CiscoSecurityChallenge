@@ -1,0 +1,46 @@
+anonym.to - free dereferer service
+	
+html{background:#000}
+body{background:#404040;border:1px solid #666;color:#999;font:14px "Lucida Grande", "Lucida Sans Unicode", tahoma, verdana, arial, sans-serif;text-align:center;margin:5% 10%}
+a{color:#FF8301}
+h1{color:#EEE}
+#container{background:#292929;line-height:2.4;padding:1em}
+p#url{font-weight:700;overflow:hidden;width:100%}
+p.ads{color:#eee;font-size:18px}
+
+	
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3568475-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+
+	anonym.to
+	
+
+		
+		Please wait while you're being redirected to ...
+		In einer Sekunde geht es zu ...
+		Espera mientras te redireccionamos a ...
+		http://bigcards.su
+		
+			GIYF - Google is your friend!
+	
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-3568475-4");
+pageTracker._trackPageview("/redirect/http://bigcards.su");
+} catch(err) {}

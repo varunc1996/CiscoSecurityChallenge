@@ -1,0 +1,254 @@
+HyipzMonior - All hyip monitors
+    
+    
+        
+            
+                
+                            
+                              
+                    
+                         HyipzMonitor V 2.0
+                    
+                    
+                        
+                            
+                                Hyip Programs 
+                                
+                                     Insured Programs 
+                                    
+                                     Top Programs
+                                                                   
+                                     Fast Growing
+                                                                   
+                                     Latest Scams  
+                                                                   
+                                     Latest Added                                           
+
+                                
+                                      
+                            Reviews     
+                             Advertise  
+                              User 
+                                
+                                     Liked 0
+                                    
+                                     Disliked 0
+                                    
+                                     Bookmarked 0                                                                                                                                                                          
+                                
+                            
+                             About 
+                                
+                                    Mission                                                                                 
+                                    
+                                    News
+                                    
+                                    Contact Us
+                                
+                             
+                             Read Scam Reports  (Latest)  
+                            Sign In     
+                                               
+                                     
+                
+            
+    
+        No Records Found.
+            
+            Top Insured Programs
+            
+            
+                
+            
+            
+                
+                    
+                        Please read our insurance policy before you invest in any insured program. Read Here   See All Insured Programs 
+                    
+                        
+            
+            
+    
+    
+        Our Choice
+        
+            No Records Found.        
+        
+            var chlh = $('.ins-table').height();
+            chlh = chlh - $("#chb").innerHeight();
+            $('#chl').css("height", chlh);
+        
+    
+
+
+
+    
+    
+        
+        
+       
+    
+
+
+        
+
+    
+    
+        
+            
+                 Top Paying Programs                    
+                
+                    clubroyalinvest.com 22  Paying  Details                                                                                 trustbitdeposit.com 22  Paying  Details                                                                                 goldencorporation.org 21  Paying  Details                                                                                 btctrust.biz 21  Paying  Details                                                                                 forexcent.biz 20  Paying  Details                                                                                 investeuropa.net 20  Paying  Details                                                                                 goldsilverinv.com 20  Paying  Details                                                                                 forexbullincome.com 20  Paying  Details                                                                                 investsolidmetal.com 20  Paying  Details                                                                                 cfuturestrading.com 20  Paying  Details                                                                                                    
+                
+                 View All
+            
+            
+                 Fast Growing Programs 
+                
+                    trustyincome.com 6  Paying  Details                                                                                 imperial-cash.com 6  Paying  Details                                                                                 zuzu-limited.bid 4  Paying  Details                                                                                 general-money.bid 4  Paying  Details                                                                                 lucky-billion.com 4  Paying  Details                                                                                 asset-coin.com 4  Paying  Details                                                                                 ofund.info 4  Paying  Details                                                                                 famous-asset.info 4  Paying  Details                                                                                 crypto-hour.com 4  Paying  Details                                                                                 internetpaying.com 3  Paying  Details                                                                                                 
+                 View All
+            
+        
+                      
+            
+                 Latest Added Programs                    
+                
+                    line-profit.com 1  Paying  Details                                                                                 saxo-lucky.info 1  Paying  Details                                                                                 magic-solution.trade 1  Paying  Details                                                                                 goldstar.online 2  Waiting  Details                                                                                 bet8limited.com 1  Waiting  Details                                                                                 bitinternational.net 2  Waiting  Details                                                                                 advfund.biz 2  Waiting  Details                                                                                 ilivion.com 1  Waiting  Details                                                                                 goldeninvest.trade 1  Waiting  Details                                                                                 algiesa.cc 1  Waiting  Details                                                                                 
+                
+                 View All
+            
+            
+                 Latest Scam Programs                    
+                
+                    paymehourly.info 3  Not Paying  Details                                                                                 monarchee.uk 1  Not Paying  Details                                                                                 golden-cabrio.com 3  Not Paying  Details                                                                                 incometech.biz 2  Not Paying  Details                                                                                 paying4ever.com 1  Not Paying  Details                                                                                 eligiusmining.com 2  Problem  Details                                                                                 profitadshare.com 1  Not Paying  Details                                                                                 ivenmoney.com 1  Not Paying  Details                                                                                 bcapitalist.com 1  Not Paying  Details                                                                                 much-income.com 1  Not Paying  Details                                                                                 
+                
+                 View All
+            
+        
+     
+    
+     Advertisements   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    function get_results() {
+        var query = $("#query").val();
+        var dataString = 'query=' + query;
+        $.ajax({
+            type: "POST",
+            url: "http://hyipzmonitor.com/common/scripts/search_handler.php",
+            data: dataString,
+            cache: false,
+            success: function (result) {
+                $("#results").html(result);
+            }
+        });
+    }
+
+    function mark(caller) {
+        var cookie = $(caller).attr("data-request");
+        var dataString = 'cookie=' + cookie + ' && id=' + caller.id;
+//        alert(dataString);
+        $.ajax({
+            beforeSend: function (xhr) {
+                $(caller).text("Requesting.....");
+            },
+            type: "POST",
+            url: "mark.php",
+            data: dataString,
+            cache: false,
+            success: function (response) {
+                $(caller).html(response);
+                $(caller).removeAttr("onclick");
+                $(caller).attr("disabled", "");
+            }
+        });
+    }
+ $(window).scroll(function () {
+        if ($(this).scrollTop() > 200) { //use `this`, not `document`
+            $('#main').fadeOut();
+        } else {
+            $('#main').fadeIn();
+        }
+    });
+
+
+
+
+
+    
+
+
+
+
+
+    
+        Quick Links
+        
+        
+             Home                         
+             Advertise                         
+             Add Monitor                            
+             Report Scam                            
+             Contact Us                            
+         
+    
+    
+        Latest Reviews
+        
+        
+                      
+                 Can Passive BitCoin In.. (8 )                         
+                          
+                 Royal-8 - Earn royal p.. (2 )                         
+                          
+                 KEDDICASH.COM | IS ADM.. (0 )                         
+                          
+                 BREAKING NEWS OF MEGA .. (6 )                         
+                          
+                 Right Program for you .. (0 )                         
+                         
+    
+    
+        Important
+        
+        
+            Mission Statement                         
+            News                         
+            Scam Reports                         
+            Account                         
+         
+    
+    
+        We are Social
+        
+        
+              Join Us at Facebook                         
+              Visit our Blog     
+         
+    
+
+
+
+
+
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5657d5d75d0ca158310f9e1d/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();

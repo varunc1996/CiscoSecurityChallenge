@@ -1,0 +1,790 @@
+The World’s Most Trusted Name in Precious Metals - Goldmoney
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+  {
+    "@context": "http://schema.org",
+    "@type": "Corporation",
+    "name": "Goldmoney, Inc.",
+    "url" : "https://www.goldmoney.com",
+    "logo": "https://www.goldmoney.com/fe/img/brand/open-graph.png",
+    "tickerSymbol": "TSX XAU",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/GoldMoney",
+      "https://www.facebook.com/Goldmoney",
+      "https://twitter.com/Goldmoney",
+      "https://www.linkedin.com/company/GoldMoney",
+      "https://plus.google.com/+GoldMoney",
+      "https://www.youtube.com/c/GoldMoneyNews"
+    ],
+    "telephone": "1-800-583-4653",
+    "founders": [
+      {
+        "@type": "Person",
+        "givenName": "James",
+        "familyName": "Turk"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Roy",
+        "familyName": "Sebag"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Joshua",
+        "familyName": "Crumb"
+      }
+    ],
+    "employees": [
+      {
+        "@type": "Person",
+        "givenName": "Roy",
+        "familyName": "Sebag",
+        "jobTitle": "CEO"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Joshua",
+        "familyName": "Crumb",
+        "jobTitle": "CSO"
+      },
+      {
+        "@type": "Person",
+        "givenName": "John",
+        "familyName": "Butler",
+        "jobTitle": "Head of Wealth Services"
+      }
+    ]
+  }
+
+    
+  
+    
+
+      
+        
+          
+          
+          
+          
+        
+      
+
+      
+        
+          
+            
+          
+        
+      
+
+      
+        Support
+      
+
+      
+        Client Access
+      
+
+    
+    
+    
+    
+  
+  
+    
+
+      
+        
+          The Goldmoney Holding
+        
+        
+          Overview
+          Safety & Transparency
+          Goldmoney vs. ETF & Coins
+          Metal Transfers & Business Tools
+          Pension Plan
+          Goldmoney Kids
+          Dealing Rates & Storage Fees
+        
+      
+
+      
+        
+          Precious Metals
+        
+        
+          Guide for New Investors
+          Gold Bullion
+          Silver Bullion
+          Platinum Bullion
+          Palladium Bullion
+        
+      
+
+      
+        
+          Research
+        
+        
+          Goldmoney Insights®
+          Market Updates
+          Live Prices & Charts
+          Goldmoney Media
+          Goldmoney Library
+          Authors
+          Encyclopedia
+        
+      
+
+      
+        
+          More
+        
+        
+          
+            Support & FAQ
+            Real-Time Audit
+            Community
+            Branches
+            Investor Relations
+            News
+            Referral Program
+          
+          
+            Client Agreement
+            Client Acceptance Policy
+            Privacy Policy
+            Disclaimer
+          
+        
+      
+
+    
+  
+
+
+
+  
+    
+
+      
+        
+          The Goldmoney Holding
+        
+        Overview
+        Safety & Transparency
+        Goldmoney vs. ETF & Coins
+        Metal Transfers & Business Tools
+        Pension Plan
+        Goldmoney Kids
+        Dealing Rates & Storage Fees
+      
+
+      
+        
+          Precious Metals
+        
+        Guide for New Investors
+        Gold Bullion
+        Silver Bullion
+        Platinum Bullion
+        Palladium Bullion
+      
+
+      
+        
+          Research
+        
+        Goldmoney Insights®
+        Market Updates
+        Live Prices & Charts
+        Goldmoney Media
+        Goldmoney Library
+        Authors
+        Encyclopedia
+      
+
+      
+        
+          More
+        
+        Support & FAQ
+        Real-Time Audit
+        Community
+        Branches
+        Investor Relations
+        News
+        Referral Program
+        Client Agreement
+        Client Acceptance Policy
+        Privacy Policy
+        Disclaimer
+      
+
+    
+  
+  
+    
+      Client Access
+    
+  
+
+
+    
+      
+        
+          
+        
+      
+      
+        
+          
+          
+        
+      
+    
+
+    
+      
+        
+
+          
+            
+              
+                The World’s Most Trusted Name in Precious Metals
+              
+
+              
+                Goldmoney is the easiest way to invest in physical gold and silver bullion online. We safeguard nearly $2 billion of assets for clients in 150 countries.
+              
+
+              
+                
+                  Open Holding
+                
+                
+                  
+                  Watch Video
+                
+              
+
+              
+                Sign In to Your Holding
+              
+
+            
+            
+              
+                
+                
+                  Introduction to Goldmoney
+                
+              
+            
+          
+
+        
+      
+      
+        
+
+          
+            
+              Why Goldmoney?
+            
+            
+              
+                
+                  Oversight
+                
+                
+                  Publicly listed corporation on the TSX (XAU). Regulated by the JFSC. Financial statements audited by a Big Four accounting firm (KPMG).
+                
+              
+              
+                
+                  Lowest Fees
+                
+                
+                  Goldmoney offers the least expensive way to buy, sell, store, and take delivery of physical precious metals. Significantly cheaper than ETFs and coins.
+                
+              
+            
+            
+              
+                
+                  100% Physical Backing
+                
+                
+                  All client assets are segregated, fully-reserved (1:1), and securely stored in insured vaults around the world.
+                
+              
+              
+                
+                  Redeemable Bullion
+                
+                
+                  Precious metals are redeemable in bullion bars at vaults and Goldmoney Branches, or in a selection of coins and bars that can be shipped to clients via Schiff Gold.
+                
+              
+            
+            
+              
+                
+                  Exclusive Research
+                
+                
+                  Goldmoney clients have access to the world’s leading precious metals research, which is read by the most notable investors. Our team of analysts has more than 180 years of combined experience navigating markets.
+                
+              
+              
+                
+                  Banking Services
+                
+                
+                  Goldmoney Mastercard® Prepaid card (available in plastic, 18K gold, and silver). Free gold transfers and business tools for earning in gold. Multi-currency accounts in up to nine currencies and free FX conversions.
+                
+              
+            
+            
+              
+                
+                  Retirement and Pension Accounts
+                
+                
+                  Goldmoney offers IRA and SIPP accounts for accumulating precious metal savings and deferring tax exposure.
+                
+              
+              
+                
+                  Institutional Services
+                
+                
+                  We offer institutional services for HNW family offices, corporations, and trusts that provide access to our pricing, execution, and custody technology through an API.
+                
+              
+            
+          
+
+        
+      
+      
+
+        
+          
+            Market Summary
+          
+          
+            
+              Metals
+            
+            
+              Equities
+            
+            
+              FX
+            
+          
+
+          
+            
+              
+                
+                  
+                    G
+                  
+                  
+                    OZ
+                  
+                
+              
+              
+                
+                  
+                    
+                    
+                      USD
+                    
+                    
+                      
+                    
+                  
+                  
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  Metal
+                
+              
+              
+                
+                  24hr
+                
+              
+              
+                
+                  Sell
+                
+              
+              
+                
+                  Buy
+                
+              
+            
+            
+          
+
+          
+            
+              
+                
+                  Index
+                
+              
+              
+                
+                  Change
+                
+              
+              
+                
+                  Value
+                
+              
+            
+            
+          
+
+          
+            
+              
+                
+                  Currency
+                
+              
+              
+                
+                  24 hr Change
+                
+              
+              
+                
+                  Rate
+                
+              
+            
+            
+          
+
+        
+
+        
+          
+            Latest Insights
+          
+          
+          
+            Read More
+          
+        
+
+      
+    
+
+    
+      
+
+        
+          
+        
+        
+          
+            Buy, Sell, and Pay with Precious Metals from Your Mobile Phone.
+          
+          
+          
+            The Goldmoney™ App for iOS and Android provides access to all Dashboard features and functions, enabling you to manage your Holding and buy, sell, exchange, and redeem precious metal bullion through an easy-to-use and highly secure interface. Need to make a payment? Send and accept precious metal payments to and from other Goldmoney Holdings and businesses, and earn metals by referring friends and family to Goldmoney.
+          
+          
+            
+              
+            
+            
+              
+            
+          
+        
+
+      
+    
+
+    
+      
+
+        
+          
+            
+              
+                Goldmoney HQ
+                JERSEY, ST. HELIER, CHANNEL ISLANDS
+              
+              
+            
+            
+              
+                Goldmoney Toronto
+                TORONTO, ONTARIO, CANADA
+              
+              
+            
+            
+              
+                Goldmoney New York
+                NEW YORK, NEW YORK, UNITED STATES
+              
+              
+            
+          
+        
+        
+          
+            Customer Service and Branch Locations
+          
+          
+          
+            Goldmoney offers enhanced and personalized client service. Upon opening a holding, you are assigned a personal Relationship Manager who can be reached via phone, live chat, email, and secure message directly from your Holding. We also operate an expanding network of physical branch locations that offer customer service to Goldmoney clients and other valuable features.
+          
+          
+            
+              
+              Phone
+            
+            
+              
+              Live Chat
+            
+            
+              
+              Email
+            
+          
+          
+            
+              Jersey
+            
+            
+              Toronto
+            
+            
+              New York
+            
+            
+              
+                
+                
+              
+              
+                
+                
+              
+              
+            
+          
+        
+
+      
+    
+
+    
+  
+
+    
+    
+
+      
+        
+          The Goldmoney Holding
+          
+        
+        
+          Overview
+          Safety & Transparency
+          Goldmoney vs. ETF & Coins
+          Metal Transfers & Business Tools
+          Pension Plan
+          Goldmoney Kids
+          Dealing Rates & Storage Fees
+        
+      
+
+      
+        
+          Precious Metals
+          
+        
+        
+          Guide for New Investors
+          Gold Bullion
+          Silver Bullion
+          Platinum Bullion
+          Palladium Bullion
+        
+      
+
+      
+        
+          Research
+          
+        
+        
+          Goldmoney Insights®
+          Market Updates
+          Live Prices & Charts
+          Goldmoney Media
+          Goldmoney Library
+          Authors
+          Encyclopedia
+        
+      
+
+      
+        
+          More
+          
+        
+        
+          
+            Support & FAQ
+            Real-Time Audit
+            Community
+            Branches
+            Investor Relations
+            News
+            Referral Program
+          
+          
+            Client Agreement
+            Client Acceptance Policy
+            Privacy Policy
+            Disclaimer
+          
+        
+      
+
+    
+
+    
+
+      
+        
+      
+
+      
+        
+          
+        
+      
+
+      
+        
+
+          
+            
+              
+            
+          
+
+          
+            
+              
+            
+          
+
+          
+            
+              
+            
+          
+
+          
+            
+              
+            
+          
+
+          
+            
+              
+            
+          
+
+          
+            
+              
+            
+          
+
+        
+      
+
+    
+
+    
+      
+        Copyright © 2001-2017 Goldmoney Wealth Limited (Jersey, Channel Islands) which is regulated by the Jersey
+      
+      
+        Financial Services Commission under the Financial Services (Jersey) Law 1998.
+      
+    
+
+  
+  
+  
+  
+
+    
+try{Typekit.load({ async: false });}catch(e){}
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-53TJNNP');
+    .st0{fill:#c09f69}

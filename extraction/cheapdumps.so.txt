@@ -1,0 +1,6575 @@
+Reliable Hyip Monitor and Investment Tracker
+    
+		    
+    
+	
+   
+    
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-42571479-1', 'hyipbox.com');
+  ga('send', 'pageview');
+
+
+
+	
+		
+			
+				
+			
+			
+		
+			This Ad - $ 300.00/30 days		
+	
+	
+		
+			
+				
+					
+						
+						HyipBox
+					
+					
+						Top Lists
+						
+							Best PTC Sites
+							Best Currency Exchangers
+							Best GPT Sites
+						
+					
+					
+						Partners
+						
+							Monitoring Partners
+							How to add Partner button
+							Forum Partners
+							Banner Buddies
+						
+					
+					Blog
+					News
+					Reviews
+					AddSite
+					Advertise
+					
+					Contact
+					Login
+					Social
+						
+							Facebook
+							Twitter
+							GChat
+						
+					
+
+					txt='<a href="http://www.facebook.com/sharer.php?u=http://www.hyipbox.com'+location.pathname+'" target="_blank" title="Facebook">'
+					txt=txt+'<img src="/images/share_facebook.gif" width="16px" height="16px" style="margin-right:4px" /></a>';
+					txt=txt+'<a href="http://twitter.com/home?status=Currently reading http://www.hyipbox.com'+location.pathname+'" target="_blank" title="Twitter">';
+					txt=txt+'<img src="/images/share_twitter.gif" width="16px" height="16px" style="margin-right:4px" /></a>';
+					txt=txt+'<a href="https://plus.google.com/share?url=http://www.hyipbox.com'+location.pathname+'&hl=en-US" target="_blank" title="Google+">';
+					txt=txt+'<img src="/images/share_google+.gif" width="16px" height="16px" style="margin-right:4px" /></a>';
+					txt=txt+'<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.hyipbox.com'+location.pathname+'&title='+document.title+'" target="_blank" title="LinkedIn">';
+					txt=txt+'<img src="/images/share_linkedin.gif" width="16px" height="16px" style="margin-right:4px" /></a>';
+                    txt=txt+'<a href="http://pinterest.com/pin/create/button/?url=http://www.hyipbox.com'+location.pathname+'&media=http://www.hyipbox.com/images/logo_bg.png &description=HyipBox%20Hyip%20Status%20Aggregator" target="_blank" data-pin-do="buttonPin" data-pin-config="above">';
+                    txt=txt+'<img src="/images/share_pinterest.gif" width="16px" height="16px" style="margin-right:4px" /></a>';
+					txt=txt+'<a href="mailto:?&amp;subject='+document.title+'&amp;body=Take%20a%20look%20at%20this%20page%20at%20HyipBox.com:%20http://www.hyipbox.com'+location.pathname+'" target="_blank" title="E-mail">';
+					txt=txt+'<img src="/images/share_email.gif" width="16px" height="16px" style="margin-right:4px" /></a>';
+					txt=txt+'<a href="http://delicious.com/save?v=5&noui&jump=close&url=http://www.hyipbox.com'+location.pathname+'&title='+document.title+'" target="_blank" title="Delicious">';
+					txt=txt+'<img src="/images/share_delicious.gif" width="16px" height="16px" style="margin-right:4px" /></a>';
+					txt=txt+'<a href="http://www.reddit.com/submit?url=http://www.hyipbox.com'+location.pathname+'" target="_blank" title="Reddit">';
+					txt=txt+'<img src="/images/share_reddit.gif" width="16px" height="16px" style="margin-right:4px" /></a>';
+					txt=txt+'<a href="http://digg.com/submit?url=http://www.hyipbox.com'+location.pathname+'&amp;title='+document.title+'" target="_blank" title="Digg">';
+					txt=txt+'<img src="/images/share_digg.gif" width="16px" height="16px" style="margin-right:4px" /></a>';
+					txt=txt+'<a href="http://www.stumbleupon.com/submit?url=http://www.hyipbox.com'+location.pathname+'%26title%3D'+document.title+'" target="_blank" title="Stumbleupon">';
+					txt=txt+'<img src="/images/share_stumbleupon.gif" width="16px" height="16px" /></a>';
+					document.write(txt);
+
+					
+					
+				
+			
+				
+					
+
+This Ad - $ 70.00/7 daysThis Ad - $ 95.00/30 days
+
+
+					
+
+		
+
+
+/****************PAGE COORDINATE FUNCS ************************************/
+function docHeight() {
+    var D = document;
+    return Math.max(
+        Math.max(D.body.scrollHeight, D.documentElement.scrollHeight),
+        Math.max(D.body.offsetHeight, D.documentElement.offsetHeight),
+        Math.max(D.body.clientHeight, D.documentElement.clientHeight)
+    );
+}
+
+function pops(act,sid,sname) { 
+var scrollv = 100+(document.all ? document.documentElement.scrollTop : window.pageYOffset);
+var overdiv = document.createElement("div");
+overdiv.className = "overdiv";
+overdiv.id = "overdiv";
+overdiv.style.zIndex = "210";
+overdiv.style.height = docHeight()+"px";
+overdiv.setAttribute('onclick','cloze();'); // for FF
+overdiv.onclick = function() {cloze();}; 
+
+
+
+var square = document.createElement("div");
+square.className = "square";
+square.id = "square";
+square.style.zIndex = "220";
+//square.style.position="absolute";
+square.style.top=scrollv+"px";
+
+var tit;
+var url;
+if(act=="vote"){
+tit = "Vote For "+sname;
+url = "vote.php?sid="+sid;
+}else if(act=="scam"){
+tit = "Report Scam on "+sname;
+url = "repscam.php?sid="+sid;
+}else if(act=="stat"){
+tit = "Monitor Statuses on "+sname;
+url = "monstat.php?sid="+sid;
+}else if(act=="bann"){
+tit = "Monitor Banner Board for "+sname;
+url = "monbann.php?sid="+sid;
+}else if(act=="monc"){
+tit = "Monitoring Code for "+sname;
+url = "moncode.php?sid="+sid;
+}else{
+tit = "Add "+sname+" To Favorites";
+url = "faves.php?sid="+sid;
+}
+
+var html  ="<div class='box_c sort-disabled' style='width:650px;'>";
+    html +="<h2 class='box_c_heading cf'>"+tit+"<a href='javascript:cloze(this);' class='close'><img src='images/blank.gif' class='fr square_x_11 wRemove'></a></h2>";
+    html +="<div class='box_c_content box_c_inner'><iframe id='framer' frameborder=0 src="+url+" style=width:100%;height:400px;></iframe></div></div>";
+/*
+<footer class='pane'><a href='#' class='close bt red'>Close modal</a><a href='#' class='bt blue'>Custom button</a></footer>
+*/
+
+square.innerHTML = html;
+ document.body.appendChild(overdiv);
+ document.body.appendChild(square);
+}
+
+
+
+function cloze(elem){
+var square = document.getElementById("square");
+var overdiv = document.getElementById("overdiv");
+
+		var op = 1;  // initial opacity
+    var timer = setInterval(function () {
+        if (op <= 0.1){
+            clearInterval(timer);
+            document.body.removeChild(square);
+						document.body.removeChild(overdiv);
+        }
+        square.style.opacity = op;
+				overdiv.style.opacity = op;
+        square.style.filter = 'alpha(opacity=' + op * 100 + ")";
+				overdiv.style.filter = 'alpha(opacity=' + op * 100 + ")";
+        op = op - (op * 0.1);
+    }, 10);
+		
+}
+
+
+
+
+
+HyipBox is a hyip monitor that was developed to provide fast and accurate data points, and the most current snapshot or representation of active and paying HYIP programs in the online HYIP industry. 
+Our focus is to also forge partnerships with other monitors, forums, and listing sites in order to give investors a network of time-sensitive data points and information for them to be able to choose the 
+best investment program to invest in. This will help investors to protect their investments and strategize better to minimize risk and avoid loss.
+HyipBox also offers HYIP status from other monitors who are partners with us, with link back to their monitoring program page. The aim is to provide a useful 
+utility for investors to invest safely and wisely by knowing which investment programs are paying and which to avoid in the HYIP business. We also maintain a blog to give investment tips and advice
+to those who are new to the online investment industry. As we say in the HYIP industry, 'only invest what you can afford to lose'.
+
+
+
+
+
+Sticky Class- Premium Sites
+								   
+								
+								
+								 BEST from the BETS - 
+								Join
+								2% weekly for 2 years | Ref : .5;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 0.00
+									 Added:22/Mar/2017
+									 Ref %:.5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:0.00 %
+									 Minimum:$ 30
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 DollarBill - 
+								Join
+								2.1% Weekly for 700 Days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:28/Jul/2016
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:0.00 %
+									 Minimum:$ 30
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 DollarBill is an secure and profitable investment platform, backed up by Forex market trading, Stock Market trading, Cryptocurrency trading, and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 GraspInvest - 
+								Join
+								800% after 1 day, 8000% after 2 days, 80000% after 3 days | Ref : 3;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 100.00
+									 Added:02/Apr/2017
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:18.01 %
+									 Minimum:$ 35
+									 Maximum:$ 30000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Grasp Invest Limited is an established company of professional traders in the field of real estate, stocks, bonds and cryptocurrency industry. Randy Calderon is the director of the company & under his remarkable leadership, Grasp Invest Limited has grown into a leading online investment platform. 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Solid Trade Bank - 
+								Join
+								0.5% daily 20 days | Ref : 1%;
+								   5    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:08/Oct/2013
+									 Ref %:1%
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 25
+									 Maximum:$ 1000000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 5
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Solid Trade Bank is a financial institution with a long history. Like other banks with traditional principles our company aims to extract maximum from the opportunities we have while operating assets of our customers.
+									 
+									 						 
+								
+							 <!--
+google_ad_client = 'ca-pub-2710309427035344';
+google_ad_slot = '6885188853';
+google_ad_width = 468;
+google_ad_height = 60;
+
+
+Class A - Top Performing HYIPs
+								   
+								
+								
+								 City Build Ttrade - 
+								Join
+								105% after 7 days | Ref : 5;
+								   1    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:26/Feb/2014
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:10/Mar/2016
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:1917.00 %
+									 Minimum:$ 1
+									 Maximum:$ 500000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 1
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 CityBuildTrade is a renowned leader in construction industry. Our unmatched experience has brought us to the largest projects we have ever had. CBT portfolio includes dozens of accomplished projects, few collaborations and nine international constructions. 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Tasktrade - 
+								Join
+								121% after 1 Day, 150% After 2 Days, 200% After 3 days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 100.00
+									 Added:14/Aug/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 5000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Our fairly successful business was launched in 2013 when we have invited a dozen influential British investors
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Lightinv - 
+								Join
+								115% After 1 Day, 7% daily for 5 Years | Ref : 3;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:14/Aug/2017
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:0.00 %
+									 Minimum:$ 60
+									 Maximum:$ 50000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 lightinv.com | The Best Bitcoin Trading is a legal registered private investment company in the United Kingdom with headquarters located in London.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Safetypaying - 
+								Join
+								650% after 1 day, 6500% after 2 days, 65000% after 3 days | Ref : 18;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:11/Mar/2017
+									 Ref %:18
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:23.15 %
+									 Minimum:$ 35
+									 Maximum:$ 100000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 SafetyPaying.com is naturally created as one of the most profitable and safe sources among the various online investment community. Every day we try to put up the best contracts and carry out our financial activity at the highest levels.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Finance Group - 
+								Join
+								645% After 1 Day, 1000% After 2 Days, 18000% After 3 Days | Ref : 3;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 200.00
+									 Added:10/Apr/2017
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:26/Jun/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:8.52 %
+									 Minimum:$ 30
+									 Maximum:$ 300000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Many people around the world are always looking for safe and profitable investment areas. FINANCE GROUP offers the best conditions and will be your best choice in the search for a reliable financial partner in the field of fiduciary management. 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 SecureCapitals - 
+								Join
+								2.5% Daily For 90 Days, 3% Daily For 90 Days, 4% Daily For 90 Days | Ref : 8;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 0.00
+									 Added:04/May/2017
+									 Ref %:8
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:0.00 %
+									 Minimum:$ 20
+									 Maximum:$ 100000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Through the application of trading methods with financial risks attached to financial or real assets it provides the Secure Capital Funding Limited brokers actually to purchase and sell the assets personally, and the risks that arise from the shock of the prices for these assets.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Funds Broker - 
+								Join
+								2.1% Weekly for 800 days | Ref : .75;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 0.00
+									 Added:14/Mar/2017
+									 Ref %:.75
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:0.00 %
+									 Minimum:$ 30
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 The Funds Broker Company was founded to perform brokerage services and a number of profitable and promising areas, such as investing in Forex market trading, cryptocurrency and trading on the stock market
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Safety Depositary - 
+								Join
+								102% After 5 days, 105% After 5 days, 115% After 5 days | Ref : 5;
+								   2    
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 0.00
+									 Added:23/Nov/2015
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:0.00 %
+									 Minimum:$ 50
+									 Maximum:$ 250000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 2
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 We are subsidiary enterprise of Safety Depositary insurance company. We work in financial area and offer large number of investment options. It is double pleasure for us to work with you if you have already insured yourself at our office.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 cryptosolutions - 
+								Join
+								1.5% Daily For 30 Days, 1.7% Daily For 60 Days, 500% After 15 Days | Ref : 6;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:05/Aug/2017
+									 Ref %:6
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:A
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 100000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 CryptoSolutions company carries out the trading of cryptocurrency funds on the specialized cryptocurrency exchanges, minimizing sags and drawdowns by restructuring of investment means. Using exchange spatial arbitration and exchange rate arbitrage, we create the most comfortable conditions to implementation of our investment obligations to our clients in full.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 BTC Earning - 
+								Join
+								600% after 1 day, 6000% after 2 days, 60000% after 3 days | Ref : 10;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:27/Dec/2016
+									 Ref %:10
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:03/Aug/2017
+									 Withdraw:Manual
+									 Rating:46				
+									 
+									 Class:A
+									 ROI Ratio:43.40 %
+									 Minimum:$ 30
+									 Maximum:$ 30000
+									 User Rating:2		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 2
+											   
+											
+									 
+									 BTCEARNIN LIMITED is involved in a wide-range of the business fields, our company brings together the efforts of experienced financial analysis and market traders for successful, profitable and super results.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 FantasticMoney - 
+								Join
+								300% After 1 Day, 1000% After 2 Days, 5000% After 3 Days | Ref : 10;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:16/Mar/2014
+									 Ref %:10
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:32				
+									 
+									 Class:A
+									 ROI Ratio:124.30 %
+									 Minimum:$ 20
+									 Maximum:$ 20000
+									 User Rating:9		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 9
+											   
+											
+									 
+									 FantasticMoney.biz associate with Asian, Europian and American oil companies , trading in Local and international oil market, by a group of professional and experienced traders (who they are working on the Oil trade markets for many years), together as a team and with excellent education and many years of experience in investing in oil and other financial institutions we c
+									 
+									 						 
+								
+							 <!--
+google_ad_client = 'ca-pub-2710309427035344';
+google_ad_slot = '6885188853';
+google_ad_width = 468;
+google_ad_height = 60;
+
+
+Class B - HYIPs under Trial
+								   
+								
+								
+								 TP FXP PRO LTD - 
+								Join
+								108% after 1 day, 141% after 5 days, 224% after 15 days | Ref : 1;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:03/Nov/2016
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:52				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 100000
+									 User Rating:1		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome1
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Our Company is one of the fast growing companies worldwide. We Accept Our Investor around the globe for stability Company. Our company is an investment advisory firm that solely trades the Forex market with the objective of aggressive growth.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Investellect - 
+								Join
+								1.2% Daily for 60 Days, 1.4% Daily for 120 Days | Ref : 2;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:11/Mar/2017
+									 Ref %:2
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:52				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 50000
+									 User Rating:1		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome1
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Since 2015, investellect.net has been revolutionizing currency trading in over 150 countries. A pioneer in developing Forex as a consumer product, Spotting Cash continues to lead with customized technology and personal service tailored to all levels of traders.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Uncharted Wealth - 
+								Join
+								0.5% daily for 365 days | Ref : 7;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:11/Feb/2017
+									 Ref %:7
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 1
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Aurum Bank - 
+								Join
+								2% weekly for 365 days, 0.4% Daily for 365 days, 1% daily for 365 days | Ref : 1.5;
+								   3    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:17/Mar/2016
+									 Ref %:1.5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:07/Mar/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:50.00 %
+									 Minimum:$ 50
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 3
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Capitalist Assets - 
+								Join
+								1% Daily For 45 Days, 2% Daily For 45 Days, 5% Daily For 45 Days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:14/Aug/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 5
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Our website is a simple digital platform operating in automated mode that allows you manage your deposits, keep funds in your account, track transactions history along with interest payments and request withdrawals of available funds
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 MaryBets - 
+								Join
+								3% Daily for 50 days | Ref : 8;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:14/Aug/2017
+									 Ref %:8
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 10000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 MaryBets is one of the leaders in the intermediary online betting, where mediatorial bookmakers are used for betting on the outcome of sports events.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 10 Days Profit - 
+								Join
+								11% Daily For 10 Days, 12% Daily for 10 Days, 13% Daily for 10 Days | Ref : 10;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:14/Aug/2017
+									 Ref %:10
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 100000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 10 DAYS PROFIT LTD. is a private online investment company that has been legally registered in The UK. Our company provides its website as a service to its present and prospective clients to make investments online and gain daily stable profit.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Xarra - 
+								Join
+								1% daily for 100 days | Ref : 1;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:14/Aug/2017
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 35000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 The modern market of IT investment is represented by a wide range of areas and represents tremendous opportunities for multiple increase of start-up capital. Lately, the number of sites and business incubators was significantly increased to attract investment for the development of startups.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Crazycoin - 
+								Join
+								600% after 1 day, 6000% after 2 days, 60000% after 3 days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:18/Mar/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:19.80 %
+									 Minimum:$ 35
+									 Maximum:$ 300000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Energy Cars Revolution - 
+								Join
+								1% daily for 100 days | Ref : 1;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:14/Aug/2017
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 50000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 The difficult ecological situation on our planet encourages humanity to look for solutions that will reduce emissions of harmful substances into the atmosphere. According to official data around the world, about 70% of emitted substances polluting the atmosphere are accounted for by cars.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Isemiss - 
+								Join
+								1% daily for 10 days | Ref : 1;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:14/Aug/2017
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 1000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 isemiss.com is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Rent Buildings - 
+								Join
+								3% weekly for 1000 days | Ref : 1;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:22/Mar/2017
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 20
+									 Maximum:$ 20000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 rent-buildings.com is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 HourPay - 
+								Join
+								 | Ref : 3;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:20/Jan/2017
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:29.40 %
+									 Minimum:$ 5
+									 Maximum:$ 500000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Yess Profit - 
+								Join
+								1% Daily for lifetime, 100.8% After 1 Day, 108% After 1 Day | Ref : 3;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:02/Apr/2017
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 25
+									 Maximum:$ 5000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Today the company Yess Profit is a stable participant of currency market Forex. The beginning of activity of the company Yess Profit may be called 2004. The development of trading systems was begun exactly then. 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Earninghour - 
+								Join
+								 | Ref : 10;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:23/Apr/2017
+									 Ref %:10
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:10.70 %
+									 Minimum:$ 10
+									 Maximum:$ 500000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 EarningHour.com is revolutionized! It is the flagship of HYIP industry from 2017! EarningHour.com changed all investment payment model, instead of waiting for a long day, two days or three days, but only for an hour, just 60 minutes to generate profits, and you can withdraw to your E-wallet instantly.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Crypto Center - 
+								Join
+								0.8% daily for 100 days, 0.9% daily for 100 days, 1% daily for 100 days | Ref : 1;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:04/May/2017
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 100000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Crypto Center Limited offers a profitable cooperation, which will allow to receive a steady income, not putting any effort to this. Our company is a unique in its own way trust company, leading its activities between three investment areas simultaneously. 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Heat Profit - 
+								Join
+								10% Daily for 20 Days, 18% Daily for 15 Days, 300% After 20 Days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:27/Apr/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 200000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 HeatProfit Investment Company is a family owned firm that invests in and operates profitable businesses for the benefit of its shareholders and partners.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Ksakep - 
+								Join
+								6% Monthly for 180 days, 7% Monthly for 180 days, 12.33% Monthly for 365 days | Ref : 3;
+								   2    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:28/Jul/2015
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 30
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 2
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Nowadays our project is one of the most reliable projects in the sector of low-percentage and profitable projects.
+From the classical HYIPs we have a lot of differences: manager’s openness and identification of his personality, confirmation about the type of activity (investors can check all the information about the project and all the project’s deals), execution of 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Bandeira Construction - 
+								Join
+								1.5% Daily for 100 days | Ref : 5;
+								   4    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:13/Mar/2016
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:15/Aug/2016
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:55.00 %
+									 Minimum:$ 10
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 4
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Bandeira Corp. Ltd has a wealth of experience of working within both the Public & Private Sectors alike and we are proud to have been involved in creating safe and inspiring environments and workplaces for our clients.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 DDFutures Limited - 
+								Join
+								2.2% daily for 60 days | Ref : 1;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:04/Jan/2017
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 500
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 ddfutures.com is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 FxHeadWay - 
+								Join
+								25% daily for 5 days, 16% daily for 10 days, 13% daily for 15 days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:22/Mar/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:19/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:B
+									 ROI Ratio:476.00 %
+									 Minimum:$ 10
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 We are a team of specialists with tremendous working experience in investment market, trading activities, currency market and investments in various funds. As you may know to build a financial stability these days is no longer enough to posses extraordinary contractor or investment skills.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 BtcTrust - 
+								Join
+								600% after 1 day, 4000% after 2 days, 30000% after 3 days | Ref : 10;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:22/May/2016
+									 Ref %:10
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:48				
+									 
+									 Class:B
+									 ROI Ratio:42.20 %
+									 Minimum:$ 30
+									 Maximum:$ 300000
+									 User Rating:1		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 1
+											   
+											
+									 
+									 BtcTrust.biz Limited is founded by a team of professional traders who know exactly what it takes to earn the most from capital market. Each trader in our group has more than 10 years of trading experience and successful trading records, as we know that is the exact point that support our company stability and profitability.
+									 
+									 						 
+								
+							 Class C - High Risk HYIPs
+								   
+								
+								
+								 FX Fortune - 
+								Join
+								0.7% daily for 365 days, 3.5% daily for 365 days, 7% daily for 300 days | Ref : 3;
+								   7 1   
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:08/Dec/2015
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:52				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 20
+									 Maximum:$ 50000
+									 User Rating:2		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 7
+											   Waiting1
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome1
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Dreams can only be succeeded if you work towards them. Even building wealth is no different. At Fx Fortune, We provides the top online possessions for online investment, risk management and advisory services to both institutional and individual investor around the globe. We offer a variety of products and functions of asset classes for all type of investors including Forex
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 FamousBtc - 
+								Join
+								120% After 1 Day, 300% After 3 Days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:21/Jul/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:1.80 %
+									 Minimum:$ 10
+									 Maximum:$ 50000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 We are pleased to present you the launch of the Famousbtc Ltd investing platform. We want to make you confident that all our efforts, experience and due diligence acquired for years will give good results in vast ocean of internet projects
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Fine China - 
+								Join
+								1% Daily For 260 Days, 2.5% Daily For 85 Days, 3% Daily For 60 Days | Ref : 1.1;
+								   1    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:25/Sep/2015
+									 Ref %:1.1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 30
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 1
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Maxi Pro - 
+								Join
+								1% daily for 500 days, 2.5% daily for 400 days, 5% daily for 300 days,  | Ref : 5;
+								   7    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:03/Aug/2015
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 25000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 7
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Maxi Pro is an innovative and practical "digital funds" platform online, which welcomes all members worldwide. We act solely as a facilitator between you (our members) and the Enterprise (our investment). This lucrative opportunity to earn money online was born in respond to ever-increasing global demand for Forex auto pilot software.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 USD Love - 
+								Join
+								104% After 1 Day, 115% After 3 Days, 140% After 7 Days | Ref : 3;
+								   8 1   
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:12/May/2016
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:03/Jun/2016
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:60.00 %
+									 Minimum:$ 10
+									 Maximum:$ 30000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 8
+											   Waiting1
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Unity Petroleum - 
+								Join
+								1.1% Daily for 100 days, 1.2% Daily for 100 days, 1.3% Daily for 100 days | Ref : 2;
+								   8    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:21/Jul/2015
+									 Ref %:2
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 8
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+Unity Petroleum is an experienced oil and natural gas production company. Since 1976, we have drilled and participated in the drilling of over 500 wells in Texas and Louisiana. Unity Petroleum is drilling for oil and gas, and then selling these recoverable resources to refineries. Unity Petroleumis currently working
+directly with most major national and international co
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 In Delhi - 
+								Join
+								3% weekly for lifetime | Ref : 1;
+								   7 1   
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:04/Mar/2016
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 25
+									 Maximum:$ 900
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 7
+											   Waiting1
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 In-Delhi offers stable short-term investment opportunities for all people around the globe. Investing, broadly is laying out money or capital in a company with the expectation of profit. Also banks do that but banks interest rates are very low compared to other options like Forex trading. Forex trading is the key to gain higher profits. We offer an opportunity to invest in
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 HiDeposit - 
+								Join
+								 | Ref : 10;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:08/Jul/2017
+									 Ref %:10
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:2.60 %
+									 Minimum:$ 30
+									 Maximum:$ 300000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 FantasticDeposit - 
+								Join
+								 | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:08/Aug/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.10 %
+									 Minimum:$ 10
+									 Maximum:$ 50000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 FantasticDeposit LTD is an associated company of Bitcoin Investment Limited specialising in bitcoin trade, and it is a fully registered investment company based in the United Kingdom. FantasticDeposit Ltd is an expert team of skilled Bitcoin traders and bitcoin market analysts with more than 6 years of experience in the coin trade market.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Wealth-code Inc - 
+								Join
+								108% after 1 day, 127% after 3 days, 170% after 7 days | Ref : 5;
+								   3    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:22/Sep/2015
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:28/Apr/2016
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:74.00 %
+									 Minimum:$ 10000
+									 Maximum:$ 50000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 3
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 You look for a way to improve the financial state in the shortest terms? "Wealth-code Inc" - the investment online project by means of which you will be able easily and quickly to increase the means. Our team consists of skilled professionals who will help you to get high profit steadily. Be registered right now and you will be able already to receive the first payment in 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Brilliant Inv - 
+								Join
+								1% Daily for 600 days, 2.5% Daily for 450 days, 5% Daily for 300 days | Ref : 5;
+								   6    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:06/May/2015
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 100000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 6
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Brilliant Inv is a foremost non-bank finance company offering first class investment plan, Financial Advisory, Corporate Finance and Wealth Management services to private clients, institutional investors and the clients of financial advisers. Our firm is focused on providing unbiased advisory and investment services to entities and individuals involved in investing in Fore
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 USD Profit - 
+								Join
+								 | Ref : 5;
+								   5    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:29/Sep/2015
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 25000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 5
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 USD Profit is a global network of professional firms providing comprehensive range of investment services to institutional and corporate clients across the world. We draw on our wide range of services and provide our clients with inventive investment banking advisory solutions.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Toptrade Capital - 
+								Join
+								2.5% daily for 85 days, 3% daily for 60 days, 5% daily for 60 days | Ref : .5;
+								   1    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:22/Sep/2015
+									 Ref %:.5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 25
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 1
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Top Trade Capital is a long term, secure and profitable investment program, backed up by Forex market trading, Cryptocurrency trading, and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term. 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 BTC Gains - 
+								Join
+								400% After 1 Day, 2000% After 2 Days, 11000% After 3 Days  | Ref : 3;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 200.00
+									 Added:24/Jul/2017
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:12/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:1.00 %
+									 Minimum:$ 30
+									 Maximum:$ 300000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 BTC GAINS is a company which was legally registered in UK in 2016. BTC GAINS offers investors from around the world favorable conditions to earn in the market of private crypto currency exchange and trading.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 7-lion - 
+								Join
+								4% Weekly for 800 Days | Ref : .5;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:16/Oct/2015
+									 Ref %:.5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 25
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 The company focuses on Forex market trading, stock market trading, cryptocurrency exchange and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term. 
+
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Mecca Funds - 
+								Join
+								5% Daily for 365 Days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:10/Jun/2016
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 25000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 We are among investors in the hotel sector which is active in Mecca and around the world. We are always searching and identify suitable hotels to invest to ensure high returns for our fund sharing holders.
+
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Indelible gain - 
+								Join
+								2% daily for 25 days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 30.00
+									 Added:17/Aug/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 50000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Indelible Gain Limited is well known company involved in investments & strategy making in share market trading shares. It is officially register in United Kingdom under companies house
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 2xcrypto - 
+								Join
+								 | Ref : 10;
+								       
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 25.00
+									 Added:19/Aug/2017
+									 Ref %:10
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 5
+									 Maximum:$ 10000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 As it is known to all the most modern and promising area of activity for 2xcrypto.us is trading on Forex multicurrency market. Among company staff are financial analysts and experts in the field of trading and financial forecasting, they have sufficient experience and, of course, necessary skills to conduct effective and profitable trading
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Coin Union Limited - 
+								Join
+								200% After 1 Day, 300% After 1 Day, 500% After 1 Day | Ref : 10;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:03/Jul/2017
+									 Ref %:10
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:3.70 %
+									 Minimum:$ 30
+									 Maximum:$ 300000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 COINUNION Limited is a professional cryptocurrency investment company since 2017. We are based in London and have in our employ investment professionals from many industries, ranging from advanced computer technology to engineering.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Business Partnership - 
+								Join
+								 | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 5.00
+									 Added:04/Jul/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:04/Jul/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:100.00 %
+									 Minimum:$ 10
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Business Partnership is Just a Multi Level Referral Program. Every one can Join and Get Business Partnership For Life Time. Business Partnership is not an Online Investment, Hyip, Reveshare or Paid to Click Website
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 NowDeposit - 
+								Join
+								 | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:20/Jun/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:5.00 %
+									 Minimum:$ 10
+									 Maximum:$ 300000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 NowDeposit LTD present the British company which confidently strives to occupy leading positions in the field of international investment and quality management of financial assets. An experienced team of professional traders on multicurrency, Forex market and the London Stock Exchange is ready to provide high-yield and safe service to all comers.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 UsdHour - 
+								Join
+								 | Ref : 3;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:22/Jun/2017
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:4.90 %
+									 Minimum:$ 10
+									 Maximum:$ 300000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 UsdHour.com specializes in the trading and exchange of cryptocurrencies. With the advent of Bitcoin our traders paid attention to the volatile fluctuations of its exchange rate and realized the prospects of a new type of electronic currency. From this moment we are focused on the study the features of work on crypto exchanges and conduct trading activity.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 7 Rings Investment - 
+								Join
+								5% Daily For 500 Days, 7% daily for 365 days | Ref : 5;
+								   7 1   
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:27/Jan/2016
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 20
+									 Maximum:$ 300000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 7
+											   Waiting1
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 7 Rings Investment is an intercontinental investment company specializing in online trading and investment across global financial markets. We enable private investors and institutional clients to trade in Stocks, Forex, Bonds, Gold, Hedge Funds and Private equities. In addition, 7 Rings Investment offer specialized portfolio and fund management. 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Bist Invest - 
+								Join
+								1% Daily For 30 Days, 2% Daily For 50 Days, 3% Daily For 100 Days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 30.00
+									 Added:02/Aug/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:10/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:3.33 %
+									 Minimum:$ 10
+									 Maximum:$ 300000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 BIST INVEST IS A WELL KNOWN COOPERATION WHICH FOCUS ITS ACTIVITY ON ISTANBUL STOCK EXCHANGE.TRADING SUCCESSFUL ACHIEVEMENTS IN MAIN ACTIVITY ALLOWED THE COOPERATION TO GROW DAY BY DAY BIST INVEST GIVES NEW FINANCIAL OPPORTUNITIES FOR ITS INVESTORS.OUR RESULT IS A PRODUCT OF EXPERIENCE,KNOWLEDGE AND HARD WORKING
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Super-Market - 
+								Join
+								3% Daily for 100 days, 7% Daily for 35 Days, 12% Daily for 20 Days | Ref : 23;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 10.00
+									 Added:05/Aug/2017
+									 Ref %:23
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:10/Aug/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:C
+									 ROI Ratio:6.00 %
+									 Minimum:$ 10
+									 Maximum:$ 100000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 SUPER-MARKET BUSINESS LTD is a registered investment company based in the United Kingdom under the company number 10874407. Our company consists of highly motivated and experienced professionals in many areas of financial activity. Our average customer type ranges from individual online entrepreneurs to banks and financial corporations willing to spare their savings in the
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Invest 2 Rich - 
+								Join
+								1.5% Daily for 365 days, 2.5% Daily for 365 days, 5% Daily for 365 days | Ref : 5;
+								   7    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:16/Mar/2016
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:48				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 300000
+									 User Rating:1		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 7
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 1
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 AlexaInvest - 
+								Join
+								500% after 1 day, 3000% after 2 days, 30000% after 3 days | Ref : 5;
+								   1    
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 100.00
+									 Added:05/Nov/2014
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:47				
+									 
+									 Class:C
+									 ROI Ratio:98.80 %
+									 Minimum:$ 50
+									 Maximum:$ 50000
+									 User Rating:2		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 1
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 1
+											   Bad 1
+											   
+											
+									 
+									 AlexaInvest.com Company specializes in financial trading on Foreign Exchange market. We provide our services to all interested individuals. If you want to earn serious money with the help of investments, then feel free to join our project!
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Wealth Manager - 
+								Join
+								1% Daily for 365 days, 2.5% Daily for 365 days, 5% Daily for 365 days | Ref : 5;
+								   6    
+									
+								
+								
+									 
+									 Status:waiting
+									 Our Inv:$ 0.00
+									 Added:28/Oct/2014
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:46				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 50000
+									 User Rating:2		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 6
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 2
+											   
+											
+									 
+									 Wealth Manager has focused on projects including Forex, Stock, Bonds, Hedge Fund, Gold and related businesses in the Asia, Middle East, Far East and North America.
+With a comprehensive business standard and a team of experienced leadership make up the core of a steadfast foundation which has allowed us to succeed and remain strong in the face of global financial challenge
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 WellDeposit - 
+								Join
+								300% After 1 Day, 1000% After 2 Days, 5000% After 3 Days | Ref : 15;
+								      1 
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 0.00
+									 Added:02/Sep/2014
+									 Ref %:15
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:46				
+									 
+									 Class:C
+									 ROI Ratio:10440.00 %
+									 Minimum:$ 20
+									 Maximum:$ 20000
+									 User Rating:2		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid1
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 2
+											   
+											
+									 
+									 WellDeposit.com is a financial investment company, backed up by Forex market, Bitcoin market trading and investing in various funds and activities all over the world. Our mission is to provide our investors with a great opportunity for their funds by investing as prudently as possible in higly profitable arenas with excellent returns on investment. We do have a reliable an
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Goodpay - 
+								Join
+								500% after 1 day, 5000% after 2 days, 50000% after 3 days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 150.00
+									 Added:13/Jun/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:09/Aug/2017
+									 Withdraw:Manual
+									 Rating:46				
+									 
+									 Class:C
+									 ROI Ratio:5.60 %
+									 Minimum:$ 30
+									 Maximum:$ 300000
+									 User Rating:2		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 2
+											   
+											
+									 
+									 Welcome to investment service for good pay of futures contracts on GoodPay.Biz Ltd is done in real time experienced transporters with experience of years
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 SafeInvLtd - 
+								Join
+								3% Weekly for 1000 days, 4% Weekly for 1000 days | Ref : 1;
+								       
+									
+								
+								
+									 
+									 Status:paying
+									 Our Inv:$ 0.00
+									 Added:13/Jan/2017
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:0				
+									 
+									 Class:C
+									 ROI Ratio:0.00 %
+									 Minimum:$ 1
+									 Maximum:$ 1000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 safeinvltd.com is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+									 
+									 						 
+								
+							 Scams - Do not Invest
+								   
+								
+								
+								 Zooo - 
+								Join
+								3% weekly for lifetime | Ref : 1;
+								   9 1 1  
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 50.00
+									 Added:31/Jan/2015
+									 Ref %:1
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:21/May/2017
+									 Withdraw:Manual
+									 Rating:326				
+									 
+									 Class:S
+									 ROI Ratio:127.70 %
+									 Minimum:$ 50
+									 Maximum:$ 700
+									 User Rating:138		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 9
+											   Waiting1
+											   Problem1
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome138
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Zooo.cc is a professionally managed group of skilful traders. Our primary job is to help our members profit. We are professionals and we have developed a system that will allow you to profit handsomely. It includes defined risk and suggested money management which are both required for consistent profits and capital preservation. 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Forex Paradise - 
+								Join
+								0.5% Daily for 15 Days, 0.6% Daily for 15 Days, 0.7% Daily for 15 Days,  | Ref : 1.5;
+								   16 1   
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 0.00
+									 Added:11/Feb/2014
+									 Ref %:1.5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:14/Jul/2016
+									 Withdraw:Manual
+									 Rating:51				
+									 
+									 Class:S
+									 ROI Ratio:625.00 %
+									 Minimum:$ 25
+									 Maximum:$ 500000
+									 User Rating:1		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 16
+											   Waiting1
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 1
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 forexparadise.net was created to provide you with the opportunity to multiply their income in a safe and modern way. Our activities focus mainly on the Forex market. We strive to provide you with a safe place to invest. We have protection against DDoS attacks and SSL security. We have a group of professional traders, skilled analysts with many years of experience and many 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Car Invest - 
+								Join
+								123% after 1 day, 222% after 5 days, 570% after 12 days | Ref : 3;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 200.00
+									 Added:19/Jul/2017
+									 Ref %:3
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:28/Jul/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.80 %
+									 Minimum:$ 10
+									 Maximum:$ 30000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Hour Bitime - 
+								Join
+								130% After 1 Day, 220% After 3 Days, 400% After 4 Days | Ref : 4;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 30.00
+									 Added:22/Apr/2017
+									 Ref %:4
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 10000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Gcprofits Inc - 
+								Join
+								5% daily for 365 days, 11% daily for 14 days, 11% daily for 30 days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 100.00
+									 Added:03/May/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:08/Jul/2017
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:17.60 %
+									 Minimum:$ 10
+									 Maximum:$ 50000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 International gcprofits.com is a secure investment project composed by a group of experienced mature certified financial professionals and market analysts. Our aim is to chart a winning course for our clients through growing and preserving their assets regardless of economic condition.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 FxLTD Limited - 
+								Join
+								110% After 7 Days, 207% After 30 Days, 500% After 50 Days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 0.00
+									 Added:04/May/2017
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.00 %
+									 Minimum:$ 3
+									 Maximum:$ 50000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 FxLTD LIMITED is an organization made by experts of forex Trading and stocks Management group members, they Know How Cash Development! 
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Agilital Inc. - 
+								Join
+								1.83% Daily for 120 days | Ref : 8;
+								   3    
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 0.00
+									 Added:06/May/2016
+									 Ref %:8
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 3
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Every trading day investor receives a share of our daily trading profit. Share percentage depends on amount invested and the larger the investments are, the higher is the share. The minimal share percentage is 60% for the minimal investment, and can significantly increase up to 90% for investments of 8,000 USD/EUR or more.
+
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Seasonal Traders Compa - 
+								Join
+								0.50% Daily for 90 days, 2% Weekly for 180 days, 4% Weekly for 60 days | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 0.00
+									 Added:11/Sep/2014
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 10000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Welcome to investment service for trust management of futures contracts on the exchange CFD. Trading is done in real time experienced traders with experience of 7 years.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 FastPayMoney - 
+								Join
+								400% After 1 Day, 1000% After 2 Days, 4000% After 3 Days | Ref : 20;
+								      1 
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 100.00
+									 Added:02/Apr/2014
+									 Ref %:20
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:03/Jan/2016
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:62.70 %
+									 Minimum:$ 20
+									 Maximum:$ 200000
+									 User Rating:2		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid1
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome1
+											   Good 0
+											   Weak 0
+											   Bad 1
+											   
+											
+									 
+									 Fastpaymoney.com is a world wide online investment. a real paying online investment, Most of investors search real paying investment, Operating for over eight years, experienced fund manager. we will pay all of our investors fast efficient profits back. Just 1 - 3 days you will get Instantly Payment $ 40, $ 2000, $ 20000 and more.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Dowerly - 
+								Join
+								0.2% Daily for 140 days, 0.2% Daily for 100 days, 0.2% Daily for 80 days | Ref : 5;
+								   10 1   
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 0.00
+									 Added:24/Dec/2015
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.00 %
+									 Minimum:$ 25
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 10
+											   Waiting1
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Dowerly Limited (UK Companies House: 09926681) is a Revenue Sharing system, where our clients can invest money into various business opportunities and earn a fixed return of their investments (from 130% to 150% returns). We are working with several payment processors and are paying instantly to our members.
+
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 PokerAdv - 
+								Join
+								12% Monthly for 30 days, 15% Monthly for 45 days, 18% Monthly for 60 days | Ref : 8;
+								   11 1   
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 0.00
+									 Added:29/Oct/2015
+									 Ref %:8
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.00 %
+									 Minimum:$ 25
+									 Maximum:$ n/a
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 11
+											   Waiting1
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 We are Poker experts working with custom developed poker robots, which can generate a stable daily income. Our members are coming from all over the world, Poker players, Investors, Financial Advisors and everyone else, they all like our way of making money!
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Statelife - 
+								Join
+								 | Ref : 5;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 0.00
+									 Added:02/Dec/2015
+									 Ref %:5
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.00 %
+									 Minimum:$ 3
+									 Maximum:$ 70000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 The statelife.net | Wonderful Money Making Miracle Online Business was nationalized during March 2012. Initially statelife.net | Wonderful Money Making Miracle Online business of 7 Investment Companies was merged and placed under three Units named “A”, “B” and “C” SIC Units. However, later these Beema Units were merged and effective November 1, 2013 the Managem
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Bitec Future Limited  - 
+								Join
+								100% after 30 days | Ref : 15;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 0.00
+									 Added:27/Apr/2017
+									 Ref %:15
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.00 %
+									 Minimum:$ 10
+									 Maximum:$ 100000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Bitec Future Limited was founded in 2016 as a Bitcoin mining & trading investment platform by a group of Bitcoin enthusiasts. Due to the unique infrastructure of Bitec Future Limited, the average mining income surpassed all other cloud mining farms.
+									 
+									 						 
+								
+							 
+								   
+								
+								
+								 Accelerate Fund - 
+								Join
+								5.5% Daily Profit for 25 Days, 16.7% Weekly for 10 Weeks, 66% Monthly for 4 Months | Ref : 8;
+								       
+									
+								
+								
+									 
+									 Status:notpaid
+									 Our Inv:$ 0.00
+									 Added:08/Oct/2016
+									 Ref %:8
+									 Accepts:				
+									 
+									 AntiDDoS:No
+									 SSL:No
+									 Lastpay:-
+									 Withdraw:Manual
+									 Rating:50				
+									 
+									 Class:S
+									 ROI Ratio:0.00 %
+									 Minimum:$ 1
+									 Maximum:$ 250000
+									 User Rating:0		
+									 
+									 
+									
+									 
+									 
+									 
+									        
+											      [Full Details +]
+										          [Monitors Stats]
+											      [Banner Stats]
+											      [Vote/Rating]
+											      [Banner Codes]
+												  
+												        
+			   
+			   
+			   
+			   
+			   
+												  
+										    
+									 
+									 
+									 
+											
+											   Monitor Stats
+											   Paying 0
+											   Waiting0
+											   Problem0
+											   NotPaid0
+											   
+											
+									 
+									 
+											
+											   User Ratings
+											   Awesome0
+											   Good 0
+											   Weak 0
+											   Bad 0
+											   
+											
+									 
+									 Acceleratefund.com is a place to invest and earn profits with stable percent .We are an investment company uniting professional stock, forex traders & gold trade. Our focus is to offer to individuals an exclusive funds management service.
+									 
+									 						 
+								
+							 						  
+
+
+
+	
+					
+
+
+
+
+
+					
+				
+
+
+				
+                
+				
+				
+				
+				
+				   Recommended SitesThis Ad - $ 73.00/30 daysThis Ad - $ 69.00/30 daysThis Ad - $ 65.00/30 daysThis Ad - $ 60.00/30 daysThis Ad - $ 50.00/30 days
+				    				
+			
+Latest PayoutsFxHeadWay$ 0.20  (19/08/17)BTC Gains$ 2.00  (12/08/17)Super-Market$ 0.60  (10/08/17)Bist Invest$ 1.00  (10/08/17)FantasticDeposit$ 0.10  (09/08/17)Coin Union Limited$ 1.60  (09/08/17)FamousBtc$ 0.60  (09/08/17)HiDeposit$ 0.70  (09/08/17)UsdHour$ 0.70  (09/08/17)NowDeposit$ 0.70  (09/08/17)Earninghour$ 0.70  (09/08/17)GraspInvest$ 0.70  (09/08/17)Goodpay$ 1.05  (09/08/17)HourPay$ 0.60  (09/08/17)Safetypaying$ 0.60  (09/08/17)Latest CommentsFX Fortune   sangmin1976 (16/Aug/17)  Said: The BTC has been received. I made a mistake. So we invested again. Im sorry.Goodpay   spoedspandoek (16/Aug/17)  Said: They dont pay its a Scam!! I contacted them trough chat and E-mail. but still noFX Fortune   sangmin1976 (15/Aug/17)  Said: I made my first deposit on August 14.
+Still, we still cant deposit. BIT DepositInvest 2 Rich   HO[R]N[I]EST YTBR NR 6 (08/Aug/17)  Said: Hello!
+
+This is my official SCAM complaint about invest2rich.com:
+https://youInvestellect   Вика Викина (21/Jul/17)  Said: Paying %%!
+19:48 20.07.17 182563347 Received Payment 6.00 USD from account U134Goodpay   elizabethOGT (10/Jul/17)  Said: Those 0.2, 0.5, 1.9 USD paid to my account by goodpay.biz posts are fake. GoodpaZooo   Kshitij Gunjale (23/May/17)  Said: Site got scam now :( I didnt even got my invested principalZooo   yingy9028 (22/May/17)  Said: Thanks...You are the best as always
+22.05.17 01:13 Receive Received Payment 95.Zooo   Fathony1990 (22/May/17)  Said: Zooo Proprietary Limited is the first and only my choice!
+The amount of 650 USDZooo   yingy9028 (21/May/17)  Said: 21.05.17 03:26 Receive Received Payment 280.25 USD from account U7422663 to accoZooo   Fathony1990 (21/May/17)  Said: Thanks for keeping my fund growing as I like it to be
+The amount of 106 USD hasZooo   delicatter (21/May/17)  Said: Nicely Done!
+The amount of 510.98 USD has been deposited to your account.
+AccoZooo   Vigierzii (20/May/17)  Said: Thanks for paying so quick
+Date : 20/05/2017 03:21	
+From/To Account : U7422663Zooo   Diawarazaa (20/May/17)  Said: I really want to thank these guys !!! I could not ask for better results
+The amZooo   token_aiayuyuyu (20/May/17)  Said: You are one of the best person that I see on net
+The amount of 202 USD has been
+
+<!--
+google_ad_client = 'ca-pub-2710309427035344';
+google_ad_slot = '3942702451';
+google_ad_width = 120;
+google_ad_height = 600;
+
+
+
+
+
+
+
+
+  var ptAccount = "52A3691C-CD03-49FB-8D9B-4AB2D51E146F";
+  try { ptInit(ptAccount); } catch (err) { }    
+
+
+  
+
+
+
+
+
+
+Hyip Sites News»Popular Hyip Monitor...Aug 13, 2017- decided to not continue working with...News » safeinvltd.com»The technical updating of...Aug 09, 2017- visitors of the official site of our investment...News » cryptosolutions.biz»Our servers have changed ...Aug 08, 2017- Our servers have changed the access protocol...News » cryptosolutions.biz»The web-version in Russia...Aug 05, 2017- Management has made the decision about providing to users ...News » cryptosolutions.biz»SegWit UASF BIP 148 Proto...Aug 02, 2017- The proposal to scale the Bitcoin UASF...News » investellect.net»Regional Representatives ...Aug 01, 2017- We have great news for all our members ...News » unitypetroleum.biz»paying more than 1000 day...Jul 29, 2017- We are proud to inform you that our...News » fxheadway.com»200 days online...Jul 25, 2017- Team would like to thank you and trust us...News » safeinvltd.com»MNO Review Published...Jul 21, 2017- Our review was published on MNO...News » fxltd.biz»Phone Support and Live Ch...Jul 16, 2017- 850 days online already and happy...News » investellect.net»Official Newsletter...Jul 04, 2017- First I want to thank you for your interest...News » securecapitals.com»Skype Chat Started...Jul 03, 2017- happy to inform you that we started the ...News » fxltd.biz»Sunny Referral Commission...Jul 02, 2017- hope we get a decent Summer this year...News » investellect.net»Official launch...Jun 30, 2017- we are launching our new program...News » bandeiracorp.biz»Official Newsletter...Jun 26, 2017- want to thank you for your interest in our program...News » securecapitals.com
+
+
+
+
+			
+					
+				
+				
+				
+				
+
+				
+				
+				
+			
+		
+	
+
+	
+	   
+		  
+			Copyright © 2017 HyipBox.com by BizJaya.com 
+			| SiteFeed 
+			| NewsFeed 
+			| SiteMap
+			
+			
+			Back to top
+		  
+	   
+	
+
+
+
+		head.js(
+		      'http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js',
+			'js/jquery.microaccordion.js',
+			'js/jquery.stickyPanel.js',
+			'js/xbreadcrumbs.js',
+			'js/lagu.js',
+			function(){
+				$('.mAccordion').microAccordion({
+				  openSingle: false,
+					closeFunction: function (obj) {
+						obj.slideUp('fast');
+					},
+					toggleFunction: function (obj) {
+						obj.slideToggle('fast');
+					}
+				});
+			}	
+		);

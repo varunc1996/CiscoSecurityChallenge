@@ -1,0 +1,13 @@
+body { font-family: Ubuntu; font-size: 20pt; margin-top: 50px;}
+	p { text-align: center; margin-bottom: 0px; }
+	.console { font-family: "Lucida Console", Monaco, monospace; font-size: 14pt; width: 50%; margin: 0 auto; margin-top: 40px;}
+	a:link { text-decoration: none; color: black; }
+	a:visited { text-decoration: none; }
+	a:active { text-decoration: none; }
+	a:hover { text-decoration: none; }
+
+
+
+Owned.
+by @Michel gaschet #whitehat ( Mailto : me[at]michelgaschet.gp )
+In a recent analysis of the leaked  Russian TLDs DNS root zone, thanks to the TLDR Project, i've discovered in the .su zone multiple domains (crdsu.su, cardmafia.su and -special case- codeshop.su) who was using "ns[12].spamhaus.su" as Primary and Secondary NS. To avoid any malicious use, and - it must be admitted - for fun, I registered the domain (9 â‚¬ on nic.ru :D ) and added it to my dedicated kimsufi server.crdsu.su was registered on 2015-10-29T14:11:45Z and expire on 2017-10-29T14:11:45Zcardmafia.su on 2016-06-05T00:59:20Z and expire on 2018-06-05T00:59:20Zcodeshop.su has... already expired on 2017-06-29T20:42:27Z and moved to nic.ru expired NS (expirepages-kiae-[12].nic.ru)

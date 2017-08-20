@@ -1,0 +1,3451 @@
+HyipFinder.com-High Yield Investment Programs Rating and Monitoring site
+
+
+
+
+
+checkEmail = function(email) {
+  if (!email)
+  {
+    return 1;
+  }
+  else
+  {
+    a = email.indexOf('@');
+    b = email.indexOf('@', a+1);
+    c = email.lastIndexOf('.');
+    if (a == -1 || b != -1 || c <= a + 2 || a < 1 || c + 2 >= email.length || c + 5 < email.length)
+    {
+      return 2;
+    }
+  }
+  return 0;
+}
+
+startList = function() {
+      if (document.all&&document.getElementById) {
+            navRoot = document.getElementById("nav");
+            for (i=0; i<navRoot.childNodes.length; i++) {
+                  node = navRoot.childNodes[i];
+                  if (node.nodeName=="LI") {
+                        node.onmouseover=function() { this.className+=" over"; }
+                        node.onmouseout=function() { this.className=this.className.replace(" over", ""); }
+                  }
+            }
+      }
+}
+window.onload=startList;
+
+
+
+
+
+
+
+ 
+
+ 
+
+Buy rotating banner here right now for $10.00/week
+ 
+
+
+
+
+
+     
+     
+     Available Now for $45.00/week
+     
+
+
+     
+     
+     Available Now for $40.00/week
+     
+
+
+     
+     
+     Available Now for $35.00/week
+     
+
+
+     
+     
+     Available Now for $30.00/week
+     
+
+
+     
+     
+     Available Now for $25.00/week
+     
+
+
+
+
+
+
+
+ 
+  
+ 
+ 
+  Home »
+   
+    New
+      Premium
+      Normal
+      Trial
+      Free
+      Scam
+      Closed
+      Exclusive
+           
+   
+  
+  News 
+  Advertise
+   
+    Add program
+    Banners & Ads
+   
+  
+  RCB
+   
+    RCB Programs
+    RCB Requests
+   
+  
+  Directory
+  Articles
+  Support
+ 
+
+
+ 
+ 
+
+  
+      
+       
+       
+       Available Now for $16.00/week
+       
+  
+        
+       
+       
+       Available Now for $14.00/week
+       
+  
+        
+       
+       
+       Available Now for $12.00/week
+       
+  
+        
+       
+       
+       Available Now for $10.00/week
+       
+  
+        
+       
+              
+       
+              Available on Oct 26, 2017 for $5.00/week
+       
+  
+      
+
+
+ 
+ Exclusive
+   List your program in the Exclusive listing
+  
+
+
+
+
+
+CryptoSolutions
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+   MMGP   
+
+
+  
+  Paying    
+     
+     
+            
+         
+  
+  101.1% After 1 Day
+  Min/Max: 20 / 200
+  Referral:  1%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $30.00
+  Payout Ratio: 2% 
+  Last Payout: Jan 13th, 2017
+    Added: Dec 12th, 2016
+  Monitored: 251 days
+    Lifetime: 499 days
+  
+
+
+A little bit about our activities.
+CryptoSolutions  company carries out the trading of cryptocurrency funds on the specialized cryptocurrency exchanges, minimizing sags and drawdowns by restructuring of investment means. Using exchange spatial arbitration and exchange rate arbitrage, we create the most comfortable conditions to implementation of our investment obligations to our clients in full.
+   
+
+
+
+
+
+
+Aurum Bank
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+   MMGP   
+
+
+  
+  Waiting    
+     
+     
+       
+  
+  2% weekly, for 365 days; 0.4% Daily, for 365 days; 1% daily, for 365 days; 14% monthly, for 365 days; 33% monthly, for 365 days
+  Min/Max: 50 / No Limit
+  Referral:  0.5%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Jun 14th, 2016
+  Monitored: 432 days
+    Lifetime: 843 days
+  
+
+
+Aurum Bank is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts. Aurum Bank is a long investment program, backed up by Forex market trading, microcredit and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+  
+
+
+
+
+
+
+YESSS
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Waiting    
+     
+     
+       
+  
+  2% Weekly, For 777 Days,0.8% Daily, for 260 Trading Days, PRINCIPAL INCLUDED,1% Daily, for 260 Trading Days, PRINCIPAL INCLUDED
+  Min/Max: 25 / n/a
+  Referral:  up to 0.50%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Jul 2nd, 2016
+  Monitored: 414 days
+    Lifetime: 675 days
+  
+
+
+YESSS Company is a high profitable, secure and stable investment program. By combining the knowledge, expertise, unique tactics and strategy of our skillful traders, YESSS provides the most successful trading on the Forex market trading, commodity, stock and cryptocurrency exchange. All you need to do is invest in Company on our website yesss.cc, and get a high and stable income!
+Enjoy!
+ 
+
+
+
+
+
+
+ 
+ Premium
+   List your program in the Premium listing
+  
+
+
+
+
+
+CYBER 9
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+              
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Paying    
+     
+     
+       
+  
+  Up To 9% Bi-weekly, for 999 days,999% After 90 Calendar days,9% Daily, for 15 working days
+  Min/Max: 30 / n/a
+  Referral:  up to 0.75%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Nov 21st, 2016
+  Monitored: 272 days
+    Lifetime: 667 days
+  
+
+
+CYBER 9 is a long term and profitable investment company, backed up by Cryptocurrency market trading, Stock market trading, Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our investment program and increase its stability for the long term.
+
+CYBER 9 created for people willing to achieve their financial freedom but unable to do so because they're not financial experts. The only thing need to do is register on our website, choose an investment plan, choose the amount of money to invest, and our highly trained specialists will take care of the rest.
+ 
+
+
+
+
+
+
+Fine China
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+              
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Waiting    
+     
+     
+       
+  
+  Up To 17% Weekly, for 777 days,0.8% Daily, for 280 trading days,1% Daily, for 260 trading days
+  Min/Max: 30 / n/a
+  Referral:  up to 0.50%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Feb 18th, 2017
+  Monitored: 183 days
+    Lifetime: 695 days
+  
+
+
+Fine China performs the brokerage services, investing in China's industry and trading on the stock market. Profits from these investments are used to enhance our program and increase its stability for the long term.
+Fine China is a long term, stable and profitable investment program for people willing to achieve their financial freedom.
+ 
+
+
+
+
+
+
+BILLION STARS
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+              
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Waiting    
+     
+     
+       
+  
+  Up to 10% Bi-weekly, for 800 days
+  Min/Max: 25 / n/a
+  Referral:  up to 1.00%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Feb 18th, 2017
+  Monitored: 183 days
+    Lifetime: 670 days
+  
+
+
+BILLION STARS is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts. BILLION STARS is a long term and profitable investment program, backed up by Stock market trading, Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+ 
+
+
+
+
+
+
+Titan Bank
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+              
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Waiting    
+     
+     
+       
+  
+  2% Weekly, for 600 days
+  Min/Max: 50 / n/a
+  Referral:  up to 0.50%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Feb 18th, 2017
+  Monitored: 183 days
+    Lifetime: 702 days
+  
+
+
+Titan Bank is a stable, long term investment program, backed up by stock market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term. Our program is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts. Join us today and your life will be happy and fulfilling!
+ 
+
+
+
+
+
+
+ 
+ Normal
+   List your program in the Normal listing
+  
+
+
+
+
+
+BEST from the BETS
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+             
+  
+   AHM|AllHM RU|All hyip monitors|
+   TG MMG DTM MMGP   
+
+
+  
+  Waiting    
+     
+     
+       
+  
+  2% weekly, for 2 years
+  Min/Max: 30 / No Limit
+  Referral:  0.5%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Jul 10th, 2016
+  Monitored: 406 days
+    Lifetime: 671 days
+  
+
+
+BEST From The BETS is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+BEST From The BETS is a long term and profitable investment program, backed up by Sport Betting trading, Stock market trading, and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+BEST From The BETS - Simply Best!
+ 
+
+
+
+
+
+
+Funds Broker
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+   TG MMG DTM MMGP   
+
+
+  
+  Waiting    
+     
+     
+       
+  
+  2.1% weekly, for 800 days
+  Min/Max: 30 / No Limit
+  Referral:  up to 0.5%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Jul 8th, 2016
+  Monitored: 408 days
+    Lifetime: 676 days
+  
+
+
+The Funds Broker Company was founded to perform brokerage services and a number of profitable and promising areas, such as investing in Forex market trading, cryptocurrency and trading on the stock market. Strong, highly efficient, talented and close-knit team, with a wealth of experience in finance and investment, making Funds Broker a perfect and unique money-making machine!
+
+Join us today!
+ 
+
+
+
+
+
+
+DollarBill
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+   TG MMG DTM MMGP   
+
+
+  
+  Waiting    
+     
+     
+       
+  
+  2.1% weekly, for 700 days
+  Min/Max: 30 / No Limit
+  Referral:  up to 0.5%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Jul 5th, 2016
+  Monitored: 411 days
+    Lifetime: 693 days
+  
+
+
+DollarBill is an secure and profitable investment platform, backed up by Forex market trading, Stock Market trading, Cryptocurrency trading, and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+DollarBill is the best choice for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+DollarBill - Your first million is easy!
+ 
+
+
+
+
+
+
+Trust-FX
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+   MMGP   
+
+
+  
+  Waiting    
+     
+     
+       
+  
+  
+  Min/Max:  / No Limit
+  Referral:  No
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Jul 15th, 2016
+  Monitored: 401 days
+    Lifetime: 739 days
+  
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+ Trial
+   List your program in the Trial listing
+  
+
+
+
+
+Currently there are no items in the Trial listing 
+
+
+ 
+ Scam
+  
+
+
+
+
+
+Zooo
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+   TG MMG DTM MMGP   
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  2% daily for 75 days, 3% daily for 50 days,4% daily for 20 days,750% after 75 days,500% after 50 days
+  Min/Max: 50 / n/a
+  Referral:  8%
+  Withdrawal: 
+  Instant                           
+  Ref. Back: 555%    
+                   
+
+
+  
+  
+   
+   82
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Jun 29th, 2015
+  Monitored: 698 days
+    Lifetime: 848 days
+  
+
+
+Zooo.cc is a professionally managed group of skilful traders. Our primary job is to help our members profit. We are professionals and we have developed a system that will allow you to profit handsomely. It includes defined risk and suggested money management which are both required for consistent profits and capital preservation.
+Currency markets are highly speculative and volatile in nature. Any currency can become very expensive or very cheap in relation to any or all other currencies in a matter of days, hours or sometimes minutes. This exact volatile nature of the currencies is what attracts an investor to trade and invest in the currency market. Investing your money in a fixed deposit account of a bank is relatively safer. Each investor should examine their allowable risk and keep it within a reasonable amount he or she can easily afford to lose.
+    
+ 
+
+
+
+
+
+In-Delhi
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+   TG MMG DTM MMGP   
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  3% weekly for lifetime!
+  Min/Max: 25 / 900
+  Referral:  1%
+  Withdrawal: 
+  Instant                           
+                   
+
+
+  
+  
+   
+   1
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Apr 28th, 2016
+  Monitored: 436 days
+    Lifetime: 492 days
+  
+
+
+In-Delhi offers stable short-term investment opportunities for all people around the globe. Investing, broadly is laying out money or capital in a company with the expectation of profit. Also banks do that but banks interest rates are very low compared to other options like Forex trading. Forex trading is the key to gain higher profits. We offer an opportunity to invest in the forex market.
+ 
+ 
+
+
+
+
+
+D-Dollar
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  3% weekly for 800 days!
+  Min/Max: 40 / 1000
+  Referral:  1%
+  Withdrawal: 
+  Instant                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Apr 28th, 2016
+  Monitored: 436 days
+    Lifetime: 494 days
+  
+
+
+D-Dollar is a certified investment company offering profitable and sustainable investment opportunities to the general online investors. Our first goal is to bring on the online world a long standing program that fulfills its promises to members, allow clients to secure a level of financial freedom that has been unobtainable with other programs in the past.
+ 
+
+
+
+
+
+
+Diamond Invest
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+            
+         
+  
+  2.1% daily for 25 days
+  Min/Max: 10 / 200
+  Referral:  1%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $55.00
+  Payout Ratio: 67% 
+  Last Payout: Jul 10th, 2016
+    Added: Jun 6th, 2016
+  Monitored: 41 days
+    Lifetime: 139 days
+  
+
+
+Diamond Invest Ltd Company has been operating in the precious stones and metals market since 2004. As experience is gained, the model of consolidation of the reached positions on the highly competitive market has been developed. Nowadays the company brings together three areas of work with gems, which together create an interesting opportunity to profit on a balanced portfolio. Diamond Invest Ltd acquires both the last cut stones for subsequent sale in the jewelry market and the wholesale shipments of rough stones, conducting an independent examination before delivery to the customers from the microelectronics industry, metal processing, and medical device manufacturers.
+ 
+
+
+
+
+
+
+Fxbroker
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+            
+         
+  
+  2.05% Daily For 50 Days
+  Min/Max: 10 / 300
+  Referral:  1%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $35.00
+  Payout Ratio: 14% 
+  Last Payout: Jun 27th, 2016
+    Added: Jun 17th, 2016
+  Monitored: 31 days
+    Lifetime: 91 days
+  
+
+
+Our program is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+Fxbroker is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+ 
+
+
+
+
+
+
+Beta Shares LTD
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  2.1% Daily For 12 Days ( Principal Return )
+  Min/Max: 10 / 500
+  Referral:  1.5%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Jun 24th, 2016
+  Monitored: 9 days
+    Lifetime: 32 days
+  
+
+
+We are company with expertise and efficiency in the world foreign exchanges and gold trading. We here always provide the best service for investors in terms of money management and risk management in making an investment.We here also always promise satisfaction to investors by providing the best system in the process of depositing money and the process of withdrawal.
+Our firm ensures that you do not get a single moment to regret or complain. Our hard working and dedicated team makes sure that your account is being handled in the most efficient manner.
+ 
+  
+
+
+
+
+
+Brason Investment Ltd
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+   MMGP   
+
+
+  
+  Not Paying    
+     
+     
+            
+         
+  
+  0.6% daily for 10 days + return principal
+  Min/Max: 10 / 1000
+  Referral:  2%
+  Withdrawal: 
+  Instant                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $30.00
+  Payout Ratio: 4% 
+  Last Payout: Jan 29th, 2017
+    Added: Jul 15th, 2016
+  Monitored: 358 days
+    Lifetime: 426 days
+  
+
+
+Our program is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+brason-inv.com is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+ 
+  
+
+
+
+
+
+SushiPower
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  103% - 130% after 1 day, 110% - 200% after 3 days,117% - 275% after 5 days, 135% - 370% after 7 days
+  Min/Max: 10 / No Limit
+  Referral:  3%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Jul 27th, 2016
+  Monitored: 13 days
+    Lifetime: 14 days
+  
+
+
+Our company SushiPower helps you to get an incredible high return on your investments. If you don't like to waste time and if you want to earn big money easy - this program is for you. To participate in our program you need only one thing. All you need is desire to get rich. Our professional financial team and financial advisers are always at your service. We will help you to earn easy way.
+
+You can deposit any amount of money at any moment, and we have no withdrawal minimum. You can get your profit at any moment. And remember - the more you deposit, the more you earn. We have highly profitable investment plans, and you can just choose the more interesting for you. You will be surprised how many people work for our company. And you can earn a huge sum of money without any efforts. Simply deposit money and wait. All the rest will be made by our experts. They are engaged in it for all life, and we can give you guarantees that you won't risk your money. To start work with us and to do profitable investments you must read the company rules and make a deposit. Start earning money today and make your life much better with SushiPower!
+ 
+
+
+
+
+
+
+Bitcoin Bank
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+              
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+            
+              
+         
+  
+  2.2 % Daily For 20 Days,4000% After 160 days
+  Min/Max: 10 / 2500
+  Referral:  3%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $25.00
+  Payout Ratio: 124% in profit
+  Last Payout: Oct 1st, 2016
+    Added: Aug 11th, 2016
+  Monitored: 62 days
+    Lifetime: 109 days
+  
+
+
+Our program is intended for people willing to achieve their financial freedom.
+Bitcoin Bank is a long term high yield private loan program, backed up by cryptocurrency market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+ 
+  
+
+
+
+
+
+RapidIncome
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  DAILY 2.5% FOREVER - 75% Monthly
+  Min/Max: 20 / 200000
+  Referral:  5-13%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Aug 14th, 2016
+  Monitored: 44 days
+    Lifetime: 44 days
+  
+
+
+RapidIncome has a distinctive style & attitude, setting it apart from other BTC Arbitrage trading / mining companies. Our corporate vision is the blueprint to our success. We define 'success' by the uninterrupted ability to execute margin trading strategies & increase our server performance to gain competitive advantage over the BTC mining industry. Our people's talent and passion are critical to achieve and maintain solid results in today's non-stop market operation, so we have assembled a group of highly motivated and experienced BTC analysts that values teamwork, integrity, entrepreneurial flair & personal excellence. Together our ultimate goal is to deliver the best-in-class service, one you can trust to remain stable and mutually profitable in the long term.
+   
+  
+
+
+
+
+
+Realcapital
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+   MMGP   
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  122% After 10 Days (2.2% Daily + Return 100% Principal)
+  Min/Max: 10 / 1000
+  Referral:  3%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   5
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Aug 27th, 2016
+  Monitored: 46 days
+    Lifetime: 54 days
+  
+
+
+Our program is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+Realcapital.biz is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+ 
+  
+
+
+
+
+
+Cmetrades
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+   TG MMG DTM MMGP   
+
+
+  
+  Not Paying    
+     
+     
+            
+         
+  
+  5% daily for 50 days
+  Min/Max: 10 / 100000
+  Referral:  1%
+  Withdrawal: 
+  Manual                           
+  Ref. Back: 555%    
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   1
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $45.00
+  Payout Ratio: 52% 
+  Last Payout: Dec 8th, 2016
+    Added: Aug 27th, 2016
+  Monitored: 315 days
+    Lifetime: 582 days
+  
+
+
+Our program is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+cmetrades.com is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+ 
+
+
+
+
+
+
+E PRO
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+              
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  101.5% After One Day
+  Min/Max: 10 / 500
+  Referral:  1%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Sep 19th, 2016
+  Monitored: 64 days
+    Lifetime: 67 days
+  
+
+
+Our program is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+E PRO is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+  
+  
+
+
+
+
+
+Crypto Plaza Limited
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+   MMGP   
+
+
+  
+  Not Paying    
+     
+     
+            
+         
+  
+  102.5%-130% After 1 Day,108%-220% After 3 Days and more...
+  Min/Max: 10 / 100000
+  Referral:  3%-7%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   12
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $55.00
+  Payout Ratio: 4% 
+  Last Payout: Oct 26th, 2016
+    Added: Oct 17th, 2016
+  Monitored: 36 days
+    Lifetime: 53 days
+  
+
+
+Investments into the cryptocurrency funds – a main type of business of our company.
+We use the latest technological developments in trading of cryptocurrency pairs and we suggest investors to use investment opportunities of our company from around the world.
+Our website is intended for management, statistics and handling of all financial transactions associated with investment.
+The account is provided to each investor which becomes available to use right after registration on our website.
+   
+  
+
+
+
+
+
+Smart Margin
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+            
+         
+  
+  101.5% after 1 day
+  Min/Max: 10 / 600
+  Referral:  1.5%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   1
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $20.00
+  Payout Ratio: 1% 
+  Last Payout: Nov 15th, 2016
+    Added: Nov 8th, 2016
+  Monitored: 46 days
+    Lifetime: 48 days
+  
+
+
+Smart Margin is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+ 
+
+
+
+
+
+
+Tea House
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  102.50%-120% After 1 Day,114.00%-220% After 5 Days and more
+  Min/Max: 10 / 100.000
+  Referral:  up to 10%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   2
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   1
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Dec 24th, 2016
+  Monitored: 140 days
+    Lifetime: 141 days
+  
+
+
+Tea plantations in the mountains regions of Sri Lanka are give to mankind the best kinds of black tea in the world. The cost of some high grades of tea can reach several tens and even hundreds of thousands of dollars per pound! But at the same time consumption of this one of the most famous of drink continues to increase from year to year, giving the new opportunities for all tea traders in the world.
+   
+
+
+
+
+
+
+Advplaza
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+               
+  
+   AHM|AllHM RU|All hyip monitors|
+   MMGP   
+
+
+  
+  Not Paying    
+     
+     
+            
+         
+  
+  2.2% Daily for 20 Days (principal return),102.5%-135% After 1 Day
+  Min/Max: 10 / 100000
+  Referral:  up to 5%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $65.00
+  Payout Ratio: 47% 
+  Last Payout: Jan 13th, 2017
+    Added: Jan 9th, 2017
+  Monitored: 10 days
+    Lifetime: 27 days
+  
+
+
+Our program is intended for people willing to achieve their financial freedom but unable to do so because they're not financial experts.
+advplaza.biz is a long term high yield private loan program, backed up by Forex market trading and investing in various funds and activities. Profits from these investments are used to enhance our program and increase its stability for the long term.
+  
+
+
+
+
+
+
+Bitox Mining LTD
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  30% HOURLY FOR 6 HOURS
+10% HOURLY FOR 12 HOURS
+150% AFTER 1 DAY
+300% AFTER 3 DAYS
+900% AFTER 10 DAYS
+7500% AFTER 30 DAYS
+  Min/Max: 1 / 500000
+  Referral:  12%
+  Withdrawal: 
+  Instant                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $35.00
+  Payout Ratio: 0% 
+  Last Payout: No Payouts
+    Added: Mar 23rd, 2017
+  Monitored: 11 days
+    Lifetime: 10 days
+  
+
+
+Welcome to Bitox Mining LTD
+
+Our company Bitox Mining LTD Enterprise helps you to get an incredible high return on your investments. If you don't like to waste time and if you want to earn big money easy - this program is for you. To participate in our program you need only one thing. All you need is desire to get rich. Our professional financial team and financial advisers are always at your service. We will help you to earn easy way.
+   
+  
+
+
+
+
+
+Techlink Capital Limited
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  25% Hourly For 5 Hours,20% Hourly For 12 Hours,10% Hourly For 30 Hours,300% After 3 Days,1200% After 10 Days,9999% After 50 Days
+  Min/Max: $1 / $500000
+  Referral:  11%
+  Withdrawal: 
+  Instant                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $15.00
+  Payout Ratio: 0% 
+  Last Payout: No Payouts
+    Added: Mar 29th, 2017
+  Monitored: 5 days
+    Lifetime: 5 days
+  
+
+
+Our company has developed and launched an online platform for investors that allows making deposits and regular accruals of profits in automatic mode. This will help us to multiply our present profit level many times. The Company is attracting investments to benefit from the effect of scale - the higher the investment, the higher the return. Join us, get in into your financial well-being!
+   
+  
+
+
+
+
+
+bitsfund
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+                
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  what is interest
+  Min/Max: 0.002 / 4.5
+  Referral:  10%
+  Withdrawal: 
+  Manual                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Added: Mar 29th, 2017
+  Monitored: 5 days
+  
+
+
+i want promote my site...
+ 
+
+
+
+
+
+
+FarmBox LTD
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+             
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  2% For 20 Daily,3.5% For 35 Daily,5% For 60 Daily,10% After 30 Days
+  Min/Max: 15 / 15000
+  Referral:  1% - 8%
+  Withdrawal: 
+  Instant                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $15.00
+  Payout Ratio: 0% 
+  Last Payout: No Payouts
+    Added: Apr 3rd, 2017
+  Monitored: 40 days
+    Lifetime: 40 days
+  
+
+
+
+    
+  
+
+
+
+
+
+HOUR BIT CLUB LTD
+
+  Details
+  Vote Now
+  Payouts
+  Traffic
+  Whois
+  Report Scam
+  Request RCB
+  Get Code
+  Bookmark
+
+
+
+
+  
+   
+            
+  
+   AHM|AllHM RU|All hyip monitors|
+     
+
+
+  
+  Not Paying    
+     
+     
+       
+  
+  6% Hourly For 20 Hours, 450% After 5 Days, 1200% After 10 Days, 5500% After 40 Days
+  Min/Max: 1 / 100000
+  Referral:  8%
+  Withdrawal: 
+  Instant                           
+                   
+
+
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+   
+   0
+  
+  
+
+  
+    Our Rating:
+    
+  
+  
+    Users Rating:
+    
+  
+
+  
+
+  
+    Our Investment: $35.00
+  Payout Ratio: 0% 
+  Last Payout: No Payouts
+    Added: Apr 9th, 2017
+  Monitored: 34 days
+    Lifetime: 34 days
+  
+
+
+Hour Bit Club is a new range of cloudmining services brought to you by the team of cryptomining experts.Our team has been involved with cryptocurrencies since the inception of Bitcoin and has over 4 years of experience in the field of mining cryptocurrencies.
+
+Our goal is to make mining accessible to all users regardless of age, location, investment, technical nouse or experience. We want to give our customers an opportunity to try out cryptocurrency mining and earn Bitcoin as a reward. On a larger scale, we hope to contribute to the development of mining services and subsequently to the development, establishment and adoption of Bitcoin both as a currency and as an economic system.
+
+Cloud mining offers a unique option for mining with a low cost of entry as well as minimal risk and expense, which is opposite to traditional models of mining that involve procurement, maintenance and configuration of highly specialized hardware.
+
+Due to the very complex nature of mining and its dependence on many external factors (mining difficulty, bitcoin exchange rate, utility costs etc), it is next to impossible to predict the size of an individual’s earnings. One thing that’s not difficult to predict is Bitcoin’s prominence as a major disruptive technology for decades to come.
+
+If you have any questions about Hour Bit Club services or any questions about cloud and crypto mining, our team would love for you to get in touch.
+    
+  
+
+
+
+
+
+
+    
+   
+   
+Members
+
+
+
+
+
+function checklogin() {   
+  if (document.loginform.username.value=='') {
+    alert("Please enter your username!");
+    document.loginform.username.focus();
+    return false;
+  }
+  if (document.loginform.password.value=='') {
+    alert("Please enter your password!");
+    document.loginform.password.focus();
+    return false;
+  }
+  return true;
+}
+
+
+
+
+
+
+
+ Username:
+ 
+
+
+ Password:
+ 
+
+
+  Remeber me
+
+
+  
+  
+
+
+  
+ 
+
+
+
+Sign Up | Forgot Password?
+
+Sticky Programs
+
+
+
+Sticky Ads
+
+
+
+Available Now
+
+
+Available now for $30.00/week
+
+
+
+
+Available Now
+
+
+Available now for $25.00/week
+
+
+Place your Text Ads Here
+Subscription
+
+
+<!--
+function checkSubscribe()
+{
+  status = checkEmail(document.subscribe.email.value);
+
+  if (status > 0) {
+    if (status == 1)
+	    alert('Please, enter your E-mail address!');
+    if (status == 2)
+	    alert('Please, enter a valid E-mail address!');
+
+    document.subscribe.email.focus();
+    return false;
+  }
+
+  return true;
+}
+-->
+
+
+
+
+
+
+
+ E-mail:
+ 
+
+
+ 
+ Subscribe
+
+
+ 
+ Unsubscribe
+
+
+ 
+
+
+
+
+				   
+Our Logo
+
+
+Put this logo on your site!
+Click here for the HTML code
+
+
+Traffic Rank
+
+  
+
+
+<!--
+bd = "http://counter.hyipexplorer.com/counter.php?id=8987";
+ur = bd+"&w="+screen.width+"&r="+escape(document.referrer)+"&u=";
+ur += escape(document.location)+"&t="+escape(document.title);
+ur += "&java=1"+"&sc_random="+Math.random();
+document.write('<a href="http://www.hyipexplorer.com/" target="_blank"><img src="'+ur+'" alt="HYIP" border="0"></a>');
+//-->
+
+
+				   
+				   
+News
+
+
+
+All news
+				   
+				   
+Payment Systems
+
+
+  
+  
+  List PerfectMoney programs
+ 
+  
+  
+  List SolidTrustPay programs
+ 
+  
+  
+  List Payeer programs
+ 
+  
+  
+  List BitCoin programs
+ 
+  
+  
+  List Payza programs
+ 
+  
+  
+  List OkPay programs
+ 
+  
+  
+  List Skrill programs
+ 
+  
+  
+  List Neteller programs
+ 
+  
+  
+  List AdvCash programs
+ 
+  
+  
+  List NixMoney programs
+ 
+
+				   
+Partners Links
+
+
+ 
+
+				   
+Last Votes
+
+
+    
+   May 31st, 2017
+  
+      
+   
+   Cmetrades
+  
+      
+   May 22nd, 2017
+  
+      
+   
+   Zooo
+  
+      
+   
+   Zooo
+  
+      
+   
+   Zooo
+  
+      
+   
+   Zooo
+  
+      
+   May 21st, 2017
+  
+      
+   
+   Zooo
+  
+      
+   
+   Zooo
+  
+      
+   
+   Zooo
+  
+      
+   
+   Zooo
+  
+      
+   May 20th, 2017
+  
+      
+   
+   Zooo
+  
+  
+				   
+Last Payouts
+
+
+    
+   Jan 29th, 2017
+  
+      
+   $0.90
+   Brason Investment Ltd
+  
+      
+   Jan 13th, 2017
+  
+      
+   $0.30
+   Brason Investment Ltd
+  
+      
+   $0.33
+   CryptoSolutions
+  
+      
+   $0.33
+   CryptoSolutions
+  
+      
+   $30.75
+   Advplaza
+  
+      
+   Dec 8th, 2016
+  
+      
+   $20.92
+   Cmetrades
+  
+      
+   Dec 5th, 2016
+  
+      
+   $0.92
+   Cmetrades
+  
+      
+   Dec 3rd, 2016
+  
+      
+   $0.46
+   Cmetrades
+  
+      
+   Nov 15th, 2016
+  
+      
+   $0.30
+   Smart Margin
+  
+      
+   Nov 2nd, 2016
+  
+      
+   $0.46
+   Cmetrades
+  
+  
+				   
+				   
+Top Hits/Hosts
+
+
+  
+   CryptoSolutions
+   Yesterday Hits: 277 Hosts: 199
+  
+  
+   Aurum Bank
+   Yesterday Hits: 153 Hosts: 111
+  
+  
+   advfund
+   Yesterday Hits: 180 Hosts: 111
+  
+  
+   YESSS
+   Yesterday Hits: 43 Hosts: 39
+  
+  
+   Funds Broker
+   Yesterday Hits: 22 Hosts: 20
+  
+  
+   DollarBill
+   Yesterday Hits: 16 Hosts: 16
+  
+  
+   CYBER 9
+   Yesterday Hits: 4 Hosts: 4
+  
+
+Top Profitable
+
+
+  
+   CryptoSolutions
+   2%
+  
+
+				   
+Top Monitored
+
+
+  
+   CYBER 9
+   272 days
+  
+  
+   CryptoSolutions
+   251 days
+  
+
+				   
+Top RCB
+
+
+
+				   
+Last Scams
+
+
+  
+   Cmetrades
+  
+  
+   Brason Investment Ltd
+  
+  
+   D-Dollar
+  
+  
+   In-Delhi
+  
+  
+   Zooo
+  
+  
+   HOUR BIT CLUB LTD
+  
+  
+   FarmBox LTD
+  
+  
+   Tea House
+  
+  
+   Bitox Mining LTD
+  
+  
+   Techlink Capital Limited
+  
+
+
+
+Live Traffic
+
+
+Live Traffic Stats
+
+				   
+				   
+
+
+     
+     
+     Available Now for $25.00/week
+     
+
+
+
+  
+   
+
+ 
+
+ 
+ DISCLAIMER: .
+ All Rights Reserved. HyipFinder.com

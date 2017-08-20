@@ -1,0 +1,206 @@
+High-yield investment program/ - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"High-yield_investment_program/","wgTitle":"High-yield investment program/","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"High-yield_investment_program/","wgRelevantArticleId":0,"wgRequestId":"WZkQYgpAAD4AAICgsB0AAACQ","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionCreate":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+							
+						
+
+			High-yield investment program/
+									
+									From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+Look for High-yield investment program/ on one of Wikipedia's sister projects:
+
+ 
+  
+  Wiktionary (free dictionary)
+ 
+ 
+  
+  Wikibooks (free textbooks)
+ 
+ 
+  
+  Wikiquote (quotations)
+ 
+ 
+  
+  Wikisource (free library)
+ 
+ 
+  
+  Wikiversity (free learning resources)
+ 
+ 
+  
+  Commons (images and media)
+ 
+ 
+  
+  Wikivoyage (free travel guide)
+ 
+ 
+  
+  Wikinews (free news source)
+ 
+ 
+  
+  Wikidata (free linked database)
+ 
+Wikipedia does not have an article with this exact name. Please search for High-yield investment program/ in Wikipedia to check for alternative titles or spellings.
+ Log in or create an account to start the High-yield investment program/ article, alternatively use the Article Wizard, or add a request for it.
+ Search for "High-yield investment program/" in existing articles.
+ Look for pages within Wikipedia that link to this title.
+
+
+Other reasons this message may be displayed:
+
+ If a page was recently created here, it may not be visible yet because of a delay in updating the database; wait a few minutes or try the purge function.
+ Titles on Wikipedia are case sensitive except for the first character; please check alternative capitalizations and consider adding a redirect here to the correct title.
+ If the page has been deleted, check the deletion log, and see Why was the page I created deleted?.
+
+
+					
+						Retrieved from "https://en.wikipedia.org/wiki/High-yield_investment_program/"					
+								
+							
+		
+		
+			Navigation menu
+
+			
+									
+						Personal tools
+						
+							Not logged inTalkContributionsCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+														Article
+							Talk
+						
+					
+										
+												
+							Variants
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						Views
+						
+													
+					
+										
+						More
+
+						
+							
+															
+						
+					
+										
+						
+							Search
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Navigation
+
+			
+									
+						Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store					
+							
+		
+			
+			Interaction
+
+			
+									
+						HelpAbout WikipediaCommunity portalRecent changesContact page					
+							
+		
+			
+			Tools
+
+			
+									
+						What links hereUpload fileSpecial pagesPage information					
+							
+		
+			
+			Languages
+
+			
+									
+											
+							
+		
+				
+		
+		
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Cookie statement
+											Mobile view
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":171,"wgHostname":"mw1267"});});

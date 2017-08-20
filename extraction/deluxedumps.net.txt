@@ -1,0 +1,335 @@
+Simply the Best Free VPN (Support L2TP VPN, SSTP VPN & OpenVPN) | JustFreeVPN.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$(document).ready(function(){
+	
+	$('.mini-slides').cycle({
+		fx: 'fade',
+		timeout: 7000,
+		speed: 1000
+	});
+	
+	//add classes for the numbered backgrounds in the three columns
+	$('.col1:eq(0)').addClass('one');
+	$('.col1:eq(1)').addClass('two');
+	$('.col1:eq(2)').addClass('three').addClass('no-right-margin');
+	
+})
+
+
+
+
+
+
+	
+	
+		
+		
+			JustFreeVPN.com
+
+
+
+			
+		
+		
+		
+			
+			Home
+Setup Howto
+VPN Network
+FAQs
+Resources
+Forum
+		
+		
+		
+		
+
+				
+
+
+
+        
+        
+        WE JUST PROVIDE BEST FREE VPN !
+	We offer premium quality Free VPN services for Desktop PCs & Smartphones including Windows XP/7/8/10, MAC OSX, Ubuntu, Apple iPhone/iPad iOS & Samsung/Huawei Android Mobiles/Tablets. Through AES-CBC 256bits encrypted L2TP VPN, SSL Certificate based SSTP VPN and OpenVPN Protocols, we provide highest level of FREE VPN services with excellent QoS. ( Note: L2TP VPN Secret Key is: justfreevpn ) More...
+
+        
+
+
+    google_ad_client = "ca-pub-8771648197896168";
+    google_ad_slot = "8706674513";
+    google_ad_width = 300;
+    google_ad_height = 250;
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+
+    google_ad_client = "ca-pub-8771648197896168";
+    google_ad_slot = "1043806918";
+    google_ad_width = 728;
+    google_ad_height = 15;
+
+
+
+
+				
+						
+				
+	1. USA VPN
+
+	
+
+	
+	Server:  us.justfreevpn.com
+	L2TP Username:  justfreevpn
+	L2TP Password:  
+			
+						
+				
+	2. UK VPN
+
+	
+
+	
+	Server:  uk.justfreevpn.com
+	L2TP Username:  justfreevpn
+	L2TP Password:    
+			
+						
+				
+	3. Canada VPN
+
+	
+
+	
+	Server:  ca.justfreevpn.com
+	L2TP Username:  justfreevpn
+	L2TP Password:  
+			
+					
+			
+			
+
+
+    google_ad_client = "ca-pub-8771648197896168";
+    google_ad_slot = "9904206111";
+    google_ad_width = 728;
+    google_ad_height = 90;
+
+
+
+
+
+
+						
+				
+	4. Netherlands VPN
+
+	
+
+	
+	Server:  nl.justfreevpn.com
+	L2TP Username:  justfreevpn
+	L2TP Password:  
+			
+						
+				
+	5. Germany VPN
+
+	
+
+	
+	Server:  de.justfreevpn.com
+	L2TP Username:  justfreevpn
+	L2TP Password:  
+			
+						
+				
+	6. Hong Kong VPN
+
+	
+
+	
+	Server:  hk.justfreevpn.com
+	L2TP Username:  justfreevpn
+	L2TP Password:  
+			
+					
+			
+
+
+    google_ad_client = "ca-pub-8771648197896168";
+    google_ad_slot = "5960330512";
+    google_ad_width = 728;
+    google_ad_height = 15;
+
+
+
+
+
+
+			
+			
+				
+	Welcome to JustFreeVPN.COM service
+
+	Jan 2017 News: All Servers support PPTP/L2TP VPN, SSTP VPN & OpenVPN Now!  
+(Note: Click above flag icons to download OpenVPN .ovpn configuration files.)
+SSTP VPN & OpenVPN use same Username/Password pairs showing above.
+
+
+	Just Free VPN service simply provide fastest and most reliable FREE VPN connection. you are free to choose from three data centers located in USA, Canada and UK to get the best VPN connection for your ISP or WiFi hotspot locations. Want to protect your online identity? Need secure your public wireless connection? Visit some more popular local only Video website? Just go using our Free VPN service now! ( More VPN ... ) 
+
+	Benefits of using JustFreeVPN services for daily web surfing life
+
+	
+		Enhanced Security - All internet data are kept secured and encrypted when connecting to the network through VPN. By this the information is away from hackers’ attentions.
+	
+		Online Anonymity - Through VPN users can browse internet in complete anonymity. Comparing to those hide IP software, VPN service allows users to access both web applications and websites in complete anonymity.
+	
+		Unblock Websites, Bypass Filters - VPNs are great for accessing blocked websites or for bypassing Internet filters. where Internet censorship is applied in campus network or from ISP side, VPN is the best way to gain access to those most popular websites.
+	
+		Change IP address - If you need an IP address from USA, UK or Canada, JustFreeVPN.COM is the best free service you need.
+	
+		Better performance - Bandwidth and efficiency of the network can be generally increased once a VPN solution is implemented, because JustFreeVPN.COM service uses only the world best data centers that has world best internet backbone connections to all over the world.   More Details ...
+
+
+	Term of Service
+
+	To use the service, you agree that: you won't hack, attack, scan or break into other computers, servers or websites; you won't distribute viruses/trojans/worms or pirated copyright materials; you won't generate fraud transaction and abuse credit card payment systems; you won't send unsolicited or fraudulent emails; you won't engage in child pornography activities; you won't encourage criminal or terrorist activities.
+
+	If you violate any of our terms that involve illegal or criminal activities, your privacy and confidentiality privileges won't be guaranteed any more, and your VPN access logs are exposed to 3rd party authorities ( for example local police departments or law enforcement agencies ) when necessary.
+
+	
+new TWTR.Widget({
+  version: 2,
+  type: 'search',
+  search: 'free vpn',
+  interval: 30000,
+  title: '',
+  subject: '',
+  width: 468,
+  height: 100,
+  theme: {
+    shell: {
+      background: '#B9DCFA',
+      color: '#625F5F'
+    },
+    tweets: {
+      background: '#FEFEFE',
+      color: '#000000',
+      links: '#3B5F87'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: true,
+    live: true,
+    behavior: 'default'
+  }
+}).render().start();
+
+
+	Check your IP Address => http://www.IPIPIP.net
+
+	Brand New Free SSTP VPN => http://VPNAccount.org/
+
+	Best Free VPN to Hide Online IP => http://HideMyIPVPN.com/
+
+			
+			
+
+
+
+
+
+
+				
+				
+				
+
+
+
+(function() {
+var widget = {
+  'type': 'bestof',
+  'layout': '3',
+  'title': 'Free VPN INFO',
+  'id': 'stblpn-w-1346517978042',
+  'topics': ['Virtual Private Network']
+}
+if (window.STMBLPN && STMBLPN.Widget ) { if (typeof STMBLPN.Widget == 'function') { new STMBLPN.Widget(widget).render(); } else { STMBLPN.push(widget); } } else {var e, e1; STMBLPN = [widget]; e = document.createElement('SCRIPT'); e.type = 'text/javascript'; e.async = true; e.src = e.src = 'http://platform.stumbleupon.com/1/widgets.js'; e1 = document.getElementsByTagName('SCRIPT')[0]; e1.parentNode.insertBefore(e, e1);};})();
+
+
+More Free VPN Accounts
+				Check ==> FreeVPNNetwork.com
+				
+			
+			
+		
+		
+		
+	
+	
+	
+	
+		
+Copyright(c) 2012, 2013, 2014, 2015, 2016, 2017 JustFreeVPN.com
+Simply The Best Free VPN | Free PPTP & L2TP VPN from US, UK, CA, NL, DE & HK | justfreevpn@gmail.com	
+	
+
+ Cufon.now(); 
+	
+
+
+var sc_project=8238811; 
+var sc_invisible=1; 
+var sc_security="ac8612ea"; 
+
+
+
+
+
+
+
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-CH3-N8Hs7z7tp"
+});
