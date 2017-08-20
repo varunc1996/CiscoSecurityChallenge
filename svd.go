@@ -2,38 +2,22 @@ package main
 
 import (
 	"bytes"
-	// "compress/gzip"
-	"encoding/json"
-	// "encoding/binary"
-	// "encoding/gob"
 	"fmt"
 	"io/ioutil"
 	"log"
 	"math"
 	"os"
-	"os/exec"
 	"path/filepath"
 	"regexp"
 	"sort"
 	"strconv"
 	"strings"
-	// "reflect"
 
 	"github.com/bbalet/stopwords"
-	// "github.com/gonum/matrix"
 	"github.com/gonum/matrix/mat64"
 	"github.com/reiver/go-porterstemmer"
 	"github.com/fatlotus/gauss"
 )
-
-// type phrase struct {
-// 	word  string  `json:"word"`
-// 	tf    float64 `json:"tf"`
-// 	df    int     `json:"df"`
-// 	idf   float64 `json:"idf"`
-// 	tfidf float64 `json:"tfidf"`
-// 	fl    bool    `json:"fl"`
-// }
 
 type clustersData struct {
 	Clusters       map[string][]int    `json:"Clusters"`
@@ -74,24 +58,18 @@ func main() {
 	firstTime := true //Will let the next loop know if this is the first clustering or not
 
 	var docsToInclude []int //Will be the array with indices of documents to include in clustering
-	// initialThreshold := 0.9
 
 	var initialFileNames []string
 
 	totalCount := 0
-	// var initialCluster map[string][]int
 	var initialClusterArr [][]int
-	// var initialClusterArrLabels []string
 
 	var finalClusterArr [][]int
 	var finalClusterArrLabels []string
-	// for(len(docsToInclude) > 5 || firstTime == true) {
-	// for firstTime || totalCount < len(initialClusterArr) + 1 {
 	for totalCount < 1 {
 		totalCount = totalCount + 1
 		dID = -1
 		wID = -1
-		// similarities := []similarity{}
 		termdocumentMatrix := []float64{}
 		var tosort map[string]int
 		var sorted []string
@@ -130,7 +108,6 @@ func main() {
 			initialFileNames = fileNames
 		}
 
-		// fmt.Println("number of docs = ", numeberofdocs)
 		for _, fileName := range fileNames[:] {
 			//------------formating file names-----------
 			r := strings.NewReplacer("+", " ",
@@ -211,12 +188,9 @@ func main() {
 				count = count + 1
 			}
 		}
+		fmt.Println("The SVD will take a few minutes...")
 		uNew,sNew,vNew := gauss.SVD(gauss.Matrix(newtd))
-		// fmt.Println("uNew", uNew)
-		// fmt.Println("uNew Data", uNew.Data)
-		// fmt.Println("uNew Shape", uNew.Shape)
 		fmt.Println("sNew", sNew)
-		// fmt.Println("vNew DATA", vNew.Data)
 
 		fmt.Println(len(phrases))
 		tdm2 := mat64.NewDense(len(phrases), numeberofdocs, termdocumentMatrix)
@@ -298,76 +272,6 @@ func main() {
 		}
 		fmt.Println(finalClusterArrLabels[i])
 	}
-}
-
-func runClustering(threshold float64, dimensions int, fileNames []string) (map[string][]int, map[string]string, map[string][]string) {
-	f, _ := os.Create("ClusterScript.sh")
-	f.WriteString("#!/bin/sh\n\n")
-	f.WriteString("python cluster.py ")
-	f.WriteString(strconv.FormatFloat(threshold, 'f', -1, 64))
-	f.WriteString(" ")
-	f.WriteString(strconv.Itoa(dimensions))
-
-	app := "/Users/varuncherukuri/Documents/College/Summer3/lsa/svd/ClusterScript.sh"
-	println("Running Python Script ...")
-	cmd := exec.Command(app)
-	stdout, err := cmd.CombinedOutput()
-
-	if err != nil {
-		println("ERROR", err.Error())
-		return nil, nil, nil
-	} else {
-		println("Ran Python Script")
-	}
-	println(string(stdout))
-
-	raw, err := ioutil.ReadFile("clusterData.txt")
-	if err != nil {
-		fmt.Println(err.Error())
-		os.Exit(1)
-	}
-	var c clustersData
-	json.Unmarshal(raw, &c)
-	return c.Clusters, c.ClustersLabels, c.ClustersFiles
-}
-
-//Find max term in map
-func findMax(m map[string]float64) map[string]float64 {
-	var tempMaxKey1 string
-	var tempMaxVal1 float64
-	var tempMaxKey2 string
-	var tempMaxVal2 float64
-	var tempMaxKey3 string
-	var tempMaxVal3 float64
-	var tempMaxKey4 string
-	var tempMaxVal4 float64
-	var tempMaxKey5 string
-	var tempMaxVal5 float64
-	for k, v := range m {
-		if v > tempMaxVal1 {
-			tempMaxVal1 = v
-			tempMaxKey1 = k
-		} else if v > tempMaxVal2 {
-			tempMaxVal2 = v
-			tempMaxKey2 = k
-		} else if v > tempMaxVal3 {
-			tempMaxVal3 = v
-			tempMaxKey3 = k
-		} else if v > tempMaxVal4 {
-			tempMaxVal4 = v
-			tempMaxKey4 = k
-		} else if v > tempMaxVal5 {
-			tempMaxVal5 = v
-			tempMaxKey5 = k
-		}
-	}
-	ret := make(map[string]float64, 5)
-	ret[tempMaxKey1] = tempMaxVal1
-	ret[tempMaxKey2] = tempMaxVal2
-	ret[tempMaxKey3] = tempMaxVal3
-	ret[tempMaxKey4] = tempMaxVal4
-	ret[tempMaxKey5] = tempMaxVal5
-	return ret
 }
 
 //Prints out matrix in correct format for later python scripts
@@ -509,14 +413,6 @@ func (a Bysimilarity) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
 func (a Bysimilarity) Less(i, j int) bool { return a[i].simlarity > a[j].simlarity }
 
 //----------------------------------------------------------------------//
-
-func extractSVD(svd *mat64.SVD) (s []float64, u, v *mat64.Dense) {
-	var um, vm mat64.Dense
-	um.UFromSVD(svd)
-	vm.VFromSVD(svd)
-	s = svd.Values(nil)
-	return s, &um, &vm
-}
 
 func printdense(m *mat64.Dense, name string) {
 	r, c := m.Dims()
