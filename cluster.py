@@ -11,7 +11,7 @@ import operator
 thresholdValue = float(sys.argv[1])
 # dimensions = int(sys.argv[2])
 # inputFile = sys.argv[3]
-dimensions = 13
+dimensions = 34
 inputFile = "outputMatrix.txt"
 # ==========================================================================
 # Create and initialize files

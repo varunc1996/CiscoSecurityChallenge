@@ -8,3 +8,8 @@
 
 
 - clusterData.json - Contains the results of the clustering of the text of the original links from scrapeIDs.txt based only on TEXT scraped from the links. Contains a json struct with dictionaries corresponding to the IDs of each document in each cluster label, the files in each cluster label and the most important terms in each cluster label based on the highest tf-idf scores in the clusters.
+
+
+I used a threshold value of 0.75 when clustering and the results are in the uploaded clusterData.json. Going into this analysis, after taking a look at the text data I got back from scraping the URLs I knew that based on the type of text I would get fairly meaningless results and that is pretty much what I got. After trying to only scrape text from the URLs there was extra noise that would also get scraped that would be highly individualised to each specific URL but would not really give any beneficial information about the URL, and that really boosted the tf-idf values of some of those keywords, which would throw off the accuracy of the results.
+
+I do not believe that this is a very useful use of Latent Semantic Analysis as it typically requires dense text and some sort of relationship between the words used and the topics discussed in the text; which was not very present in the text of the URLs.
