@@ -9,10 +9,8 @@ import operator
 
 # ===================VALUES TO BE SET=======================================
 thresholdValue = float(sys.argv[1])
-# dimensions = int(sys.argv[2])
-# inputFile = sys.argv[3]
-dimensions = 34
-inputFile = "outputMatrix.txt"
+dimensions = int(sys.argv[2])
+inputFile = sys.argv[3]
 # ==========================================================================
 # Create and initialize files
 f0 = open(inputFile)

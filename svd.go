@@ -257,7 +257,11 @@ func main() {
 		}
 
 		//===========================================================
-		printMatrix(DocE, mapOfMaps, fileNames)
+		if len(os.Args) > 1{
+			printMatrix(DocE, mapOfMaps, fileNames, os.Args[1])
+		} else {
+			printMatrix(DocE, mapOfMaps, fileNames, "outputMatrix.txt")
+		}
 		//===========================================================
 	}
 	for i := 0; i < len(finalClusterArr); i++ {
@@ -275,8 +279,9 @@ func main() {
 }
 
 //Prints out matrix in correct format for later python scripts
-func printMatrix(matr *mat64.Dense, m map[int][]string, fileNames []string) {
-	f, _ := os.Create("outputMatrix.txt")
+func printMatrix(matr *mat64.Dense, m map[int][]string, fileNames []string, outputFile string) {
+	// f, _ := os.Create("outputMatrix.txt")
+	f, _ := os.Create(outputFile)
 	a, b := matr.Dims()
 	Cols := make([][]float64, b)
 	for i := 0; i < b; i++ {
